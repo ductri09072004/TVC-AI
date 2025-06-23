@@ -3,7 +3,7 @@ import os
 
 def create_entity2text():
     # Đọc dữ liệu từ file gốc
-    df = pd.read_csv('DatasetTripletKGC.tsv', sep='\t', names=['head', 'relation', 'tail'])
+    df = pd.read_csv('Datasettriplets_VN07.tsv', sep='\t', names=['head', 'relation', 'tail'])
     
     # Kết hợp tất cả các entity
     all_entities = set(df['head'].unique()) | set(df['tail'].unique())
@@ -13,10 +13,10 @@ def create_entity2text():
     entity2text = {entity: entity for entity in all_entities}
     
     # Tạo thư mục nếu chưa tồn tại
-    os.makedirs('data/VN13', exist_ok=True)
+    os.makedirs('data/VN07', exist_ok=True)
     
     # Lưu vào file
-    with open('data/VN13/entity2text.txt', 'w', encoding='utf-8') as f:
+    with open('data/VN07/entity2text.txt', 'w', encoding='utf-8') as f:
         for entity, text in entity2text.items():
             f.write(f"{entity}\t{text}\n")
     
