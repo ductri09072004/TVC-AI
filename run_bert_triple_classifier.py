@@ -40,6 +40,9 @@ from sklearn import metrics
 
 from transformers import AutoModelForSequenceClassification, AutoConfig, AutoTokenizer
 from transformers import get_linear_schedule_with_warmup
+from rich.live import Live
+from rich.table import Table
+from rich.console import Console
 
 os.environ['CUDA_VISIBLE_DEVICES']= '0'
 #torch.backends.cudnn.deterministic = True
@@ -611,42 +614,56 @@ def main():
         best_model_path = os.path.join(args.output_dir, 'best_model.pt')
 
         model.train()
-        for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
-            tr_loss = 0
-            nb_tr_examples, nb_tr_steps = 0, 0
-            for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
-                batch = tuple(t.to(device) for t in batch)
-                input_ids, input_mask, label_ids = batch
-                loss = model(input_ids, attention_mask=input_mask, labels=label_ids).loss
-                if n_gpu > 1:
-                    loss = loss.mean() # mean() to average on multi-gpu.
-                if args.gradient_accumulation_steps > 1:
-                    loss = loss / args.gradient_accumulation_steps
-                if args.fp16:
-                    optimizer.backward(loss)
-                else:
-                    loss.backward()
-                tr_loss += loss.item()
-                nb_tr_examples += input_ids.size(0)
-                nb_tr_steps += 1
-                if (step + 1) % args.gradient_accumulation_steps == 0:
+        train_losses = []
+        console = Console()
+        with Live(console=console, refresh_per_second=2) as live:
+            for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
+                tr_loss = 0
+                nb_tr_examples, nb_tr_steps = 0, 0
+                for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
+                    batch = tuple(t.to(device) for t in batch)
+                    input_ids, input_mask, label_ids = batch
+                    loss = model(input_ids, attention_mask=input_mask, labels=label_ids).loss
+                    if n_gpu > 1:
+                        loss = loss.mean() # mean() to average on multi-gpu.
+                    if args.gradient_accumulation_steps > 1:
+                        loss = loss / args.gradient_accumulation_steps
                     if args.fp16:
-                        lr_this_step = args.learning_rate * scheduler.get_lr(global_step, args.warmup_proportion)
-                        for param_group in optimizer.param_groups:
-                            param_group['lr'] = lr_this_step
-                    optimizer.step()
-                    scheduler.step()
-                    optimizer.zero_grad()
-                    global_step += 1
+                        optimizer.backward(loss)
+                    else:
+                        loss.backward()
+                    tr_loss += loss.item()
+                    nb_tr_examples += input_ids.size(0)
+                    nb_tr_steps += 1
+                    if (step + 1) % args.gradient_accumulation_steps == 0:
+                        if args.fp16:
+                            lr_this_step = args.learning_rate * scheduler.get_lr(global_step, args.warmup_proportion)
+                            for param_group in optimizer.param_groups:
+                                param_group['lr'] = lr_this_step
+                        optimizer.step()
+                        scheduler.step()
+                        optimizer.zero_grad()
+                        global_step += 1
 
-            # Calculate average loss for the epoch
-            avg_loss = tr_loss / nb_tr_steps
-            
-            # Early stopping check
-            early_stopping(avg_loss, model, best_model_path)
-            if early_stopping.early_stop:
-                logger.info("Early stopping triggered")
-                break
+                # Calculate average loss for the epoch
+                avg_loss = tr_loss / nb_tr_steps
+                train_losses.append(avg_loss)
+
+                # Update rich table
+                table = Table(title="Training Progress (Early Stopping enabled)")
+                table.add_column("Epoch", justify="right")
+                table.add_column("Train Loss", justify="right")
+                for i, l in enumerate(train_losses):
+                    table.add_row(str(i+1), f"{l:.6f}")
+                live.update(table)
+
+                # Early stopping check
+                early_stopping(avg_loss, model, best_model_path)
+                if early_stopping.early_stop:
+                    logger.info("Early stopping triggered")
+                    table.title = "Training Progress (Early Stopping Triggered)"
+                    live.update(table)
+                    break
 
         # Load the best model
         model.load_state_dict(torch.load(best_model_path))
