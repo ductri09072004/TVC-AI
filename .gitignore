@@ -1,6 +1,7 @@
 # Model files
 best_model.pt
 model.safetensors
+pytorch_model.bin
 
 # Python
 __pycache__/
