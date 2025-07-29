@@ -1,0 +1,100 @@
+đền thờ trần hưng đạo	có vùng địa lý	nghệ an	0
+tây bộ	có tiện ích	vincom plaza my tho	1
+chameleon beach bar & restaurant mui ne	được sử dụng trong	trần phú	0
+nam trung bộ	tổ chức	quảng nam	0
+eva cafe kon tum	nằm tại	tây nguyên	1
+lâm đồng	có đặc sản	nem nướng đà lạt	1
+chợ tam đảo	được sử dụng trong	nhà hàng quê hương	0
+tây bộ	tổ chức	lễ hội nghinh ông bến tre	1
+tràng an	nổi tiếng tại	tour du lịch tràng an - tam cốc	0
+cù lao thới sơn	nằm tại	bắc ninh	0
+võ thị sáu	nổi tiếng tại	bà rịa - vũng tàu	1
+tây bộ	đặc sản của	chùa sắc tứ tam bảo	0
+bắc ninh	có tiện ích	bún hến mai xá	0
+tour du lịch đà lạt	sử dụng dịch vụ của	casa marina resort quy nhơn	0
+vùng duyên hải nam trung bộ	có điểm du lịch	đảo bình hưng	1
+bánh xèo mười xiềm	đặc sản của	vùng đồng bằng sông cửu long	0
+hầm hô	nằm tại	bình định	1
+bánh ướt phương lang	có đặc sản	quảng trị	1
+tây bộ	có điểm du lịch	chùa tiên châu	1
+imperial hotel hue	có tiện ích	vùng bắc trung bộ	1
+nghệ an	có vùng miền	làng sen quê bác	0
+vùng đồng bằng sông cửu long	có điểm du lịch	khu du lịch sinh thái gáo giồng	1
+chùa vĩnh tràng	nằm tại	bến tre	1
+duc long gia lai hotel 2	sử dụng dịch vụ của	tour du lịch gia lai	1
+ram bánh mướt	được sử dụng trong	vùng bắc trung bộ	0
+tour tiền giang	được sử dụng trong	my tho market	1
+cột cờ lũng cú	nằm tại	vùng đông bắc bộ	1
+lễ hội cồng chiêng hòa bình	có tiện ích	hòa bình	0
+tây bắc	có tiện ích	mai chau ecolodge	1
+vincom plaza hạ long	được sử dụng trong	tour hà nội - hạ long	1
+the pepper tree restaurant	được sử dụng trong	tour du lịch phú quốc 5 ngày 4 đêm	1
+bắc trung bộ	có đặc sản	nem chua thanh hóa	1
+kiên giang	có tiện ích	mekong long xuyên hotel	0
+vùng bắc trung bộ	có tiện ích	sun spa resort	1
+thác pa sỹ	nằm tại	the grand hồ tràm strip	0
+tour đà nẵng - ngũ hành sơn - cù lao chàm	sử dụng dịch vụ của	bạch mã village	0
+thành cổ châu sa	là điểm dừng trong	tour du lịch lâm đồng	0
+gia lai	bao gồm	thác phú cường	0
+thác dray nur	nằm tại	resort mũi cà mau	0
+vùng đồng bằng sông cửu long	nằm tại	bánh xèo mười xiềm	1
+suối giàng	là điểm dừng trong	tour du lịch yên bái	1
+bánh giá chợ giồng	được tưởng nhớ tại	vùng đồng bằng sông cửu long	0
+vùng đồng bằng sông cửu long	có tỉnh thành	sóc trăng	1
+lễ hội chùa keo hành thiện	được tổ chức tại	bắc bộ	1
+bãi trước	là điểm dừng trong	tour vũng tàu	1
+lào cai	nằm tại	chợ đêm sapa	1
+vườn hoa đà lạt	nằm tại	lâm đồng	1
+tour du lịch sầm sơn - thanh hóa	bao gồm	biển sầm sơn	1
+nhà hàng nam du	được tổ chức tại	tour du lịch đảo nam du (kiên giang)	0
+vùng bắc trung bộ	nằm tại	đền thờ phan bội châu	1
+hue riverside boutique resort & spa	có vùng địa lý	tour khám phá công viên quốc gia bạch mã	0
+hòn sơn	có vùng miền	vùng đồng bằng sông cửu long	0
+lễ hội then kin pang	được tổ chức tại	tây bắc	1
+khu du lịch đại nam	có điểm du lịch	chùa cò	0
+khách sạn mường thanh luxury hà nam	nằm tại	bắc bộ	1
+nam trung bộ	nổi tiếng tại	tháp đôi	0
+vùng tây nguyên	có tiện ích	duc long gia lai hotel 1	1
+vùng đồng bằng sông cửu long	có danh nhân	nguyễn hữu huân	1
+saigon ninh chu hotel & resort	nằm tại	nam trung bộ	1
+thác prenn	là điểm dừng trong	tour du lịch đà lạt	1
+chùa ngọc hoàng	nằm tại	vùng đồng bằng sông hồng	0
+tây bắc	nằm tại	thác tác tình	1
+chùa bửu phong	nằm tại	đồng nai	1
+tour du lịch bắc giang	bao gồm	chùa bổ đà	1
+hà nội	nổi tiếng tại	coto center homestay	0
+bắc trung bộ	có tiện ích	vinh market	1
+bánh tráng cuốn thịt heo đại lộc	có điểm du lịch	chùa minh thành	0
+bắc bộ	đặc sản của	phở bò nam định	1
+đền trần	nằm tại	nam định	1
+võ văn kiệt	có danh nhân	hồ chí minh	0
+vùng đông nam bộ	có đặc sản	bánh khọt vũng tàu	1
+tour du lịch cù lao an bình	sử dụng dịch vụ của	mekong riverside boutique resort & spa	1
+cửa lò	có đặc sản	bánh mướt diễn châu	0
+tour hà nội - văn miếu - quốc tử giám	có tiện ích	vùng tây nguyên	0
+động thiên đường	là điểm dừng trong	tour phong nha - kẻ bàng	1
+chợ hàn đà nẵng	sử dụng dịch vụ của	léman cap resort & spa	0
+trần văn sửu	có tiện ích	tây bộ	0
+lâm đồng	có danh nhân	hồ xuân hương	0
+tour quy nhơn	có danh nhân	nhà hàng cơm niêu hội an quy nhơn	0
+vùng duyên hải nam trung bộ	nổi tiếng tại	vinpearl land nha trang	0
+vincom plaza ninh bình	nằm tại	bắc bộ	1
+bắc bộ	có danh nhân	chợ tình khâu vai	0
+phan thanh giản	có điểm du lịch	tháp nhạn	0
+flc sầm sơn beach & golf resort	có tiện ích	bình dương	0
+tour du lịch kiên giang	được sử dụng trong	fusion resort phu quoc	1
+eva cafe kon tum	có tiện ích	tour du lịch vườn quốc gia bến en	0
+hanoi la siesta premium ma may	được tổ chức tại	tây bộ	0
+bắc bộ	nằm tại	tây bộ	0
+khu du lịch sinh thái lung ngọc hoàng	được sử dụng trong	apricot hotel hanoi	0
+vincom plaza đà nẵng	được sử dụng trong	nhà hàng lẩu dê tài ký	0
+biển hồ	có tiện ích	nhà hàng sen vàng	0
+vùng đông nam bộ	có điểm du lịch	khu du lịch hồ mây	1
+vùng tây nguyên	có danh nhân	h'hen niê	1
+fusion maia resort đà nẵng	được sử dụng trong	lễ hội bà đen	0
+nam định	tổ chức	lễ hội đền trần	1
+gành hào restaurant vũng tàu	được sử dụng trong	tour vũng tàu	1
+lễ hội thành bản phủ	được tổ chức tại	lễ hội chợ gò	0
+tour du lịch thái bình	sử dụng dịch vụ của	hanoi la siesta central hotel & spa	0
+quảng ninh	đặc sản của	rượu mơ yên tử	1
+tour du lịch kiên giang	sử dụng dịch vụ của	nhà hàng ra khơi phú quốc	1
