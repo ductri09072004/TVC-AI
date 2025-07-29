@@ -1,0 +1,4 @@
+eval_accuracy = 0.5
+f1_score = 0.39340813464235624
+precision = 0.684331797235023
+recall = 0.5

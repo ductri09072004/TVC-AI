@@ -1,0 +1,8 @@
+acc = 0.65
+eval_accuracy = 0.65
+eval_f1_score = 0.6150997150997151
+eval_loss = 0.6329360008239746
+eval_precision = 0.68125
+eval_recall = 0.65
+global_step = 939
+loss = 0.625823203081521
