@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 
+# Lệnh chạy
+# python ./Create_VN07/create_entity2text.py
 def create_entity2text():
     # Đọc dữ liệu từ file gốc
     df = pd.read_csv('Datasettriplets_VN07.tsv', sep='\t', names=['head', 'relation', 'tail'])

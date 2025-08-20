@@ -1,18 +1,4 @@
-# coding=utf-8
-# Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
-# Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+
 """BERT finetuning runner."""
 
 from __future__ import absolute_import, division, print_function
@@ -35,21 +21,40 @@ from torch.optim import AdamW
 
 from torch.nn import CrossEntropyLoss, MSELoss
 from scipy.stats import pearsonr, spearmanr
-from sklearn.metrics import matthews_corrcoef, f1_score
+from sklearn.metrics import matthews_corrcoef, f1_score, precision_score, recall_score
 from sklearn import metrics
+
+# Focal Loss implementation
+class FocalLoss(torch.nn.Module):
+    def __init__(self, alpha=0.25, gamma=2.0, reduction='mean'):
+        super(FocalLoss, self).__init__()
+        self.alpha = alpha
+        self.gamma = gamma
+        self.reduction = reduction
+    
+    def forward(self, inputs, targets):
+        ce_loss = torch.nn.functional.cross_entropy(inputs, targets, reduction='none')
+        pt = torch.exp(-ce_loss)
+        focal_loss = self.alpha * (1-pt)**self.gamma * ce_loss
+        
+        if self.reduction == 'mean':
+            return focal_loss.mean()
+        elif self.reduction == 'sum':
+            return focal_loss.sum()
+        else:
+            return focal_loss
 
 from transformers import AutoModelForSequenceClassification, AutoConfig, AutoTokenizer
 from transformers import get_linear_schedule_with_warmup
-from rich.live import Live
-from rich.table import Table
-from rich.console import Console
 
 os.environ['CUDA_VISIBLE_DEVICES']= '0'
 #torch.backends.cudnn.deterministic = True
 
 logger = logging.getLogger(__name__)
 
-
+# Định nghĩa cấu trúc dữ liệu cho một example trong training/testing
+# Hỗ trợ cả single sequence, sequence pair và sequence triple
+# Lưu trữ ID duy nhất, text và label
 class InputExample(object):
     """A single training/test example for simple sequence classification."""
 
@@ -73,7 +78,7 @@ class InputExample(object):
         self.text_c = text_c
         self.label = label
 
-
+# //chuyển đổi text thành các features số mà BERT có thể xử lý
 class InputFeatures(object):
     """A single set of features of data."""
 
@@ -111,7 +116,10 @@ class DataProcessor(object):
                 lines.append(line)
             return lines
 
-
+# xử lí dữ liệu
+# đọc các file train dev test
+# Chuyển đổi entity và relation ID thành text tương ứng
+# Hỗ trợ binary classification (0, 1)
 class KGProcessor(DataProcessor):
     """Processor for knowledge graph data set."""
     def __init__(self):
@@ -180,27 +188,248 @@ class KGProcessor(DataProcessor):
         return relation2text
 
     def _create_examples(self, lines, set_type):
-        """Creates examples for the training and eval sets."""
+        """Creates examples for the training and eval sets with Improved Hard Negative Sampling."""
         examples = []
+        
+        # Lấy entity2text và relation2text
+        entity2text = self.get_entity2text(self.data_dir)
+        relation2text = self.get_relation2text(self.data_dir)
+        
+        # Lấy danh sách tất cả entities
+        entities = self.get_entities(self.data_dir)
+        
+        # Tạo set tất cả positive triples để kiểm tra trùng lặp
+        positive_triples_set = set()
+        for line in lines:
+            if line[3] == "1":  # Chỉ positive triples
+                triple_str = f"{line[0]}\t{line[1]}\t{line[2]}"
+                positive_triples_set.add(triple_str)
+        
+        # Tạo entity type mapping để tạo hard negatives tốt hơn
+        entity_types = self._create_entity_type_mapping(entity2text)
+        
+        # Tạo relation-based entity groups
+        relation_entity_groups = self._create_relation_entity_groups(lines, entity2text)
+        
         for (i, line) in enumerate(lines):
+            # Tạo example từ dữ liệu gốc
             guid = "%s-%s" % (set_type, i)
-            # Lấy entity2text và relation2text
-            entity2text = self.get_entity2text(self.data_dir)
-            relation2text = self.get_relation2text(self.data_dir)
-            
-            # Chuyển đổi entity và relation sang text
             head_text = entity2text.get(line[0], line[0])
             relation_text = relation2text.get(line[1], line[1])
             tail_text = entity2text.get(line[2], line[2])
             
-            # Kết hợp thành câu
             text_a = f"{head_text} {relation_text} {tail_text}"
             text_b = None
-            label = line[3]  # Label là cột thứ 4
+            label = line[3]
             
             examples.append(
                 InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
+            
+            # Tạo Improved Hard Negatives cho positive examples
+            if line[3] == "1":  # Chỉ với positive triples
+                hard_negatives = self._generate_hard_negatives(
+                    line, entity2text, relation2text, entities, 
+                    positive_triples_set, entity_types, relation_entity_groups, 
+                    num_negatives=3  # Tạo 3 hard negatives cho mỗi positive
+                )
+                
+                for j, (corrupted_text, corruption_type) in enumerate(hard_negatives):
+                    guid_corrupt = "%s-%s-%s" % (set_type + "_hard_negative", i, j)
+                    examples.append(
+                        InputExample(guid=guid_corrupt, text_a=corrupted_text, text_b=text_b, label="0"))
+        
         return examples
+    
+    def _create_entity_type_mapping(self, entity2text):
+        """Tạo mapping entity types dựa trên text patterns."""
+        entity_types = {}
+        
+        for entity, text in entity2text.items():
+            text_lower = text.lower()
+            
+            # Phân loại entities dựa trên keywords
+            if any(word in text_lower for word in ['tỉnh', 'thành phố', 'hà nội', 'hồ chí minh']):
+                entity_types[entity] = 'location'
+            elif any(word in text_lower for word in ['vùng', 'miền', 'bộ']):
+                entity_types[entity] = 'region'
+            elif any(word in text_lower for word in ['tour', 'du lịch', 'khách sạn', 'nhà hàng']):
+                entity_types[entity] = 'tourism'
+            elif any(word in text_lower for word in ['lễ hội', 'festival']):
+                entity_types[entity] = 'event'
+            elif any(word in text_lower for word in ['đặc sản', 'món ăn', 'bánh']):
+                entity_types[entity] = 'food'
+            else:
+                entity_types[entity] = 'other'
+        
+        return entity_types
+    
+    def _create_relation_entity_groups(self, lines, entity2text):
+        """Tạo groups entities theo relations."""
+        relation_entities = {}
+        
+        for line in lines:
+            if line[3] == "1":  # Positive triples
+                relation = line[1]
+                head = line[0]
+                tail = line[2]
+                
+                if relation not in relation_entities:
+                    relation_entities[relation] = {'heads': set(), 'tails': set()}
+                
+                relation_entities[relation]['heads'].add(head)
+                relation_entities[relation]['tails'].add(tail)
+        
+        return relation_entities
+    
+    def _generate_hard_negatives(self, triple, entity2text, relation2text, all_entities, 
+                                positive_triples_set, entity_types, relation_entity_groups, num_negatives=3):
+        """Tạo hard negatives với các strategies khác nhau."""
+        head, relation, tail, label = triple
+        hard_negatives = []
+        
+        # Strategy 1: Same-type entity replacement (hardest)
+        same_type_negatives = self._generate_same_type_negatives(
+            triple, entity2text, relation2text, entity_types, positive_triples_set, num_negatives//2
+        )
+        hard_negatives.extend(same_type_negatives)
+        
+        # Strategy 2: Relation-specific entity replacement
+        relation_specific_negatives = self._generate_relation_specific_negatives(
+            triple, entity2text, relation2text, relation_entity_groups, positive_triples_set, num_negatives//2
+        )
+        hard_negatives.extend(relation_specific_negatives)
+        
+        # Strategy 3: Random replacement (fallback)
+        if len(hard_negatives) < num_negatives:
+            random_negatives = self._generate_random_negatives(
+                triple, entity2text, relation2text, all_entities, positive_triples_set, 
+                num_negatives - len(hard_negatives)
+            )
+            hard_negatives.extend(random_negatives)
+        
+        return hard_negatives[:num_negatives]
+    
+    def _generate_same_type_negatives(self, triple, entity2text, relation2text, entity_types, 
+                                     positive_triples_set, num_negatives):
+        """Tạo negatives bằng cách thay thế entities cùng loại."""
+        head, relation, tail, label = triple
+        negatives = []
+        
+        head_type = entity_types.get(head, 'other')
+        tail_type = entity_types.get(tail, 'other')
+        
+        # Tìm entities cùng loại
+        same_type_entities = [e for e, t in entity_types.items() if t == head_type or t == tail_type]
+        
+        attempts = 0
+        max_attempts = 200
+        
+        while len(negatives) < num_negatives and attempts < max_attempts:
+            attempts += 1
+            
+            if random.random() < 0.5:
+                # Corrupt head với entity cùng loại
+                new_head = random.choice(same_type_entities)
+                if new_head != head:
+                    new_triple_str = f"{new_head}\t{relation}\t{tail}"
+                    if new_triple_str not in positive_triples_set:
+                        new_head_text = entity2text.get(new_head, new_head)
+                        relation_text = relation2text.get(relation, relation)
+                        tail_text = entity2text.get(tail, tail)
+                        corrupted_text = f"{new_head_text} {relation_text} {tail_text}"
+                        negatives.append((corrupted_text, "same_type_head"))
+            else:
+                # Corrupt tail với entity cùng loại
+                new_tail = random.choice(same_type_entities)
+                if new_tail != tail:
+                    new_triple_str = f"{head}\t{relation}\t{new_tail}"
+                    if new_triple_str not in positive_triples_set:
+                        head_text = entity2text.get(head, head)
+                        relation_text = relation2text.get(relation, relation)
+                        new_tail_text = entity2text.get(new_tail, new_tail)
+                        corrupted_text = f"{head_text} {relation_text} {new_tail_text}"
+                        negatives.append((corrupted_text, "same_type_tail"))
+        
+        return negatives
+    
+    def _generate_relation_specific_negatives(self, triple, entity2text, relation2text, 
+                                            relation_entity_groups, positive_triples_set, num_negatives):
+        """Tạo negatives bằng cách sử dụng entities từ cùng relation."""
+        head, relation, tail, label = triple
+        negatives = []
+        
+        if relation in relation_entity_groups:
+            relation_heads = list(relation_entity_groups[relation]['heads'])
+            relation_tails = list(relation_entity_groups[relation]['tails'])
+            
+            attempts = 0
+            max_attempts = 200
+            
+            while len(negatives) < num_negatives and attempts < max_attempts:
+                attempts += 1
+                
+                if random.random() < 0.5 and len(relation_heads) > 1:
+                    # Thay thế head với entity khác từ cùng relation
+                    new_head = random.choice(relation_heads)
+                    if new_head != head:
+                        new_triple_str = f"{new_head}\t{relation}\t{tail}"
+                        if new_triple_str not in positive_triples_set:
+                            new_head_text = entity2text.get(new_head, new_head)
+                            relation_text = relation2text.get(relation, relation)
+                            tail_text = entity2text.get(tail, tail)
+                            corrupted_text = f"{new_head_text} {relation_text} {tail_text}"
+                            negatives.append((corrupted_text, "relation_specific_head"))
+                elif len(relation_tails) > 1:
+                    # Thay thế tail với entity khác từ cùng relation
+                    new_tail = random.choice(relation_tails)
+                    if new_tail != tail:
+                        new_triple_str = f"{head}\t{relation}\t{new_tail}"
+                        if new_triple_str not in positive_triples_set:
+                            head_text = entity2text.get(head, head)
+                            relation_text = relation2text.get(relation, relation)
+                            new_tail_text = entity2text.get(new_tail, new_tail)
+                            corrupted_text = f"{head_text} {relation_text} {new_tail_text}"
+                            negatives.append((corrupted_text, "relation_specific_tail"))
+        
+        return negatives
+    
+    def _generate_random_negatives(self, triple, entity2text, relation2text, all_entities, 
+                                  positive_triples_set, num_negatives):
+        """Tạo random negatives (fallback strategy)."""
+        head, relation, tail, label = triple
+        negatives = []
+        
+        attempts = 0
+        max_attempts = 300
+        
+        while len(negatives) < num_negatives and attempts < max_attempts:
+            attempts += 1
+            
+            if random.random() < 0.5:
+                # Corrupt head
+                new_head = random.choice(all_entities)
+                if new_head != head:
+                    new_triple_str = f"{new_head}\t{relation}\t{tail}"
+                    if new_triple_str not in positive_triples_set:
+                        new_head_text = entity2text.get(new_head, new_head)
+                        relation_text = relation2text.get(relation, relation)
+                        tail_text = entity2text.get(tail, tail)
+                        corrupted_text = f"{new_head_text} {relation_text} {tail_text}"
+                        negatives.append((corrupted_text, "random_head"))
+            else:
+                # Corrupt tail
+                new_tail = random.choice(all_entities)
+                if new_tail != tail:
+                    new_triple_str = f"{head}\t{relation}\t{new_tail}"
+                    if new_triple_str not in positive_triples_set:
+                        head_text = entity2text.get(head, head)
+                        relation_text = relation2text.get(relation, relation)
+                        new_tail_text = entity2text.get(new_tail, new_tail)
+                        corrupted_text = f"{head_text} {relation_text} {new_tail_text}"
+                        negatives.append((corrupted_text, "random_tail"))
+        
+        return negatives
+
 
 def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer, print_info = True):
     """Loads a data file into a list of `InputBatch`s."""
@@ -344,6 +573,8 @@ def accuracy(out, labels):
     outputs = np.argmax(out, axis=1)
     return np.sum(outputs == labels)
 
+# hàm dừng tranning sớm
+# luu model tốt nhất dựa trên validation loss
 class EarlyStopping:
     """Early stopping to prevent overfitting."""
     def __init__(self, patience=3, min_delta=0, verbose=True):
@@ -373,6 +604,7 @@ class EarlyStopping:
                 print(f'Validation loss decreased ({self.val_loss_min:.6f} --> {val_loss:.6f}).  Saving model ...')
             self.val_loss_min = val_loss
 
+# định nghĩa các tham số cần thiết cho training
 def main():
     parser = argparse.ArgumentParser()
 
@@ -475,6 +707,33 @@ def main():
                         type=float,
                         default=0.001,
                         help="Minimum change in the monitored quantity to qualify as an improvement")
+    parser.add_argument('--warmup_steps',
+                        type=int,
+                        default=0,
+                        help="Number of warmup steps for learning rate")
+    parser.add_argument('--weight_decay',
+                        type=float,
+                        default=0.01,
+                        help="Weight decay for optimizer")
+    parser.add_argument('--dropout',
+                        type=float,
+                        default=0.1,
+                        help="Dropout rate for classification head")
+    parser.add_argument('--label_smoothing',
+                        type=float,
+                        default=0.0,
+                        help="Label smoothing factor")
+    parser.add_argument('--focal_loss',
+                        action='store_true',
+                        help="Use focal loss instead of cross entropy")
+    parser.add_argument('--focal_alpha',
+                        type=float,
+                        default=0.25,
+                        help="Alpha parameter for focal loss")
+    parser.add_argument('--focal_gamma',
+                        type=float,
+                        default=2.0,
+                        help="Gamma parameter for focal loss")
     args = parser.parse_args()
 
     if args.server_ip and args.server_port:
@@ -549,9 +808,15 @@ def main():
         if args.local_rank != -1:
             num_train_optimization_steps = num_train_optimization_steps // torch.distributed.get_world_size()
 
-    # Load tokenizer and model
+    # Load tokenizer and model with improved configuration
     tokenizer = AutoTokenizer.from_pretrained(args.bert_model, do_lower_case=args.do_lower_case)
-    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, num_labels=num_labels)
+    
+    # Create config with custom dropout
+    config = AutoConfig.from_pretrained(args.bert_model, num_labels=num_labels)
+    config.hidden_dropout_prob = args.dropout
+    config.attention_probs_dropout_prob = args.dropout
+    
+    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, config=config)
 
     if args.fp16:
         model.half()
@@ -575,18 +840,25 @@ def main():
                             for n, param in model.named_parameters()]
     else:
         param_optimizer = list(model.named_parameters())
-    no_decay = ['bias', 'gamma', 'beta']
+    no_decay = ['bias', 'gamma', 'beta', 'LayerNorm.weight']
     optimizer_grouped_parameters = [
-        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay_rate': 0.01},
+        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay_rate': args.weight_decay},
         {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay_rate': 0.0}
         ]
     t_total = num_train_optimization_steps
     if args.local_rank != -1:
         t_total = t_total // torch.distributed.get_world_size()
     
-    optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate)
+    optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=1e-8)
+    
+    # Improved learning rate scheduling
+    if args.warmup_steps > 0:
+        num_warmup_steps = args.warmup_steps
+    else:
+        num_warmup_steps = int(t_total * args.warmup_proportion)
+    
     scheduler = get_linear_schedule_with_warmup(optimizer, 
-                                              num_warmup_steps=int(t_total * args.warmup_proportion),
+                                              num_warmup_steps=num_warmup_steps,
                                               num_training_steps=t_total)
 
     global_step = 0
@@ -613,57 +885,59 @@ def main():
         early_stopping = EarlyStopping(patience=args.patience, min_delta=args.min_delta, verbose=True)
         best_model_path = os.path.join(args.output_dir, 'best_model.pt')
 
+        # Initialize loss function
+        if args.focal_loss:
+            criterion = FocalLoss(alpha=args.focal_alpha, gamma=args.focal_gamma)
+        else:
+            criterion = CrossEntropyLoss(label_smoothing=args.label_smoothing)
+        
         model.train()
-        train_losses = []
-        console = Console()
-        with Live(console=console, refresh_per_second=2) as live:
-            for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
-                tr_loss = 0
-                nb_tr_examples, nb_tr_steps = 0, 0
-                for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
-                    batch = tuple(t.to(device) for t in batch)
-                    input_ids, input_mask, label_ids = batch
-                    loss = model(input_ids, attention_mask=input_mask, labels=label_ids).loss
-                    if n_gpu > 1:
-                        loss = loss.mean() # mean() to average on multi-gpu.
-                    if args.gradient_accumulation_steps > 1:
-                        loss = loss / args.gradient_accumulation_steps
+        for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
+            tr_loss = 0
+            nb_tr_examples, nb_tr_steps = 0, 0
+            for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
+                batch = tuple(t.to(device) for t in batch)
+                input_ids, input_mask, label_ids = batch
+                
+                # Forward pass
+                outputs = model(input_ids, attention_mask=input_mask)
+                logits = outputs.logits
+                
+                # Calculate loss
+                if args.focal_loss:
+                    loss = criterion(logits, label_ids)
+                else:
+                    loss = criterion(logits, label_ids)
+                
+                if n_gpu > 1:
+                    loss = loss.mean() # mean() to average on multi-gpu.
+                if args.gradient_accumulation_steps > 1:
+                    loss = loss / args.gradient_accumulation_steps
+                if args.fp16:
+                    optimizer.backward(loss)
+                else:
+                    loss.backward()
+                tr_loss += loss.item()
+                nb_tr_examples += input_ids.size(0)
+                nb_tr_steps += 1
+                if (step + 1) % args.gradient_accumulation_steps == 0:
                     if args.fp16:
-                        optimizer.backward(loss)
-                    else:
-                        loss.backward()
-                    tr_loss += loss.item()
-                    nb_tr_examples += input_ids.size(0)
-                    nb_tr_steps += 1
-                    if (step + 1) % args.gradient_accumulation_steps == 0:
-                        if args.fp16:
-                            lr_this_step = args.learning_rate * scheduler.get_lr(global_step, args.warmup_proportion)
-                            for param_group in optimizer.param_groups:
-                                param_group['lr'] = lr_this_step
-                        optimizer.step()
-                        scheduler.step()
-                        optimizer.zero_grad()
-                        global_step += 1
+                        lr_this_step = args.learning_rate * scheduler.get_lr(global_step, args.warmup_proportion)
+                        for param_group in optimizer.param_groups:
+                            param_group['lr'] = lr_this_step
+                    optimizer.step()
+                    scheduler.step()
+                    optimizer.zero_grad()
+                    global_step += 1
 
-                # Calculate average loss for the epoch
-                avg_loss = tr_loss / nb_tr_steps
-                train_losses.append(avg_loss)
-
-                # Update rich table
-                table = Table(title="Training Progress (Early Stopping enabled)")
-                table.add_column("Epoch", justify="right")
-                table.add_column("Train Loss", justify="right")
-                for i, l in enumerate(train_losses):
-                    table.add_row(str(i+1), f"{l:.6f}")
-                live.update(table)
-
-                # Early stopping check
-                early_stopping(avg_loss, model, best_model_path)
-                if early_stopping.early_stop:
-                    logger.info("Early stopping triggered")
-                    table.title = "Training Progress (Early Stopping Triggered)"
-                    live.update(table)
-                    break
+            # Calculate average loss for the epoch
+            avg_loss = tr_loss / nb_tr_steps
+            
+            # Early stopping check
+            early_stopping(avg_loss, model, best_model_path)
+            if early_stopping.early_stop:
+                logger.info("Early stopping triggered")
+                break
 
         # Load the best model
         model.load_state_dict(torch.load(best_model_path))
@@ -725,8 +999,35 @@ def main():
         eval_loss = eval_loss / nb_eval_steps
         eval_accuracy = eval_accuracy / nb_eval_examples
         loss = tr_loss/nb_tr_steps if args.do_train else None
+        
+        # Calculate additional metrics
+        all_predictions = []
+        all_labels = []
+        model.eval()
+        for input_ids, input_mask, label_ids in tqdm(eval_dataloader, desc="Calculating metrics"):
+            input_ids = input_ids.to(device)
+            input_mask = input_mask.to(device)
+            label_ids = label_ids.to(device)
+
+            with torch.no_grad():
+                outputs = model(input_ids, attention_mask=input_mask)
+                logits = outputs.logits.detach().cpu().numpy()
+                label_ids = label_ids.to('cpu').numpy()
+                
+                predictions = np.argmax(logits, axis=1)
+                all_predictions.extend(predictions)
+                all_labels.extend(label_ids)
+        
+        # Calculate precision, recall, f1
+        precision = precision_score(all_labels, all_predictions, average='weighted')
+        recall = recall_score(all_labels, all_predictions, average='weighted')
+        f1 = f1_score(all_labels, all_predictions, average='weighted')
+        
         result = {'eval_loss': eval_loss,
                   'eval_accuracy': eval_accuracy,
+                  'eval_precision': precision,
+                  'eval_recall': recall,
+                  'eval_f1_score': f1,
                   'global_step': global_step,
                   'loss': loss}
 
@@ -737,6 +1038,7 @@ def main():
                 logger.info("  %s = %s", key, str(result[key]))
                 writer.write("%s = %s\n" % (key, str(result[key])))
 
+# tính toán để tổng hợp ra kết quả
     if args.do_predict and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
         predict_examples = processor.get_test_examples(args.data_dir)
         predict_features = convert_examples_to_features(predict_examples, label_list, args.max_seq_length, tokenizer, print_info = True)

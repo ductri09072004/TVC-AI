@@ -1,0 +1,19 @@
+bao gồm	bao gồm
+có danh nhân	có danh nhân
+có tiện ích	có tiện ích
+có tỉnh thành	có tỉnh thành
+có vùng miền	có vùng miền
+có vùng địa lý	có vùng địa lý
+có điểm du lịch	có điểm du lịch
+có đặc sản	có đặc sản
+là điểm dừng trong	là điểm dừng trong
+nằm tại	nằm tại
+nổi tiếng tại	nổi tiếng tại
+sử dụng dịch vụ của	sử dụng dịch vụ của
+thuộc	thuộc
+tưởng nhớ	tưởng nhớ
+tổ chức	tổ chức
+được sử dụng trong	được sử dụng trong
+được tưởng nhớ tại	được tưởng nhớ tại
+được tổ chức tại	được tổ chức tại
+đặc sản của	đặc sản của
