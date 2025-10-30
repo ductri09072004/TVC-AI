@@ -105,14 +105,18 @@ class DataProcessor(object):
         raise NotImplementedError()
 
     @classmethod
-    def _read_tsv(cls, input_file, quotechar=None):
-        """Reads a tab separated value file."""
+    def _read_csv(cls, input_file):
+        """Reads a comma separated value file with header [caption,label]."""
         with open(input_file, "r", encoding="utf-8") as f:
-            reader = csv.reader(f, delimiter="\t", quotechar=quotechar)
+            reader = csv.reader(f, delimiter=",")
             lines = []
+            header_skipped = False
             for line in reader:
-                if sys.version_info[0] == 2:
-                    line = list(unicode(cell, 'utf-8') for cell in line)
+                if not header_skipped:
+                    header_skipped = True
+                    continue
+                if not line:
+                    continue
                 lines.append(line)
             return lines
 
@@ -121,154 +125,41 @@ class DataProcessor(object):
 # Chuyển đổi entity và relation ID thành text tương ứng
 # Hỗ trợ binary classification (0, 1)
 class KGProcessor(DataProcessor):
-    """Processor for knowledge graph data set."""
+    """Processor adapted for moderation dataset in CSV format."""
     def __init__(self):
         self.labels = set([])
         self.data_dir = None
     
     def get_train_examples(self, data_dir):
-        """See base class."""
+        """Load train.csv [caption,label] and create InputExamples."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "train.txt")), "train")
+            self._read_csv(os.path.join(data_dir, "train.csv")), "train")
 
     def get_dev_examples(self, data_dir):
-        """See base class."""
+        """Load dev.csv [caption,label] and create InputExamples."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "dev.txt")), "dev")
+            self._read_csv(os.path.join(data_dir, "dev.csv")), "dev")
 
     def get_test_examples(self, data_dir):
-      """See base class."""
-      return self._create_examples(
-          self._read_tsv(os.path.join(data_dir, "test.txt")), "test")
-
-    def get_relations(self, data_dir):
-        """Gets all relations in the knowledge graph."""
-        with open(os.path.join(data_dir, "relations.txt"), 'r', encoding='utf-8') as f:
-            relations = [line.strip() for line in f.readlines()]
-        return relations
+        """Load test.csv [caption,label] and create InputExamples."""
+        return self._create_examples(
+            self._read_csv(os.path.join(data_dir, "test.csv")), "test")
 
     def get_labels(self):
-        """See base class."""
+        """Binary labels for moderation task."""
         return ["0", "1"]
 
-    def get_entities(self, data_dir):
-        """Gets all entities in the knowledge graph."""
-        with open(os.path.join(data_dir, "entities.txt"), 'r', encoding='utf-8') as f:
-            entities = [line.strip() for line in f.readlines()]
-        return entities
-
-    def get_train_triples(self, data_dir):
-        """Gets training triples."""
-        return self._read_tsv(os.path.join(data_dir, "train.txt"))
-
-    def get_dev_triples(self, data_dir):
-        """Gets validation triples."""
-        return self._read_tsv(os.path.join(data_dir, "dev.txt"))
-
-    def get_test_triples(self, data_dir):
-        """Gets test triples."""
-        return self._read_tsv(os.path.join(data_dir, "test.txt"))
-
-    def get_entity2text(self, data_dir):
-        """Gets entity to text mapping."""
-        entity2text = {}
-        with open(os.path.join(data_dir, "entity2text.txt"), 'r', encoding='utf-8') as f:
-            for line in f:
-                entity, text = line.strip().split('\t')
-                entity2text[entity] = text
-        return entity2text
-
-    def get_relation2text(self, data_dir):
-        """Gets relation to text mapping."""
-        relation2text = {}
-        with open(os.path.join(data_dir, "relation2text.txt"), 'r', encoding='utf-8') as f:
-            for line in f:
-                relation, text = line.strip().split('\t')
-                relation2text[relation] = text
-        return relation2text
-
     def _create_examples(self, lines, set_type):
-        """Creates examples for the training and eval sets with Random Negative Sampling."""
+        """Creates examples for the moderation dataset without negative sampling."""
         examples = []
-        
-        # Lấy entity2text và relation2text
-        entity2text = self.get_entity2text(self.data_dir)
-        relation2text = self.get_relation2text(self.data_dir)
-        
-        # Lấy danh sách tất cả entities
-        entities = self.get_entities(self.data_dir)
-        
-        # Tạo set tất cả positive triples để kiểm tra trùng lặp
-        positive_triples_set = set()
-        for line in lines:
-            if line[3] == "1":  # Chỉ positive triples
-                triple_str = f"{line[0]}\t{line[1]}\t{line[2]}"
-                positive_triples_set.add(triple_str)
-        
         for (i, line) in enumerate(lines):
-            # Tạo example từ dữ liệu gốc
+            if len(line) < 2:
+                continue
             guid = "%s-%s" % (set_type, i)
-            head_text = entity2text.get(line[0], line[0])
-            relation_text = relation2text.get(line[1], line[1])
-            tail_text = entity2text.get(line[2], line[2])
-            
-            text_a = f"{head_text} {relation_text} {tail_text}"
-            text_b = None
-            label = line[3]
-            
-            examples.append(
-                InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
-            
-            # Tạo Random Negatives cho positive examples
-            if line[3] == "1":  # Chỉ với positive triples
-                random_negatives = self._generate_random_negatives(
-                    line, entity2text, relation2text, entities, 
-                    positive_triples_set, num_negatives=1  # Tạo 1 random negative cho mỗi positive
-                )
-                
-                for j, (corrupted_text, corruption_type) in enumerate(random_negatives):
-                    guid_corrupt = "%s-%s-%s" % (set_type + "_random_negative", i, j)
-                    examples.append(
-                        InputExample(guid=guid_corrupt, text_a=corrupted_text, text_b=text_b, label="0"))
-        
+            text = line[0].strip()
+            label = line[1].strip()
+            examples.append(InputExample(guid=guid, text_a=text, text_b=None, label=label))
         return examples
-    
-    def _generate_random_negatives(self, triple, entity2text, relation2text, all_entities, 
-                                  positive_triples_set, num_negatives):
-        """Tạo random negatives bằng cách thay thế ngẫu nhiên head hoặc tail entity."""
-        head, relation, tail, label = triple
-        negatives = []
-        
-        attempts = 0
-        max_attempts = 100
-        
-        while len(negatives) < num_negatives and attempts < max_attempts:
-            attempts += 1
-            
-            if random.random() < 0.5:
-                # Corrupt head
-                new_head = random.choice(all_entities)
-                if new_head != head:
-                    new_triple_str = f"{new_head}\t{relation}\t{tail}"
-                    if new_triple_str not in positive_triples_set:
-                        new_head_text = entity2text.get(new_head, new_head)
-                        relation_text = relation2text.get(relation, relation)
-                        tail_text = entity2text.get(tail, tail)
-                        corrupted_text = f"{new_head_text} {relation_text} {tail_text}"
-                        negatives.append((corrupted_text, "random_head"))
-            else:
-                # Corrupt tail
-                new_tail = random.choice(all_entities)
-                if new_tail != tail:
-                    new_triple_str = f"{head}\t{relation}\t{new_tail}"
-                    if new_triple_str not in positive_triples_set:
-                        head_text = entity2text.get(head, head)
-                        relation_text = relation2text.get(relation, relation)
-                        new_tail_text = entity2text.get(new_tail, new_tail)
-                        corrupted_text = f"{head_text} {relation_text} {new_tail_text}"
-                        negatives.append((corrupted_text, "random_tail"))
-        
-        return negatives
 
 
 def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer, print_info = True):
@@ -453,7 +344,7 @@ def main():
                         default=None,
                         type=str,
                         required=True,
-                        help="The input data dir. Should contain the .tsv files (or other data files) for the task.")
+                        help="Input directory containing CSV files: train.csv, dev.csv, test.csv with columns [caption,label].")
     parser.add_argument("--bert_model", default=None, type=str, required=True,
                         help="Bert pre-trained model selected in the list: bert-base-uncased, "
                         "bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, "
@@ -636,7 +527,7 @@ def main():
     label_list = processor.get_labels()
     num_labels = len(label_list)
 
-    entity_list = processor.get_entities(args.data_dir)
+    # moderation dataset does not require entity lists
 
     # Calculate number of training steps
     train_examples = None
