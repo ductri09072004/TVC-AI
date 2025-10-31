@@ -39,7 +39,7 @@ def find_duplicates(rows: List[Tuple[int, List[str]]], mode: str) -> Dict[str, L
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Check duplicate entries in a CSV file.")
-    parser.add_argument("path", type=str, help="Path to CSV file (e.g., data/dataset.csv)")
+    parser.add_argument("path", type=str, help="Path to CSV file (e.g., data/dataset_binary.csv)")
     parser.add_argument(
         "--mode",
         choices=["text", "row"],

@@ -157,7 +157,17 @@ class KGProcessor(DataProcessor):
                 continue
             guid = "%s-%s" % (set_type, i)
             text = line[0].strip()
-            label = line[1].strip()
+            label_raw = line[1].strip()
+            # Normalize label: handle float strings like "0.0", "1.0", or numeric values
+            try:
+                label_int = int(float(label_raw))
+                label = str(label_int)
+            except (ValueError, TypeError):
+                label = label_raw
+            # Only accept valid binary labels
+            if label not in ["0", "1"]:
+                logger.warning(f"Skipping example {guid}: invalid label '{label_raw}' (must be 0 or 1)")
+                continue
             examples.append(InputExample(guid=guid, text_a=text, text_b=None, label=label))
         return examples
 

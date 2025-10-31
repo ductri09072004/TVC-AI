@@ -10,3 +10,9 @@ requests
 pytorch-pretrained-bert>=0.6.2
 # wikipedia
 wikipedia
+
+# Added for run_bert_triple_classifier_phobert.py
+numpy
+scikit-learn
+scipy
+transformers>=4.0.0
