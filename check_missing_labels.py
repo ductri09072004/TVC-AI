@@ -36,7 +36,7 @@ def find_duplicates(rows: List[Tuple[int, List[str]]], mode: str, text_col: int 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Check CSV for missing/invalid labels.")
-    parser.add_argument("path", type=str, help="Path to CSV file (e.g., data/dataset.csv)")
+    parser.add_argument("path", type=str, help="Path to CSV file (e.g., data/test_db.csv)")
     parser.add_argument("--delimiter", type=str, default=",", help="CSV delimiter (default: ,)")
     parser.add_argument("--quotechar", type=str, default='"', help='CSV quote character (default: ")')
     parser.add_argument("--has_header", action="store_true", help="Indicate the first row is header")
@@ -53,6 +53,27 @@ def main() -> None:
         type=str,
         default="",
         help="Optional path to write a CSV report of problematic rows",
+    )
+    parser.add_argument(
+        "--fix_double_commas",
+        action="store_true",
+        help="Detect and fix occurrences of consecutive commas in the text column (replace ',,' -> ',')",
+    )
+    parser.add_argument(
+        "--fix_remove_first_comma",
+        action="store_true",
+        help="If a caption contains two or more commas anywhere, remove the first comma in that caption",
+    )
+    fix_group = parser.add_mutually_exclusive_group()
+    fix_group.add_argument(
+        "--fix_output",
+        type=str,
+        help="Write a CSV with double-commas fixed to this path (keeps header if present)",
+    )
+    fix_group.add_argument(
+        "--fix_inplace",
+        action="store_true",
+        help="Overwrite the input CSV with double-commas fixed (keeps header if present)",
     )
     parser.add_argument(
         "--check_duplicates",
@@ -95,11 +116,42 @@ def main() -> None:
     if args.check_duplicates:
         duplicates = find_duplicates(rows, mode=args.dup_mode, text_col=args.text_col)
 
+    fixed_rows: List[List[str]] = []
     for line_no, row in rows:
         # Defensive: pad row length
         label = ""
         if args.label_col < len(row):
             label = (row[args.label_col] or "").strip()
+
+        # Optional: fix consecutive commas in text column by removing the first comma
+        if args.fix_double_commas and args.text_col < len(row):
+            original_text = row[args.text_col]
+            # Collapse any runs of ",," into single ","
+            if isinstance(original_text, str) and ",," in original_text:
+                new_text = original_text
+                while ",," in new_text:
+                    new_text = new_text.replace(",,", ",")
+                if new_text != original_text:
+                    row = list(row)
+                    row[args.text_col] = new_text
+            # Also remove trailing commas at end of caption (before label)
+            if isinstance(original_text, str) and original_text.endswith(","):
+                trimmed = original_text.rstrip(", ")
+                if trimmed != original_text:
+                    row = list(row)
+                    row[args.text_col] = trimmed
+
+        # Optional: if caption has >=2 commas anywhere, remove the first comma occurrence
+        if args.fix_remove_first_comma and args.text_col < len(row):
+            text_val = row[args.text_col]
+            if isinstance(text_val, str):
+                if text_val.count(",") >= 2:
+                    i = text_val.find(",")
+                    if i != -1:
+                        fixed = text_val[:i] + text_val[i+1:]
+                        if fixed != text_val:
+                            row = list(row)
+                            row[args.text_col] = fixed
 
         if label == "":
             missing.append((line_no, row, "empty label"))
@@ -157,6 +209,39 @@ def main() -> None:
             for line_no, row, reason in missing + invalid:
                 writer.writerow(row + [reason])
         print(f"Report written to: {args.report}")
+
+    # Optionally write fixed CSV (double commas in text column)
+    if (args.fix_double_commas or args.fix_remove_first_comma) and (args.fix_output or args.fix_inplace):
+        target_path = args.path if args.fix_inplace else args.fix_output
+        with open(target_path, "w", encoding="utf-8", newline="") as f:
+            writer = csv.writer(f, delimiter=args.delimiter, quotechar=args.quotechar)
+            if header:
+                writer.writerow(header)
+            for _, row in rows:
+                # Ensure we persist the fixed text column if it was updated above
+                if args.text_col < len(row):
+                    text_val = row[args.text_col]
+                    if isinstance(text_val, str) and ",," in text_val:
+                        new_text = text_val
+                        while ",," in new_text:
+                            new_text = new_text.replace(",,", ",")
+                        row = list(row)
+                        row[args.text_col] = new_text
+                    # Also trim trailing commas
+                    if isinstance(text_val, str) and text_val.endswith(","):
+                        trimmed = text_val.rstrip(", ")
+                        if trimmed != text_val:
+                            row = list(row)
+                            row[args.text_col] = trimmed
+                    # Remove first comma if there are 2 or more commas
+                    if args.fix_remove_first_comma and isinstance(row[args.text_col], str):
+                        t2 = row[args.text_col]
+                        if t2.count(",") >= 2:
+                            i = t2.find(",")
+                            row = list(row)
+                            row[args.text_col] = t2[:i] + t2[i+1:]
+                writer.writerow(row)
+        print(f"Fixed CSV written to: {target_path}")
 
     # Optionally write de-duplicated file
     if args.check_duplicates and (args.dedup_output or args.dedup_inplace):
