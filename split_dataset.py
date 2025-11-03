@@ -25,8 +25,8 @@ def write_csv(path: str, rows: List[List[str]], delimiter: str = ",", quotechar:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Split dataset_binary.csv into train/dev/test 80/10/10")
-    parser.add_argument("--input", type=str, default="data/dataset_binary.csv", help="Input CSV path")
+    parser = argparse.ArgumentParser(description="Split dataset.csv into train/dev/test 80/10/10")
+    parser.add_argument("--input", type=str, default="data/dataset.csv", help="Input CSV path")
     parser.add_argument("--out_dir", type=str, default="dataset", help="Output directory")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for shuffling")
     parser.add_argument("--delimiter", type=str, default=",", help="CSV delimiter")
