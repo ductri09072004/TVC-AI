@@ -36,7 +36,7 @@ def find_duplicates(rows: List[Tuple[int, List[str]]], mode: str, text_col: int 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Check CSV for missing/invalid labels.")
-    parser.add_argument("path", type=str, help="Path to CSV file (e.g., data/test_db.csv)")
+    parser.add_argument("path", type=str, help="Path to CSV file (e.g., data/dataset.csv)")
     parser.add_argument("--delimiter", type=str, default=",", help="CSV delimiter (default: ,)")
     parser.add_argument("--quotechar", type=str, default='"', help='CSV quote character (default: ")')
     parser.add_argument("--has_header", action="store_true", help="Indicate the first row is header")

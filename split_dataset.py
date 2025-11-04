@@ -52,9 +52,9 @@ def main() -> None:
     dev_rows = [header] + data[n_train:n_train + n_dev]
     test_rows = [header] + data[n_train + n_dev:]
 
-    write_csv(os.path.join(args.out_dir, "train.csv"), train_rows, delimiter=args.delimiter, quotechar=args.quotechar)
-    write_csv(os.path.join(args.out_dir, "dev.csv"), dev_rows, delimiter=args.delimiter, quotechar=args.quotechar)
-    write_csv(os.path.join(args.out_dir, "test.csv"), test_rows, delimiter=args.delimiter, quotechar=args.quotechar)
+    write_csv(os.path.join(args.out_dir, "dataset_mota/train.csv"), train_rows, delimiter=args.delimiter, quotechar=args.quotechar)
+    write_csv(os.path.join(args.out_dir, "dataset_mota/dev.csv"), dev_rows, delimiter=args.delimiter, quotechar=args.quotechar)
+    write_csv(os.path.join(args.out_dir, "dataset_mota/test.csv"), test_rows, delimiter=args.delimiter, quotechar=args.quotechar)
 
     print(f"Wrote {len(train_rows)-1} train, {len(dev_rows)-1} dev, {len(test_rows)-1} test rows to '{args.out_dir}'")
 

@@ -1,2 +1,2 @@
-python run_bert_triple_classifier_phobert.py --task_name kg --do_train --do_eval --do_predict --data_dir ./dataset --bert_model vinai/phobert-base --max_seq_length 128 --train_batch_size 16 --learning_rate 1e-5 --num_train_epochs 3.0 --output_dir ./output_moderation/ --gradient_accumulation_steps 1 --eval_batch_size 128\
+python run_bert_triple_classifier_phobert.py --task_name kg --do_train --do_eval --do_predict --data_dir ./dataset --bert_model vinai/phobert-base --max_seq_length 128 --train_batch_size 16 --learning_rate 1e-5 --num_train_epochs 3.0 --output_dir ./output_moderation/ --gradient_accumulation_steps 1 --eval_batch_size 128
 

@@ -1,19 +1,4 @@
 
-# coding=utf-8
-# Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
-# Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
 """BERT finetuning runner."""
 
 from __future__ import absolute_import, division, print_function
@@ -36,8 +21,28 @@ from torch.optim import AdamW
 
 from torch.nn import CrossEntropyLoss, MSELoss
 from scipy.stats import pearsonr, spearmanr
-from sklearn.metrics import matthews_corrcoef, f1_score
+from sklearn.metrics import matthews_corrcoef, f1_score, precision_score, recall_score
 from sklearn import metrics
+
+# Focal Loss implementation
+class FocalLoss(torch.nn.Module):
+    def __init__(self, alpha=0.25, gamma=2.0, reduction='mean'):
+        super(FocalLoss, self).__init__()
+        self.alpha = alpha
+        self.gamma = gamma
+        self.reduction = reduction
+    
+    def forward(self, inputs, targets):
+        ce_loss = torch.nn.functional.cross_entropy(inputs, targets, reduction='none')
+        pt = torch.exp(-ce_loss)
+        focal_loss = self.alpha * (1-pt)**self.gamma * ce_loss
+        
+        if self.reduction == 'mean':
+            return focal_loss.mean()
+        elif self.reduction == 'sum':
+            return focal_loss.sum()
+        else:
+            return focal_loss
 
 from transformers import AutoModelForSequenceClassification, AutoConfig, AutoTokenizer
 from transformers import get_linear_schedule_with_warmup
@@ -47,7 +52,9 @@ os.environ['CUDA_VISIBLE_DEVICES']= '0'
 
 logger = logging.getLogger(__name__)
 
-
+# Định nghĩa cấu trúc dữ liệu cho một example trong training/testing
+# Hỗ trợ cả single sequence, sequence pair và sequence triple
+# Lưu trữ ID duy nhất, text và label
 class InputExample(object):
     """A single training/test example for simple sequence classification."""
 
@@ -71,7 +78,7 @@ class InputExample(object):
         self.text_c = text_c
         self.label = label
 
-
+# //chuyển đổi text thành các features số mà BERT có thể xử lý
 class InputFeatures(object):
     """A single set of features of data."""
 
@@ -98,239 +105,72 @@ class DataProcessor(object):
         raise NotImplementedError()
 
     @classmethod
-    def _read_tsv(cls, input_file, quotechar=None):
-        """Reads a tab separated value file."""
+    def _read_csv(cls, input_file):
+        """Reads a comma separated value file with header [caption,label]."""
         with open(input_file, "r", encoding="utf-8") as f:
-            reader = csv.reader(f, delimiter="\t", quotechar=quotechar)
+            reader = csv.reader(f, delimiter=",")
             lines = []
+            header_skipped = False
             for line in reader:
-                if sys.version_info[0] == 2:
-                    line = list(unicode(cell, 'utf-8') for cell in line)
+                if not header_skipped:
+                    header_skipped = True
+                    continue
+                if not line:
+                    continue
                 lines.append(line)
             return lines
 
-
+# xử lí dữ liệu
+# đọc các file train dev test
+# Chuyển đổi entity và relation ID thành text tương ứng
+# Hỗ trợ binary classification (0, 1)
 class KGProcessor(DataProcessor):
-    """Processor for knowledge graph data set."""
+    """Processor adapted for moderation dataset in CSV format."""
     def __init__(self):
         self.labels = set([])
         self.data_dir = None
     
     def get_train_examples(self, data_dir):
-        """See base class."""
+        """Load train.csv [caption,label] and create InputExamples."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "train.txt")), "train")
+            self._read_csv(os.path.join(data_dir, "dataset_mota/train.csv")), "train")
 
     def get_dev_examples(self, data_dir):
-        """See base class."""
+        """Load dev.csv [caption,label] and create InputExamples."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "dev.txt")), "dev")
+            self._read_csv(os.path.join(data_dir, "dataset_mota/dev.csv")), "dev")
 
     def get_test_examples(self, data_dir):
-      """See base class."""
-      return self._create_examples(
-          self._read_tsv(os.path.join(data_dir, "test.txt")), "test")
-
-    def get_relations(self, data_dir):
-        """Gets all relations in the knowledge graph."""
-        rel_path = os.path.join(data_dir, "relations.txt")
-        if not os.path.exists(rel_path):
-            return []
-        with open(rel_path, 'r', encoding='utf-8') as f:
-            relations = [line.strip() for line in f if line.strip()]
-        return relations
+        """Load test.csv [caption,label] and create InputExamples."""
+        return self._create_examples(
+            self._read_csv(os.path.join(data_dir, "dataset_mota/test.csv")), "test")
 
     def get_labels(self):
-        """See base class."""
+        """Binary labels for moderation task."""
         return ["0", "1"]
 
-    def get_entities(self, data_dir):
-        """Gets all entities (union of subjects/objects if needed)."""
-        ent_path = os.path.join(data_dir, "entities.txt")
-        if os.path.exists(ent_path):
-            with open(ent_path, 'r', encoding='utf-8') as f:
-                return [line.strip() for line in f if line.strip()]
-        # Fallback: merge subjects.txt and objects.txt
-        entities = set()
-        subj_path = os.path.join(data_dir, 'subjects.txt')
-        obj_path = os.path.join(data_dir, 'objects.txt')
-        if os.path.exists(subj_path):
-            with open(subj_path, 'r', encoding='utf-8') as f:
-                entities.update(line.strip() for line in f if line.strip())
-        if os.path.exists(obj_path):
-            with open(obj_path, 'r', encoding='utf-8') as f:
-                entities.update(line.strip() for line in f if line.strip())
-        return sorted(list(entities))
-
-    def get_train_triples(self, data_dir):
-        """Gets training triples."""
-        return self._read_tsv(os.path.join(data_dir, "train.txt"))
-
-    def get_dev_triples(self, data_dir):
-        """Gets validation triples."""
-        return self._read_tsv(os.path.join(data_dir, "dev.txt"))
-
-    def get_test_triples(self, data_dir):
-        """Gets test triples."""
-        return self._read_tsv(os.path.join(data_dir, "test.txt"))
-
-    def get_subject2text(self, data_dir):
-        path = os.path.join(data_dir, 'subject2text.txt')
-        mapping = {}
-        if os.path.exists(path):
-            try:
-                with open(path, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if not line:
-                            continue
-                        parts = line.split('\t')
-                        if len(parts) >= 2:
-                            mapping[parts[0]] = '\t'.join(parts[1:])
-                        elif len(parts) == 1:
-                            mapping[parts[0]] = parts[0]
-            except Exception as e:
-                logger.warning(f"Error reading subject2text.txt: {e}")
-        return mapping
-
-    def get_object2text(self, data_dir):
-        path = os.path.join(data_dir, 'object2text.txt')
-        mapping = {}
-        if os.path.exists(path):
-            try:
-                with open(path, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if not line:
-                            continue
-                        parts = line.split('\t')
-                        if len(parts) >= 2:
-                            mapping[parts[0]] = '\t'.join(parts[1:])
-                        elif len(parts) == 1:
-                            mapping[parts[0]] = parts[0]
-            except Exception as e:
-                logger.warning(f"Error reading object2text.txt: {e}")
-        return mapping
-
-    def get_entity2text(self, data_dir):
-        """Gets entity to text mapping."""
-        entity2text = {}
-        entity2text_path = os.path.join(data_dir, "entity2text.txt")
-        subj2_path = os.path.join(data_dir, "subject2text.txt")
-        obj2_path = os.path.join(data_dir, "object2text.txt")
-        if os.path.exists(entity2text_path):
-            try:
-                with open(entity2text_path, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if not line:
-                            continue
-                        parts = line.split('\t')
-                        if len(parts) >= 2:
-                            entity, text = parts[0], '\t'.join(parts[1:])
-                            entity2text[entity] = text
-                        elif len(parts) == 1:
-                            entity2text[parts[0]] = parts[0]
-            except Exception as e:
-                logger.warning(f"Error reading entity2text.txt: {e}")
-        # Fallback: merge subject2text/object2text if present
-        if not entity2text and (os.path.exists(subj2_path) or os.path.exists(obj2_path)):
-            for p in [subj2_path, obj2_path]:
-                if not os.path.exists(p):
-                    continue
-                try:
-                    with open(p, 'r', encoding='utf-8') as f:
-                        for line in f:
-                            line = line.strip()
-                            if not line:
-                                continue
-                            parts = line.split('\t')
-                            if len(parts) >= 2:
-                                entity2text[parts[0]] = '\t'.join(parts[1:])
-                            elif len(parts) == 1:
-                                entity2text[parts[0]] = parts[0]
-                except Exception as e:
-                    logger.warning(f"Error reading fallback entity mapping {p}: {e}")
-        if not entity2text:
-            logger.warning(f"entity2text mapping not found in {data_dir}, using raw IDs as text")
-        return entity2text
-
-    def get_relation2text(self, data_dir):
-        """Gets relation to text mapping."""
-        relation2text = {}
-        relation2text_path = os.path.join(data_dir, "relation2text.txt")
-        if os.path.exists(relation2text_path):
-            try:
-                with open(relation2text_path, 'r', encoding='utf-8') as f:
-                    for line in f:
-                        line = line.strip()
-                        if not line:
-                            continue
-                        parts = line.split('\t')
-                        if len(parts) >= 2:
-                            relation, text = parts[0], '\t'.join(parts[1:])
-                            relation2text[relation] = text
-                        elif len(parts) == 1:
-                            relation2text[parts[0]] = parts[0]
-            except Exception as e:
-                logger.warning(f"Error reading relation2text.txt: {e}")
-        else:
-            # Fallback: use relations.txt
-            rels = self.get_relations(data_dir)
-            for r in rels:
-                relation2text[r] = r
-        return relation2text
-
     def _create_examples(self, lines, set_type):
-        """Creates examples for the training and eval sets."""
+        """Creates examples for the moderation dataset without negative sampling."""
         examples = []
-        # Lấy entity2text và relation2text một lần (cache để tránh đọc nhiều lần)
-        if self.data_dir:
-            entity2text = self.get_entity2text(self.data_dir)
-            # Role-specific mappings (preferred if available)
-            subj2 = self.get_subject2text(self.data_dir)
-            obj2 = self.get_object2text(self.data_dir)
-            relation2text = self.get_relation2text(self.data_dir)
-        else:
-            entity2text = {}
-            subj2 = {}
-            obj2 = {}
-            relation2text = {}
-        
         for (i, line) in enumerate(lines):
-            if len(line) < 4:
-                continue  # Bỏ qua dòng không đủ cột
+            if len(line) < 2:
+                continue
             guid = "%s-%s" % (set_type, i)
-            
-            # Chuyển đổi entity và relation sang text
-            raw_head = line[0] if line[0] else ""
-            raw_rel = line[1] if line[1] else ""
-            raw_tail = line[2] if line[2] else ""
-
-            # Prefer role-specific text; fallback to entity2text; fallback to raw
-            head_text = subj2.get(raw_head) or entity2text.get(raw_head, raw_head)
-            relation_text = relation2text.get(raw_rel, raw_rel)
-            tail_text = obj2.get(raw_tail) or entity2text.get(raw_tail, raw_tail)
-            
-            # Kết hợp thành câu + làm sạch 'nan' và khoảng trắng
-            def _clean(x: str) -> str:
-                s = (x or '').strip()
-                return '' if s.lower() == 'nan' else s
-            head_text = _clean(head_text)
-            relation_text = _clean(relation_text)
-            tail_text = _clean(tail_text)
-
-            text_a = f"{head_text} {relation_text} {tail_text}".strip()
-            text_a = ' '.join([t for t in text_a.split() if t])
-            if not text_a:
-                continue  # Bỏ qua nếu không có text
-            
-            text_b = None
-            label = line[3] if len(line) > 3 else "0"  # Label là cột thứ 4, mặc định là "0"
-            
-            examples.append(
-                InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
+            text = line[0].strip()
+            label_raw = line[1].strip()
+            # Normalize label: handle float strings like "0.0", "1.0", or numeric values
+            try:
+                label_int = int(float(label_raw))
+                label = str(label_int)
+            except (ValueError, TypeError):
+                label = label_raw
+            # Only accept valid binary labels
+            if label not in ["0", "1"]:
+                logger.warning(f"Skipping example {guid}: invalid label '{label_raw}' (must be 0 or 1)")
+                continue
+            examples.append(InputExample(guid=guid, text_a=text, text_b=None, label=label))
         return examples
+
 
 def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer, print_info = True):
     """Loads a data file into a list of `InputBatch`s."""
@@ -474,6 +314,8 @@ def accuracy(out, labels):
     outputs = np.argmax(out, axis=1)
     return np.sum(outputs == labels)
 
+# hàm dừng tranning sớm
+# luu model tốt nhất dựa trên validation loss
 class EarlyStopping:
     """Early stopping to prevent overfitting."""
     def __init__(self, patience=3, min_delta=0, verbose=True):
@@ -503,6 +345,7 @@ class EarlyStopping:
                 print(f'Validation loss decreased ({self.val_loss_min:.6f} --> {val_loss:.6f}).  Saving model ...')
             self.val_loss_min = val_loss
 
+# định nghĩa các tham số cần thiết cho training
 def main():
     parser = argparse.ArgumentParser()
 
@@ -511,7 +354,7 @@ def main():
                         default=None,
                         type=str,
                         required=True,
-                        help="The input data dir. Should contain the .tsv files (or other data files) for the task.")
+                        help="Input directory containing CSV files: train.csv, dev.csv, test.csv with columns [caption,label].")
     parser.add_argument("--bert_model", default=None, type=str, required=True,
                         help="Bert pre-trained model selected in the list: bert-base-uncased, "
                         "bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, "
@@ -522,9 +365,9 @@ def main():
                         required=True,
                         help="The name of the task to train.")
     parser.add_argument("--output_dir",
-                        default=None,
+                        default="output_moderation_mota",
                         type=str,
-                        required=True,
+                        required=False,
                         help="The output directory where the model predictions and checkpoints will be written.")
 
     ## Other parameters
@@ -605,11 +448,34 @@ def main():
                         type=float,
                         default=0.001,
                         help="Minimum change in the monitored quantity to qualify as an improvement")
+    parser.add_argument('--warmup_steps',
+                        type=int,
+                        default=0,
+                        help="Number of warmup steps for learning rate")
+    parser.add_argument('--weight_decay',
+                        type=float,
+                        default=0.01,
+                        help="Weight decay for optimizer")
+    parser.add_argument('--dropout',
+                        type=float,
+                        default=0.1,
+                        help="Dropout rate for classification head")
+    parser.add_argument('--label_smoothing',
+                        type=float,
+                        default=0.0,
+                        help="Label smoothing factor")
+    parser.add_argument('--focal_loss',
+                        action='store_true',
+                        help="Use focal loss instead of cross entropy")
+    parser.add_argument('--focal_alpha',
+                        type=float,
+                        default=0.25,
+                        help="Alpha parameter for focal loss")
+    parser.add_argument('--focal_gamma',
+                        type=float,
+                        default=2.0,
+                        help="Gamma parameter for focal loss")
     args = parser.parse_args()
-
-    # Default data_dir to ./dataset if not provided or empty
-    if not args.data_dir:
-        args.data_dir = os.path.normpath(os.path.join(os.path.dirname(__file__), 'dataset'))
 
     if args.server_ip and args.server_port:
         # Distant debugging - see https://code.visualstudio.com/docs/python/debugging#_attach-to-a-local-script
@@ -655,6 +521,10 @@ def main():
     if not args.do_train and not args.do_eval:
         raise ValueError("At least one of `do_train` or `do_eval` must be True.")
 
+    # Ensure output_dir is set (use default if not provided)
+    if not args.output_dir:
+        args.output_dir = "output_moderation_mota"
+    
     if os.path.exists(args.output_dir) and os.listdir(args.output_dir) and args.do_train:
         shutil.rmtree(args.output_dir)
         os.makedirs(args.output_dir)
@@ -671,7 +541,7 @@ def main():
     label_list = processor.get_labels()
     num_labels = len(label_list)
 
-    entity_list = processor.get_entities(args.data_dir)
+    # moderation dataset does not require entity lists
 
     # Calculate number of training steps
     train_examples = None
@@ -683,9 +553,15 @@ def main():
         if args.local_rank != -1:
             num_train_optimization_steps = num_train_optimization_steps // torch.distributed.get_world_size()
 
-    # Load tokenizer and model
+    # Load tokenizer and model with improved configuration
     tokenizer = AutoTokenizer.from_pretrained(args.bert_model, do_lower_case=args.do_lower_case)
-    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, num_labels=num_labels)
+    
+    # Create config with custom dropout
+    config = AutoConfig.from_pretrained(args.bert_model, num_labels=num_labels)
+    config.hidden_dropout_prob = args.dropout
+    config.attention_probs_dropout_prob = args.dropout
+    
+    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, config=config)
 
     if args.fp16:
         model.half()
@@ -709,18 +585,25 @@ def main():
                             for n, param in model.named_parameters()]
     else:
         param_optimizer = list(model.named_parameters())
-    no_decay = ['bias', 'gamma', 'beta']
+    no_decay = ['bias', 'gamma', 'beta', 'LayerNorm.weight']
     optimizer_grouped_parameters = [
-        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay_rate': 0.01},
+        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay_rate': args.weight_decay},
         {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay_rate': 0.0}
         ]
     t_total = num_train_optimization_steps
     if args.local_rank != -1:
         t_total = t_total // torch.distributed.get_world_size()
     
-    optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate)
+    optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=1e-8)
+    
+    # Improved learning rate scheduling
+    if args.warmup_steps > 0:
+        num_warmup_steps = args.warmup_steps
+    else:
+        num_warmup_steps = int(t_total * args.warmup_proportion)
+    
     scheduler = get_linear_schedule_with_warmup(optimizer, 
-                                              num_warmup_steps=int(t_total * args.warmup_proportion),
+                                              num_warmup_steps=num_warmup_steps,
                                               num_training_steps=t_total)
 
     global_step = 0
@@ -747,6 +630,12 @@ def main():
         early_stopping = EarlyStopping(patience=args.patience, min_delta=args.min_delta, verbose=True)
         best_model_path = os.path.join(args.output_dir, 'best_model.pt')
 
+        # Initialize loss function
+        if args.focal_loss:
+            criterion = FocalLoss(alpha=args.focal_alpha, gamma=args.focal_gamma)
+        else:
+            criterion = CrossEntropyLoss(label_smoothing=args.label_smoothing)
+        
         model.train()
         for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             tr_loss = 0
@@ -754,7 +643,17 @@ def main():
             for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
                 batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, label_ids = batch
-                loss = model(input_ids, attention_mask=input_mask, labels=label_ids).loss
+                
+                # Forward pass
+                outputs = model(input_ids, attention_mask=input_mask)
+                logits = outputs.logits
+                
+                # Calculate loss
+                if args.focal_loss:
+                    loss = criterion(logits, label_ids)
+                else:
+                    loss = criterion(logits, label_ids)
+                
                 if n_gpu > 1:
                     loss = loss.mean() # mean() to average on multi-gpu.
                 if args.gradient_accumulation_steps > 1:
@@ -845,8 +744,35 @@ def main():
         eval_loss = eval_loss / nb_eval_steps
         eval_accuracy = eval_accuracy / nb_eval_examples
         loss = tr_loss/nb_tr_steps if args.do_train else None
+        
+        # Calculate additional metrics
+        all_predictions = []
+        all_labels = []
+        model.eval()
+        for input_ids, input_mask, label_ids in tqdm(eval_dataloader, desc="Calculating metrics"):
+            input_ids = input_ids.to(device)
+            input_mask = input_mask.to(device)
+            label_ids = label_ids.to(device)
+
+            with torch.no_grad():
+                outputs = model(input_ids, attention_mask=input_mask)
+                logits = outputs.logits.detach().cpu().numpy()
+                label_ids = label_ids.to('cpu').numpy()
+                
+                predictions = np.argmax(logits, axis=1)
+                all_predictions.extend(predictions)
+                all_labels.extend(label_ids)
+        
+        # Calculate precision, recall, f1
+        precision = precision_score(all_labels, all_predictions, average='weighted')
+        recall = recall_score(all_labels, all_predictions, average='weighted')
+        f1 = f1_score(all_labels, all_predictions, average='weighted')
+        
         result = {'eval_loss': eval_loss,
                   'eval_accuracy': eval_accuracy,
+                  'eval_precision': precision,
+                  'eval_recall': recall,
+                  'eval_f1_score': f1,
                   'global_step': global_step,
                   'loss': loss}
 
@@ -857,6 +783,7 @@ def main():
                 logger.info("  %s = %s", key, str(result[key]))
                 writer.write("%s = %s\n" % (key, str(result[key])))
 
+# tính toán để tổng hợp ra kết quả
     if args.do_predict and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
         predict_examples = processor.get_test_examples(args.data_dir)
         predict_features = convert_examples_to_features(predict_examples, label_list, args.max_seq_length, tokenizer, print_info = True)
