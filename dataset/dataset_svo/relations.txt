@@ -1,83 +1,583 @@
-Bán
-Cầm
-Lao
+app
+ban
+bao gồm
+bàn tay
+bàn tay gõ
+bàn tay mở
+bày
 bán
+bón
+bơi
 bảo
+bảo đảm
+bấm
+bật
+bắn
+bắt tay
+bế
+bị
+bị bóp
+bị bạo lực
+bị bắn
+bị chiến đấu
+bị cháy
+bị chém
+bị chạm
+bị chảy
+bị chập
+bị chửi
+bị cào
+bị dao
+bị dìm
+bị dội
+bị giật
+bị gãy
+bị hắt
+bị kéo
+bị kẹt
+bị máu
+bị ngã
+bị ném
+bị nổ
+bị nổ tung
+bị phun
+bị rơi
+bị rượt đuổi
+bị thương
+bị trói
+bị trượt
+bị tát
+bị té
+bị tấn công
+bị va
+bị văng
+bị vấp
+bị vỡ
+bị xích
+bị xô
+bị điện
+bị đánh
+bị đâm
+bị đè
+bị đạp
+bị đấm
+bị đẩy
+bị đập
+bị đốt
+bị đổ
+bốc
+bốn người
+cam kết
+camera
+catwalk
+chia sẻ
+chiếu
+cho
+cho biết
+cho phép
 cho thấy
+chuyển
+chuẩn
+chuẩn bị
+chào
+chèo
+chăm sóc
 chĩa
+chơi
+chơi game
 chạy
-chặt
+chải
+chảy
+chậm
+chắp
+chế giễu
+chỉ
+chỉ trích
+chỉnh
+chọn
 chụp
+chứa
+chữa viêm xoang vĩnh viễn
+câu
+cãi
 có
+cùng
+cúi
 cười
+cạo
+cảnh
+cất
 cầm
-cổ vũ
+cầu
+cận
+cận mặt
+cắm
+cắn
+cắt
 cởi
+cởi áo khoác khoe
 cụng
-của
-dựa vào
-giải tỏa
+di chuyển
+dán
+dùng
+dùng để
+dưỡng
+dạy
+dầu gội
+dắt
+dịch vụ
+dọn
+dọn dẹp
+dừng
+dự đoán
+dựa
+film
+ghi
+ghi hình
+ghi lại
+giao
+gieo
+giúp
+giơ
+giả lập
+giả mạo
+giảng
+giật
+giằng co
 giới thiệu
+gánh
+gói
 gõ
+gấp
+gật
+gắn
+gặt
 gọi
+gọt
+gội
 hiển thị
+hiện
+hoạt động
+hàn
+hành động
+hát
 hét
+hình ảnh rùng rợn để quảng cáo
+hò
+hóa
+hóa thân
+hô
 hôn
+húc
+hướng dẫn
+hạ
+hất
+học
+hứa
 khoe
 khoác
+khui
 khuyên
+khuyến khích
+khóc
+khấn
+khẳng định
+khỏa thân
+kiếm
+kiểm
+kiểm soát
+kiểm tra
 kéo
-lao
+kênh
+kêu gọi
+kích hoạt
+ký
+kể
+lan truyền
+lau
+lia
+livestream
+liên quan
 liếc
 liếm
-là
+loang
+logo
 làm
+làm giả
+làm sạch
+lái
+lái xe
+lướt
+lập trình viên
+lắp
+lắp ráp
+lắp đặt
+lồng ghép
+lồng tiếng
 mua
+màn hình cong
+màu
+máy ảnh
+mô phỏng
 mô tả
+mạnh
 mặc
+mẹo
+mỉm
+mỉm cười
+mời
+mở
 nghe
+nghiêng
+ngân hàng
+ngã
+người bị tai nạn xe để bán
+người cười nói
+người mẫu thử
+người mẫu đi
+người đàn ông
 ngả
+ngắm
 ngồi
+ngụy trang
+ngủ
+ngửi
+nhiều lần
+nhào bột
+nhân viên tư vấn cười nói
+nhét tai
+nhìn
 nhảy
-nhấn
 nhấp
+nhấp nháy
+nhận
+nhập
+nhắm
 nâng
 ném
 nói
+nước
+nước thần dưỡng da
+nước uống
+nướng
+nấu
+nắm
 nằm
 nằm gục
-phá
+nếm thử
+nổ
+pha
+phun
+phác thảo
+phát
+phát tán
+phản chiếu
+phần mềm
+phục vụ
 quay
+quét
 quăng
+quản lý
+quảng bá
+quảng cáo
+quấn
+quỳ
+ru
 rót
+rơi
 rượt đuổi
+rải
+rửa
+so sánh
+soi
+sơn
+sải
+sản phẩm
+sắp xếp
 sử dụng
-thì thầm
+sửa
+tham gia
+thanh toán
+thay
+thay đổi
+theo dõi
+thiết kế
+thiết lập
+thiền
+thoa
+thu
+thu hoạch
+thuyết
+thuốc
+thuốc chữa khỏi tiểu đường vĩnh viễn
+thân mật
+thông tin
+thảo
+thảo luận
+thắp
+thể hiện
+thổi
 thử
+thực
+tiêm
+tra cứu
+tra tấn
+trang
+trang trí
+trang điểm
+trao
+truyền bá
 tràn
+trình bày
+trình diễn
+trò chuyện
+trượt
+trả
+trị ung thư bằng lá cây
+trồng
+trộn
+tuyên bố
 tát
+tóc
+tô
+tông
+túm
+tăng lượt xem TikTok
+tư vấn
+tưới
+tạo
 tạo dáng
+tải
+tập
+tập trung
 tụ tập
+tự động
+tựa
+tựa lưng
 uốn
+uốn người
+uốn éo
 uống
+viết
 vuốt
-vuốt ve
-vá
+vòng
+vươn
+vẩy
+vẫy
 vật
 vật lộn
-với
+vẽ
+vừa hát vừa nâng
+xay
 xem
 xuất hiện
+xây
 xô
 xông vào
+xếp
+xịt
+xỏ
+ép
 ôm
+ôm hôn
 ăn
+đan
+đang
+đang biểu diễn
+đang buộc
+đang bày
+đang báo cáo
+đang bôi
+đang bấm
+đang bật
+đang bế
+đang chia sẻ
+đang chiên
+đang cho
+đang chuẩn bị
+đang chào
+đang chăm
+đang chơi
+đang chạy
+đang chải
+đang chấm
+đang chỉ
+đang chỉ dẫn
+đang chỉnh
+đang chọn
+đang chờ
+đang chụp
+đang cài
+đang cười
+đang cầm
+đang cắm
+đang cắt
+đang duỗi
+đang dán
+đang dùng
+đang dạy
+đang dắt
+đang dọn
+đang dừng
+đang dựng
+đang ghi
+đang giao
+đang giãn
+đang giúp
+đang giải
+đang giải thích
+đang giảng
+đang giặt
+đang giới thiệu
+đang gói
+đang gõ
+đang gấp
+đang gắn
+đang gọi
+đang gọt
+đang gội
+đang gửi
+đang hoàn thiện
+đang hái
+đang hát
+đang hít
+đang hướng
+đang hướng dẫn
+đang học
+đang họp
+đang hỏi
+đang in
+đang khởi động
+đang kiểm tra
+đang kéo
+đang kể
+đang leo
+đang làm
+đang lái
+đang lướt
+đang lắng nghe
+đang lắp
+đang massage
+đang mua
+đang mở
+đang nghe
+đang nghiên cứu
+đang ngắm
+đang ngồi
+đang nhìn
+đang nhóm
+đang nhảy
+đang nhập
+đang nhắn
+đang nhặt
+đang nâng
+đang ném
+đang nêm
+đang nói
+đang nướng
+đang nấu
+đang nằm
+đang pha
+đang photo
+đang phân tích
+đang phối
+đang qua
+đang quan sát
+đang quay
+đang quét
+đang ru
+đang rót
+đang rửa
+đang soi
+đang soạn
+đang sấy
+đang sắp
+đang sắp xếp
+đang sử dụng
+đang sửa
+đang tham dự
+đang tham gia
+đang thao tác
+đang thay
+đang thiền
+đang thoa
+đang thuyết
+đang thuyết trình
+đang thái
+đang thảo luận
+đang thử
+đang tra
+đang trang
+đang trang trí
+đang trình bày
+đang trả
+đang trả lời
+đang tìm
+đang tư vấn
+đang tưới
+đang tập
+đang tập thể dục
+đang tắm
+đang tổng hợp
+đang uốn
+đang uống
+đang viết
+đang vươn
+đang vẫy
+đang vận hành
+đang vẽ
+đang vỗ
+đang xem
+đang xoay
+đang xếp
+đang xịt
+đang ăn
+đang đi
+đang điều chỉnh
+đang điều khiển
+đang đo
+đang đá
+đang đánh
+đang đóng
+đang đăng
+đang đạp
+đang đắp
+đang đặt
+đang đọc
+đang đổ
+đang đội
+đang đợi
+đang đứng
 đe dọa
+đeo
 đi
+điền
+điều khiển
+đo
+đuổi
+đá
 đánh
+đánh giá
+đón
+đóng
+đóng gói
+đùa
+đưa
 được
 đạp
+đảm bảo
 đấm
+đầu tư
+đẩy
 đập
 đặt
+đặt vé
+đọc
+đọc trộm
+đốt
+đổ
+đỗ
+đội
 đứng
+ẩu đả
+ứng dụng

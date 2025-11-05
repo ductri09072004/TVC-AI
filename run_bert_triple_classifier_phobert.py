@@ -106,7 +106,10 @@ class DataProcessor(object):
             for line in reader:
                 if sys.version_info[0] == 2:
                     line = list(unicode(cell, 'utf-8') for cell in line)
-                lines.append(line)
+                # Skip empty/noise lines
+                if not line or all((c is None or str(c).strip() == "") for c in line):
+                    continue
+                lines.append([c.strip() if isinstance(c, str) else c for c in line])
             return lines
 
 
@@ -119,21 +122,21 @@ class KGProcessor(DataProcessor):
     def get_train_examples(self, data_dir):
         """See base class."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "train.txt")), "train")
+            self._read_tsv(os.path.join(data_dir, "dataset_svo/train.txt")), "train")
 
     def get_dev_examples(self, data_dir):
         """See base class."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "dev.txt")), "dev")
+            self._read_tsv(os.path.join(data_dir, "dataset_svo/dev.txt")), "dev")
 
     def get_test_examples(self, data_dir):
       """See base class."""
       return self._create_examples(
-          self._read_tsv(os.path.join(data_dir, "test.txt")), "test")
+          self._read_tsv(os.path.join(data_dir, "dataset_svo/test.txt")), "test")
 
     def get_relations(self, data_dir):
         """Gets all relations in the knowledge graph."""
-        rel_path = os.path.join(data_dir, "relations.txt")
+        rel_path = os.path.join(data_dir, "dataset_svo/relations.txt")
         if not os.path.exists(rel_path):
             return []
         with open(rel_path, 'r', encoding='utf-8') as f:
@@ -146,14 +149,14 @@ class KGProcessor(DataProcessor):
 
     def get_entities(self, data_dir):
         """Gets all entities (union of subjects/objects if needed)."""
-        ent_path = os.path.join(data_dir, "entities.txt")
+        ent_path = os.path.join(data_dir, "dataset_svo/entities.txt")
         if os.path.exists(ent_path):
             with open(ent_path, 'r', encoding='utf-8') as f:
                 return [line.strip() for line in f if line.strip()]
         # Fallback: merge subjects.txt and objects.txt
         entities = set()
-        subj_path = os.path.join(data_dir, 'subjects.txt')
-        obj_path = os.path.join(data_dir, 'objects.txt')
+        subj_path = os.path.join(data_dir, 'dataset_svo/subjects.txt')
+        obj_path = os.path.join(data_dir, 'dataset_svo/objects.txt')
         if os.path.exists(subj_path):
             with open(subj_path, 'r', encoding='utf-8') as f:
                 entities.update(line.strip() for line in f if line.strip())
@@ -164,18 +167,18 @@ class KGProcessor(DataProcessor):
 
     def get_train_triples(self, data_dir):
         """Gets training triples."""
-        return self._read_tsv(os.path.join(data_dir, "train.txt"))
+        return self._read_tsv(os.path.join(data_dir, "dataset_svo/train.txt"))
 
     def get_dev_triples(self, data_dir):
         """Gets validation triples."""
-        return self._read_tsv(os.path.join(data_dir, "dev.txt"))
+        return self._read_tsv(os.path.join(data_dir, "dataset_svo/dev.txt"))
 
     def get_test_triples(self, data_dir):
         """Gets test triples."""
-        return self._read_tsv(os.path.join(data_dir, "test.txt"))
+        return self._read_tsv(os.path.join(data_dir, "dataset_svo/test.txt"))
 
     def get_subject2text(self, data_dir):
-        path = os.path.join(data_dir, 'subject2text.txt')
+        path = os.path.join(data_dir, 'dataset_svo/subject2text.txt')
         mapping = {}
         if os.path.exists(path):
             try:
@@ -194,7 +197,7 @@ class KGProcessor(DataProcessor):
         return mapping
 
     def get_object2text(self, data_dir):
-        path = os.path.join(data_dir, 'object2text.txt')
+        path = os.path.join(data_dir, 'dataset_svo/object2text.txt')
         mapping = {}
         if os.path.exists(path):
             try:
@@ -215,9 +218,9 @@ class KGProcessor(DataProcessor):
     def get_entity2text(self, data_dir):
         """Gets entity to text mapping."""
         entity2text = {}
-        entity2text_path = os.path.join(data_dir, "entity2text.txt")
-        subj2_path = os.path.join(data_dir, "subject2text.txt")
-        obj2_path = os.path.join(data_dir, "object2text.txt")
+        entity2text_path = os.path.join(data_dir, "dataset_svo/entity2text.txt")
+        subj2_path = os.path.join(data_dir, "dataset_svo/subject2text.txt")
+        obj2_path = os.path.join(data_dir, "dataset_svo/object2text.txt")
         if os.path.exists(entity2text_path):
             try:
                 with open(entity2text_path, 'r', encoding='utf-8') as f:
@@ -258,7 +261,7 @@ class KGProcessor(DataProcessor):
     def get_relation2text(self, data_dir):
         """Gets relation to text mapping."""
         relation2text = {}
-        relation2text_path = os.path.join(data_dir, "relation2text.txt")
+        relation2text_path = os.path.join(data_dir, "dataset_svo/relation2text.txt")
         if os.path.exists(relation2text_path):
             try:
                 with open(relation2text_path, 'r', encoding='utf-8') as f:
@@ -307,6 +310,11 @@ class KGProcessor(DataProcessor):
             raw_rel = line[1] if line[1] else ""
             raw_tail = line[2] if line[2] else ""
 
+            # Bỏ qua header nếu vô tình lẫn trong file (subject, verb/relation, object, label)
+            header_like = {raw_head.lower(), raw_rel.lower(), raw_tail.lower()}
+            if {"subject", "s"} & header_like and {"verb", "relation", "v"} & header_like:
+                continue
+
             # Prefer role-specific text; fallback to entity2text; fallback to raw
             head_text = subj2.get(raw_head) or entity2text.get(raw_head, raw_head)
             relation_text = relation2text.get(raw_rel, raw_rel)
@@ -326,7 +334,13 @@ class KGProcessor(DataProcessor):
                 continue  # Bỏ qua nếu không có text
             
             text_b = None
-            label = line[3] if len(line) > 3 else "0"  # Label là cột thứ 4, mặc định là "0"
+            # Chuẩn hóa nhãn về chuỗi "0"/"1"
+            raw_label = line[3] if len(line) > 3 else "0"
+            try:
+                label = str(int(float(str(raw_label).strip())))
+            except Exception:
+                # Nếu header/không hợp lệ, bỏ qua dòng
+                continue
             
             examples.append(
                 InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
