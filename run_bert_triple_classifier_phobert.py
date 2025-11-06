@@ -21,6 +21,7 @@ from __future__ import absolute_import, division, print_function
 import argparse
 import csv
 import logging
+import json
 import os
 import random
 import sys
@@ -484,6 +485,23 @@ def _softmax(x):
     exp_x = np.exp(x - max_x)
     return exp_x / np.sum(exp_x, axis=1).reshape((-1, 1))
 
+def focal_loss(logits: torch.Tensor, targets: torch.Tensor, gamma: float = 2.0, weights: torch.Tensor = None) -> torch.Tensor:
+    """Binary/multiclass focal loss on logits.
+    logits: (N, C), targets: (N,) with class indices
+    """
+    log_prob = torch.nn.functional.log_softmax(logits, dim=1)
+    prob = torch.exp(log_prob)
+    n = logits.size(0)
+    c = logits.size(1)
+    one_hot = torch.zeros_like(logits).scatter_(1, targets.view(-1, 1), 1)
+    pt = (one_hot * prob).sum(dim=1)
+    loss = -((1 - pt) ** gamma) * (one_hot * log_prob).sum(dim=1)
+    if weights is not None:
+        class_w = weights.to(logits.device)
+        w = (one_hot * class_w.view(1, -1)).sum(dim=1)
+        loss = loss * w
+    return loss.mean()
+
 def accuracy(out, labels):
     outputs = np.argmax(out, axis=1)
     return np.sum(outputs == labels)
@@ -619,6 +637,14 @@ def main():
                         type=float,
                         default=0.001,
                         help="Minimum change in the monitored quantity to qualify as an improvement")
+    # New: loss & regularization options
+    parser.add_argument('--loss_type', type=str, default='ce', choices=['ce', 'label_smoothing', 'focal'],
+                        help='Loại loss: ce (mặc định), label_smoothing, focal')
+    parser.add_argument('--label_smoothing', type=float, default=0.1, help='Hệ số label smoothing cho CE')
+    parser.add_argument('--focal_gamma', type=float, default=2.0, help='Gamma cho focal loss')
+    parser.add_argument('--class_weights', type=str, default='', help='Trọng số lớp, ví dụ: "1.0,2.0" (cho [0,1])')
+    # New: threshold tuning
+    parser.add_argument('--tune_threshold', action='store_true', help='Tự động tìm ngưỡng tốt nhất trên Dev và lưu ra threshold.json')
     args = parser.parse_args()
 
     # Default data_dir to ./dataset if not provided or empty
@@ -761,6 +787,26 @@ def main():
         early_stopping = EarlyStopping(patience=args.patience, min_delta=args.min_delta, verbose=True)
         best_model_path = os.path.join(args.output_dir, 'best_model.pt')
 
+        # Prepare loss function
+        class_w_tensor = None
+        if args.class_weights:
+            try:
+                ws = [float(x) for x in args.class_weights.split(',')]
+                if len(ws) == num_labels:
+                    class_w_tensor = torch.tensor(ws, dtype=torch.float32)
+            except Exception:
+                class_w_tensor = None
+        # Đưa weight lên đúng device để tránh lỗi CPU/CUDA mismatch
+        if class_w_tensor is not None:
+            class_w_tensor = class_w_tensor.to(device)
+
+        if args.loss_type == 'label_smoothing':
+            criterion = torch.nn.CrossEntropyLoss(label_smoothing=args.label_smoothing, weight=class_w_tensor)
+        elif args.loss_type == 'ce':
+            criterion = torch.nn.CrossEntropyLoss(weight=class_w_tensor)
+        else:
+            criterion = None  # focal uses custom function
+
         model.train()
         for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             tr_loss = 0
@@ -768,7 +814,12 @@ def main():
             for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
                 batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, label_ids = batch
-                loss = model(input_ids, attention_mask=input_mask, labels=label_ids).loss
+                outputs = model(input_ids, attention_mask=input_mask)
+                logits = outputs.logits
+                if args.loss_type == 'focal':
+                    loss = focal_loss(logits, label_ids, gamma=args.focal_gamma, weights=class_w_tensor)
+                else:
+                    loss = criterion(logits, label_ids)
                 if n_gpu > 1:
                     loss = loss.mean() # mean() to average on multi-gpu.
                 if args.gradient_accumulation_steps > 1:
@@ -836,15 +887,23 @@ def main():
         model.eval()
         eval_loss, eval_accuracy = 0, 0
         nb_eval_steps, nb_eval_examples = 0, 0
+        all_logits_list = []
+        all_labels_list = []
         for input_ids, input_mask, label_ids in tqdm(eval_dataloader, desc="Evaluating"):
             input_ids = input_ids.to(device)
             input_mask = input_mask.to(device)
             label_ids = label_ids.to(device)
 
             with torch.no_grad():
-                outputs = model(input_ids, attention_mask=input_mask, labels=label_ids)
-                tmp_eval_loss = outputs.loss
+                outputs = model(input_ids, attention_mask=input_mask)
                 logits = outputs.logits
+                # Use same loss as training for proper early stopping signal
+                if args.loss_type == 'focal':
+                    tmp_eval_loss = focal_loss(logits, label_ids, gamma=args.focal_gamma, weights=class_w_tensor)
+                else:
+                    tmp_eval_loss = (torch.nn.CrossEntropyLoss(label_smoothing=args.label_smoothing, weight=class_w_tensor)
+                                     if args.loss_type == 'label_smoothing'
+                                     else torch.nn.CrossEntropyLoss(weight=class_w_tensor))(logits, label_ids)
 
             logits = logits.detach().cpu().numpy()
             label_ids = label_ids.to('cpu').numpy()
@@ -855,6 +914,8 @@ def main():
 
             nb_eval_examples += input_ids.size(0)
             nb_eval_steps += 1
+            all_logits_list.append(logits)
+            all_labels_list.append(label_ids)
 
         eval_loss = eval_loss / nb_eval_steps
         eval_accuracy = eval_accuracy / nb_eval_examples
@@ -870,6 +931,22 @@ def main():
             for key in sorted(result.keys()):
                 logger.info("  %s = %s", key, str(result[key]))
                 writer.write("%s = %s\n" % (key, str(result[key])))
+
+        # Threshold tuning (optional)
+        if args.tune_threshold:
+            all_logits = np.concatenate(all_logits_list, axis=0)
+            all_labels = np.concatenate(all_labels_list, axis=0)
+            probs_pos = _softmax(all_logits)[:, 1]
+            best_t, best_f1 = 0.5, -1.0
+            for t in np.linspace(0.3, 0.9, 61):
+                preds = (probs_pos >= t).astype(int)
+                f1 = f1_score(all_labels, preds, average='binary', zero_division=0)
+                if f1 > best_f1:
+                    best_f1, best_t = f1, t
+            thr_path = os.path.join(args.output_dir, 'threshold.json')
+            with open(thr_path, 'w') as f:
+                json.dump({"best_threshold": round(float(best_t), 4), "dev_f1": round(float(best_f1), 4)}, f, indent=2)
+            logger.info("Saved best threshold %.4f (F1=%.4f) to %s", best_t, best_f1, thr_path)
 
     if args.do_predict and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
         predict_examples = processor.get_test_examples(args.data_dir)

@@ -7,10 +7,12 @@ import pandas as pd
 import os
 import numpy as np
 from collections import defaultdict
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Dict, Any
 import io
+import argparse
+import json
 
-# Cấu hình
+# Cấu hình mặc định (có thể override qua CLI)
 INPUT_FILE = "data/dataset_real.csv"
 OUTPUT_DIR = "dataset/dataset_svo"
 TRAIN_RATIO = 0.8
@@ -20,6 +22,7 @@ TEST_RATIO = 0.1
 # Nếu None, script sẽ cố gắng tự đoán: ['video_id','video','file','filename','source_video','uid']
 GROUP_COL: Optional[str] = None
 RANDOM_STATE = 42
+WRITE_JSON_SUMMARY = True
 
 def ensure_output_dir():
     """Tạo thư mục output nếu chưa có"""
@@ -232,6 +235,36 @@ def create_triple_files(train_df, dev_df, test_df):
         part.reset_index(drop=True)[cols + extra_cols].to_csv(manifest_path, index=False, encoding="utf-8")
         print(f"  Created {manifest_path} ({len(part)} rows)")
 
+def _compute_split_stats(df: pd.DataFrame, name: str, group_col: Optional[str]) -> Dict[str, Any]:
+    stats: Dict[str, Any] = {
+        "name": name,
+        "num_rows": int(len(df)),
+        "label_0": int((df["label"] == 0).sum()) if "label" in df.columns else None,
+        "label_1": int((df["label"] == 1).sum()) if "label" in df.columns else None,
+    }
+    if stats["num_rows"] and "label" in df.columns:
+        stats["pct_label_0"] = round(stats["label_0"] / stats["num_rows"] * 100.0, 2) if stats["label_0"] is not None else None
+        stats["pct_label_1"] = round(stats["label_1"] / stats["num_rows"] * 100.0, 2) if stats["label_1"] is not None else None
+    if group_col and group_col in df.columns:
+        stats["num_groups"] = int(df[group_col].nunique())
+    return stats
+
+def _check_group_leakage(train_df: pd.DataFrame, dev_df: pd.DataFrame, test_df: pd.DataFrame, group_col: Optional[str]) -> Dict[str, Any]:
+    result: Dict[str, Any] = {"group_col": group_col, "leakages": {}}
+    if not group_col or group_col not in train_df.columns:
+        return result
+    g_train = set(train_df[group_col].astype(str))
+    g_dev = set(dev_df[group_col].astype(str))
+    g_test = set(test_df[group_col].astype(str))
+    leak_td = sorted(list(g_train & g_dev))
+    leak_tt = sorted(list(g_train & g_test))
+    leak_dt = sorted(list(g_dev & g_test))
+    result["leakages"]["train_dev"] = leak_td[:20]
+    result["leakages"]["train_test"] = leak_tt[:20]
+    result["leakages"]["dev_test"] = leak_dt[:20]
+    result["has_leakage"] = any([leak_td, leak_tt, leak_dt])
+    return result
+
 def create_entity_mapping_files(train_df, dev_df, test_df):
     """Tạo các file mapping cho subject, object, relation"""
     print("\nCreating entity mapping files...")
@@ -336,12 +369,59 @@ def create_statistics(train_df, dev_df, test_df):
     with open(stats_path, 'w', encoding='utf-8') as f:
         f.writelines(stats)
     print(f"  Created {stats_path}")
+    # JSON summary (tùy chọn)
+    if WRITE_JSON_SUMMARY:
+        group_col = _detect_group_column(pd.concat([train_df, dev_df, test_df], axis=0, ignore_index=True))
+        json_stats = {
+            "splits": [
+                _compute_split_stats(train_df, "train", group_col),
+                _compute_split_stats(dev_df, "dev", group_col),
+                _compute_split_stats(test_df, "test", group_col),
+            ]
+        }
+        leakage = _check_group_leakage(train_df, dev_df, test_df, group_col)
+        json_stats["group_leakage"] = leakage
+        json_path = os.path.join(OUTPUT_DIR, "dataset_stats.json")
+        with open(json_path, 'w', encoding='utf-8') as jf:
+            json.dump(json_stats, jf, ensure_ascii=False, indent=2)
+        print(f"  Created {json_path}")
 
 def main():
     """Hàm chính"""
+    global INPUT_FILE, OUTPUT_DIR, TRAIN_RATIO, DEV_RATIO, TEST_RATIO, GROUP_COL, RANDOM_STATE, WRITE_JSON_SUMMARY
+
+    parser = argparse.ArgumentParser(description="Split dataset into train/dev/test with stratified group strategy")
+    parser.add_argument("--input", default=INPUT_FILE, help="Đường dẫn file CSV đầu vào")
+    parser.add_argument("--out_dir", default=OUTPUT_DIR, help="Thư mục output (dataset_svo)")
+    parser.add_argument("--train_ratio", type=float, default=TRAIN_RATIO)
+    parser.add_argument("--dev_ratio", type=float, default=DEV_RATIO)
+    parser.add_argument("--test_ratio", type=float, default=TEST_RATIO)
+    parser.add_argument("--group_col", type=str, default=GROUP_COL, help="Tên cột group (tùy chọn)")
+    parser.add_argument("--seed", type=int, default=RANDOM_STATE)
+    parser.add_argument("--no_json_summary", action="store_true", help="Không ghi file dataset_stats.json")
+    args = parser.parse_args()
+
+    # Apply overrides
+    INPUT_FILE = args.input
+    OUTPUT_DIR = args.out_dir
+    TRAIN_RATIO = args.train_ratio
+    DEV_RATIO = args.dev_ratio
+    TEST_RATIO = args.test_ratio
+    GROUP_COL = args.group_col
+    RANDOM_STATE = args.seed
+    WRITE_JSON_SUMMARY = not args.no_json_summary
+
+    # Validate ratios
+    total_ratio = TRAIN_RATIO + DEV_RATIO + TEST_RATIO
+    if not (0.999 <= total_ratio <= 1.001):
+        raise ValueError(f"Tổng tỷ lệ phải = 1.0, hiện tại = {total_ratio}")
+    if min(TRAIN_RATIO, DEV_RATIO, TEST_RATIO) < 0:
+        raise ValueError("Các tỷ lệ không được âm")
+
     print("=" * 60)
     print("Dataset Splitter for BERT Training")
     print("=" * 60)
+    print(f"Config: input={INPUT_FILE}, out_dir={OUTPUT_DIR}, ratios=({TRAIN_RATIO},{DEV_RATIO},{TEST_RATIO}), seed={RANDOM_STATE}, group_col={GROUP_COL}")
     
     # Tạo thư mục output
     ensure_output_dir()

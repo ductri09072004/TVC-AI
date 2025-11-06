@@ -20,7 +20,6 @@
   "num_hidden_layers": 12,
   "pad_token_id": 1,
   "position_embedding_type": "absolute",
-  "problem_type": "single_label_classification",
   "tokenizer_class": "PhobertTokenizer",
   "torch_dtype": "float32",
   "transformers_version": "4.45.2",

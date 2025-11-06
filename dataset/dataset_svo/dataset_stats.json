@@ -1,0 +1,32 @@
+{
+  "splits": [
+    {
+      "name": "train",
+      "num_rows": 4633,
+      "label_0": 2480,
+      "label_1": 2153,
+      "pct_label_0": 53.53,
+      "pct_label_1": 46.47
+    },
+    {
+      "name": "dev",
+      "num_rows": 926,
+      "label_0": 495,
+      "label_1": 431,
+      "pct_label_0": 53.46,
+      "pct_label_1": 46.54
+    },
+    {
+      "name": "test",
+      "num_rows": 232,
+      "label_0": 124,
+      "label_1": 108,
+      "pct_label_0": 53.45,
+      "pct_label_1": 46.55
+    }
+  ],
+  "group_leakage": {
+    "group_col": null,
+    "leakages": {}
+  }
+}
