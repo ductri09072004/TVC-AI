@@ -1,12 +1,19 @@
+Trang trí
 app
 ban
 bao gồm
+bao quanh
+buổi sáng
+buộc
 bàn tay
 bàn tay gõ
 bàn tay mở
+bành
 bày
+bày biện
 bán
 bón
+bóp
 bơi
 bảo
 bảo đảm
@@ -70,6 +77,8 @@ bốn người
 cam kết
 camera
 catwalk
+che
+che mặt
 chia sẻ
 chiếu
 cho
@@ -80,11 +89,14 @@ chuyển
 chuẩn
 chuẩn bị
 chào
+cháy
 chèo
+chăm chú
 chăm sóc
 chĩa
 chơi
 chơi game
+chạm
 chạy
 chải
 chảy
@@ -92,17 +104,24 @@ chậm
 chắp
 chế giễu
 chỉ
+chỉ tay
 chỉ trích
 chỉnh
 chọn
+chớp
+chớp nháy
 chụp
 chứa
-chữa viêm xoang vĩnh viễn
+code
+cuộn
+cài
 câu
 cãi
 có
 cùng
 cúi
+cúi đầu
+căng thẳng
 cười
 cạo
 cảnh
@@ -117,8 +136,12 @@ cắt
 cởi
 cởi áo khoác khoe
 cụng
+của
 di chuyển
+du lịch
+dài
 dán
+dính
 dùng
 dùng để
 dưỡng
@@ -126,6 +149,7 @@ dạy
 dầu gội
 dắt
 dịch vụ
+dịu
 dọn
 dọn dẹp
 dừng
@@ -135,28 +159,36 @@ film
 ghi
 ghi hình
 ghi lại
+gia đình
 giao
 gieo
 giúp
 giơ
+giơ cao
 giả lập
 giả mạo
 giảng
 giật
 giằng co
 giới thiệu
+giữ
 gánh
 gói
 gõ
+gượng cười
 gấp
+gập
 gật
 gắn
 gặt
 gọi
 gọt
 gội
+gỡ
+gục
 hiển thị
 hiện
+hiện lên
 hoạt động
 hàn
 hành động
@@ -167,19 +199,26 @@ hò
 hóa
 hóa thân
 hô
+hô hào
 hôn
 húc
 hướng dẫn
 hạ
 hất
+hắt
 học
+họp
 hứa
+in
+in mờ
 khoe
 khoác
 khui
 khuyên
 khuyến khích
+khép
 khóc
+khói
 khấn
 khẳng định
 khỏa thân
@@ -193,13 +232,17 @@ kêu gọi
 kích hoạt
 ký
 kể
+lan
 lan truyền
+lan tỏa
 lau
 lia
 livestream
 liên quan
 liếc
 liếm
+lo lắng
+lo âu
 loang
 logo
 làm
@@ -207,34 +250,52 @@ làm giả
 làm sạch
 lái
 lái xe
+lóe
+lúa
 lướt
 lập trình viên
+lật
 lắp
 lắp ráp
 lắp đặt
 lồng ghép
 lồng tiếng
+lộ
 mua
 màn hình cong
 màu
+màu xanh
+màu đỏ
+máy tính
 máy ảnh
 mô phỏng
 mô tả
 mạnh
 mặc
 mẹo
+mệt mỏi
 mỉm
 mỉm cười
+mờ
+mờ dần
+mờ nhạt
+mờ nước
+mờ đi
 mời
 mở
+mở rộng
 nghe
+nghi ngút
+nghiên cứu
 nghiêng
+ngáp
 ngân hàng
 ngã
 người bị tai nạn xe để bán
 người cười nói
 người mẫu thử
 người mẫu đi
+người trẻ
 người đàn ông
 ngả
 ngắm
@@ -247,17 +308,25 @@ nhào bột
 nhân viên tư vấn cười nói
 nhét tai
 nhìn
+nhăn nhó
 nhảy
+nhấn
 nhấp
 nhấp nháy
 nhận
 nhập
 nhắm
+nhặt
+nhẹ nhàng
+nhỏ
+nhợt nhạt
 nâng
 ném
 nói
+nóng
+nóng hổi
 nước
-nước thần dưỡng da
+nước lọc
 nước uống
 nướng
 nấu
@@ -266,14 +335,19 @@ nằm
 nằm gục
 nếm thử
 nổ
+nở
 pha
+phong cảnh
 phun
 phác thảo
 phát
+phát ra
+phát sáng
 phát tán
 phản chiếu
 phần mềm
 phục vụ
+phủ
 quay
 quét
 quăng
@@ -283,19 +357,28 @@ quảng cáo
 quấn
 quỳ
 ru
+run
 rót
 rơi
 rượt đuổi
 rải
+rọi
 rửa
+siết
 so sánh
+sofa
 soi
+stream
+sáng màu
 sơn
 sải
 sản phẩm
+sắp
 sắp xếp
 sử dụng
 sửa
+sữa
+tay
 tham gia
 thanh toán
 thay
@@ -309,40 +392,51 @@ thu
 thu hoạch
 thuyết
 thuốc
-thuốc chữa khỏi tiểu đường vĩnh viễn
 thân mật
+thò
 thông tin
 thảo
 thảo luận
+thất thần
 thắp
+thắt
 thể hiện
 thổi
+thủy tinh
 thử
 thực
 tiêm
+tra
 tra cứu
 tra tấn
+trag điểm
 trang
 trang trí
 trang điểm
 trao
+treo
+trong
+trong suốt
+trong trẻo
+trong vắt
 truyền bá
 tràn
+trên
 trình bày
 trình diễn
+trò
 trò chuyện
 trượt
 trả
-trị ung thư bằng lá cây
 trồng
 trộn
 tuyên bố
+tái xanh
 tát
 tóc
 tô
 tông
 túm
-tăng lượt xem TikTok
 tư vấn
 tưới
 tạo
@@ -350,7 +444,13 @@ tạo dáng
 tải
 tập
 tập trung
+tỉa
+tỏa
 tụ tập
+từ cửa sổ
+từ màn hình
+từ đèn
+tự xưng
 tự động
 tựa
 tựa lưng
@@ -362,24 +462,34 @@ viết
 vuốt
 vòng
 vươn
+vương
 vẩy
 vẫy
 vật
 vật lộn
+vắng
 vẽ
+với
 vừa hát vừa nâng
+xanh
+xanh nhỏ
 xay
 xem
+xuyên
 xuất hiện
 xây
+xé
 xô
 xông vào
 xếp
 xịt
 xỏ
+yếu
+ánh
 ép
 ôm
 ôm hôn
+ôm đầu
 ăn
 đan
 đang
@@ -388,6 +498,7 @@ xỏ
 đang bày
 đang báo cáo
 đang bôi
+đang bưng
 đang bấm
 đang bật
 đang bế
@@ -396,6 +507,7 @@ xỏ
 đang cho
 đang chuẩn bị
 đang chào
+đang cháy
 đang chăm
 đang chơi
 đang chạy
@@ -424,6 +536,7 @@ xỏ
 đang giao
 đang giãn
 đang giúp
+đang giơ
 đang giải
 đang giải thích
 đang giảng
@@ -436,6 +549,8 @@ xỏ
 đang gọi
 đang gọt
 đang gội
+đang gỡ
+đang gục
 đang gửi
 đang hoàn thiện
 đang hái
@@ -447,14 +562,18 @@ xỏ
 đang họp
 đang hỏi
 đang in
+đang khoe
+đang khuấy
 đang khởi động
 đang kiểm tra
 đang kéo
 đang kể
+đang lau
 đang leo
 đang làm
 đang lái
 đang lướt
+đang lật
 đang lắng nghe
 đang lắp
 đang massage
@@ -476,6 +595,7 @@ xỏ
 đang nói
 đang nướng
 đang nấu
+đang nắm
 đang nằm
 đang pha
 đang photo
@@ -490,6 +610,7 @@ xỏ
 đang rửa
 đang soi
 đang soạn
+đang sơn
 đang sấy
 đang sắp
 đang sắp xếp
@@ -505,10 +626,13 @@ xỏ
 đang thuyết trình
 đang thái
 đang thảo luận
+đang thổi
 đang thử
 đang tra
 đang trang
 đang trang trí
+đang trang điểm
+đang treo
 đang trình bày
 đang trả
 đang trả lời
@@ -532,6 +656,7 @@ xỏ
 đang xếp
 đang xịt
 đang ăn
+đang đeo
 đang đi
 đang điều chỉnh
 đang điều khiển
@@ -553,6 +678,7 @@ xỏ
 đi
 điền
 điều khiển
+điện nước
 đo
 đuổi
 đá
@@ -568,10 +694,13 @@ xỏ
 đảm bảo
 đấm
 đầu tư
+đầy
 đẩy
 đập
+đậu
 đặt
 đặt vé
+đếm
 đọc
 đọc trộm
 đốt
@@ -579,5 +708,28 @@ xỏ
 đỗ
 đội
 đứng
+ướt nhòe
 ẩu đả
 ứng dụng
+“100% lợi nhuận”
+“chỉ cần nhấn
+“chữa viêm xoang vĩnh viễn”
+“cơ hội chỉ đến một lần”
+“cơ hội làm giàu dễ dàng”
+“cảnh báo tín dụng thấp”
+“giảm 15kg trong 10 ngày”
+“giảm béo nhanh chóng”
+“hiệu quả sau 5 ngày”
+“hiệu quả đã được chứng minh”
+“không chịu trách nhiệm với rủi ro”
+“kiếm tiền dễ như chơi”
+“nhận thưởng ngay hôm nay”
+“nước thần dưỡng da”
+“rút tiền không giới hạn”
+“thu nhập mỗi ngày”
+“thuốc chữa khỏi tiểu đường vĩnh viễn”
+“trị ung thư bằng lá cây”
+“tăng lượt xem TikTok”
+“tỉ lệ thắng 100%”
+“đăng ký để nhận quà”
+“được hàng triệu người tin dùng”

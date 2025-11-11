@@ -4,16 +4,37 @@ Bia
 Bà mẹ
 Bàn tay
 Bàn tay dính máu
+Bàn tay người trẻ
+Bàn tay run
+Bàn tay run rẩy
 Bàn tay rớm máu
+Bàn ăn
 Bác sĩ
 Bác sĩ thú y
 Bé gái
 Bé trai
 Bình đựng nước
 Bạn bè
+Bầu trời hoàng hôn
+Bầu trời trong xanh
+Bức tranh phong cảnh
+Bức tường
+Bức tường trắng
+Bức ảnh chân dung
 Ca sĩ
 Cam kết
 Camera
+Chiếc bàn
+Chiếc bàn gỗ
+Chiếc bánh mì
+Chiếc bánh ngọt
+Chiếc bánh sandwich
+Chiếc ghế mây
+Chiếc laptop
+Chiếc ly nước cam
+Chiếc xe
+Chiếc điện thoại
+Chiếc đồng hồ
 Chiến tranh
 Chàng trai
 Chân chống xe máy
@@ -34,6 +55,7 @@ Clip quảng bá
 Clip quảng cáo
 Con mèo
 Con vật
+Cánh cửa
 Cô giáo
 Cô gái
 Cô gái bế mèo
@@ -56,11 +78,21 @@ Cảnh tiệc cưới
 Cảnh tiệc sinh nhật
 Cầu thủ
 Cận cảnh
+Cận cảnh bàn tay
+Cận cảnh chai nước suối lạnh
+Cận cảnh khuôn mặt
+Cận cảnh ly cà phê
+Cận cảnh miếng bánh pizza
+Cận cảnh ngọn lửa
+Cận cảnh đôi môi run rẩy
+Cận cảnh đôi mắt
+Cận mặt cô gái
 Cặp vợ chồng
 Cặp đôi
 Cặp đôi già
 Diễn viên
 Drone
+Dòng chữ
 Em bé
 Gameplay
 Gia sư
@@ -68,6 +100,7 @@ Gia đình
 Gia đình bốn người
 Giao diện
 Giáo viên
+Gió
 Giảng viên
 Giọng nói
 Giọng nữ
@@ -87,10 +120,20 @@ Hai đấu sĩ
 Hai đứa trẻ
 Hành động
 Hình ảnh
+Hình ảnh bàn ăn
+Hình ảnh bát cháo
+Hình ảnh bát phở
+Hình ảnh chai nước hoa
+Hình ảnh con phố
+Hình ảnh cánh đồng
+Hình ảnh màn hình
+Hình ảnh đồ uống
 Hệ thống treo ô tô
 Họa sĩ
 Học sinh
+Khuôn mặt
 Khuôn mặt cận cảnh
+Khuôn mặt người già
 Khách hàng
 Kiến trúc sư
 Kỹ sư
@@ -132,13 +175,117 @@ Máy đếm tiền
 Máy ảnh
 Mô phỏng
 Mọi người
+Một biểu đồ
+Một bàn tay
+Một bình hoa
+Một bóng người
+Một bóng đen
+Một bông hoa
+Một bông hoa cúc vàng
+Một bức tranh
+Một bức tường
+Một bức ảnh
+Một bức ảnh chân dung
+Một chai thuốc không nhãn mác
+Một chiếc bánh kem
+Một chiếc bánh kem nhỏ
+Một chiếc bánh mì
+Một chiếc bánh mì nóng hổi
+Một chiếc bánh ngọt
+Một chiếc bóng
+Một chiếc ghế
+Một chiếc ghế gỗ
+Một chiếc ghế mây
+Một chiếc ghế sofa
+Một chiếc laptop
+Một chiếc ly
+Một chiếc ly thủy tinh
+Một chiếc đồng hồ
+Một chiếc đồng hồ báo thức
+Một chiếc đồng hồ treo tường
+Một chàng trai
+Một chén cơm
+Một chén cơm nóng
+Một chén súp
+Một chén trà
+Một chú chó nhỏ
+Một chú mèo
+Một chậu cây
+Một chậu cây cảnh
+Một chậu cây nhỏ
+Một chậu hoa
+Một chậu hoa nhỏ
+Một con chim
+Một con chó
+Một con chó con
+Một con mèo
+Một con mèo nhỏ
+Một cây bút
+Một cây bút chì
+Một cô gái
+Một cô gái trẻ
+Một cơn gió
+Một cậu bé
+Một cốc cà phê bốc khói
+Một cốc trà xanh
+Một dòng chữ
+Một dòng chữ cảnh báo nhỏ
+Một dòng chữ nhỏ
+Một dòng chữ thắng lớn mỗi ngày
+Một dòng chữ “làm giàu nhanh”
+Một gương mặt mờ nhòe
+Một khuôn mặt
+Một ly nước
+Một ly nước cam
+Một ly nước lọc
+Một ly nước ép cam
+Một ly sinh tố dâu
+Một lọ chất lỏng
+Một màn hình
+Một màn hình máy tính
 Một người
+Một người phụ nữ
+Một người trẻ
+Một người đàn ông
+Một người đàn ông mặc vest
+Một ngọn nến
+Một nhóm thanh niên
+Một nụ cười
+Một phong bì
+Một phong bì dày
+Một phong bì tiền
+Một phong bì trắng dày
+Một quyển sách
+Một quyển sổ
+Một quyển sổ ghi chú
+Một tách cà phê
+Một tách trà
+Một tách trà bốc hơi
+Một tách trà gừng
+Một tách trà nóng
+Một tấm biển “kiếm tiền ngay hôm nay”
+Một tấm bản đồ
+Một tấm bảng
+Một tấm bảng điện tử
+Một tấm ảnh
+Một tờ báo
+Một tờ giấy
+Một tờ giấy chứng nhận giả
+Một tờ giấy ghi “bán nợ nhanh”
+Một tờ giấy ghi “bán đất gấp”
+Một tờ hóa đơn
+Một tờ hóa đơn chưa thanh toán
+Một tờ hóa đơn điện tử
+Một tờ rơi
+Một vật thể
+Một đứa trẻ
 Nam MC
 Nam ca sĩ
 Nam chính
 Nam diễn viên
 Nam người mẫu
 Nam nhân vật
+Nam sinh
 Nam thanh niên
 Nghệ sĩ
 Ngôn từ
@@ -211,17 +358,22 @@ Người nổi tiếng
 Người pha chế
 Người phụ nữ
 Người phụ nữ khẽ
+Người phụ nữ trung niên
+Người thanh niên
 Người thợ
 Người thợ cắt tóc
 Người thợ điện
+Người trẻ
 Người tài xế
 Người tự xưng bác sĩ
 Người đàn ông
 Người đàn ông cười
 Người đàn ông say xỉn
+Người đàn ông trung niên
 Người đầu bếp
 Nhà khoa học
 Nhà nghiên cứu
+Nhà đầu tư trẻ
 Nhân viên
 Nhân viên IT
 Nhân viên bán hàng
@@ -231,6 +383,7 @@ Nhân viên kỹ thuật
 Nhân viên lễ tân
 Nhân viên ngân hàng
 Nhân viên siêu thị
+Nhân viên trẻ
 Nhân viên văn phòng
 Nhân viên y tế
 Nhân vật
@@ -276,6 +429,7 @@ Rắn
 Sinh viên
 Streamer
 Tai nghe
+Tay
 Thanh niên
 Thầy cúng
 Thầy pháp
@@ -283,6 +437,11 @@ Thợ lặn
 Trưởng nhóm
 Trưởng phòng
 Trẻ em
+Tờ giấy
+Tờ giấy hướng dẫn
+Tờ giấy nhỏ
+Tờ hóa đơn
+Tờ hướng dẫn
 Video
 Video cắt ghép
 Video cố tình
@@ -297,6 +456,7 @@ Video khuyến mãi
 Video mô phỏng
 Video mô tả
 Video người nổi tiếng
+Video nói
 Video quảng bá
 Video quảng bá game
 Video quảng bá game sinh tồn
@@ -314,6 +474,33 @@ Xe
 Xe máy điện
 Xác cá
 Xác động vật
+Ánh nắng
+Ánh nắng buổi sáng
+Ánh nắng nhẹ
+Ánh sáng
+Ánh sáng ban mai
+Ánh sáng buổi chiều
+Ánh sáng buổi sáng
+Ánh sáng buổi trưa
+Ánh sáng bình minh
+Ánh sáng chiều
+Ánh sáng dịu
+Ánh sáng lung linh
+Ánh sáng mặt trời
+Ánh sáng mờ
+Ánh sáng nhẹ
+Ánh sáng trắng
+Ánh sáng từ màn hình
+Ánh sáng từ màn hình điện thoại
+Ánh sáng vàng
+Ánh sáng xanh
+Ánh sáng yếu
+Ánh sáng đỏ
+Ánh sáng ấm
+Ánh sáng ấm áp
+Ánh đèn mờ
+Ánh đèn xanh
+Ánh đèn đỏ
 Ô tô
 Ông thầy
 Điện thoại di động
@@ -323,6 +510,14 @@ Xác động vật
 Đám đông
 Đèn bàn
 Đèn chiếu sáng ban ngày DRL ô tô
+Đôi bàn tay
+Đôi giày mới
+Đôi giày thể thao
+Đôi môi người đàn ông
+Đôi mắt
+Đôi mắt người trung niên
+Đôi mắt người đàn ông
 Đôi tay
+Đôi tay run rẩy
 Đầu bếp
 Ống kính
