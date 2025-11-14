@@ -1,1634 +1,1650 @@
-Người phụ nữ	nâng	ly cocktail và nói chạm mốc đỉnh cao	1
-Cảnh quay	cho thấy	tiệc hồ bơi với người cầm bia trên tay	1
-Cảnh quay	cận	một cú đấm vào mặt kèm tiếng hiệu ứng mạnh	1
-Cảnh phá cửa	xông vào	phòng và quăng người xuống ghế để giới thiệu sản phẩm bảo vệ	1
+Ly bia bọt	tràn	trên bàn tiệc khi mọi người cổ vũ	0
+Ba người đàn ông	lái xe	cầm lon bia trên tay	1
+Hai người đàn ông	xô	đẩy và đánh nhau giành sản phẩm khuyến mãi	1
+Nhóm thanh niên	rượt đuổi	nhau ngoài đường với thái độ gây hấn	1
+Nhân vật	đá	đối thủ trong siêu thị để giành hộp hàng cuối cùng	1
 Cảnh quay	chậm	cho thấy nắm đấm máu bắn tung tóe	1
-Cô gái	liếm	môi khi cầm chai nước hoa sát cổ	1
-Cảnh quay	chậm	vòng eo thon khi giới thiệu sản phẩm giảm mỡ tức thì	1
+Cảnh quay	tập trung	vào cơ thể người phụ nữ trong bộ váy cắt xẻ sâu	1
 Hai người	ôm	hôn nồng nhiệt trên ghế sofa trong ánh đèn đỏ tím	1
-Quảng cáo	tuyên bố	viên uống này chữa được tiểu đường vĩnh viễn	1
+Người dẫn chương trình	gọi	sản phẩm là bí mật giữ sự nóng bỏng trên giường	1
+Giọng nói	khuyến khích	mua bùa hộ mệnh để chắc chắn phát tài	1
+Thầy cúng	gõ	trống gọi hồn và bảo khách hàng sẽ có may mắn lớn	1
+Bác sĩ	mặc	áo blouse trắng nói loại kem này chữa khỏi mọi bệnh da chỉ sau một đêm	1
+Giọng thuyết minh	nói	uống gói bột này sẽ trẻ ra mười năm chỉ trong ba ngày	1
+Cô gái	nói	chỉ cần bôi một lần là nám biến mất hoàn toàn	1
 MC	hứa	hoàn tiền gấp đôi nếu không thấy da trắng lên trong 24 giờ	1
-Người phụ nữ	giới thiệu	sản phẩm dưỡng da trong phòng tươi sáng	0
-Nhóm bạn trẻ	nhảy	xuống hồ bơi với lon bia trên tay	1
-Người đàn ông	đá	cửa và xông vào phòng để dọa nạt	1
-Người mẫu	cởi	áo khoác chậm rãi để lộ vai trần	1
+Quảng cáo	hứa	kiếm hai mươi triệu mỗi ngày chỉ cần ở nhà	1
+Nam nhân vật	nói	chỉ cần đăng ký link này là chắc chắn trúng thưởng xe hơi	1
+Người mẹ	gội	đầu cho bé bằng dầu gội trẻ em	0
+Đầu bếp	trình bày	món ăn vừa nấu xong trong căn bếp sạch sẽ	0
+Nhóm sinh viên	chụp	ảnh tốt nghiệp trong khuôn viên trường	0
+Cô gái	đeo	balo du lịch và chỉ bảng chỉ đường thành phố	0
+Nhóm thanh niên	cụng	ly bia giữa phố đi bộ đông đúc	0
+Cảnh quay	thể hiện	mở nắp bia và bọt trào ra trên bàn	0
+Người đàn ông	đổ	bia lên đầu trong tiếng reo hò	0
+Cảnh quay	cận	dòng rượu chảy vào ly thủy tinh	1
+Nhóm bạn trẻ	nhảy	xuống hồ bơi với lon bia trên tay	0
+Cảnh quay	thể hiện	người phụ nữ nằm trên giường với váy ngắn	1
 Người phụ nữ	liếm	viền ly cocktail trên sân khấu	1
-Người đàn ông	đeo	bùa và nói đã được thầy khai nhãn	1
-Người bán	nói	vòng phong thủy này chắc chắn mang lại tài lộc	1
-Người dẫn chương trình	giới thiệu	sản phẩm rượu mạnh dành cho đàn ông bản lĩnh	1
-Nam chính	rót	bia vào ly của người phụ nữ bên cạnh	1
-Cảnh quay	thể hiện	tiệc hồ bơi với mọi người cầm bia	1
-Nam diễn viên	xô	ghế ra xa để thể hiện sức mạnh	1
-Người đàn ông	tát	bạn diễn để gây ấn tượng	1
-Người phụ nữ	mặc	áo xuyên thấu trong studio	1
-Người mẫu	liếm	kem với ánh mắt quyến rũ	1
-Cặp đôi	ôm	nhau trên giường khách sạn	1
+Người mẫu	ngả	người ra ghế và vắt chân chéo quyến rũ	1
 Cô gái	đặt	ngón tay lên môi và nhìn đầy ẩn ý	1
+Cảnh quay	chậm	tập trung vào phần hông người phụ nữ	1
+Cô gái	dùng	ánh mắt khiêu khích trong đoạn giới thiệu sản phẩm	1
+Nam MC	giới thiệu	vòng đá có năng lượng tâm linh đặc biệt	1
+Người phụ nữ	kể	sau khi mua bùa phong thủy thì trúng số	1
+Người bán	khẳng định	đá năng lượng này chữa lành bệnh	1
+Giọng đọc	nói	đây là thuốc chữa được mọi bệnh	1
+Người dẫn chương trình	nói	viên uống này giúp hạnh phúc hơn	1
+Nam MC	nói	mua hôm nay sẽ thành công mãi mãi	1
+Người mẫu	nhấp	môi vào ly cocktail đầy bọt	1
+Người đàn ông	đổ	bia lên đầu trong tiếng reo hò	1
+Cảnh quay	thể hiện	đua xe tốc độ cao không đội mũ bảo hiểm	1
+Người đàn ông	tát	bạn diễn để gây ấn tượng	1
+Cảnh quay	mô tả	cảnh đánh nhau trong phòng tập	1
+Cô gái	mặc	áo tắm hai mảnh bước ra bãi biển	1
+Người mẫu	ngả	người ra ghế và vắt chân chéo quyến rũ	1
+Người phụ nữ khẽ	cười	khi gió thổi bay tóc và váy	1
 Cô nhân viên	ngân hàng	tư vấn khách hàng tận tình	0
-Nhân viên chăm sóc khách hàng	nghe	điện thoại và ghi chú	0
-Người phụ nữ	mở	cửa đón khách đến thăm	0
-Nhóm bạn	trồng	cây trong công viên	0
+Người nông dân	thu	hoạch rau sạch ngoài đồng	0
+Người đàn ông	lái	xe hơi mới trên đường quê	0
+Gia đình	ngồi	xem tivi cùng nhau vào buổi tối	0
+Nhân viên kỹ thuật	sửa	điều hòa trong văn phòng	0
+Cặp đôi	đi	dạo trên bãi biển hoàng hôn	0
 Nhân viên	phát	tờ rơi quảng bá sản phẩm mới	0
-Bé gái	ôm	thú nhồi bông và cười hồn nhiên	0
-Người phụ nữ	đọc	sách trong thư viện	0
-Cặp vợ chồng	xem	lại ảnh cưới trên điện thoại	0
-Người phụ nữ	tưới	cây cảnh ngoài ban công	0
-Nhóm bạn	chơi	bóng rổ trong sân trường	0
-Người phụ nữ	viết	nhật ký vào buổi tối	0
-Người nông dân	gieo	hạt trên ruộng	0
-Người cha	lái	xe đưa con đến trường	0
-Người bán hàng	trao	phiếu giảm giá cho khách	0
-Nhân viên	kiểm	tra máy tính văn phòng	0
+Gia đình	đi	picnic cuối tuần tại công viên	0
+Nhóm học sinh	cười	đùa khi ra về sau giờ học	0
+Cặp đôi	nhìn	nhau và cười trong buổi hẹn hò	0
+Người già	đi	bộ tập thể dục ngoài trời	0
+Cô gái	mở	quà sinh nhật và cười tươi	0
+Clip	quay	cảnh lễ cúng đầu năm tại cửa hàng mới	1
+Người đàn ông	thắp	nhang và khấn lớn trước tượng thần tài	1
+Người bán	nói	bùa này giúp tránh tai nạn khi đi đường	1
 Nam diễn viên	hóa	thân thành sư thầy đọc kinh	1
-Người dẫn	nói	tượng Phật nhỏ giúp cải vận	1
-Người phụ nữ	trao	bùa may mắn cho khách hàng	1
-Người dẫn chương trình	nói	thuốc này chữa khỏi ung thư	1
-MC	nói	uống nước này sẽ giúp có người yêu ngay	1
-Người đàn ông	đánh	vào bàn khi nghe tin xấu	1
-Nhân vật chính	xô	ngã đồng nghiệp trong đoạn hài kịch	1
-Cảnh	quay	đánh nhau được tua chậm để tăng kịch tính	1
-Nhân viên	bán	hàng tư vấn sản phẩm điện tử	0
-Người đàn ông	tưới	cây trong vườn	0
-Nhóm bạn	đi	picnic ngoài trời và nướng thịt	0
-Người thợ	sửa	xe máy trong tiệm nhỏ	0
-Nhân viên	phục vụ	đem món ăn ra bàn cho khách	0
-Người mẹ	đọc	truyện cho con nghe trước khi ngủ	0
-Bé trai	đạp	xe quanh công viên	0
+Clip	ghi	cảnh thắp nhang và tụng niệm tại bàn thờ	1
+MC	nói	sản phẩm này tốt nhất thế giới	1
+MC	nói	sản phẩm được kiểm nghiệm bởi bác sĩ Mỹ dù không chứng cứ	1
+Giọng nói	nói	uống nước này sẽ sống khỏe 100 tuổi	1
+Người phụ nữ	nói	kem bôi này thay thế phẫu thuật	1
+Clip	cho thấy	sản phẩm được thần linh chứng nhận	1
+Người đàn ông	uống	bia trong buổi livestream bán hàng	0
+Nhóm bạn	nhảy	múa trong quán bar với tay cầm chai bia	0
+Nam diễn viên	đấm	vào gương để thể hiện cảm xúc	1
+Người đàn ông	đạp	cửa và xông vào phòng họp	1
+Người đàn ông	ném	ghế xuống sàn khi nổi giận	1
+Nam thanh niên	dùng	gậy gỗ đánh vào thùng hàng	1
+Người mẫu	tạo dáng	uốn éo trên sân khấu ánh đèn đỏ	1
+Nam người mẫu	cởi	áo trong phòng gym để khoe cơ	1
+Gia đình	cùng	dọn dẹp nhà cửa cuối tuần	0
+Người mẹ	ôm	con nhỏ và mỉm cười hạnh phúc	0
+Người phụ nữ	nấu	canh trong nồi và cười	0
+Người đàn ông	kiểm	tra hóa đơn trong siêu thị	0
+Người bán hàng online	giới thiệu	sản phẩm mới	0
 Nhân viên	giao	hàng đến trước cửa nhà	0
-Nhóm bạn	chơi	bóng rổ trong sân thể thao	0
+Người mẹ	dạy	con tô màu trong phòng khách	0
 Người đàn ông	chụp	ảnh phong cảnh bằng điện thoại	0
-Cặp đôi	chụp	ảnh selfie ngoài phố	0
-Người phụ nữ	chuẩn	bị bữa sáng trong bếp	0
-Nhóm bạn	ăn	trưa trong căn tin	0
-Nhân viên	chào	khách đến cửa hàng	0
-Người phụ nữ	tập	yoga buổi sáng	0
-Nhân viên	thuyết	phục khách hàng bằng nụ cười thân thiện	0
-Cô gái	mở	quà sinh nhật và cười rạng rỡ	0
+Người phụ nữ	đọc	sách trong thư viện	0
+Cô gái	đeo	tai nghe và làm việc chăm chỉ	0
+Gia đình	đón	tết bên bàn ăn	0
+Người kỹ sư	kiểm	tra dây chuyền sản xuất	0
+Người nông dân	cười	tươi khi thu hoạch	0
+Người phụ nữ	mở	quầy hàng rau buổi sáng	0
 Người phụ nữ	ngồi	đan áo len trong nhà	0
-Nhóm thanh niên	chơi	nhạc cụ trong buổi biểu diễn nhỏ	0
-Người dẫn chương trình	nói	thuốc này giúp khỏi bệnh mãn tính	1
-Đám đông	hò	hét và khui bia giữa đường phố	1
-Quảng cáo	chiếu	cảnh khui bia trong lễ hội âm nhạc	1
-Người đàn ông	giật	sản phẩm khỏi tay đối thủ	1
+Người cha	xem	bóng đá cùng con trai	0
+Nam diễn viên	hóa thân	thành pháp sư ban phước cho khách	1
+Người mẫu	nói	viên uống này được chứng nhận quốc tế	1
+Quảng cáo	khẳng định	sản phẩm giúp mọc tóc trong hai ngày	1
+Quảng cáo	tuyên bố	thuốc trị dứt điểm ung thư	1
+Giọng đọc	nói	đây là thuốc được cấp phép bởi WHO	1
+Người đàn ông	khui	bia và nói uống cho sảng khoái cuộc đời	0
+Nhóm bạn	cụng	ly rượu vang trong buổi tiệc tất niên	1
+Nam MC	nói	hãy uống để thành công hơn mỗi ngày	1
+Người đàn ông	cầm	dao chặt mạnh vào thớt để minh họa sức mạnh	1
 Cảnh hai nhân vật	đánh	nhau vì món đồ giảm giá	1
-Quảng cáo	dùng	cảnh đánh nhau để gây cười	1
-Người phụ nữ	liếm	môi và nhìn gợi cảm vào ống kính	1
-Cảnh chiếu	cận	môi tô son đỏ và đôi mắt khẽ nhắm	1
-Người phụ nữ	khoe	đường cong khi đi dọc bãi biển	1
-Người mẫu	ngả	người lên bàn ăn và nhìn gợi cảm	1
+Hai người	vật lộn	trong nhà bếp để tranh phần ăn	1
+Người đàn ông	hét	to và đập tay vào tường	1
+Người phụ nữ	mặc	bikini ngồi bên xe hơi sang trọng	1
+Người mẫu nam	khoác	áo trong ánh sáng yếu	1
+Người phụ nữ	mặc	váy bó sát trong quảng cáo nước hoa	1
 Video	chiếu	cảnh gõ trống và tụng kinh trong tiệm	1
-Người phụ nữ	nói	uống trà này giúp chữa mọi bệnh	1
-Người dẫn	nói	sản phẩm này tốt nhất thế giới	1
-Người đàn ông	tưới	cây cảnh trong vườn	0
-Nhân viên văn phòng	gõ	bàn phím khi làm việc	0
-Cô gái	đi	chợ chọn rau tươi buổi sáng	0
-Cô giáo	giảng	bài trước lớp học	0
+Nhân viên bán hàng	giới thiệu	sản phẩm mới trong siêu thị	0
+Học sinh	viết	bài trên bàn học	0
+Gia đình	chơi	bài UNO trong phòng khách	0
+Người đàn ông	chơi	cờ tướng trong quán cà phê	0
+Nhân viên ngân hàng	đón	khách hàng với nụ cười	0
 Cô gái	pha	cà phê buổi sáng	0
-Người phụ nữ	làm	bánh sinh nhật cho con	0
-Cặp đôi	chơi	cờ caro ngoài ban công	0
+Người thợ	sửa	ống nước dưới bồn rửa	0
+Nhân viên kỹ thuật	kiểm tra	hệ thống mạng	0
+Người mẹ	đặt	bát cơm trước mặt con	0
+Người phụ nữ	mở	cửa đón khách vào nhà	0
+Cô gái	đi	dạo quanh hồ nước	0
+Gia đình	chơi	xếp hình cùng nhau	0
 Cô gái	đi	mua sắm trong trung tâm thương mại	0
+Người bán hàng	bày	trái cây lên kệ	0
 Gia đình	chơi	cầu lông trong sân	0
 Người cha	đi	làm buổi sáng	0
-Người phụ nữ	nói	viên uống này giúp tự tin và hấp dẫn hơn	1
-MC	nói	đây là cơ hội duy nhất trong đời để giàu có	1
-Người mẹ	cho	con ăn cháo trong bếp	0
-Gia đình	ăn	sáng và nói chuyện vui vẻ	0
-Người lái xe	đón	hành khách tại bến	0
-Nam MC	nói	'đàn ông không uống là không vui'	1
-Nam chính	đạp	cửa và xông vào phòng làm việc	1
-Quảng cáo	mô tả	cảnh xô ghế và la hét	1
-Cô gái	nằm	trên ghế và vuốt tóc gợi cảm	1
-Nam người mẫu	kéo	áo lên khoe cơ bắp	1
-Cảnh	chiếu	cận đôi môi tô son đỏ	1
-Người phụ nữ	kéo	váy xuống vai khi cười	1
-Thầy cúng	vẩy	nước và đọc thần chú	1
-Người bán	nói	vòng đá đã được khai quang bởi sư thầy	1
-Người dẫn chương trình	nói	thuốc này giúp khỏi mọi bệnh	1
-Người dẫn	nói	sản phẩm được NASA chứng nhận	1
-Người bán	nói	bùa phong thủy giúp trúng số độc đắc	1
-Quảng cáo	nói	viên uống giúp kéo dài tuổi thọ	1
-Quảng cáo	nói	viên uống làm trắng da tuyệt đối an toàn	1
+Nhóm học sinh	chơi	đá cầu	0
+Người đàn ông	mở	cửa xe cho vợ	0
+MC	bảo	đây là sản phẩm được thần linh chứng nhận	1
+Người đàn ông	sửa	bóng đèn trong nhà	0
+Nhân viên kỹ thuật	kiểm tra	điện áp tòa nhà	0
+Người phụ nữ	mua	hoa ngoài chợ sáng	0
+Khách hàng	ký	hợp đồng và bắt tay nhân viên	0
+Người đàn ông	ngồi	quán nhậu vỉa hè và hô 'trăm phần trăm'	1
+Nam diễn viên	uống	bia khi lái mô tô ngoài phố	1
+Người mẫu	cười	tươi khi cụng ly bia với đồng nghiệp trong công ty	0
+Bạn bè	nâng	chai bia khi xem bóng đá trong quán	0
+Quảng cáo	mô tả	cảnh nổ tung xe hơi để minh họa sức mạnh	1
+Người phụ nữ	tạo dáng	nằm cạnh xe hơi sang trọng	1
+Cô gái	uốn	người trên sofa trong ánh sáng vàng	1
+MC	nói	viên uống này trẻ hóa 20 tuổi chỉ sau một tuần	1
+Người mẫu	nói	uống trà này sẽ thông minh hơn	1
+Clip	nói	thuốc giúp mọc tóc trong 24 giờ	1
+Người dẫn	nói	kem này thay thế phẫu thuật thẩm mỹ	1
+Người dẫn chương trình	nói	thuốc giúp nhớ lâu hơn	1
 Khách hàng	mở	hộp quà và cười rạng rỡ	0
-Người cha	hướng dẫn	con sửa xe đạp	0
 Người thợ	sơn	tường trong căn hộ mới	0
-Streamer	cụng	ly bia cùng khán giả trong buổi phát trực tiếp	1
-Người phụ nữ	uống	champagne trong phòng ngủ	1
-Nam người mẫu	uống	bia khi đang lái xe máy	1
-Người đàn ông	cầm	chai bia đi trên đường phố	1
-Logo thương hiệu	hiển thị	giữa cảnh tiệc ngoài trời	1
-Người đàn ông	rót	bia cho bạn trong lúc livestream	1
-Người đàn ông	đấm	mạnh vào tường vì tức giận	1
-Hai người	xô	xát trong quán cà phê	1
-Nam MC	đập	vỡ bàn kính để gây ấn tượng	1
-Người phụ nữ	xô	người khác ngã trong đoạn clip	1
-Người đàn ông	đập	tivi khi thua game	1
-Người phụ nữ	đập	cửa sổ để thể hiện sự mạnh mẽ	1
-Cô gái	mặc	váy bó sát chụp ảnh trong studio	1
-Người phụ nữ	kéo	dây váy và cười khẽ	1
-Cảnh	quay	cận đôi chân người mẫu bước đi chậm rãi	1
-Cô gái	mặc	áo xuyên thấu trong buổi chụp hình	1
-Người phụ nữ	cười	gợi cảm trong bồn tắm	1
+Người đàn ông	cắt	tóc cho khách tại tiệm	0
+Nam diễn viên	khui	bia và hô to thương hiệu	0
+Streamer	uống	bia trong lúc chơi game trực tiếp	0
+Quảng cáo	nói	uống để giải tỏa căng thẳng	1
+Nam diễn viên	hất	đồ ăn xuống bàn khi tức giận	1
+Hai thanh niên	cãi	nhau và ném đồ trong quán	1
+Cô gái	mặc	bikini xanh đi dọc bờ hồ	1
+Cặp đôi	ôm	nhau trên bãi biển	1
 MC	nói	vật phẩm phong thủy đã được khai quang	1
-Người phụ nữ	cầu	nguyện trước tượng phật và mỉm cười	1
-Người đàn ông	đặt	tay lên bàn thờ khi quảng bá sản phẩm	1
-Clip	quay	cảnh tụng kinh trong cửa hàng	1
-Thầy cúng	làm	lễ cầu tài trong nhà hàng	1
-Người phụ nữ	nói	kem này thay thế phẫu thuật da liễu	1
+MC	nói	bùa này giúp buôn may bán đắt	1
+Người bán	nói	tượng phật nhỏ này bảo vệ gia đình	1
 Người bán	nói	vòng phong thủy hút tiền tài ngay lập tức	1
 MC	nói	nước này tăng cường trí nhớ và thu nhập	1
+Người phụ nữ	nói	kem bôi trị bệnh xương khớp	1
 Quảng cáo	khẳng định	ai dùng cũng thành công	1
-Nhóm bạn trẻ	học	nhóm tại quán cà phê	0
-Người đầu bếp	trang trí	món ăn trong nhà hàng	0
-Nam ca sĩ	cầm	ly bia và nói chúc mừng thành công	1
-Nhóm bạn	cụng	ly bia trong quán karaoke	1
-Streamer	uống	bia và giới thiệu sản phẩm	1
-Người mẫu nữ	cầm	ly rượu tạo dáng trong buổi chụp hình	1
-Người đầu bếp	trang trí	món ăn trong nhà hàng	0
-Nhóm đồng nghiệp	bắt tay	chúc mừng thành công	0
-Người đàn ông	khui	bia trên sân thượng giữa đêm	1
-Người phụ nữ	rót	rượu vang đỏ vào ly và mỉm cười	1
-Cảnh	quay	bàn tiệc đầy bia và tiếng cười nói	1
-Người mẫu nữ	cầm	ly rượu tạo dáng trong buổi chụp hình	1
-Cảnh tiệc cưới	hiện	hàng chục ly bia tràn bọt	1
-Streamer	nhấp	ngụm bia và nói 'chất lượng thật sự'	1
-Người phụ nữ	ném	đồ vào bạn diễn khi cãi nhau	1
+MC	nói	sản phẩm được cấp phép toàn cầu dù không bằng chứng	1
+Người mẹ	nấu	ăn cho gia đình trong căn bếp sạch sẽ	0
+Người đàn ông	rửa	xe trước nhà	0
+Người phụ nữ	mua	rau củ trong siêu thị	0
+Nhân viên giao hàng	trao	bưu phẩm cho khách	0
+Người phụ nữ	tưới	cây cảnh trên ban công	0
+Người bán hàng	sắp xếp	kệ sản phẩm	0
+Trẻ em	chơi	đá bóng ngoài sân	0
+Nhóm bạn	cụng	ly bia trong quán karaoke	0
+Người mẹ	ôm	con nhỏ trong công viên	0
+Người kỹ sư	kiểm tra	dây điện trong nhà máy	0
+Người lái xe buýt	dừng	lại đón khách	0
+Quảng cáo bia	hiển thị	cảnh bọt tràn và ánh sáng sôi động	0
+Cảnh tiệc cưới	hiện	hàng chục ly bia tràn bọt	0
+Nam diễn viên	ném	điện thoại xuống đất vì tức giận	1
 Hai thanh niên	vật lộn	giữa đường phố	1
 Quảng cáo trò chơi	mô tả	cảnh nổ súng và cháy nổ	1
-Cảnh	quay	rượt đuổi bằng xe máy trong quảng cáo	1
+Nam chính	hất	ly nước vào mặt người khác	1
+Người phụ nữ	tát	chồng trong quảng cáo gia đình	1
+Người đàn ông	ném	ghế ra khỏi khung hình	1
 Nam chính	dùng	dao chém xuống bàn	1
+Người mẫu	mặc	váy ngắn chụp ảnh bên hồ bơi	1
 Cô gái	mặc	áo hai dây tạo dáng trước gương	1
-Người mẫu nữ	ngả	người lên bàn ăn	1
-MC	nói	uống trà này giúp khỏi bệnh mãn tính	1
-Người mẫu	nói	vòng phong thủy hút tiền tài	1
-Người bán	nói	sản phẩm được thần linh chứng nhận	1
-Quảng cáo	khẳng định	hiệu quả tức thì	1
-Người cha	dạy	con tô màu trong phòng khách	0
-Nhân viên siêu thị	sắp xếp	hàng hóa	0
-Người phụ nữ	mua	hoa buổi sáng	0
-Nam ca sĩ	uống	bia rồi hét tên thương hiệu trên sân khấu	1
-Người đàn ông	dựa	xe hơi tay cầm lon bia còn mở nắp	1
+MC	giới thiệu	vòng đá được trì chú từ sư thầy	1
+Người dẫn	nói	sản phẩm chứa năng lượng tâm linh	1
+Người mẫu	nói	viên uống giúp trắng da trong hai ngày	1
+MC	nói	kem này thay thế phẫu thuật thẩm mỹ	1
+Người dẫn	nói	thuốc được NASA kiểm chứng	1
+Người phụ nữ	nói	viên uống giúp chữa mọi bệnh	1
+MC	nói	ai cũng phải có một cái nếu muốn giàu	1
+Người nông dân	gặt	lúa trên cánh đồng	0
+Nam diễn viên	uống	bia khi đang chạy xe máy ngoài đường	1
+Người đàn ông	nói	uống mỗi tối cho thoải mái đầu óc	1
+Người phụ nữ	rót	rượu mạnh vào ly thủy tinh rồi nâng cốc	1
+Nhân vật chính	uống	rượu trắng rồi vỗ vai bạn rất mạnh	1
+Nhóm bạn trai	ôm	vai nhau và cầm bia khi xem bóng đá	0
+Nam thanh niên	đấm	bạn trong cảnh gây cười	1
+Nam diễn viên	giật	cổ áo đối thủ và gầm lên	1
+Quảng cáo	quay	cảnh rượt đuổi bằng xe máy trong hẻm nhỏ	1
 Nam chính	đá	đối thủ trong cửa hàng	1
-Nhân vật chính	tông	vai cực mạnh vào người qua đường	1
-Người mẫu nam	quấn	khăn tắm quanh hông và nhìn thẳng camera	1
-Người phụ nữ	ngồi	vắt chân trên ghế sofa và vuốt tóc	1
-Cảnh	quay	cận vòng eo và hông người mẫu khi giới thiệu kem dưỡng	1
+Người đàn ông	đe dọa	bạn diễn bằng nắm đấm	1
 Người mẫu	liếm	môi và áp chai nước hoa lên cổ	1
-Người mẫu nữ	cúi	người về phía camera và mỉm cười gợi cảm	1
 Nam người mẫu	dựa	lưng vào giường với ánh đèn vàng ấm	1
-Thầy cúng	đốt	nhang và khấn cầu tài lộc cho cửa hàng	1
-Livestream	cho thấy	thầy pháp chạm bùa lên trán khách	1
-Cảnh	giới thiệu	sản phẩm phong thủy khi gieo quẻ xin lộc	1
-Người bán	hét	viên uống này giúp giảm mỡ bụng chỉ sau một đêm	1
-Quảng cáo	tuyên bố	sản phẩm ngăn ngừa ung thư hoàn toàn	1
-Người phụ nữ	nói	chỉ cần mua gói này là cuộc đời thay đổi	1
-Cảnh	nhấp nháy	đảm bảo 100 phần trăm hiệu quả cho mọi người	1
+Người đàn ông	giới thiệu	sản phẩm sau khi khấn tượng phật	1
+Người đàn ông	mặc	áo cà sa và ban phước cho vật phẩm	1
+Người phụ nữ	rót	nước lên bùa và nói kích hoạt may mắn	1
+Người mẫu	nói	uống trà này là trẻ ra mười tuổi	1
+Người dẫn	nói	uống nước này thông minh hơn và kiếm tiền giỏi hơn	1
+Livestream	nói	đây là cơ hội đổi đời duy nhất trong năm	1
 MC	nói	sản phẩm được bác sĩ nước ngoài khuyên dùng nhưng không bằng chứng	1
-Khách hàng	nghe	tư vấn bảo hiểm sức khỏe	0
+Người phụ nữ	nói	viên này uống vô là đẹp liền lập tức	1
+Người giao hàng	đưa	kiện hàng cho khách và cúi đầu cảm ơn	0
+Cô nhân viên lễ tân	mỉm cười	chào khách bước vào khách sạn	0
+Người thợ điện	kiểm tra	cầu dao trong căn hộ	0
 Cô gái	mở	laptop làm việc ở quán cà phê yên tĩnh	0
-Người mẹ	chải	tóc cho con gái trước khi đi học	0
-Người đàn ông	rót	bia vào cốc trên bàn	0
-Hành động	thân mật	quá mức nơi công cộng	1
-Người dùng	mở	hộp điện thoại mới	0
-Chú chó con	đùa	với cuộn len	0
-Người đàn ông	đeo	tai nghe và gật gù theo nhạc	0
+Nhân viên kỹ thuật	lắp	đặt máy lọc nước cho khách	0
+Người đàn ông	kéo	váy của cô gái	1
+Người mẫu	cởi	đồ với ngụ ý khỏa thân	1
 Em bé	ngủ	trong nôi	0
-Ngôn từ	thể hiện	thù hận hoặc phân biệt chủng tộc	1
-Cảnh	quay	time-lapse công trường xây dựng	0
+Người giao hàng	trao	gói hàng cho khách	0
+Hình ảnh	so sánh	trước và sau phi thực tế về giảm cân	1
+Cận cảnh	cho thấy	bánh quy được nhúng vào sữa	0
+Cặp đôi già	nắm	tay nhau đi dạo	0
+Quảng cáo	sử dụng	hình ảnh deepfake người nổi tiếng	1
 Video game	có	cảnh tra tấn	1
+Cận cảnh	hiển thị	hình ảnh vi khuẩn hoặc virus gây sợ hãi	1
 Cảnh	cho thấy	người nhảy từ tòa nhà không phải thể thao mạo hiểm	1
-Con mèo	đuổi	theo chấm laser	0
-Một người	thiền	với sự trợ giúp của ứng dụng	0
+Người pha chế	tạo	hình nghệ thuật trên ly cà phê	0
+Người có ảnh hưởng	đánh giá	một sản phẩm công nghệ	0
+Cảnh	quay	buổi học lập trình quảng cáo khóa học	0
 Người đàn ông	trình bày	slide trong cuộc họp quảng cáo phần mềm	0
-Hình ảnh	bàn tay	đầy tiền với lời hứa làm giàu trong 1 ngày	1
-Quảng cáo	sử dụng	logo thương hiệu lớn một cách giả mạo	1
-Cận cảnh	cho thấy	miếng sô cô la bị bẻ đôi	0
-Gia sư	dạy	kèm học sinh qua video call	0
+Video	mô phỏng	vụ trộm cắp từ camera an ninh	1
+Quảng cáo	đưa	những lời khoe khoang phi thực tế về đầu tư	1
 Người phụ nữ	tập	yoga trên thảm	0
-Cận cảnh	cho thấy	bông hoa nở theo time-lapse	0
-Cô gái	thử	một chiếc mũ	0
-Người mẫu nam	mặc	vest lịch lãm	0
-Video	cho thấy	cận cảnh con gián bò trên đồ ăn	1
-Quảng cáo	giới thiệu	chìa khóa vạn năng để mở xe	1
+Máy bay	cất	cánh quảng cáo hãng hàng không	0
+Người mẫu	trang	điểm mắt eyeliner	0
+Cận cảnh	hiển thị	màn hình mã code	0
+Em bé	tập	đi	0
+Quảng cáo	giới thiệu	dịch vụ làm bằng đại học giả	1
 Người đàn ông	tập	yoga ngoài trời	0
-Cận cảnh	hiển thị	sóng biển vỗ vào bờ cát	0
-Video	mô phỏng	một vụ xả súng	1
+Kiến trúc sư	phác thảo	bản vẽ	0
+Quảng cáo	giới thiệu	phần mềm tạo tiền giả	1
 Chú chó	vẫy	đuôi chờ bát thức ăn	0
-Con mèo	chơi	với món đồ chơi tự động	0
+Cận cảnh	cho thấy	vali được kéo trên sàn sân bay	0
 Người dùng	kích hoạt	VPN bằng một cú nhấp chuột	0
-Người đàn ông	dùng	máy cắt cỏ trong vườn	0
 Video	mô phỏng	một cuộc gọi 911 giả mạo	1
-Video quảng cáo	giới thiệu	dịch vụ rửa tiền	1
-Video	ghi lại	một người lướt ván wakeboarding trên hồ	0
-Video	ghi hình	một con đường mòn hiking trong rừng	0
-Quảng cáo	giới thiệu	phần mềm trúng số lừa đảo	1
-Quảng cáo	sử dụng	hình ảnh ký sinh trùng gây ghê sợ	1
-Quảng cáo	sử dụng	hình ảnh giả pin yếu để lừa cài ứng dụng	1
-Người đàn ông	dùng	ứng dụng bản đồ để tìm đường	0
-Người mẫu	tạo dáng	với áo len	0
-Cận cảnh	cho thấy	một máy pha cà phê đang chiết xuất	0
-Cận cảnh	cho thấy	một ly rượu vang đỏ được rót ra	0
-Người dùng	so sánh	giá vé máy bay trên website du lịch	0
-Video	ghi hình	người cố tình phá hỏng đồ và đập vỡ TV	1
-Video	mô phỏng	một vụ trộm khi người lạ nhìn qua cửa sổ	1
-Video	ghi hình	một robot hình người đang nhảy múa	0
-Người dùng	cắm	bộ phát wifi vào ổ điện	0
+Video	ghi lại	vụ trộm cướp bạo lực từ camera an ninh	1
+Cận cảnh	hiển thị	trang sức bằng ngọc trai	0
+Cô gái	chơi	game di động và mỉm cười	0
+Robot hút bụi	tự động	dọn dẹp nhà cửa	0
+Cận cảnh	hiển thị	một nồi súp đang sôi quảng cáo đồ gia dụng	0
+Video	ghi hình	một đám cưới trên bãi biển	0
+Người mẫu nam	thử	ba lô du lịch	0
+Người dùng	cắm	sạc cho xe tay ga điện	0
+Video	ghi lại	một người bị bắt nạt trong lớp học	1
+Người đàn ông	nhận	bưu kiện và ký tên	0
+Video	ghi lại	một tuabin gió đang quay	0
+Cận cảnh	hiển thị	một con bướm đậu trên bông hoa	0
+Cô gái	dán	màn hình cường lực cho điện thoại	0
+Người phụ nữ	thử	độ đàn hồi của nệm	0
+Cô gái	chọn	lọ sơn móng tay nhiều màu	0
+Người mẫu	đeo	vòng cổ ngọc trai	0
+Công tắc thông minh	được	điều khiển bằng giọng nói	0
 Video	ghi hình	một cánh đồng lúa mì vàng óng	0
-Quảng cáo	giới thiệu	thần dược giúp mọc lại răng đã mất	1
-Video quảng cáo game	hiển thị	cảnh chọn bạn tình để hẹn hò	1
-Người dùng	thiết lập	tài khoản email mới	0
-Video	ghi hình	một người lướt mạng xã hội và cười	0
-Video	ghi lại	một người học cờ vua trực tuyến	0
-Cận cảnh	hiển thị	máy lọc không khí đang hoạt động	0
-Cận cảnh	hiển thị	một lọ mật ong nguyên chất	0
+Video	ghi lại	một người đập phá đồ đạc trong cơn giận dữ	1
+Người mẫu	đeo	tai nghe chống ồn trên máy bay	0
+Cô gái	pha	nước trái cây bằng máy ép chậm	0
 Video	ghi lại	một người lắp ráp nội thất văn phòng	0
-Cận cảnh	cho thấy	một nhiệt kế đo nhiệt độ	0
-Người mẫu	tạo dáng	với túi tote vải	0
-Video	ghi hình	một người tập thể dục buổi sáng	0
-Video	ghi hình	một người thưởng thức kem tại cửa hàng	0
-Cận cảnh	hiển thị	điện thoại gập được mở ra	0
-Video	ghi lại	một người giãn cơ thể	0
-Video	ghi hình	một người ăn thịt sống hoặc côn trùng	1
-Quảng cáo	giới thiệu	máy phát điện miễn phí lừa đảo khoa học	1
-Video quảng cáo dịch vụ	cho phép	xem trộm camera nhà người khác	1
+Người dùng	tải	tài liệu lên dịch vụ đám mây	0
+Cô gái	đặt	bó hoa vào bình	0
+Cận cảnh	hiển thị	đèn bàn thông minh	0
+Video	ghi lại	một người bị bóp cổ hoặc ngạt thở	1
+Video	ghi lại	một người uống chất lỏng không rõ nguồn gốc	1
+Video	sử dụng	hình ảnh phân biệt đối xử với người LGBT	1
+Video	sử dụng	từ ngữ tục tĩu lặp lại	1
+Cận cảnh	hiển thị	một đống rác lớn bốc mùi gây khó chịu	1
 Video	ghi hình	một người thử nghiệm loa bluetooth chống nước	0
-Người mẫu	tạo dáng	với một chiếc ô trong mưa	0
-Video	ghi hình	một người dùng máy in di động	0
-Cận cảnh	hiển thị	viên đá quý được chiếu sáng	0
-Video	ghi hình	một người ném đĩa bay frisbee	0
-Video	ghi hình	một người chèo thuyền kayak trên sông	0
-Video	ghi hình	cận mặt một người đang nôn ra máu	1
-Video	ghi hình	một người hút thuốc trong phòng kín	1
+Cận cảnh	hiển thị	một người dùng máy scan tài liệu	0
+Video	ghi hình	một người xếp các hộp quà lên nhau	0
+Video	ghi lại	một người học làm sushi	0
+Video	sử dụng	hình ảnh súng đạn thật để đe dọa người xem	1
+Quảng cáo	giới thiệu	ứng dụng hack tài khoản ngân hàng	1
 Quảng cáo	giới thiệu	bài thuốc bí truyền chữa vô sinh	1
-Video	ghi hình	người bóc lột sức lao động của người già	1
-Cô gái	gọt	vỏ trái cây nhiệt đới	0
-Video	ghi hình	một người kiểm tra bảng mạch điện tử	0
-Người dùng	thiết lập	chế độ Không làm phiền	0
-Cận cảnh	hiển thị	khóa cửa điện tử smart lock	0
+Cận cảnh	hiển thị	một người tự đâm vào tay	1
+Quảng cáo	giới thiệu	viên uống giúp trẻ cao phi thường	1
 Video	ghi lại	một người chơi ném phi tiêu darts	0
+Người dùng	thay	nhạc chuông điện thoại	0
+Cận cảnh	hiển thị	máy chiếu hình ảnh	0
+Người dùng	sử dụng	ứng dụng học thi bằng lái xe	0
+Cô gái	chuẩn bị	nước ép rau củ	0
+Người đàn ông	vẽ	tranh tường mural	0
 Người mẫu	tạo dáng	với ô tô cổ	0
-Video	ghi hình	một người tham gia tiệc ngoài trời	0
 Quảng cáo	sử dụng	hình ảnh giả người bị thương để quảng cáo thuốc	1
-Quảng cáo	giới thiệu	ứng dụng kiểm tra đồ thật giả	1
-Video	sử dụng	hình ảnh phân biệt chủng tộc	1
-Video	ghi hình	người bị trói chân tay	1
-Video	làm giả	thông báo tin nhắn để lừa người xem	1
-Quảng cáo	giới thiệu	chất tẩy rửa làm sạch vết máu	1
-Cô gái	chăm sóc	cây cảnh trong nhà	0
+Quảng cáo	giới thiệu	thảo dược chữa HIV/AIDS	1
+Video	sử dụng	hình ảnh bạo lực với người già	1
+Cận cảnh	hiển thị	một người quét thẻ lên thiết bị đọc	0
+Người dùng	đóng gói	hộp quà	0
+Cận cảnh	hiển thị	một người dùng máy ép trái cây thủ công	0
+Người đàn ông	thử	đồ bơi swimsuit	0
+Cận cảnh	hiển thị	quạt điện thông minh	0
 Người đàn ông	thử	áo phông in hình	0
-Người dùng	kiểm tra	lịch giao hàng trên ứng dụng	0
-Người mẫu	tạo dáng	với khăn choàng cổ	0
-Quảng cáo	sử dụng	hình ảnh cảnh báo virus giả để lừa cài app	1
-Video	mô phỏng	một vụ khủng bố nơi công cộng	1
-Người dùng	thiết lập	tài khoản ngân hàng số	0
-Cận cảnh	hiển thị	một người dùng máy rửa xe áp lực cao	0
-Video	ghi lại	một người tham gia lớp học làm đồ da thủ công	0
-Người dùng	thay đổi	cài đặt bảo mật trên điện thoại	0
-Người mẫu	tạo dáng	với túi đeo chéo crossbody bag	0
-Người mẫu	tạo dáng	với mũ rộng vành che nắng	0
-Video	ghi hình	một người học lập trình cơ bản	0
+Cận cảnh	hiển thị	máy hút ẩm	0
+Quảng cáo	giới thiệu	dịch vụ tăng điểm thi cử	1
+Video	ghi hình	một người dùng máy scan 3D	0
+Video	ghi hình	một người học chơi trống drum set	0
+Video	ghi lại	một người chạy trên đường ray xe lửa cũ	0
+Video	ghi hình	một người chèo thuyền buồm	0
+Quảng cáo	giới thiệu	dịch vụ xóa nợ thẻ tín dụng	1
 Video quảng cáo game	hiển thị	nhân vật khỏa thân pixelated	1
-Video	làm giả	giao diện ngân hàng nước ngoài	1
-Video	ghi hình	người mẫu mặc đồ lót tập trung vùng kín	1
-Hình ảnh	hiển thị	một người dùng dao cắt vào da thịt	1
-Video	sử dụng	hình ảnh bạo lực trẻ em	1
-Cận cảnh	hiển thị	một người tiêm thuốc vào mắt	1
-Người mẫu	dùng	son dưỡng môi	0
-Video	ghi hình	một người dùng máy đo laser khoảng cách	0
-Người mẫu	tạo dáng	với áo khoác phao dày	0
-Người mẫu	tạo dáng	với ba lô laptop	0
-Video	ghi hình	một người chơi bóng bầu dục	0
-Người đàn ông	đội	mũ bảo hộ lao động	0
-Quảng cáo	giới thiệu	kem giúp da trắng như tuyết ngay lập tức	1
-Video	ghi hình	người mẫu cố tình hở eo và vùng bẹn bikini	1
-Cận cảnh	hiển thị	máy ghi âm kỹ thuật số	0
-Video	ghi lại	một người thử nghiệm động cơ máy bay mô hình	0
-Người đàn ông	kiểm tra	chất lượng kính cửa sổ	0
-Video	ghi lại	một người học vẽ tranh sơn dầu	0
-Cận cảnh	hiển thị	máy hàn nhựa	0
-Người mẫu	tạo dáng	với áo choàng tắm	0
-Video	ghi hình	một người nhảy breakdance	0
+Quảng cáo	giới thiệu	ứng dụng thay đổi giới tính bằng AI	1
+Video	ghi hình	một người thử xe máy phân khối lớn	0
+Cận cảnh	hiển thị	máy sưởi điện	0
+Video	ghi hình	một người tham gia lớp học nấu món Thái	0
+Cận cảnh	hiển thị	micro thu âm chuyên nghiệp	0
+Người mẫu	tạo dáng	với áo hoodie	0
+Video	ghi hình	một người lướt ván buồm windsurfing	0
+Người đàn ông	gắn	camera hành trình lên xe	0
+Video	ghi hình	một người tập thái cực quyền	0
+Hình ảnh	hiển thị	một người bóp cổ người khác	1
+Quảng cáo	giới thiệu	ứng dụng quay lén không bị phát hiện	1
+Video	ghi hình	người bị nhốt trong lồng hoặc phòng tối	1
+Cận cảnh	hiển thị	máy may công nghiệp đang hoạt động	0
+Video	ghi hình	một người dùng máy phát hiện kim loại	0
+Cô gái	xếp	quần áo vào máy giặt	0
+Người đàn ông	kiểm tra	thông tin dinh dưỡng thực phẩm trên app	0
 Cô gái	thử	mũ bảo hiểm trượt ván	0
-Quảng cáo	giới thiệu	dịch vụ thay đổi thông tin cá nhân mạng xã hội	1
-Quảng cáo	giới thiệu	dịch vụ tiên tri dự đoán cái chết	1
-Video	ghi hình	người mẫu mặc bikini tạo dáng quá gần ống kính	1
-Video	sử dụng	hình ảnh phân biệt đối xử với người tàn tật	1
-Cận cảnh	hiển thị	một người cào xước da thịt mình	1
-Người dùng	kiểm tra	lịch sử giao dịch ngân hàng trên app	0
-Cô gái	lau	chùi cửa sổ kính	0
-Người đàn ông	kiểm soát	ngôi nhà thông minh qua ứng dụng	0
-Cô gái	làm	món salad trái cây	0
-Cận cảnh	hiển thị	máy sấy giày	0
-Cận cảnh	hiển thị	máy sấy quần áo	0
+Video	ghi hình	một người tập thể dục với xà đơn	0
+Video	ghi lại	cận mặt người bị nổi mụn nước	1
+Người mẫu	dùng	mặt nạ giấy	0
+Cận cảnh	hiển thị	máy ép cám viên	0
+Cận cảnh	hiển thị	máy làm kem tươi tại nhà	0
+Người mẫu	đeo	khăn choàng cổ len	0
+Cận cảnh	hiển thị	máy in nhãn dán	0
+Video	ghi hình	một người học lắp ráp mô hình tĩnh	0
+Cô gái	thử	áo blouse công sở	0
+Cận cảnh	hiển thị	một người dùng máy tạo oxy cá nhân	0
+Quảng cáo	sử dụng	hình ảnh cảnh báo khủng bố để quảng bá ứng dụng	1
+Video	ghi hình	một người bị vật lạ cắm vào mắt	1
 Video	lồng tiếng	tiếng trẻ con khóc thét và cười nham hiểm	1
-Quảng cáo	giới thiệu	nước uống giúp trí nhớ siêu phàm	1
-Video	sử dụng	hình ảnh bạo lực với vật nuôi	1
-Video	ghi hình	một người thử xe scooter điện	0
-Cô gái	lau	chùi bếp từ	0
-Cận cảnh	hiển thị	máy làm xúc xích	0
-Cận cảnh	hiển thị	đồng hồ thể thao	0
-Cận cảnh	hiển thị	máy hút bụi công nghiệp	0
-Video	ghi lại	một người học làm đồ thủ công từ tre	0
+Video	làm giả	giao diện thông báo Mật khẩu sai của ngân hàng	1
+Video	sử dụng	hình ảnh bạo lực của băng đảng xã hội đen	1
+Video	ghi hình	người mẫu cố tình hở eo và vùng xương chậu	1
+Cận cảnh	hiển thị	một người tiêm thuốc vào chân	1
+Người mẫu	dùng	son bóng	0
+Cận cảnh	hiển thị	máy làm bánh bao	0
+Cô gái	làm	nước sốt cà chua	0
+Cận cảnh	hiển thị	máy sấy tóc tạo độ phồng	0
+Cô gái	làm	món bánh taco	0
+Cận cảnh	hiển thị	máy ảnh quay phim chuyên nghiệp DSLR	0
+Video	ghi hình	một người chơi cầu mây	0
 Cận cảnh	hiển thị	một người dùng máy đo nồng độ oxy	0
-Cận cảnh	hiển thị	máy tạo kiểu tóc đa năng	0
-Quảng cáo	sử dụng	hình ảnh giả mạo cảnh báo an ninh quốc gia để quảng bá app	1
-Video	mô phỏng	một vụ tấn công hóa học	1
-Cận cảnh	hiển thị	một người cào xước cổ họng mình	1
-Video	ghi hình	một người thử xe lăn tự động	0
-Người đàn ông	kiểm soát	máy lạnh bằng ứng dụng	0
-Cô gái	làm	bánh mì nướng bơ tỏi	0
-Cận cảnh	hiển thị	máy hút bụi cầm tay cho ô tô	0
+Video	ghi hình	một người học làm nước ép detox	0
+Cận cảnh	hiển thị	một người tiêm thuốc vào ngón tay	1
+Người mẫu	dùng	kem chống nắng	0
+Cô gái	lau	giày thể thao	0
+Video	ghi hình	một người dùng máy đo độ ồn	0
+Cận cảnh	hiển thị	máy làm kem cuộn	0
 Người đàn ông	kiểm tra	độ an toàn của dây đai	0
-Cận cảnh	hiển thị	máy sấy tay tự động	0
-Người đàn ông	thử	đồ lặn	0
-Cận cảnh	hiển thị	máy in hóa đơn	0
+Người mẫu	tạo dáng	với áo len cổ chữ V	0
 Video	ghi hình	một người học tạo hiệu ứng âm thanh	0
-Video	ghi hình	một người chơi trượt ván skateboard	0
-Người mẫu	tạo dáng	với áo khoác dạ	0
-Video	mô phỏng	một vụ tấn công bằng hơi ga	1
-Hình ảnh	hiển thị	một người dùng dao cứa vào cổ tay tự hại	1
-Video	làm giả	giao diện Mật khẩu sai của PayPal hoặc Visa	1
+Cận cảnh	hiển thị	máy tính bảng công nghiệp	0
+Cận cảnh	hiển thị	một người dùng máy đo huyết áp cổ tay	0
+Video	ghi lại	một người học pha cà phê siphon	0
+Quảng cáo	giới thiệu	dịch vụ xóa thông tin nợ xấu khỏi CIC	1
+Video	ghi hình	người mẫu cố tình hở eo và vùng xương chậu với quần cạp trễ	1
+Video	sử dụng	hình ảnh bạo lực với vật nuôi trong chuồng	1
+Video	ghi lại	cận cảnh lốp xe ô tô mới	0
 Người mẫu	đeo	kính đọc sách	0
-Người đàn ông	điều khiển	thuyền buồm nhỏ	0
-Người mẫu	xịt	nước hoa lên cổ tay	0
-Cận cảnh	hiển thị	điện thoại di động màu xanh navy	0
-Người mẫu	tạo dáng	với áo phông kẻ ngang	0
-Video	ghi hình	một người nhảy hiện đại contemporary dance	0
-Cô gái	làm	súp kem bí đỏ	0
-Video	ghi hình	một người tập thể dục với vòng lắc hula hoop	0
-Cận cảnh	hiển thị	máy in ảnh di động	0
-Video	ghi hình	một người tập thể dục với bao cát	0
+Video	ghi hình	một người chơi bóng bầu dục Úc	0
+Video	ghi hình	một người học làm trang sức bằng đá quý	0
+Cô gái	làm	kem trà xanh	0
+Người mẫu	đeo	găng tay len	0
+Người mẫu	tạo dáng	với áo sơ mi caro	0
+Cận cảnh	hiển thị	máy đếm tiền giả	0
+Cô gái	làm	bánh mì hoa cúc	0
+Người đàn ông	gắn	camera 360 độ cho ô tô	0
 Cận cảnh	hiển thị	máy làm tóc xoăn lọn to	0
-Video	ghi hình	một người tập thể dục với dây đàn hồi	0
-Người dùng	kiểm tra	thông tin dinh dưỡng trên app	0
-Cận cảnh	hiển thị	đèn pin sạc dự phòng	0
-Quảng cáo	giới thiệu	kem giúp da trắng sáng hơn 10 tông	1
-Video	mô phỏng	một cuộc ẩu đả bạo lực bằng chai lọ	1
-Quảng cáo	giới thiệu	ứng dụng cho vay trả góp không giấy tờ với lãi suất cắt cổ	1
-Video quảng cáo game	hiển thị	nhân vật hôn nhau đồng giới không rõ ngữ cảnh	1
+Video	ghi hình	một người chơi đá cầu	0
+Cận cảnh	hiển thị	một người dùng máy đo pH đất	0
+Video	ghi hình	một người làm đồ trang trí từ giấy	0
+Cô gái	làm	nước ép cà rốt	0
+Cận cảnh	hiển thị	máy chiếu phim 4K mini	0
+Video	ghi lại	cận cảnh người bị nấm móng tay	1
+Video	mô phỏng	một vụ tấn công mạng vào bệnh viện	1
+Hình ảnh	hiển thị	một người dùng kiếm đâm vào bụng	1
+Quảng cáo	sử dụng	hình ảnh giả mạo tin tức nóng về tiền ảo sụp đổ	1
 Video	lồng tiếng	tiếng cười khúc khích đáng sợ	1
-Quảng cáo	giới thiệu	dịch vụ giải quyết tranh chấp bằng cách đe dọa	1
 Video	sử dụng	hình ảnh phân biệt đối xử với người Hồi giáo	1
 Quảng cáo	giới thiệu	nước uống giúp tăng cường sức khỏe tim mạch phi thực tế	1
-Video	ghi hình	cận cảnh người bị nhiễm trùng móng tay	1
-Video	mô phỏng	một cuộc ẩu đả trong công viên	1
-Video	sử dụng	hình ảnh bạo lực với vật nuôi bị thiêu sống	1
-Người mẫu	tạo dáng	với khăn choàng cổ lông thú	0
-Video	ghi hình	một người thử nghiệm xe đạp gấp	0
+Video	ghi hình	người mẫu cố tình hở eo và vùng dưới rốn	1
+Video	ghi hình	một người bị dao cứa vào cổ	1
+Quảng cáo	giới thiệu	thiết bị giúp tăng cường trí nhớ	1
+Video	sử dụng	hình ảnh bạo lực với người già	1
+Video	mô phỏng	một cuộc ẩu đả trong siêu thị	1
+Video	ghi hình	một người bị đánh bằng gậy sắt	1
+Quảng cáo	giới thiệu	kem giúp xóa nếp nhăn hoàn toàn trong 10 phút	1
+Quảng cáo	giới thiệu	thiết bị giúp tăng khả năng tình dục nam	1
+Quảng cáo	giới thiệu	ứng dụng hack tài khoản game	1
+Cận cảnh	hiển thị	một người cào xước cổ	1
+Quảng cáo	giới thiệu	ứng dụng cho vay trả góp hàng ngày với lãi suất cao	1
 Cô gái	rửa	mặt bằng sữa rửa mặt	0
 Cận cảnh	hiển thị	máy làm kem tươi cuộn	0
-Người mẫu	đeo	đồng hồ bấm giờ	0
-Người dùng	thiết lập	báo thức trên điện thoại	0
-Cận cảnh	hiển thị	máy đếm tiền cầm tay	0
-Cô gái	làm	kem dâu tây	0
-Video	ghi hình	một người học làm trang sức bằng vàng	0
-Cận cảnh	hiển thị	máy tính bỏ túi có chức năng in	0
-Người đàn ông	thử	mũ bảo hiểm full-face	0
-Video	ghi hình	một người học chơi kèn melodica	0
-Video	ghi hình	một người tập thể dục với tạ ấm kettlebell swing	0
-Video	ghi hình	một người chơi trò ném vòng	0
-Cô gái	thử	áo len cardigan	0
+Video	ghi hình	một người học làm rượu vang tại gia	0
+Người đàn ông	gắn	thiết bị định vị GPS cá nhân	0
+Video	ghi hình	một người học làm đồ lưu niệm từ giấy báo	0
+Video	ghi hình	một người chơi bi-a snooker	0
+Cô gái	làm	bánh tiramisu	0
+Cận cảnh	hiển thị	máy đếm tiền tự động	0
+Người dùng	kiểm tra	quãng đường bơi trên app	0
+Cận cảnh	hiển thị	máy làm tóc duỗi cúp	0
 Cận cảnh	hiển thị	một người dùng máy đo nồng độ oxy trong phòng	0
-Video	ghi hình	một người chơi golf trên sân cỏ	0
+Cận cảnh	hiển thị	máy làm tóc uốn lượn	0
+Cô gái	làm	nước ép cà chua	0
+Video	ghi hình	một người tập thể dục với máy elip	0
 Cận cảnh	hiển thị	đèn bàn cảm ứng	0
-Người dùng	kiểm tra	số dặm đã đi của xe hơi trên app	0
-Video	ghi hình	một người chơi bóng bầu dục Mỹ khi tập luyện	0
 Người đàn ông	gắn	khóa vân tay cho ngăn kéo	0
-Video	ghi hình	một người chơi cờ cá ngựa	0
-Video	sử dụng	hình ảnh phân biệt đối xử với người dân tộc thiểu số	1
-Video	làm giả	giao diện Cảnh báo bảo trì của ngân hàng	1
+Cận cảnh	hiển thị	máy làm tóc gợn sóng	0
+Quảng cáo	sử dụng	hình ảnh giả mạo tin nhắn từ con để lừa người xem	1
+Video	lồng tiếng	tiếng trẻ con khóc thét và cười méo mó	1
+Quảng cáo	giới thiệu	dịch vụ sao chép ID sinh trắc học	1
 Video	mô phỏng	một cuộc ẩu đả bạo lực bằng dao găm	1
-Cận cảnh	hiển thị	một người cào xước cổ họng đến chảy máu	1
-Video	mô phỏng	một cuộc ẩu đả bằng xích sắt	1
-Người phụ nữ	rửa	chén bằng máy rửa bát tự động	0
-Cận cảnh	hiển thị	máy ảnh dùng cảm biến APS-C	0
+Cận cảnh	hiển thị	một người tiêm chất kích thích vào tay không chuyên nghiệp	1
+Video	ghi hình	người bị nhốt trong xe ô tô bị ngập nước mô phỏng	1
+Video	làm giả	giao diện Mật khẩu sai của ví điện tử	1
+Cận cảnh	hiển thị	một người tiêm chất độc vào tĩnh mạch không chuyên nghiệp	1
+Người đàn ông	cắm	bộ chia USB vào laptop	0
+Người mẫu	đeo	kính râm thời trang	0
 Cận cảnh	hiển thị	máy pha cà phê tự động	0
-Em bé	học	đi bộ trên bãi cỏ	0
-Người đàn ông	gắn	thiết bị theo dõi vật nuôi	0
-Video	ghi hình	một người tập nhảy hip-hop chuyên nghiệp	0
-Video	ghi hình	một người học làm đồ lưu niệm từ gỗ thông	0
-Cận cảnh	hiển thị	máy tính bỏ túi năng lượng mặt trời	0
-Video	ghi hình	một người chơi bi-a 8 bóng (eight-ball)	0
-Video	ghi hình	một người học trang điểm theo phong cách cổ điển	0
-Cận cảnh	hiển thị	máy in 3D kim loại	0
-Người dùng	kiểm tra	tốc độ đạp xe trên ứng dụng	0
-Video	ghi hình	một người chơi bóng chuyền trong nhà	0
-Người mẫu	tạo dáng	với khăn choàng cổ cashmere	0
-Cô gái	thử	áo len cổ tròn	0
-Người dùng	kiểm tra	thông tin dinh dưỡng trong sản phẩm đóng gói	0
-Video	ghi hình	một người chơi golf trên sân 18 lỗ	0
+Người đàn ông	câu	cá trên hồ	0
+Cô gái	làm	kem dừa tự nhiên	0
+Người đàn ông	kiểm tra	đồng hồ đo độ sâu khi lặn	0
+Video	ghi hình	một người học chơi cờ vây weiqi	0
+Cận cảnh	hiển thị	máy ảnh polaroid cổ điển	0
+Cận cảnh	hiển thị	bình đựng nước có lọc than hoạt tính	0
+Video	ghi hình	một người chơi bóng bầu dục Canada tập luyện	0
+Cận cảnh	hiển thị	máy rửa chén siêu âm	0
+Người dùng	kiểm tra	số giờ ngủ sâu trên vòng tay thông minh	0
+Người đàn ông	gắn	hệ thống camera lùi cho xe tải	0
+Người đàn ông	gắn	thiết bị chống trộm xe đạp	0
+Cận cảnh	hiển thị	máy làm tóc xoăn tự động xoay	0
+Người mẫu	tạo dáng	với áo khoác lông cừu	0
+Cô gái	làm	nước ép dứa	0
+Người đàn ông	gắn	thiết bị báo động khẩn cấp	0
+Cận cảnh	hiển thị	đèn bàn đọc sách chống cận	0
 Người mẫu	tạo dáng	với áo croptop dài qua eo	0
-Video	ghi hình	một người học làm đồ thủ công từ giấy quilling	0
+Cô gái	làm	sinh tố dâu tây chuối	0
+Cận cảnh	hiển thị	máy làm tóc uốn gợn sóng	0
+Video	ghi hình	một người học pha chế cà phê pha máy espresso	0
 Video	ghi hình	một người tập nhảy belly dance	0
-Video	ghi hình	một người học làm đồ da thắt lưng	0
-Cận cảnh	hiển thị	máy tính bảng có bàn phím rời	0
-Người đàn ông	gắn	cảm biến va chạm cho xe	0
-Người dùng	đặt	vé xem ca nhạc qua ứng dụng	0
-Cận cảnh	hiển thị	máy hút bụi cầm tay đa năng	0
+Video	ghi hình	một người học làm đồ trang sức bằng bạc	0
+Người mẫu	tạo dáng	với áo khoác trench coat	0
+Người dùng	kiểm tra	số bước chân theo giờ trên ứng dụng	0
+Người mẫu	đeo	găng tay cao su	0
+Cô gái	làm	bánh mì nướng trứng	0
 Người đàn ông	thử	mũ bảo hiểm 3/4	0
-Cận cảnh	hiển thị	máy tạo kiểu tóc uốn lọn nhỏ	0
-Cận cảnh	hiển thị	máy làm kem chiên	0
-Video	ghi hình	một người tập thể dục với dây nhảy có trọng lượng	0
+Người dùng	kiểm tra	lịch sử giao dịch điện tử trên ứng dụng	0
 Người đàn ông	gắn	thiết bị chống cháy nổ cho kho chứa	0
-Cận cảnh	hiển thị	máy tính bảng có chức năng gọi điện	0
-Cô gái	làm	sữa hạt óc chó	0
-Người mẫu	tạo dáng	với áo khoác dạ lót lông	0
-Video	ghi hình	một người học pha chế cocktail cổ điển	0
-Video	mô phỏng	một cuộc ẩu đả bạo lực bằng gạch đá	1
-Video quảng cáo game	hiển thị	nhân vật hôn nhau đồng giới nữ quá mức gợi dục	1
-Hình ảnh	hiển thị	một người dùng súng bắn vào chân người khác	1
-Quảng cáo	giới thiệu	ứng dụng giải mã mật khẩu ngân hàng	1
-Quảng cáo	giới thiệu	nước uống giúp giảm cân 10kg trong 24 giờ	1
-Cận cảnh	hiển thị	một người cào xước cổ tay	1
-Video	mô phỏng	một vụ tấn công khủng bố bằng súng	1
-Video	làm giả	giao diện Thông báo trúng thưởng để lừa đảo	1
-Video	sử dụng	hình ảnh bạo lực với phụ nữ	1
-Quảng cáo	giới thiệu	dịch vụ sao chép chìa khóa xe máy thông minh	1
+Cận cảnh	hiển thị	máy làm tóc duỗi keratin	0
+Video	ghi hình	một người học làm đồ thủ công từ đất sét tự khô	0
+Cận cảnh	hiển thị	máy làm tóc uốn xoăn lọn nhỏ	0
+Video	ghi hình	một người chơi trò xếp hình 1000 mảnh	0
+Video quảng cáo game	hiển thị	nhân vật thả thính tục tĩu và khoe thân	1
+Quảng cáo	giới thiệu	dịch vụ giải quyết mâu thuẫn bằng bạo lực gia đình	1
+Quảng cáo	giới thiệu	chất lỏng giúp tăng khả năng học ngoại ngữ siêu tốc	1
+Video	mô phỏng	một vụ tai nạn máy bay rơi xuống núi	1
+Video	sử dụng	hình ảnh bạo lực trong các trận đấu MMA	1
+Cận cảnh	hiển thị	một người tiêm chất kích thích vào cổ không chuyên nghiệp	1
+Video	sử dụng	hình ảnh bạo lực với người già bị bỏ đói	1
+Quảng cáo	giới thiệu	kem giúp làm mờ nếp nhăn hoàn toàn	1
 Quảng cáo	giới thiệu	kem giúp làm sạch vết bẩn trên da phi thực tế	1
-Video	lồng tiếng	tiếng rên rỉ của phụ nữ	1
-Video	ghi hình	cận cảnh người bị bệnh zona thần kinh	1
-Hình ảnh	hiển thị	một người dùng dao mổ xẻ thi thể người	1
-Quảng cáo	giới thiệu	ứng dụng cho vay trả góp hàng giờ lãi suất cao	1
+Quảng cáo	giới thiệu	ứng dụng hack tài khoản mạng xã hội	1
+Quảng cáo	giới thiệu	dịch vụ sao chép chìa khóa điện tử	1
 Quảng cáo	sử dụng	hình ảnh giả mạo cảnh báo virus trên giao diện ứng dụng	1
-Video	ghi hình	một người bị tát mạnh và chảy máu miệng	1
-Video	ghi hình	một người trượt ván đường phố (street skateboarding)	0
-Cận cảnh	hiển thị	máy sưởi đối lưu	0
-Video	ghi hình	một người học làm đồ lưu niệm từ chai thủy tinh	0
-Cận cảnh	hiển thị	bình nước có hiển thị nhiệt độ	0
-Người dùng	thiết lập	tài khoản thanh toán bằng giọng nói	0
-Cận cảnh	hiển thị	máy xay cà phê thủ công	0
-Người đàn ông	thử	ủng chống trượt	0
-Cận cảnh	hiển thị	máy đếm tiền có chức năng phát hiện tiền giả	0
+Video	ghi hình	một người tập thái cực quyền ngoài trời	0
+Người dùng	kiểm tra	calo tiêu thụ trên vòng tay thông minh	0
+Cô gái	làm	bánh mì nướng bơ tỏi phô mai	0
+Người đàn ông	thử	đôi giày da cao cổ	0
+Video	ghi hình	một người học lập trình website cơ bản	0
+Người dùng	kiểm tra	chu kỳ giấc ngủ trên ứng dụng theo dõi	0
+Người đàn ông	gắn	hệ thống giám sát áp suất lốp TPMS	0
 Video	ghi hình	một người chơi bóng chuyền bãi biển	0
+Cận cảnh	hiển thị	máy làm tóc duỗi cúp tự động	0
 Video	ghi hình	một người tập thể dục với máy tập leo cầu thang	0
-Cận cảnh	hiển thị	máy làm tóc duỗi nhiệt độ cao	0
-Video	ghi hình	một người chơi golf trên sân ảo	0
+Người mẫu	tạo dáng	với áo khoác dạ măng tô	0
+Cận cảnh	hiển thị	máy tính bảng dùng để lập trình	0
+Người dùng	kiểm tra	số lần mở ứng dụng hằng ngày	0
+Cận cảnh	hiển thị	máy làm bánh mì có chức năng hẹn giờ	0
+Video	ghi hình	một người học pha chế cocktail hiện đại	0
+Cận cảnh	hiển thị	máy ảnh chụp thiên văn chuyên nghiệp	0
 Video	ghi hình	một người chơi trò xếp khối board game	0
-Cô gái	thử	áo blouse cổ chữ V	0
-Cận cảnh	hiển thị	máy làm kem cứng tự động	0
-Người đàn ông	gắn	khóa vân tay cho két sắt	0
 Video	ghi hình	một người tập thể dục với máy tập cơ bụng	0
-Cận cảnh	hiển thị	máy làm kem cây	0
-Cận cảnh	hiển thị	máy rửa rau củ bằng nước nóng	0
-Video	ghi hình	một người học cách tự sơn xe hơi cơ bản	0
-Cận cảnh	hiển thị	máy tính bảng dùng để ghi chú điện tử	0
-Video	ghi hình	một người chơi bi-a pool	0
+Cận cảnh	hiển thị	máy làm tóc uốn xoăn sóng tự động	0
+Người dùng	kiểm tra	trạng thái hoạt động của máy lọc không khí trên ứng dụng	0
+Cô gái	thử	áo blouse cổ lá sen	0
+Người đàn ông	lắp	đặt hệ thống đèn sân vườn thông minh	0
+Cô gái	làm	súp cà chua kem tươi	0
 Cô gái	làm	kem socola bạc hà	0
+Cận cảnh	hiển thị	máy làm bánh quy tạo hình	0
+Video	ghi hình	một người tập thể dục với dây kháng lực dẹt	0
+Người mẫu	đeo	găng tay dệt kim	0
 Cận cảnh	hiển thị	máy in ảnh di động kết nối Bluetooth	0
-Cận cảnh	hiển thị	máy đếm tiền xu tự động	0
-Video	ghi hình	một người chơi bóng chuyền ngoài trời	0
+Người đàn ông	gắn	camera hành trình 360 độ	0
+Người dùng	kiểm tra	lịch sử duyệt web riêng tư trên ứng dụng	0
+Cận cảnh	hiển thị	một người dùng máy đo độ pH nước hồ cá	0
+Video	ghi hình	một người tập thể dục với máy tập tạ	0
 Video	ghi hình	một người làm đồ trang trí từ hạt	0
-Video	ghi hình	một người chơi golf trên sân 9 lỗ	0
-Cô gái	làm	nước ép rau bina	0
-Cận cảnh	hiển thị	máy làm bánh mì có chức năng nướng giòn	0
+Người dùng	kiểm tra	thông tin thời tiết cuối tuần trên ứng dụng	0
 Người đàn ông	gắn	thiết bị báo động chống trộm cửa cuốn	0
+Video	ghi hình	một người làm đồ thủ công từ giấy bồi	0
 Video	ghi hình	một người tập thể dục với máy tập đùi	0
-Người mẫu	tạo dáng	với áo khoác dạ dài	0
-Video	ghi hình	cận cảnh lốp xe máy địa hình	0
-Cô gái	làm	kem phô mai dâu	0
-Cận cảnh	hiển thị	máy lọc nước RO thẩm thấu ngược	0
-Cận cảnh	hiển thị	tai nghe chụp tai có dây	0
-Cận cảnh	hiển thị	máy chiếu phim màn hình cong mini	0
+Video	ghi hình	một người pha cà phê trứng	0
+Người đàn ông	sử dụng	cung tên thể thao tại trường bắn	0
+Cô gái	thử	khăn quàng cổ dệt kim	0
 Video	ghi hình	một người học làm đồ lưu niệm từ giấy màu	0
-Cô gái	làm	súp kem tôm hùm	0
-Người mẫu	tạo dáng	với áo khoác da rắn	0
-Cô gái	làm	kem trà xanh matcha	0
-Video	ghi hình	một người tập thể dục với tạ dây đàn hồi có tay cầm	0
-Cận cảnh	hiển thị	máy xay cà phê có cối đựng hạt	0
+Cận cảnh	hiển thị	máy làm bánh waffle có khuôn đổi	0
+Người mẫu	đeo	găng tay đua xe	0
 Cô gái	làm	bánh mì nướng phô mai và thịt nguội	0
-Cận cảnh	hiển thị	máy tạo kiểu tóc uốn cụp điện	0
-Người dùng	kiểm tra	tốc độ tối đa khi chạy trên ứng dụng	0
-Video	ghi hình	một người tập thể dục với dây cáp kéo	0
-Video	ghi hình	một người tập thể dục với máy tập toàn thân	0
-Cận cảnh	hiển thị	máy làm tóc duỗi nhiệt độ cao có hơi nước	0
-Cô gái	làm	sữa hạt óc chó và hạt chia	0
+Cận cảnh	hiển thị	máy hút bụi cầm tay có khả năng hút chất lỏng	0
+Cô gái	làm	bánh mì bơ đậu phộng	0
+Cận cảnh	hiển thị	máy làm kem cứng có chức năng làm sạch	0
+Người mẫu	tạo dáng	với khăn choàng cổ len cashmere	0
+Video	ghi hình	một người làm đồ trang trí từ vỏ cây	0
+Video	ghi hình	một người chơi bóng bầu dục Mỹ trong trận đấu	0
+Người đàn ông	gắn	khóa vân tay cho cửa phòng làm việc	0
+Cận cảnh	hiển thị	máy ép dầu mè	0
 Cận cảnh	hiển thị	bình giữ nhiệt có vỏ silicon	0
-Video	ghi hình	một người lướt sóng bằng skimboard	0
-Người đàn ông	thử	mũ bảo hiểm nửa đầu	0
-Cận cảnh	hiển thị	máy đếm tiền có chức năng kiểm tra kích thước	0
-Cận cảnh	hiển thị	máy làm kem tươi cuộn thủ công	0
-Cận cảnh	hiển thị	máy tính bảng dùng để học ngôn ngữ ký hiệu	0
-Người đàn ông	gắn	thiết bị báo động nhiệt độ cao	0
-Video	ghi hình	một người tập thể dục với tạ chuông toàn thân	0
-Video	ghi hình	một người làm đồ thủ công từ đất sét nung	0
-Video	ghi hình	một người pha chế mocktail	0
-Video	ghi hình	một người chơi board game Ludo	0
-Cô gái	uống	nước trái cây đóng hộp hữu cơ	0
-Người dùng	đặt	vé xem phim IMAX qua ứng dụng	0
-Cận cảnh	hiển thị	máy sưởi ấm bằng dầu	0
-Người mẫu	tạo dáng	với áo khoác phao không tay	0
+Người dùng	kiểm tra	số lần mở khóa bằng khuôn mặt hàng ngày	0
+Video	ghi hình	một người chơi ring toss ngoài sân cỏ	0
+Cận cảnh	hiển thị	máy làm tóc duỗi bằng hơi nước có ion âm	0
+Cận cảnh	hiển thị	máy làm bánh mì nướng có khay trượt	0
+Cận cảnh	hiển thị	đèn bàn thay đổi màu sắc theo cảm xúc	0
+Người dùng	kiểm tra	số lần sử dụng ứng dụng giải trí hàng ngày	0
+Cô gái	làm	sữa hạt điều	0
+Người đàn ông	câu	cá bằng cần máy	0
+Video	ghi hình	một người học đan lưới	0
 Video	ghi hình	một người chơi cờ vây	0
-Video	ghi hình	một người học lập trình game cơ bản	0
-Cận cảnh	hiển thị	máy làm bánh waffle có chức năng tự động đổ bột	0
-Người mẫu	đeo	găng tay chống nắng có họa tiết	0
+Người đàn ông	thử	đôi giày da đế chống trượt	0
 Cận cảnh	hiển thị	máy in ảnh di động có khả năng in sticker	0
+Video	ghi hình	một người lướt ván trên sông	0
+Video	ghi hình	một người học làm đồ da ví đựng tiền xu	0
+Người mẫu	tạo dáng	với áo sơ mi lụa tơ tằm cổ nơ	0
 Video	ghi hình	một người học chơi kèn bassoon	0
-Cô gái	thử	áo len cổ tròn cashmere	0
-Người đàn ông	gắn	thiết bị chống rò rỉ khí độc	0
-Người dùng	kiểm tra	thông tin thời tiết theo giờ trên ứng dụng	0
-Cận cảnh	hiển thị	máy làm bánh mì có chức năng trộn bột tự động	0
-Video	ghi hình	một người tập thể dục với tạ chuông kettlebell complex	0
-Người đàn ông	gắn	khóa vân tay cho tủ quần áo	0
-Cận cảnh	hiển thị	máy ép dầu ô liu	0
-Người mẫu	tạo dáng	với áo khoác măng tô cổ điển	0
-Người dùng	kiểm tra	số lần chạm màn hình điện thoại hàng ngày	0
+Cận cảnh	hiển thị	máy đếm tiền có chức năng phân loại tiền	0
+Cô gái	làm	bánh mì ngũ cốc nguyên hạt	0
+Cận cảnh	hiển thị	một người dùng máy đo độ mặn nước	0
+Video	ghi hình	một người làm đồ trang trí từ vỏ ốc	0
+Cận cảnh	hiển thị	máy chiếu hình ảnh tương tác trên sàn nhà	0
+Video	ghi hình	một người chơi bóng bầu dục Mỹ tập ném bóng	0
+Người dùng	kiểm tra	trạng thái hoạt động của tủ lạnh thông minh	0
+Cô gái	thử	áo blouse cổ xẻ sâu	0
+Người dùng	thiết lập	chế độ du lịch trên điện thoại	0
+Người đàn ông	thử	đôi giày da đế chống sốc	0
+Cận cảnh	hiển thị	máy tính bảng dùng để đọc truyện tranh điện tử	0
 Người đàn ông	gắn	cảm biến đo độ ẩm đất trồng cây cảnh	0
-Video	ghi hình	một người trang điểm theo phong cách Hàn Quốc	0
-Cận cảnh	hiển thị	máy in ảnh di động có tính năng chỉnh sửa ảnh	0
-Video	ghi hình	một người học làm đồ thủ công từ giấy báo	0
-Người đàn ông	gắn	camera hành trình có cảnh báo va chạm	0
-Video	ghi hình	một người tập thể dục với dây nhảy tay cầm xoay	0
-Người dùng	kiểm tra	lịch sử tương tác trên ứng dụng	0
+Video	ghi hình	một người tập thể dục với dây kháng lực vòng hip circle band	0
+Cô gái	làm	bánh mì nướng bơ đậu phộng và chuối	0
+Cận cảnh	hiển thị	máy đếm tiền có chức năng kiểm tra chất lượng tiền	0
 Cận cảnh	hiển thị	máy làm tóc duỗi ion âm có chức năng dưỡng ẩm	0
-Video	ghi hình	một người tập thể dục với tạ chuông cardio	0
-Người mẫu	tạo dáng	với áo khoác blazer caro	0
-Người dùng	kiểm tra	trạng thái hoạt động của máy sấy thông minh	0
-Video	ghi hình	một người chơi bi-a 8 bóng	0
-Người đàn ông	thử	mũ bảo hiểm mô tô cổ điển	0
-Video	ghi hình	một người làm đồ thủ công từ giấy tái chế	0
-Video	ghi hình	một người chơi bóng rổ tập sút xa	0
-Cận cảnh	hiển thị	máy làm kem tươi cuộn có chức năng tạo hình	0
-Người đàn ông	gắn	camera hành trình có chức năng ghi ban đêm	0
-Cô gái	thử	áo len cổ tròn mỏng	0
-Cận cảnh	hiển thị	máy tính bảng học vẽ tranh sơn dầu	0
-Video	ghi hình	một người làm đồ thủ công từ vải nỉ	0
-Người	đang tập thể dục	với dây cáp cable fly	0
-Người	đang học	cách làm đồ trang trí từ vỏ hạt	0
-Máy làm bánh mì	có	chức năng làm bánh ngọt	0
-Máy làm bánh kem	có	chức năng làm lạnh	0
-Người	đang tập thể dục	với máy tập cơ vai	0
-Người mẫu	xịt	khử trùng tay	0
-Người	học	cách thêu ren	0
-Máy chiếu phim	màn hình cong	4K lớn	0
-Máy rửa chén	có	chức năng sấy và khử trùng	0
-Người đàn ông	thử	một đôi giày da đế đinh	0
+Người dùng	kiểm tra	tần suất sử dụng mạng xã hội hàng ngày	0
+Video	ghi hình	một người chơi Monopoly ngoài trời	0
+Người đàn ông	gắn	cảm biến đo nồng độ oxy trong phòng	0
+Video	ghi hình	một người tập với dây kháng lực glute band	0
+Người dùng	kiểm tra	quãng đường đạp xe trong tuần trên ứng dụng	0
+Video	ghi hình	một người tập thể dục với dây nhảy không dây	0
+Người đàn ông	gắn	thiết bị chống sét cho nhà thông minh	0
+Máy làm bánh waffle	có	chức năng tự động lật	0
+Người đàn ông	đang gắn	hệ thống giám sát áp suất lốp TPMS cho xe tải	0
+Người dùng	đặt vé	xem kịch qua ứng dụng	0
+Người	đang học	cách chơi kèn flute	0
+Người đàn ông	đang gắn	thiết bị theo dõi nhiệt độ môi trường xe	0
+Người	đang chơi	trò chơi ném đĩa ultimate frisbee trên sân cỏ	0
+Cô gái	đang làm	món nước ép cà chua và dứa	0
+Người phụ nữ	làm sạch	sàn gỗ bằng máy đánh bóng sàn	0
+Chân chống xe máy	hiển thị	trong khung hình	0
+Máy lọc nước	có	chức năng tạo nước kiềm	0
+Tai nghe	nhét tai	có chức năng khử tiếng ồn	0
+Máy tính bỏ túi	có	chức năng giải tích	0
+Người dùng	kiểm tra	chất lượng giấc ngủ nông trên app theo dõi giấc ngủ	0
 Cô gái	làm	món kem vani tự nhiên	0
-Máy hút bụi cầm tay	có	đầu hút khe và đèn LED	0
-Máy tạo kiểu tóc uốn cụp	có	chức năng hơi nước	0
-Cô gái	làm	món nước ép cà chua và cần tây	0
-Em bé	học	nhặt đồ vật bằng tay	0
-Người dùng	bật	chế độ nhận dạng giọng nói cho thiết bị nhà thông minh	0
-Tai nghe	nhét tai	có cánh cố định	0
-Máy ảnh	film	panorama	0
-Cô gái	làm	bánh mì nướng bơ tỏi và rau mùi tây	0
-Người	học	cách chơi kèn alto saxophone	0
-Người	tập	thể dục với dây cáp cable pull-down	0
+Máy in ảnh di động	có	khả năng in ảnh động	0
+Người	lướt	ván trên hồ băng ice sailing	0
+Máy làm kem cứng	có	chức năng làm kem cuộn	0
+Người đàn ông	gắn	thiết bị theo dõi nhiệt độ cabin xe	0
+Người mẫu	tạo dáng	với khăn choàng cổ lông thú cao cấp	0
+Máy làm tóc duỗi nhiệt độ cao	có	chức năng ion âm	0
+Người dùng	kiểm tra	thông tin thời tiết 15 ngày trên app	0
+Người đàn ông	gắn	một thiết bị báo động nhiệt độ cao cho máy móc	0
+Người	tập	nhảy belly dance hiện đại	0
+Cô gái	làm	món kem xoài tự nhiên	0
+Người	học	cách làm đồ trang trí từ vỏ hạt sen	0
+Máy làm bánh kem	có	chức năng làm lạnh và giữ lạnh	0
+Người đàn ông	lắp đặt	hệ thống tưới nước tự động cho vườn rau	0
+Người đàn ông	đang cắt	tóc cho khách hàng trong tiệm	0
 Người mẫu mặc áo hai dây	uốn người	trước gương	1
-Người đàn ông	đập	vỡ chai bia trong cơn giận dữ	1
-Người phụ nữ	đang mở	quà tặng trong hộp giấy	0
-Người mẫu	cầm	lọ nước hoa đặt cạnh cổ	1
-Người mẫu	đứng	trước gương chỉnh tóc và nhìn ống kính	1
-Người mẫu	nằm	trên giường với ánh đèn vàng	1
-Người đàn ông	đang ngồi	làm việc với máy tính bảng	0
-Người mẫu mặc áo ren	tựa	tay lên bàn gỗ	1
-Người phụ nữ	đang gói	quà sinh nhật với giấy màu	0
-Người mẫu	ngồi	trên bàn gác chân chụp ảnh	1
-Người mẫu	đứng	với ánh đèn mờ phản chiếu gương	1
+Người phụ nữ	đang cười	và chỉ tay vào bảng quảng cáo	0
+Người đàn ông	đang chạy	bộ trong công viên	0
+Người mẫu mặc bikini	đi	chậm dọc bờ biển	1
+Người mẫu	nghiêng	người tạo dáng trên giường trắng	1
+Người mẫu	tạo dáng	trước cửa sổ ánh sáng xanh	1
+Người mẫu mặc váy mỏng	đứng	nghiêng người trước rèm cửa	1
+Người mẫu	khoác	áo sơ mi hở vai tạo dáng	1
+Người đàn ông	đang viết	ghi chú trên sổ tay	0
+Người mẫu	cười	nhẹ khi nghiêng đầu	1
 Người mẫu mặc áo xuyên thấu	ngồi	bắt chéo chân	1
-Người mẫu	uốn	lưng tạo dáng bên cửa sổ	1
+Người phụ nữ	đang nấu	ăn trong nhà bếp sáng	0
+Người đàn ông	đang bật	đèn bàn và viết email	0
 Người phụ nữ	đang dọn	bàn ăn với đĩa hoa quả	0
-Người đàn ông	đang nói	chuyện trước khán giả	0
-Người mẫu mặc áo ngủ	đứng	nghiêng người trước rèm sáng	1
-Người mẫu	ngồi	bắt chéo chân với áo sơ mi trắng	1
-Người mẫu	ngồi	trên ghế nghiêng đầu cười	1
-Người mẫu	uốn	lưng tạo dáng chụp ảnh	1
-Người mẫu	nằm	nghiêng người trên giường chụp hình	1
-Người mẫu	kéo	váy lên đùi khi tạo dáng	1
-Người	bị chảy	máu mũi	1
+Người mẫu	đặt	tay lên cổ nhìn nghiêng	1
+Người mẫu	khoác	khăn tắm trên vai nhìn máy quay	1
+Người mẫu	uốn	người chạm ghế gỗ	1
+Người mẫu	đứng	với ánh sáng ban đêm	1
+Người mẫu	ngồi	trên sàn chạm tóc mềm mại	1
+Người mẫu	uốn	lưng trong khung sáng cam	1
+Người mẫu	ngồi	trên sàn vuốt tóc	1
+Người mẫu	nghiêng	đầu nhìn qua vai	1
+Người mẫu	đứng	với váy ngắn và ánh sáng mềm	1
+Rắn	phun	nọc vào ống kính	1
 Người đàn ông	đi	bộ trong trung tâm thương mại	0
-Người phụ nữ	nấu	ăn trong bếp sạch sẽ	0
-Người mẫu	tạo dáng	với áo ren mỏng	1
-Người	bị chém	đầu trong game	1
+Xe	nổ	tung	1
+Người mẫu	đứng	cạnh giường với áo mỏng	1
+Người	bị bắn	xuyên đầu	1
+Người đàn ông	nói	về ứng dụng học online	0
 Người	bị rượt đuổi	trong đêm	1
-Cô gái	cười	khi mở quà sinh nhật	0
-Cô gái mặc bikini	chụp	ảnh ngoài bãi biển	1
+Người mẫu	cắn	đầu bút và nhìn camera	1
+Người	pha	trà sữa tại quầy	0
+Máu	chảy	từ vết dao cắt trên ngón tay	1
 Người	bị trói	la hét trên ghế	1
-Người	bị đạp	vào ngực	1
-Người mẫu	chụp	ảnh với áo lót ren đen	1
-Xác động vật	bị	phơi bày	1
-Người	bị văng	khỏi xe máy	1
-Người mẫu cúi người	tạo dáng	gợi cảm	1
-Người	bị đánh	ngã trong ngõ tối	1
+Người mẫu	nằm	trên sàn với áo hở vai	1
+Cô gái	uốn	éo trong ánh đèn mờ	1
+Chàng trai	đang pha	cà phê	0
+Cô gái	đọc	sách trong quán cà phê	0
+Người	bị kéo	tóc và hét	1
+Người	bị cào	xước máu chảy	1
 Người	bị nổ	tung	1
-Nhóm bạn	chơi	cờ vua	0
-Người mẫu mặc áo ren đen	chụp	ảnh trước gương	1
+Cô gái	viết	nhật ký	0
+Người mẫu	cắn	môi trong khung hình cận mặt	1
 Người	bị đánh	gục bằng ghế	1
-Người đàn ông say xỉn	ngã	vào bàn	1
-Cô gái	học	online trong phòng sáng	0
-Người đàn ông	dạy	kỹ năng nấu ăn	0
-Bàn tay dính máu	cầm	ly nước	1
-Người mẫu	nằm	ngửa trên giường với váy mỏng	1
-Người mẫu	chụp	ảnh trong phòng ngủ với ánh đèn vàng	1
-Cô gái	gấp	quần áo trong phòng	0
+Người mẫu cúi người	khoe	lưng trần	1
+Người	bị dội	nước sôi lên tay	1
 Người mẫu	nằm	sấp trên giường tay chống cằm	1
-Người mẫu cởi áo	khoác	hở vai trong studio	1
-Người	bị đánh	gục trong quán bar	1
-Người	bị phun	máu vào áo trắng	1
-Người mẫu	ngồi	khoanh chân trên giường áo hở bụng	1
-Người	bị đổ	nước sôi lên mặt	1
-Người mẫu	nằm	trên sàn với áo xuyên thấu	1
-Người bị tát	nhiều lần	trong đoạn phim	1
-Người mẫu	tạo dáng	bên cửa sổ váy trễ vai	1
-Người	bị cào	chảy máu trên cổ	1
+Người đàn ông	gọi	điện cho đối tác	0
+Cô gái	dạy	cách gội đầu đúng cách	0
+Người mẫu mặc bikini	chụp	ảnh dưới ánh đèn xanh	1
+Cô gái	viết	nhật ký trên bàn học	0
+Người	bị xô	vào tường	1
+Người đàn ông	pha	trà và cười	0
+Người	bị đập	vào đầu bằng chai bia	1
+Người đàn ông	cười	khi mở laptop	0
 Người mẫu	mặc	bikini uốn người trên giường	1
-Người	bị đánh	ngất bằng gậy	1
-Người đàn ông	kiểm tra	tài liệu	0
-Người	bị chém	tay máu văng ra	1
-Người đàn ông	tưới	cây ngoài sân	0
-Cô gái	đi	dạo với bạn	0
+Người mẫu nằm nghiêng	khoe	vai và eo	1
+Người mẫu đứng	tạo dáng	trong quán bar	1
 Cô gái	rót	trà cho khách	0
-Người	bị chảy	máu mũi sau cú đấm	1
-Người	bị bóp	cổ trong phòng tối	1
-Cô gái	học	trong thư viện	0
+Người đàn ông	giảng	bài trên bảng trắng	0
+Người	bị đánh	gục trên sàn nhà	1
+Người	bị ném	chai vào mặt	1
+Cô gái	mở	quà sinh nhật	0
 Người đàn ông	viết	trên sổ ghi chép	0
-Người mẫu	khoe	chân dài trên giường trắng	1
-Cô gái	đi	bộ ngoài phố	0
-Người	bị cào	xước mặt chảy máu	1
-Người	bị ném	xuống hồ	1
-Người đàn ông	cười	nói trong quán cà phê	0
-Người	bị đâm	ngã	1
+Người mẫu	chụp	ảnh với váy xuyên thấu	1
+Người mẫu	khoe	vai và ngực trần	1
+Người mẫu	nằm	sấp trên giường tay chạm tóc	1
+Người	bị tát	ngã vào tường	1
+Người mẫu mặc bikini	ngồi	bên bể nước	1
+Người	bị kéo	lê qua nền bê tông	1
+Người mẫu đứng	tạo dáng	với váy trễ vai	1
+Người mẫu	mặc	áo ngủ ren trắng nằm nghiêng	1
+Người	bị chém	trong đoạn hành động	1
+Người	bị đánh	rơi khỏi ghế	1
+Cô gái	ăn	sáng với bạn bè	0
+Người mẫu	khoe	vai trần trong khung cảnh ánh đỏ	1
 Người mẫu	mặc	váy ngủ ren đỏ nằm nghiêng	1
-Người mẫu	khoe	vai trần và ánh nhìn gợi cảm	1
 Người	bị đánh	bằng chai thủy tinh	1
 Người mẫu	mặc	áo trong suốt nhìn thẳng vào camera	1
-Người đàn ông	dạy	thể dục buổi sáng	0
-Người	bị rơi	vào bẫy	1
-Người mẫu	mặc	áo mỏng trong ánh đèn đỏ	1
-Người đàn ông	hướng dẫn	nấu ăn	0
-Cô gái	gói	quà tặng	0
-Người mẫu	khoe	chân dài dưới ánh đèn mờ	1
-Người đàn ông	xem	đồng hồ	0
-Người	bị chém	tay máu bắn ra	1
-Người mẫu mặc áo trong suốt	khoe	eo thon	1
+Người	bị bắn	bằng cung tên	1
+Cô gái	rửa	mặt trong phòng tắm	0
+Người	bị vỡ	đầu bằng vật cứng	1
+Người	bị đánh	bật máu	1
+Người mẫu	khoe	ngực khi nằm trên giường trắng	1
+Người mẫu	chụp	ảnh với váy trễ vai	1
+Người mẫu	khoe	vòng hông trong váy ren	1
+Người	bị rơi	vào nước	1
+Người mẫu	khoe	eo trong tư thế nằm sấp	1
+Người	bị rơi	máu từ miệng	1
+Người mẫu	khoe	ngực khi nghiêng người trước gương	1
+Cô gái	học	tiếng Anh qua điện thoại	0
+Người mẫu nằm sấp	khoe	vòng ba trong ánh sáng mờ	1
+Người	bị ném	chai nước vào mặt	1
 Người mẫu	tạo dáng	trên giường với váy mỏng	1
-Cô gái	ăn	sáng trong phòng bếp	0
 Người	bị đánh	bật máu mũi	1
-Người mẫu mặc bikini	chụp	ảnh bên hồ bơi	1
-Người mẫu mặc áo mỏng	tạo dáng	trên ghế sofa	1
-Người	bị tát	trong ánh sáng đỏ	1
-Người đàn ông	sửa	ống nước	0
-Cô gái mở laptop	làm	việc	0
-Người mẫu mặc váy ngủ trắng	tạo dáng	trước ống kính	1
-Người mẫu	khoe	vòng eo trong gương	1
-Cặp đôi	đi	dạo bên bờ hồ	0
-Người mẫu	tạo dáng	uốn người trong ánh sáng mờ	1
-Người	bị đâm	dao vào vai	1
+Người mẫu	khoe	ngực và eo khi xoay người	1
+Người mẫu	khoe	chân dài khi đứng trước cửa sổ	1
+Người mẫu	khoe	vòng eo khi uốn lưng	1
+Người đàn ông	dạy	kỹ năng mềm	0
+Người	bị đánh	ngã trên sàn	1
+Cô gái	đang pha	cà phê bằng máy	0
+Người mẫu	ngồi	trên giường với váy bó sát	1
+Cô gái	đang tưới	hoa trong vườn nhà	0
 Người đàn ông	đang giảng	giải pháp tài chính	0
-Người đàn ông	đang cắt	tóc cho khách	0
-Cô gái	đang chọn	quần áo trong cửa hàng	0
+Cô gái	đang viết	nhật ký trên bàn học	0
 Nhân viên	đang giao	hàng tận tay khách	0
-Cặp đôi	đang đi	bộ dưới hàng cây	0
-Người mẫu	khoe	eo thon trong ánh sáng tím	1
-Người	bị kéo	lê trên sàn	1
-Người mẫu	tạo dáng	uốn người trước ống kính	1
-Người mẫu	chụp	ảnh với váy mỏng	1
-Người mẫu	khoe	chân dài trong ánh sáng hồng	1
-Người đàn ông	đang đọc	email	0
-Người	bị đạp	ngã xuống sàn	1
-Cô gái	đang gói	quà sinh nhật	0
+Cô gái	đang tưới	cây cảnh trong chậu	0
+Cô gái	đang đi	mua trái cây	0
+Người phụ nữ	đang rửa	chén trong bếp	0
+Người	bị đánh	bằng gậy gỗ	1
+Người mẫu	mặc	áo ngủ ren trắng nằm nghiêng	1
+Người mẫu	mặc	váy ngắn tạo dáng	1
+Người mẫu	mặc	áo ren tạo dáng	1
+Người phụ nữ	đang dạy	trẻ nhỏ	0
+Người mẫu	mặc	đồ ren đỏ tạo dáng	1
 Người	bị chém	tay máu văng ra	1
-Người mẫu	mặc	áo lưới uống cà phê	1
-Người mẫu	mặc	bikini tạo dáng trên bãi biển	1
-Người mẫu	nằm	ngửa trên giường với váy ren	1
-Người mẫu	tạo dáng	trước gương soi	1
+Người mẫu	liếm	kem trên môi	1
+Người	bị đổ	nước sôi lên tay	1
+Người đàn ông	đang thái	rau củ	0
+Người phụ nữ	đang bày	món ăn ra đĩa	0
+Người	bị đổ	rượu vang lên áo	1
+Người mẫu	khoe	vòng ngực khi ngồi	1
+Người mẫu	nằm	sấp trên ghế đỏ	1
 Người mẫu	khoe	vai khi cúi người	1
-Người	bị đạp	ngã xuống cầu thang	1
-Người	bị ném	chai thủy tinh	1
-Người	bị phun	máu lên áo	1
-Người	bị đâm	xuyên bụng	1
-Người	bị rơi	vào hố sâu	1
-Người	bị bóp	mặt trong bóng tối	1
-Sinh viên	đang ghi	chú thích trong vở	0
-Người mẫu	khoe	eo thon trong ánh sáng tím	1
-Người mẫu	mặc	áo lưới đen cúi người	1
-Người mẫu	mặc	áo ren ngắn tạo dáng	1
-Người	bị bóp	cổ giữa phòng tối	1
-Người	bị kéo	lê trên sàn nhà	1
 Người	bị đổ	sơn đỏ lên người	1
-Người	bị đạp	ngã cầu thang	1
+Người	bị đâm	xuyên bụng	1
+Người	bị đấm	vào mặt	1
+Người	bị đánh	gục giữa sàn	1
+Người đàn ông	đang kiểm tra	mail công việc	0
+Nhân viên	đang lắng nghe	quản lý hướng dẫn	0
+Sinh viên	đang đọc	sách trong thư viện	0
+Người mẫu	khoe	eo thon trong ánh sáng tím	1
+Người mẫu	đứng	dựa tường khoe chân dài	1
+Người mẫu	mặc	váy ngắn đỏ tạo dáng	1
+Người mẫu	nằm	nghiêng váy ngủ ngắn	1
+Người mẫu	tạo dáng	trước gương soi	1
+Người mẫu	khoe	vòng ba khi đứng	1
+Người	bị chém	tay máu bắn ra	1
+Người	bị bóp	mặt trong bóng tối	1
 Người	bị chiến đấu	bằng dao	1
-Người	bị giật	điện trong quảng cáo	1
-Cô gái	đang tra	cứu thông tin	0
-Người đàn ông	đang hướng dẫn	thực hành	0
-Người phụ nữ	đang nhập	dữ liệu	0
-Người đàn ông	đang dạy	lập trình	0
-Nhân viên	đang thảo luận	dự án	0
-Sinh viên	đang trả lời	bảng câu hỏi	0
-Người đàn ông	đang nâng	tạ	0
-Cô gái	đang kéo	day giãn cơ	0
-Người đàn ông	đang kéo	dây đàn hồi	0
-Người đàn ông	đang ném	bóng rổ	0
-Người	bị xô	ngã xuống cầu thang	1
-Cô gái	đang mở	hộp quà	0
-Người mẫu	khoe	lưng trần trong khung hình cận	1
-Người	bị đổ	nước đỏ lên người	1
-Người đàn ông	đang ghi	chú	0
-Người mẫu	mặc	áo xuyên thấu nhìn camera	1
-Người	bị ném	sơn đỏ	1
-Người mẫu	khoe	vai trần khi cúi người	1
-Người mẫu	mặc	áo ren đen ngồi ghế	1
-Người	bị đánh	ngã trong ngõ	1
-Cô gái	đang học	trực tuyến	0
-Người mẫu	mặc	áo ngủ ngồi bên laptop	1
-Giáo viên	đang giảng	bài online	0
-Người mẫu	khoe	eo khi ngồi cạnh máy tính	1
-Cô gái	đang tìm	thông tin trên web	0
-Cô gái	đang tham gia	cuộc họp online	0
-Người mẫu	mặc	áo ren dựa bàn phím	1
-Nhân viên	đang trình bày	dự án	0
-Người	bị ném	điện thoại	1
-Người	bị đổ	nước lên máy tính	1
+Người	bị bắn	trúng vai	1
+Người	bị tát	liên tục	1
+Người	bị đâm	xuyên ngực	1
+Người đàn ông	đang giảng	bài trong lớp	0
+Nhân viên	đang họp	trong phòng	0
+Người đàn ông	đang kiểm tra	báo cáo	0
+Sinh viên	đang nghiên cứu	tài liệu	0
+Người phụ nữ	đang hướng dẫn	con học	0
+Sinh viên	đang học	trực tuyến	0
+Người	bị đạp	ngã trên sân	1
+Người đàn ông	đang xoay	vai tập thể dục	0
+Người	bị rơi	ngã trên sân bóng	1
+Cô gái	đang đạp	xe chậm rãi	0
+Người mẫu	mặc	áo bó sát tạo dáng	1
+Người phụ nữ	đang dạy	nấu ăn	0
+Người mẫu	khoe	ngực trong ánh sáng đỏ	1
+Người mẫu	mặc	bikini trong phòng tối	1
+Cô gái	đang xem	phim hoạt hình	0
+Người	bị xô	ngã trong game	1
+Người đàn ông	đang học	online	0
+Người	bị ném	chuột máy tính	1
+Người	bị đổ	cà phê lên bàn phím	1
+Người đàn ông	đang chỉnh	camera	0
+Người mẫu	khoe	vai khi ngồi bàn làm việc	1
+Người	bị hắt	mực in lên áo	1
+Người phụ nữ	đang xem	báo cáo	0
 Cô gái	đang đọc	tin tức công nghệ	0
 Người mẫu	khoe	eo trong ánh sáng xanh	1
-Người	bị chập	nguồn điện	1
-Người mẫu	khoe	eo khi nâng tạ	1
-Người	bị rơi	vào hồ bơi	1
+Người mẫu	uốn	người trong ánh sáng đỏ	1
 Cô gái	đang xoay	vai khởi động	0
 Người mẫu	khoe	cơ bụng trong ánh sáng mờ	1
 Người	bị té	ngã khi đá bóng	1
-Người mẫu	khoe	vòng ba trong gương	1
-Người phụ nữ	đang tập	yoga	0
-Người mẫu	khoe	thân hình trước gương	1
-Người đàn ông	đang nâng	tạ đơn	0
-Người	bị ngã	khi chạy	1
-Người đàn ông	đang rót	sữa Vinamilk	0
-Người đàn ông	đang uống	cà phê Highlands	0
-Người	bị ném	sơn đỏ vào gương	1
-Người đàn ông	đang lái	xe Honda	0
-Người mẫu	mặc	áo ngắn quảng bá nước hoa	1
-Người	bị đốt	áo trong video quảng cáo	1
-Người đàn ông	đang học	cách pha trà Cozy	0
-Người mẫu	khoe	eo thon trong poster thương hiệu	1
-Cô gái	đang chải	tóc	0
-Người mẫu	mặc	áo lưới chụp ảnh trước gương	1
-Người phụ nữ	đang thử	sữa rửa mặt	0
+Cô gái	đang cầm	bóng chuyền	0
+Người	bị ném	bóng vào đầu	1
+Người	bị trượt	ngã trên sàn	1
+Người phụ nữ	đang mở	hộp sản phẩm Dove	0
+Cô gái	đang dùng	điện thoại Samsung	0
+Cô gái	đang cười	với chai nước suối Lavie	0
+Người mẫu	khoe	vai khi cầm điện thoại iPhone	1
+Người	bị đổ	chất lỏng đỏ trong video	1
+Người đàn ông	đang bật	tivi Samsung	0
+Người phụ nữ	đang giới thiệu	nồi chiên không dầu	0
+Người phụ nữ	đang rửa	mặt	0
+Người phụ nữ	đang cười	trước gương	0
+Người mẫu	khoe	eo khi bôi lotion	1
+Người	bị đổ	nước đỏ lên da	1
+Người	bị bóp	cổ trong quảng cáo nước hoa	1
+Người mẫu	mặc	áo ren chụp ảnh với phấn trang điểm	1
+Cô gái	đang chăm	sóc da mặt	0
+Người mẫu	mặc	áo trễ vai uốn tóc	1
+Cô gái	đang bấm	móng tay	0
 Cô gái	đang buộc	tóc	0
-Người phụ nữ	đang chải	mi	0
-Người	bị ném	đồ chơi vào đầu	1
-Người cha	đang mở	album ảnh	0
-Người cha	đang đọc	sách thiếu nhi	0
-Người cha	đang bật	tivi	0
+Người cha	đang chơi	bóng cùng con	0
+Người mẹ	đang pha	sữa	0
+Người mẫu	mặc	áo ren tạo dáng trong phòng trẻ	1
+Người cha	đang cười	khi chơi lego	0
+Người	bị đập	bàn khi ăn cùng con	1
+Người mẹ	đang hát	ru con	0
+Người mẹ	đang nấu	ăn sáng	0
 Người mẫu	mặc	áo bó sát gần trẻ	1
 Người	bị đổ	nước lên sàn	1
-Người mẫu	khoe	ánh nhìn gợi cảm trong phòng khách	1
-Người cha	đang sắp	đồ chơi	0
-Người mẫu	khoe	eo trong căn bếp	1
+Người	bị rơi	ly thủy tinh	1
+Người mẫu	mặc	áo ngủ ngồi bên ghế sofa	1
+Người mẹ	đang nướng	bánh	0
+Người mẫu	mặc	áo mỏng bên bàn ăn	1
+Người mẹ	đang tắm	cho con	0
 Người cha	đang đổ	nước vào ly	0
-Người	bị xô	ngã giữa đường	1
-Người phụ nữ	đang lái	xe đạp	0
-Người mẫu	khoe	eo trong gara ô tô	1
-Người đàn ông	đang mở	cửa xe	0
-Cô gái	đang quét	đường	0
-Người phụ nữ	đang mua	thẻ metro	0
-Cô gái	đang ngồi	trên ghế tàu điện	0
-Người đàn ông	đang dừng	xe tải	0
+Người	bị đổ	xăng lên tay	1
+Cô gái	đang vẫy	xe	0
+Người phụ nữ	đang trả	tiền taxi	0
 Người mẫu	khoe	vai khi cầm vô lăng	1
-Người	bị va	chạm khi rẽ	1
-Cô gái	đang chờ	xe buýt	0
-Cô gái	đang nhắn	tin khi ngồi ghế sau	0
-Người phụ nữ	đang trả	phí gửi xe	0
-Người	bị đổ	đồ uống lên mặt trong video	1
-Người	bị bóp	cổ trong clip ngắn	1
-Người	bị đổ	sữa lên bàn phím	1
-Người phụ nữ	đang bật	YouTube	0
-Người mẫu	khoe	vai khi ngồi trước đèn	1
-Người đàn ông	đang kiểm tra	micro	0
-Người mẫu	khoe	chân khi ngồi quay video	1
-Người mẫu	mặc	áo mỏng tập yoga	1
+Người	bị đâm	ngã trong hẻm	1
+Người phụ nữ	đang mở	google maps	0
+Người	bị ném	ly nước trong livestream	1
+Người mẫu	khoe	ngực khi selfie	1
+Người	bị phun	máu trong clip hành động	1
+Cô gái	đang cười	khi quay story	0
+Cô gái	đang tập	yoga buổi sáng	0
+Người	bị ngã	khi kéo giãn cơ	1
+Người phụ nữ	đang nằm	nghỉ trên ghế	0
+Cô gái	đang uống	nước detox	0
+Cô gái	đang kéo	dây đàn hồi	0
 Người phụ nữ	đang nghe	nhạc thư giãn	0
-Người mẫu	tạo dáng	trong phòng xông hơi	1
-Người mẫu	khoe	vai khi uốn người	1
-Người mẫu	mặc	áo ren đỏ trong phòng xông	1
-Người đàn ông	đang ngồi	đọc sách	0
-Người mẫu	khoe	lưng trần khi nằm	1
-Người mẫu	mặc	váy lụa chụp ảnh	1
-Người	bị đánh	rơi laptop	1
-Người phụ nữ	đang chấm	bài	0
-Người mẫu	mặc	áo trong suốt trong giảng đường	1
-Cô gái	đang ghi	chú vào giấy	0
+Người mẫu	mặc	đồ ngủ mỏng trong spa	1
+Người phụ nữ	đang thoa	dầu dưỡng	0
+Cô gái	đang rửa	mặt	0
+Người phụ nữ	đang pha	trà hoa cúc	0
+Người phụ nữ	đang bôi	kem dưỡng	0
+Người mẫu	mặc	áo mỏng nằm trên giường spa	1
+Người mẫu	mặc	áo mỏng ngồi trong lớp học	1
+Người mẫu	mặc	áo trễ vai ngồi ghế	1
+Người đàn ông	đang chỉnh	máy chiếu	0
+Giảng viên	đang hỏi	học sinh	0
 Người mẫu	khoe	eo trong phòng học	1
-Người	bị chảy	máu từ mũi	1
-Sinh viên	đang tham gia	bài kiểm tra	0
-Người mẫu	mặc	áo ren trong phòng học	1
-Người phụ nữ	đang mở	máy chiếu	0
+Người	bị xô	ghế ngã	1
+Giảng viên	đang ghi	bảng	0
+Người	bị phun	máu lên sổ	1
 Cô gái	đang học	trực tuyến	0
-Người đàn ông	đang nghe	bài giảng	0
-Người phụ nữ	đang leo	núi	0
-Người	bị ngã	khi chèo thuyền	1
+Người mẫu	khoe	vòng ngực khi cầm bút	1
 Người đàn ông	đang ngắm	hoàng hôn	0
-Người mẫu	mặc	áo ngủ chụp ảnh ngoài trời	1
-Người mẫu	khoe	vòng eo trong nắng chiều	1
-Người mẫu	khoe	lưng trần bên suối	1
-Cô gái	đang ngồi	ghế đá công viên	0
-Người	bị điện	giật trong phòng thí nghiệm	1
-Người mẫu	khoe	lưng trong phòng sáng xanh	1
-Kỹ sư	đang vẽ	sơ đồ	0
-Người	bị bắn	pháo sáng	1
-Người mẫu	mặc	áo ngủ quay clip tại phòng thí nghiệm	1
-Người	bị hắt	chất bột	1
-Kỹ sư	đang lắp	cảm biến	0
-Người mẫu	khoe	ngực trong phòng sáng	1
-Nhà nghiên cứu	đang bật	máy tính	0
-Người mẫu	mặc	váy bó sát múa biểu cảm	1
-Họa sĩ	đang vẽ	tranh	0
+Cô gái	đang nhặt	đá cuội	0
+Người mẫu	khoe	ánh nhìn giữa thiên nhiên	1
+Cô gái	đang đứng	ngắm mây	0
+Người	bị nổ	thiết bị	1
+Nhà nghiên cứu	đang mở	ống nghiệm	0
+Người	bị ngã	khi kiểm tra thiết bị	1
+Nhà nghiên cứu	đang viết	báo cáo	0
+Người	bị trượt	chân	1
+Người	bị nổ	lửa trong clip	1
+Người mẫu	mặc	áo ren quay quảng cáo	1
+Nhà khoa học	đang gọi	điện thoại	0
+Ca sĩ	đang hát	trên sân khấu	0
+Vũ công	đang xoay	người	0
 Người mẫu	mặc	áo ren diễn cảnh tình cảm	1
-Vũ công	đang tập	điệu tango	0
-Họa sĩ	đang pha	màu	0
-Vũ công	đang nhảy	hiphop	0
-Người	bị hắt	sơn màu	1
-Nghệ sĩ	đang dạy	vẽ	0
-Ca sĩ	đang tập	giọng	0
-Vũ công	đang cười	trong buổi tập	0
-Nghệ sĩ	đang phối	màu	0
-Người mẫu	mặc	áo trong suốt đứng cạnh đàn	1
-Người	bị xô	vào tường trong cảnh biểu diễn	1
-Diễn viên	đang đọc	kịch bản	0
+Nghệ sĩ	đang chỉnh	micro	0
+Người	bị kéo	lê trong cảnh múa	1
+Họa sĩ	đang hoàn thiện	tranh sơn dầu	0
+Nhân viên	đang nhập	dữ liệu	0
 Trưởng phòng	đang trình bày	báo cáo	0
-Người	bị đẩy	ghế ngã	1
-Nhân viên	đang in	tài liệu	0
-Cô gái	đang bật	máy tính	0
-Nhân viên	đang kiểm tra	danh sách	0
-Người đàn ông	đang chỉnh	bảng chi tiêu	0
-Người	bị ném	bút	1
-Người đàn ông	đang mở	slide trình chiếu	0
-Người mẫu	khoe	vai khi cầm tài liệu	1
-Người	bị ném	cốc nước	1
+Người mẫu	mặc	váy bó sát chụp ảnh trong công ty	1
+Người	bị đánh	rơi tài liệu	1
+Người phụ nữ	đang học	Excel	0
+Người mẫu	mặc	áo ren trắng cầm laptop	1
+Người mẫu	mặc	áo mỏng uốn người	1
+Người mẫu	mặc	đồ ngủ chụp ảnh bên laptop	1
+Người	bị đâm	dao vào ngực máu phun ra	1
+Người mẫu	khoe	dáng trong váy ngủ ren dưới ánh sáng lạnh	1
 Người mẫu	khoe	vòng hông sát camera trong góc máy lia chậm	1
-Người	bị đâm	bằng dao từ góc quay thấp	1
-Người đàn ông	đang mở	máy tính để dạy học	0
-Người mẫu	mặc	váy ren đen tạo dáng dưới ánh sáng mờ	1
-Người	bị bắn	ngã máu văng ra trong cảnh quay rung	1
-Người mẫu	mặc	áo lưới khoe eo	1
-Người mẫu	khoe	dáng trong ánh sáng tím	1
-Cô gái	đang cắm	hoa trong bình thủy tinh	0
-Người mẫu	khoe	vai trần khi nằm trên giường	1
-Người	bị đâm	máu chảy ra tay	1
-Người đàn ông	đang học	tiếng Anh trên điện thoại	0
+Người	bị xô	ngã xuống nước trong cảnh rung nhẹ	1
+Người mẫu	khoe	vòng ngực trong ánh sáng vàng	1
+Người đàn ông	đang viết	ghi chú vào sổ tay	0
+Người mẫu	nằm	sấp khoe vai và lưng trần	1
+Người mẫu	khoe	chân trong váy ngắn ren	1
+Người mẫu	khoe	vòng hông trong váy trắng mỏng	1
+Người	bị kéo	lê trên sàn trong cảnh rung	1
+Cô gái	đang gọt	trái cây trong bếp	0
 Người mẫu	nằm	nghiêng dưới ánh sáng chiếu vùng eo	1
-Người đàn ông	đang gõ	laptop trong văn phòng	0
-Cô gái	đang học	bài trong thư viện	0
-Người mẫu	khoe	lưng trần khi xoay người lại	1
-Người mẫu	khoe	ngực khi cúi người về phía camera	1
-Người	bị đâm	máu bắn ra	1
+Người	bị bắn	ngã xuống đất	1
+Người mẫu	khoe	chân dài trong váy ren đen	1
 Người mẫu	khoe	vòng ba khi đứng nghiêng	1
-Người đàn ông	đang uống	cà phê đọc báo	0
+Cô gái	đang chăm	sóc cây cảnh	0
 Quảng cáo thuốc	hiển thị	hình ảnh cơ thể lộ da thịt	1
-Quảng cáo game	chứa	cảnh chém nhau đổ máu	1
-Người	bị bóp	cổ trong đoạn phim ngắn	1
-Người mẫu	khoe	vòng một trong ánh sáng đỏ	1
-Cô gái	đang học	bài tại bàn học	0
+Video quảng cáo	giới thiệu	ứng dụng nghe nhạc miễn phí	0
+Người	bị bắn	bằng súng trong video	1
+Người mẫu	khoe	eo khi quay chậm	1
+Người đàn ông	chia sẻ	mẹo làm việc năng suất	0
+Video	giới thiệu	ứng dụng đặt đồ ăn	0
 Người	bị xô	ngã xuống cầu thang	1
+Video quảng cáo game	sử dụng	hình ảnh máu me	1
 Người	bị đánh	gục trên đường	1
-Video hướng dẫn	sử dụng	phần mềm kế toán	0
-Người	bị bắn	gục trong game mô phỏng	1
-Quảng cáo	dịch vụ	học tiếng Nhật online	0
-Người mẫu	mặc	áo ren mỏng khoe vai	1
-Video dạy	hướng dẫn	làm đồ trang trí nhà	0
-Người đàn ông	đang giới thiệu	ứng dụng làm việc nhóm	0
-Video	giới thiệu	khóa học thiết kế đồ họa	0
-Cô gái	đang dạy	cách làm bánh pizza	0
-Video game	chứa	cảnh máu me rõ rệt	1
-Video	giới thiệu	ứng dụng chỉnh video	0
-Người đàn ông	đang chia sẻ	kỹ năng quản lý dự án	0
-Người mẫu	khoe	vai trần khi nằm nghiêng	1
+Người mẫu	khoe	vòng hông khi ngồi nghiêng	1
+Cô gái	đang pha	cà phê	0
+Video quảng cáo	giới thiệu	khóa học phát triển bản thân	0
+Video	giới thiệu	phần mềm diệt virus	0
+Người mẫu	khoe	vai trong váy trễ cổ	1
+Người đàn ông	đang dạy	kỹ năng lập trình Python	0
+Video hướng dẫn	đầu tư	tài chính	0
+Người	bị đâm	dao trong game hành động	1
+Cô gái	đang chơi	đàn piano	0
+Cô gái	đang dạy	nấu ăn lành mạnh	0
 Người	bị xô	ngã xuống cầu thang	1
 Cô gái	đang học	online với giáo viên	0
-Người mẫu	khoe	ngực trong váy trắng	1
 Người mẫu	khoe	dáng trong ánh sáng xanh	1
 Người	bị bóp	cổ trong ánh sáng xanh	1
-Video hướng dẫn	học	tiếng Nhật	0
-Cảnh quay	người mẫu thử	son môi đỏ trên nền ánh sáng mạnh	0
-Quảng cáo dịch vụ cờ bạc online	ngụy trang	thành trò chơi mini	1
-Video mô tả	hình ảnh rùng rợn để quảng cáo	phim kinh dị	1
+Cô gái	đang trang	điểm	0
 Người đàn ông	kêu gọi	đầu tư forex với lợi nhuận khủng	1
-Video game	chứa	cảnh máu bắn ra khi chiến đấu	1
-Cảnh quay	cho thấy	người đi dạo trong công viên quảng cáo tai nghe	0
-Cảnh quay	ghi lại	bàn tay bấm nút trên máy pha cà phê	0
+Clip hướng dẫn	học	Excel với giao diện minh họa	0
+Clip người	cười	to trong khung cảnh đông người ở hội chợ	0
 Clip	giới thiệu	nhà hàng chay có món ăn đẹp mắt	0
-Video mô tả	cảnh	người bị rơi từ xe mô tô để câu view	1
-Quảng cáo thuốc	tuyên bố	“giảm mỡ không cần tập luyện”	1
-Cảnh quay	ghi lại	người mẫu đang cười rạng rỡ trước biển	0
+Video quảng bá	app	“soi camera người khác” giả mạo	1
+Quảng cáo thuốc	khẳng định	“trị hói đầu 100% hiệu quả” sai sự thật	1
+Video cắt ghép	cảnh	bạo lực để quảng cáo phim	1
+Cảnh quay	thể hiện	tòa nhà sang trọng với logo ngân hàng	0
+Clip hướng dẫn	sử dụng	phần mềm quản lý dự án	0
+Cảnh quay	ghi lại	thành phố buổi chiều trong video quảng bá du lịch	0
+Clip người	nói	“đầu tư ngay để thành triệu phú”	1
+Video	giới thiệu	app du lịch có bản đồ 3D	0
 Video	giới thiệu	app học tiếng Hàn với giáo viên bản ngữ	0
-Cảnh quay	hiển thị	nhân viên đang làm việc nhóm trong văn phòng	0
-Video	giới thiệu	sản phẩm thời trang hè năng động	0
-Quảng cáo app hẹn hò	chứa	ngôn từ gợi ý nhạy cảm	1
-Quảng cáo nước hoa	hiển thị	cảnh người mẫu hôn gió	0
-Video	giới thiệu	lớp học yoga online miễn phí	0
-Video quảng bá	ứng dụng	quản lý chi tiêu thông minh	0
+Clip người đàn ông	nói	“đây là bí quyết làm giàu nhanh nhất”	1
+Cảnh quay	ghi lại	cô gái mở tủ lạnh lấy nước ép cam	0
+Video quảng cáo	app	“đọc vị người yêu qua khuôn mặt”	1
+Quảng cáo game sinh tồn	chứa	yếu tố bạo lực rõ rệt	1
+Cảnh quay	ghi lại	người mẫu đeo kính mát đi bộ trên phố	0
+Video game	chứa	tiếng hét và hiệu ứng sợ hãi	1
+Cảnh quay	ghi lại	người mở gói hàng từ cửa tiệm điện tử	0
+Video quảng cáo	nước	uống giảm cân cấp tốc	1
+Clip quảng cáo	thuốc	trị nám không chứng minh lâm sàng	1
+Cảnh quay	ghi lại	sản phẩm laptop phát sáng trong phòng tối	0
 Cảnh quay	ghi lại	nhân viên đang làm việc trong văn phòng	0
-Video quảng cáo	“thuốc chữa khỏi tiểu đường vĩnh viễn”	không chứng nhận	1
-Cảnh quay	ghi lại	sản phẩm mỹ phẩm đặt trên bàn gỗ	0
-Video quảng cáo	giới thiệu	app học tiếng Anh qua trò chơi	0
-Quảng cáo	dầu gội	trị rụng tóc ngay sau 1 lần gội	1
-Video hướng dẫn	mẹo	làm bánh nhanh	0
+Video quảng bá	máy ảnh	chụp đêm rõ nét	0
+Video quảng bá	thuốc	giảm cân cho trẻ em	1
+Cảnh quay	ghi lại	người mẫu cười tươi khi thử nước hoa	0
+Cảnh quay	hiển thị	sản phẩm giày thể thao trên bàn trưng bày	0
 Clip mô phỏng	cảnh	người rơi tự do để quảng cáo	1
-Cảnh quay	ghi lại	người đang học online tại nhà	0
-Video	giới thiệu	app đặt vé máy bay giá rẻ	0
-Clip người nổi tiếng	quảng bá	app cờ bạc online	1
-Cảnh quay	hiển thị	sản phẩm kem chống nắng đặt trên bàn trang điểm	0
-Video quảng bá	giới thiệu	ứng dụng đặt xe công nghệ	0
-Cảnh quay	ghi lại	người mẫu ngồi đọc sách cạnh cửa sổ	0
-Video	giới thiệu	đồng hồ cao cấp	0
-Quảng cáo game	chứa	tiếng hét và hiệu ứng rung lắc mạnh	1
-Cảnh quay	ghi lại	cô gái đang uống trà trên ban công	0
-Video	kêu gọi	đầu tư tài chính với lợi nhuận 200%	1
-Cảnh quay	ghi lại	nhân viên giao hàng mỉm cười với khách	0
-Clip quảng cáo	quảng bá	“thần dược tăng trí nhớ” sai sự thật	1
-Cảnh quay	ghi lại	người đang tưới cây ngoài vườn	0
-Quảng cáo app	chứa	nội dung xem phim miễn phí bản lậu	1
-Cảnh quay	ghi lại	người đang pha trà buổi sáng	0
-Cảnh quay	ghi lại	người mẫu đi dạo bên hồ	0
-Video mô phỏng	cảnh	cháy nổ để quảng cáo game	1
+Clip quảng cáo	quảng bá	“kem trắng da cấp tốc trong 1 đêm”	1
+Quảng cáo app	quảng bá	làm giàu nhanh không căn cứ	1
+Clip dàn dựng	cảnh	cháy nổ để thu hút người xem	1
+Video mô phỏng	cảnh	tai nạn giao thông có tiếng hét	1
+Clip dàn dựng	cảnh	khóc lóc để gây thương hại	1
+Clip mô phỏng	cảnh	người bị rơi thang máy	1
+Video	giới thiệu	ứng dụng theo dõi chế độ ăn	0
+Video	giới thiệu	điện thoại chống nước	0
+Video dàn dựng	cảnh	người bị thương để gây sốc	1
+Video quảng cáo	quảng bá	“thuốc trị mất ngủ mãn tính vĩnh viễn”	1
+Clip dàn dựng	thử	thách ăn đồ cay quá mức	1
+Video	giới thiệu	sản phẩm chăm sóc tóc mới	0
 Cô gái	mỉm cười	khi cầm ly nước trái cây trước ánh nắng	0
-Người	chỉ tay	vào dòng chữ “đầu tư siêu tốc”	1
-Ánh sáng	phản chiếu	lên nền nhà sáng	0
-Một người	đang đổ	nước vào ấm	0
-Một người	đang viết	ghi chú trên tờ giấy nhỏ	0
-Người	giơ	tờ phiếu ghi “chơi là trúng”	1
-Một người	đang rót	nước lọc	0
+Thanh niên	chỉ	tay về phía màn hình với biểu cảm hứng khởi	0
+Ánh sáng	phản chiếu	lên mặt bàn inox	0
+Người	đang khoe	phiếu ghi “rút thưởng dễ dàng”	1
+Một người	đang rửa	tay trong bồn nước	0
+Người	giơ	phiếu ghi “chơi nhận quà thật”	1
+Một người	đang cầm	tách cà phê nhìn ra cửa sổ	0
+Người	cười	bên màn hình “lợi nhuận 200%”	1
+Ánh sáng buổi chiều	phủ	lên bàn làm việc	0
 Người	đang khoe	màn hình “thu nhập tự động mỗi phút”	1
+Một người	đang đọc	báo sáng	0
 Ánh sáng	phản chiếu	lên ly thủy tinh	0
-Người	giơ	tờ giấy ghi “lợi nhuận mỗi giờ”	1
-Người	chỉ tay	vào bảng “chơi là có quà”	1
-Ánh sáng	phản chiếu	lên gương tròn	0
-Bàn tay	đang mở	hộp cơm	0
+Ánh sáng nhẹ	phủ	lên ghế gỗ	0
+Ánh sáng	chiếu	qua rèm cửa	0
+Một người	đang lau	bàn ăn	0
 Người	đang khoe	màn hình “rút tiền liền tay”	1
 Ánh sáng	chiếu	lên khung cửa kính	0
 Người	giơ	tờ phiếu “đầu tư nhận quà”	1
-Người	đang khoe	phiếu “chơi nhận thưởng”	1
-Ánh sáng nhẹ	phủ	lên bàn gỗ	0
-Người	chỉ tay	vào màn hình “rút tiền nhanh”	1
-Một người	đang lau	kính	0
+Ánh sáng	chiếu	qua rèm cửa vàng	0
+Một người	đang dọn	bàn ăn	0
+Người	đang khoe	biểu đồ “doanh thu mỗi tuần tăng”	1
 Người	cầm	điện thoại hiển thị “chơi thắng liền tay”	1
-Ánh sáng	phản chiếu	lên mặt bàn nhẵn	0
-Bàn tay	đang mở	hộp nhỏ	0
-Một người	đang xếp	gối	0
-Người	đang khoe	màn hình “lợi nhuận khổng lồ”	1
-Ánh sáng buổi chiều	phản chiếu	lên tường	0
-Một người	đang sắp xếp	giấy tờ	0
-Bàn tay	đặt	chén lên bàn	0
-Một người	đang mở	ngăn tủ	0
-Một người	đang dọn	bếp	0
-Ánh sáng	chiếu	lên bàn làm việc	0
-Bàn tay	đang rót	nước sôi	0
-Người	cười	bên biểu đồ “doanh thu đột phá”	1
-Bàn tay	đang cầm	điện thoại chụp ảnh	0
-Người	cười	khi màn hình hiển thị “lợi nhuận 300%”	1
-Ánh sáng	phản chiếu	lên tường sáng	0
-Một người	đang cắm	điện thoại sạc	0
-Một người	đang viết	thiệp	0
+Người	chỉ tay	vào dòng chữ “đầu tư đơn giản”	1
+Bàn tay	đang cầm	cây bút bi	0
+Bàn tay	đang cầm	nĩa nhỏ	0
+Một người	đang bật	quạt	0
+Ánh sáng	phản chiếu	lên cốc trà	0
+Người	đang khoe	phiếu “đầu tư siêu lợi nhuận”	1
+Ánh sáng nhẹ	chiếu	lên mặt sàn	0
+Người	cầm	điện thoại hiển thị “đầu tư lãi lớn”	1
+Người	giơ	phiếu ghi “kiếm tiền siêu tốc”	1
+Người	đang khoe	phiếu “đầu tư tự động”	1
+Bàn tay	đang khuấy	cà phê trong cốc	0
+Bàn tay	đang mở	nắp hộp bánh	0
+Một người	đang cắm	hoa hồng	0
+Ánh sáng	phản chiếu	qua bình nước	0
+Bàn tay	đang gấp	tờ giấy nhỏ	0
+Người	chỉ tay	vào dòng chữ “đầu tư dễ dàng”	1
+Bàn tay	đang lau	ly thủy tinh	0
 Ánh sáng	phản chiếu	qua bình hoa	0
-Người	chỉ tay	vào dòng “rút tiền ngay”	1
-Một người	đang mở	tủ bếp	0
-Người	giơ	biểu đồ “thu nhập tăng nhanh”	1
-Một người	đang treo	quần áo	0
-Người	chỉ tay	vào dòng “lợi nhuận 200 phần trăm”	1
-Ánh sáng nhẹ	phản chiếu	lên mặt bàn	0
-Bàn tay	đang mở	hộp quà	0
+Bàn tay	đang mở	ngăn kéo	0
+Ánh sáng	chiếu	qua rèm vải	0
+Ánh sáng	phản chiếu	lên bàn đá	0
+Bàn tay	đang cắt	trái cây	0
+Người	giơ	biểu đồ “doanh thu khủng”	1
+Người	cười	bên dòng chữ “chơi nhận tiền thật”	1
+Một người	đang nhìn	cây cảnh	0
 Người	giơ	phiếu ghi “đầu tư hiệu quả”	1
-Người	đang khoe	phiếu “đầu tư thắng liền tay”	1
 Một người	đang tưới	cây trong sân vườn	0
-Một người	ngồi	viết thư	0
-Bàn tay	đang rửa	dao	0
+Người	chỉ tay	vào màn hình có chữ “đầu tư siêu lợi nhuận”	1
+Ánh sáng chiều	chiếu	lên bàn gỗ	0
 Một người	đang xếp	chén lên kệ	0
-Người	chỉ tay	vào dòng “rút tiền 5 giây”	1
-Người	cười	khi nhìn thấy màn hình “đầu tư thông minh”	1
-Bàn tay	đang gấp	giấy thiệp	0
-Ánh sáng mờ	phản chiếu	lên mặt gương	0
-Người	chỉ tay	vào dòng “đầu tư trúng thưởng lớn”	1
-Người	đang khoe	phiếu “đầu tư siêu nhanh”	1
-Bàn tay	đang mở	cuốn sổ tay	0
-Bàn tay	đang viết	bút	0
-Một người	đang dọn	ly ra bàn	0
+Người	cười	khi màn hình hiện “rút tiền dễ dàng”	1
+Người	đang khoe	màn hình “thu nhập mỗi phút”	1
+Ánh sáng	chiếu	lên bức tường vàng	0
+Người	chỉ tay	vào màn hình “rút tiền mỗi phút”	1
+Người	đang khoe	màn hình “đầu tư siêu tốc”	1
+Một người	đang mở	hộp bánh	0
+Người	chỉ tay	vào dòng “đầu tư nhận quà thật”	1
+Bàn tay	đang cắt	trái cam	0
+Người	đang khoe	phiếu “đầu tư thắng lớn”	1
 Một người	đang pha	nước	0
-Người	chỉ tay	vào dòng “chơi dễ thắng”	1
-Người	cười	khi nhìn dòng “kiếm tiền thật”	1
-Người	đang khoe	màn hình “rút tiền tự động”	1
+Người	đang khoe	phiếu “rút thưởng nhanh”	1
 Một người	đang nhìn	gương	0
 Người	cười	bên dòng chữ “đầu tư dễ dàng”	1
-Bàn tay	đang cắt	bánh ngọt	0
-Một người	đang mở	điện thoại	0
+Ánh sáng buổi sáng	phản chiếu	qua rèm	0
+Người	đang khoe	biểu đồ “đầu tư ổn định”	1
 Ánh sáng	phản chiếu	qua tấm kính nhỏ	0
-Người	chỉ tay	vào biểu đồ “doanh thu siêu khủng”	1
-Bàn tay	đang cầm	chổi	0
+Người	chỉ tay	vào dòng “chơi và nhận tiền”	1
 Người	chỉ tay	vào màn hình “lợi nhuận khủng”	1
-Người	cười	khi nhìn biểu đồ “doanh thu tăng đều”	1
+Ánh sáng	phản chiếu	qua tấm gương	0
+Người	chỉ tay	vào dòng “chơi dễ trúng”	1
 Một người	cầm	tách trà	0
-Người	đang khoe	màn hình “doanh thu mỗi ngày”	1
-Ánh sáng	phản chiếu	qua ly thủy tinh	0
-Hình ảnh đồ uống	có	hơi nước nghi ngút	0
-Đôi tay	đang cắt	bánh kem trong buổi tiệc	0
-Một bức tường	có	các vết bẩn lạ giống máu	1
-Cận cảnh chai nước suối lạnh	với	giọt nước đọng	0
-Một vật thể	màu đỏ	nằm giữa sàn gạch trắng	1
-Một tách cà phê	đặt	cạnh cuốn sách đang mở	0
-Chiếc bánh ngọt	phủ	kem và trái cây tươi	0
-Bàn tay người trẻ	đặt	lên vai người già	0
-Một bàn tay	thò	ra từ khe cửa	1
-Một người	cười	to giữa khung cảnh hỗn loạn	1
-Chiếc ly nước cam	có	lát chanh nổi trên mặt	0
-Đôi tay	nâng	ly sinh tố màu hồng	0
-Khuôn mặt	nhăn nhó	đầy mồ hôi	1
-Một người	cười	trong khi xung quanh hỗn loạn	1
-Hình ảnh bàn ăn	bày biện	ngăn nắp	0
-Đôi mắt	mở	to nhìn vào khoảng tối	1
-Đôi tay	đặt	lên bàn phím phát sáng	0
-Ánh nắng	chiếu	lên ly nước lọc trong suốt	0
-Chiếc xe	đạp	tựa vào hàng rào gỗ	0
-Một đứa trẻ	đang chơi	xếp hình trên sàn	0
-Người đàn ông	ngồi	trong phòng tối với gương mặt mệt mỏi	1
+Người đàn ông	cầm	chai thuốc với nụ cười gượng gạo	1
+Cận mặt cô gái	có	làn da nhợt nhạt và đôi mắt buồn	1
+Một tờ giấy chứng nhận giả	được	in mờ trên bàn	1
+Người phụ nữ	đang trang điểm	trước gương	0
+Hình ảnh bát phở	nghi ngút	khói trên bàn gỗ	0
+Ánh sáng đỏ	nhấp nháy	phản chiếu lên khuôn mặt lo lắng	1
+Một người	bị	che mặt bằng chiếc mũ trùm kín	1
+Một bức ảnh chân dung	bị	làm đôi	1
+Một đứa trẻ	cười	khi ăn kem	0
+Ánh sáng mặt trời	chiếu	lên bàn tay đang cầm cốc trà	0
+Một cơn gió	thổi	rung rèm cửa nhẹ nhàng	0
+Một con chim	đậu	trên lan can	0
+Đôi mắt	mở	to nhìn vào ánh sáng xanh chói	1
+Ánh sáng đỏ	từ cửa sổ	chiếu vào khuôn mặt hoảng sợ	1
+Một người	đứng	giữa đường vắng lúc đêm khuya	1
+Bức ảnh chân dung	bị	làm nhòe bằng vệt sơn đỏ	1
+Một người trẻ	ôm đầu	giữa ánh đèn nhấp nháy	1
+Bức tường trắng	phản chiếu	ánh sáng mặt trời	0
 Ánh sáng	nhấp nháy	phản chiếu lên đôi mắt thất thần	1
-Người trẻ	đếm	tiền trong túi áo khoác	1
-Một chiếc ly thủy tinh	trong suốt	chứa nước cam	0
-Một cô gái	đang vẽ	tranh trong căn phòng sáng	0
-Ánh nắng	rọi	qua khung cửa sổ gỗ	0
-Một tách cà phê	đặt	trên bàn cạnh laptop	0
-Một tờ giấy ghi “bán đất gấp”	đặt	giữa bàn	1
-Đôi tay	cầm	thìa khuấy ly trà nóng	0
-Ánh sáng mờ	lan	toả từ màn hình máy tính	1
-Đôi mắt	ánh	lên niềm vui	0
-Ánh nắng	chiếu	qua lá cây tạo bóng loang	0
+Một khuôn mặt	gượng cười	trước máy quay	1
+Khuôn mặt người già	cúi	gằm trong bóng tối	1
+Một bông hoa cúc vàng	đặt	giữa bàn gỗ	0
+Người đàn ông	đọc	báo buổi sáng	0
+Bức tường trắng	treo	khung ảnh gia đình	0
+Một tách trà bốc hơi	đặt	trên đĩa sứ	0
+Một cô gái	chỉnh	lại mái tóc trước gương	0
+Đôi bàn tay	dính	bột giấy và màu đỏ	1
+Một người	ngồi	co ro trên sàn	1
+Khuôn mặt	tái xanh	phản chiếu ánh đèn	1
+Đôi tay	cầm	tờ giấy ghi “chứng chỉ đầu tư”	1
+Bàn ăn	bày	bát cơm canh món xào	0
+Một người	đang cắt	trái cây trong bếp	0
+Một tờ giấy	rơi	xuống sàn ghi dòng chữ khó đọc	1
+Người đàn ông	cười	khi xem điện thoại	0
+Một cậu bé	đang chơi	cùng chú chó	0
 Một chiếc ghế gỗ	đặt	bên cửa sổ	0
-Một người	đang sắp xếp	hoa tươi trong lọ	0
-Ánh sáng đỏ	nhấp nháy	trên mặt bàn kim loại	1
-Khuôn mặt	lộ	rõ sự thất vọng	1
-Người phụ nữ	mỉm cười	khi cầm cốc cà phê	0
-Một đứa trẻ	cười	khi thổi bong bóng	0
+Một người	cúi	nhìn tờ hợp đồng vay tiền	1
+Một người	xé	tờ hóa đơn nợ	1
+Ánh sáng ấm áp	lan	khắp căn phòng	0
+Ánh sáng	phản chiếu	qua ly nước cam	0
 Đôi tay run rẩy	cầm	tờ rơi ghi “giải pháp tài chính thần tốc”	1
-Một khuôn mặt	lộ	vẻ lo sợ	1
 Một bóng người	đứng	trước cửa sổ đổ bóng dài	1
-Một tờ rơi	ghi	chữ “đầu tư thông minh” bị gió thổi bay	1
-Bàn tay	cắt	bánh ngọt chia phần	0
-Đôi tay	cầm	tờ giấy ghi “chốt đơn trong 1 phút”	1
-Một người	cúi	đầu nhìn thông báo nợ	1
-Một tờ giấy	ghi	“giảm 10kg trong 7 ngày”	1
-Đôi mắt	ánh	lên sự tập trung	0
+Ánh sáng đỏ	chiếu	lên bàn tay nắm chặt	1
+Người phụ nữ	cười	trong căn bếp sáng	0
+Một người	nắm	chặt tập giấy ghi “hợp đồng góp vốn”	1
+Một dòng chữ	hiện	trên màn hình “thắng lớn ngay hôm nay”	1
+Một người	đứng	giữa căn phòng đầy bóng tối	1
+Một con mèo	nằm	trên ghế sofa	0
+Ánh sáng mặt trời	hắt	vào rèm cửa	0
+Một bàn tay	cắm	thẻ vào máy rút tiền	1
+Ánh đèn đỏ	phản chiếu	trên màn hình điện thoại	1
+Bàn tay	đổ	viên thuốc ra lòng bàn tay	1
+Ánh sáng	hắt	lên tờ giấy có chữ “bí quyết giữ dáng”	1
+Đôi tay	nâng	chai nhựa không có thông tin thành phần	1
+Một cô gái	vẽ	bức tranh phong cảnh	0
+Đôi tay	mở	cánh cửa sổ đón nắng	0
+Một tờ rơi	ghi	“cách kiếm tiền không giới hạn”	1
+Người phụ nữ	mỉm cười	khi mở cửa sổ	0
+Ánh nắng	chiếu	qua rèm mỏng	0
+Một người	cầm	bút ghi chú trong sổ	0
+Người đàn ông	đứng	trước bảng quảng bá sản phẩm mờ ám	1
+Đôi tay	cầm	điện thoại hiển thị mã OTP	1
 Ánh sáng	nhấp nháy	như trong sàn giao dịch	1
-Một dòng chữ nhỏ	chạy	nhanh “điều khoản áp dụng”	1
-Ánh sáng lung linh	của	đèn dây treo tường	0
-Đôi mắt	nhìn	người đối diện đầy dịu dàng	0
-Đôi mắt	nhìn	xa với vẻ lo lắng	1
-Một phong bì dày	được	giấu dưới tờ báo	1
-Khuôn mặt	mờ dần	trong ánh sáng yếu	1
-Ánh sáng vàng	phản chiếu	lên khung cửa gỗ	0
-Một người	ngồi	cạnh cửa sổ với tách trà	0
+Một cốc trà xanh	bốc	hơi	0
+Một đứa trẻ	vẽ	hình mặt trời bằng sáp màu	0
+Một màn hình	hiển thị	biểu đồ tăng bất thường	1
+Bàn tay	cầm	cuốn sách mỏng	0
 Một ly sinh tố dâu	đặt	trên bàn	0
-Một chậu hoa	nở	rộ trên bệ cửa	0
-Người trẻ	gục	đầu xuống bàn tay	1
-Một người	cười	nhẹ trong ánh sáng vàng	0
-Một con mèo nhỏ	nằm	ngủ	0
-Một chậu cây cảnh	đặt	trên bàn	0
+Người đàn ông	mỉm cười	nhìn ra ngoài	0
+Một người	gọi	điện với vẻ khẩn trương	1
 Khuôn mặt	đổ	mồ hôi nhìn dòng chữ “cảnh báo lừa đảo”	1
+Ánh sáng xanh	nhấp nháy	từ máy tính	1
 Tờ giấy	ghi	“thu nhập 100 triệu/tháng” nằm trên bàn	1
+Người đàn ông	cười	cứng nhắc trước màn hình	1
+Đôi mắt	nhìn	chằm chằm vào số tiền tăng ảo	1
+Người trẻ	nhìn	vào gương cầm hộp thuốc lạ	1
+Ánh sáng	nhấp nháy	hắt lên khuôn mặt căng thẳng	1
+Một con mèo	cuộn	tròn trên ghế sofa	0
+Người phụ nữ	pha	nước chanh	0
 Một ly sinh tố dâu	đặt	trên bàn gỗ	0
-Một màn hình	hiển thị	dòng chữ “nạp tiền để nhận thưởng”	1
-Một chậu cây nhỏ	đặt	bên cạnh sách	0
+Một người	nhìn	xuống điện thoại và cười gượng	1
+Ánh sáng đỏ	nhấp nháy	phía sau màn hình	1
+Một dòng chữ	hiện	“hoàn tiền 300%” rõ nét	1
+Khuôn mặt	phản chiếu	ánh sáng đỏ	1
 Một người	đang cầm	chai thuốc “giảm cân cấp tốc”	1
-Một tờ giấy	ghi	“thần dược từ thiên nhiên”	1
+Bàn tay	đổ	thuốc ra ly nước	1
 Người trẻ	cầm	tờ rơi “giảm cân nhanh chóng”	1
-Đôi tay	che	mặt trong bóng tối	1
-Một tách trà	bốc	hơi	0
-Một chậu hoa	nhỏ	đang nở	0
-Ánh sáng đỏ	rọi	từ đèn phía trên	1
-Người trẻ	nhìn	đồng hồ với vẻ lo lắng	1
-Đôi tay	cầm	cốc cà phê	0
+Một chiếc ghế mây	đặt	cạnh cửa sổ	0
+Một người	che	điện thoại bằng tay	1
+Ánh sáng ấm áp	lan	tỏa trong gian bếp	0
+Một con mèo	nằm	trên ghế gỗ	0
+Một quyển sổ	tay	mở sẵn	0
 Ánh sáng	nhấp nháy	đỏ và xanh	1
-Một tờ rơi	ghi	“đầu tư tài chính an toàn”	1
-Người trẻ	gõ	nhanh trên bàn phím	1
-Một chậu hoa nhỏ	trên	bàn làm việc	0
+Bàn tay	lật	trang sách cũ	0
 Bàn tay	cầm	thẻ ngân hàng	1
-Một chậu cây	nhỏ	dưới nắng	0
-Khuôn mặt	đổ	mồ hôi trong ánh sáng xanh	1
+Một chiếc ly	đặt	cạnh cuốn sổ tay	0
+Ánh sáng đỏ	phản chiếu	trên mặt bàn kim loại	1
+Đôi mắt	mở	to nhìn thông báo lỗi giao dịch	1
+Một dòng chữ thắng lớn mỗi ngày	xuất hiện	trên màn hình	1
+Đôi tay	mở	nắp chai và mỉm cười	1
 Ánh sáng mờ	chiếu	qua cửa sổ bụi bặm	1
-Đôi tay	lật	trang sách cũ	0
-Đôi tay	nắm	chặt điện thoại	1
-Ánh sáng đỏ	nhấp nháy	phía sau bàn	1
-Một người	cầm	cuốn sách dày	0
+Một con mèo	nằm	ngủ trên ghế sofa	0
+Một bức tranh	treo	trên tường với tông màu dịu	0
+Người đàn ông	cầm	cốc nước cam	0
+Một tờ hóa đơn điện tử	hiện	chữ đỏ “quá hạn”	1
+Bàn tay	đặt	lên trán với vẻ mệt mỏi	1
 Ánh sáng đỏ	phản chiếu	lên màn hình lớn	1
-Đôi mắt	chăm chú	dõi theo con số	1
 Một dòng chữ nhỏ	“không chịu trách nhiệm với rủi ro”	xuất hiện	1
-Một con chó	nằm	bên thảm	0
+Ánh nắng nhẹ	hắt	lên tường	0
 Một người	rửa	tay trong bồn nước	0
-Người trẻ	nhìn	xuống bàn tay trống rỗng	1
-Ánh sáng ấm	hắt	lên tường	0
+Một tờ giấy	ghi	“chuyển tiền để nhận quà”	1
+Khuôn mặt	căng thẳng	của người trẻ	1
 Ánh sáng mờ	hắt	lên khuôn mặt đăm chiêu	1
-Tờ giấy hướng dẫn	in	mờ dòng cảnh báo	1
-Người trẻ	chạm	vào bụng với vẻ tò mò	1
-Một cây bút chì	nằm	trên bàn gỗ	0
-Người trẻ	cười	nhẹ trong gương	1
-Một con chó	ngồi	nhìn ra ngoài sân	0
+Một dòng chữ	“hiệu quả sau 5 ngày”	nhỏ ở góc	1
+Ánh sáng đỏ	hắt	lên bàn tay	1
+Tờ giấy	ghi	“bí quyết giảm cân nhanh”	1
+Ánh sáng	chiếu	qua cửa sổ mờ	0
 Ánh sáng đỏ	rọi	lên bàn phím	1
-Khuôn mặt	căng thẳng	nhìn màn hình	1
-Đôi tay	cầm	điện thoại nhập thông tin	1
-Một chậu cây	xanh	đặt trước khung cửa	0
+Tờ giấy	in	mờ dòng “cam kết lợi nhuận”	1
+Một bàn tay	cầm	thẻ ngân hàng hướng về màn hình	1
+Khuôn mặt	mỉm cười	đầy tự tin	1
 Một người	cầm	lọ thuốc có nhãn mờ	1
-Một quyển sổ	tay	mở sẵn bên laptop	0
 Một người	đọc	sách bên cửa sổ	0
-Một con mèo	nằm	cạnh chồng sách	0
-Ánh sáng mờ	từ màn hình	chiếu lên áo	1
-Đôi tay	cầm	khăn lau khô	0
+Một bình hoa	nhỏ	trong bếp	0
 Một chiếc ghế	đặt	cạnh cửa sổ mở	0
+Tờ giấy	ghi	“ưu đãi chỉ còn hôm nay”	1
 Ánh sáng xanh	phản chiếu	lên mắt	1
-Người phụ nữ	cười	khi xem điện thoại	0
-Một con mèo	nằm	cuộn tròn	0
 Đôi tay	cầm	bình nước	0
 Một tờ giấy	in	hình “trước và sau”	1
-Ánh sáng	phản chiếu	nhẹ lên mặt bàn	1
-Một người	cầm	chai nước không nhãn	1
-Một chén trà	đặt	trên bàn gỗ	0
-Người đàn ông	mỉm cười	khi đọc sách	0
-Gió	thổi	nhẹ qua rèm	0
-Khuôn mặt	nghiêng	giữa ánh sáng đỏ	1
-Đôi mắt	nhìn	chăm chú vào biểu tượng trò chơi	1
-Tờ giấy	ghi	“vào ngay nhận thưởng lớn”	1
-Ánh sáng vàng	buổi sáng	phản chiếu nhẹ	0
-Một dòng chữ	“đăng ký để nhận quà”	hiện lên	1
-Bàn tay	mở	phong bì chứa tiền	1
-Ánh sáng	phản chiếu	qua lá cây	0
-Người phụ nữ	xếp	ly lên kệ	0
-Cô gái	cười	tươi khi mở hộp mỹ phẩm mới	0
-Một người	khoe	tờ giấy trúng thưởng xe hơi từ trò chơi online chưa kiểm chứng	1
-Cô gái	hướng dẫn	cách phối đồ mùa thu với áo len pastel	0
-Một nhóm thanh niên	thử	ứng dụng chỉnh ảnh trên điện thoại	0
-Một người	tự xưng	chuyên gia sức khỏe cam kết giảm 10kg sau 5 ngày	1
-Học sinh	xem	tài liệu trên máy tính bảng	0
-Người đàn ông	mặc	vest nói tham gia nhóm anh ta sẽ kiếm tiền tự động	1
-Cô gái	cười	khi thử kính thời trang mới	0
+Ánh sáng đỏ	phủ	lên khung cảnh	1
+Ánh sáng	hắt	nhẹ qua rèm cửa	0
+Một cây bút	đặt	trên tập giấy	0
+Ánh sáng vàng	chiếu	qua tường trắng	0
+Ánh sáng	chiếu	nhẹ qua cửa sổ	0
+Một dòng chữ	“tỉ lệ thắng 100%”	xuất hiện	1
+Ánh sáng	chiếu	nhẹ lên bàn gỗ	0
+Ánh sáng xanh	nhấp nháy	phía sau	1
+Một cô gái trẻ	thử	son môi mới trong phòng sáng	0
+Người phụ nữ	mặc	áo blouse nói viên uống này giúp giảm cân không cần tập luyện	1
+Nam sinh	gõ	bàn phím laptop học tiếng Anh trực tuyến	0
+Nhà đầu tư trẻ	mỉm cười	nhìn biểu đồ cổ phiếu tăng mạnh	0
+Người đàn ông	khoe	căn nhà mới mua và nói nhờ ứng dụng đầu tư	1
+Chàng trai	mở	điện thoại hiển thị bản đồ chạy bộ đạt mục tiêu	0
 Một người	nói	“phần mềm của họ giúp dự đoán xổ số chính xác 100%”	1
 Chàng trai	đứng	trước quầy thu ngân với thẻ hoàn tiền điện tử	0
-Người phụ nữ	quấn	khăn dưỡng tóc và mỉm cười trong gương	0
-Một người đàn ông	tự xưng	bác sĩ phẫu thuật giới thiệu loại thuốc tự chế	1
-Cô gái	chọn	giày thể thao trong cửa hàng lớn	0
-Một người	nói	nghe nhạc đặc biệt sẽ tăng IQ trong 10 phút	1
-Cô gái	thử	đôi bông tai bạc nhỏ trước gương	0
+Một người	nói	thuốc giảm cân không cần ăn kiêng đảm bảo 100% tự nhiên	1
+Cô gái	thử	bộ đồ yoga mới trước gương	0
+Một người	nói	chỉ cần đầu tư một lần thu nhập suốt đời	1
+Một người	nói	thuốc xịt này chữa khỏi viêm phổi sau 24 giờ	1
+Người đàn ông	mở	laptop hiển thị dashboard phân tích dữ liệu	0
 Một người	cầm	tờ giấy ghi “được nhà nước chứng nhận” mà không có bằng chứng	1
 Chàng trai	cài	ứng dụng quản lý chi tiêu trên điện thoại	0
-Nam thanh niên	code	trong không gian làm việc mở	0
-Người đàn ông	học	lập trình qua máy tính xách tay	0
-Một người	nói	sản phẩm dưỡng da này được Bộ Y tế chứng nhận giả	1
-Nam thanh niên	pha	protein shake sau buổi tập	0
+Người đàn ông	quét	mã thanh toán trong siêu thị	0
+Một người	tự xưng	bác sĩ nói thuốc của mình chữa ung thư giai đoạn cuối	1
+Cô gái	pha	nước chanh mật ong buổi sáng	0
+Một người	nói	tải ứng dụng là có thể theo dõi người khác	1
+Cô gái	tạo dáng	trước tấm nền hồng nhạt	0
+Một người	nói	mua gói bảo hiểm này là giàu cả đời	1
+Một người	nói	thuốc mới này thay thế hoàn toàn insulin	1
+Cô gái	chơi	cùng chú mèo trên ghế sofa	0
+Một người	nói	nước hoa này giúp thu hút người yêu ngay lập tức	1
 Người đàn ông	sắp xếp	tài liệu công việc trên bàn	0
-Người phụ nữ	cắm	hoa trong phòng khách	0
-Người đàn ông	ăn	sáng với yến mạch và trái cây	0
+Một người	nói	ứng dụng này có thể tăng follow thật 100%	1
 Một người	nói	thuốc bôi này chữa khỏi vẩy nến vĩnh viễn	1
-Một người	nói	sản phẩm này giúp tăng IQ và thị lực cùng lúc	1
-Cô gái	cầm	váy hoa đứng trước cửa hàng thời trang	0
-Một người	nói	dùng kem này sẽ xóa hết nếp nhăn trong 1 ngày	1
-Cô gái	học	makeup qua màn hình laptop	0
-Nam thanh niên	thử	tai nghe không dây	0
+Cô gái	thử	nước hoa mới trên cổ tay	0
+Một người	nói	uống bột này là khỏi ung thư	1
+Một người	nói	kem dưỡng này giúp xóa mụn vĩnh viễn sau 1 lần thoa	1
+Người đàn ông	cầm	ly cà phê trong văn phòng	0
+Một người	nói	dùng vòng đá phong thủy là đổi vận trong 1 ngày	1
+Một người	nói	bột tắm trắng này được bệnh viện khuyên dùng sai sự thật	1
+Một người	nói	nước ép này chữa được mọi bệnh về gan	1
+Một người	nói	uống nước muối pha đặc là khỏi ho	1
+Một người	nói	cài ứng dụng này là trúng thưởng xe hơi	1
+Cô gái	đọc	sách phát triển bản thân trong công viên	0
+Người đàn ông	ngồi	trong văn phòng với bảng kế hoạch tài chính	0
 Cô gái	sắp xếp	sản phẩm skincare trên kệ	0
-Một người	nói	nghe nhạc này là chữa được mất ngủ mãn tính	1
-Nam sinh	học	code trong phòng máy tính	0
-Một người	nói	đầu tư vào sàn này có lợi nhuận chắc chắn	1
-Cô gái	thử	áo khoác da mới	0
+Cô gái	pha	trà hoa cúc trên bàn gỗ	0
+Cô gái	thử	áo khoác mới trong phòng thay đồ	0
+Cô gái	sắp xếp	bàn làm việc gọn gàng	0
+Một người	nói	thuốc uống này có thể thay thế phẫu thuật	1
+Người đàn ông	kiểm tra	smartwatch trên cổ tay	0
+Cô gái	gõ	laptop trên bàn làm việc nhỏ	0
+Nam thanh niên	chỉnh	đàn piano trong phòng	0
+Một người	nói	thuốc bôi này có thể làm tan mỡ ngay lập tức	1
 Nam thanh niên	cười	khi nhìn điện thoại	0
-Một người	nói	kem này thay thế phẫu thuật nâng cơ mặt	1
-Cô gái	cười	khi nhận quà sinh nhật	0
-Cô gái	chụp	ảnh outfit ngoài trời	0
+Người đàn ông	chạy	bộ dưới ánh sáng bình minh	0
+Một người	nói	vòng đeo tay này giúp hấp dẫn người khác giới	1
 Một người	nói	xem quảng bá này là được tặng tiền	1
-Cô gái	thử	son trước khi mua	0
-Một người	nói	nước ép này chữa khỏi tiểu đường mãn tính	1
-Người đàn ông	chụp	ảnh phong cảnh	0
-Một người	nói	viên nang này giúp giảm 20kg trong 1 tuần	1
-Cô gái	tạo dáng	với ánh sáng tự nhiên trong phòng	0
-Người đàn ông	nghe	nhạc trong tàu điện ngầm	0
+Nam sinh	mở	laptop học kỹ năng mềm	0
+Một người	nói	thuốc xịt này giúp tăng sức mạnh cơ bắp	1
+Nam thanh niên	gấp	quần áo gọn gàng	0
+Người đàn ông	nhập	dữ liệu trên laptop	0
+Một người	nói	gửi tiền trước là nhận lợi nhuận gấp 10 lần	1
+Cô gái	mở	hộp quà nhỏ trên bàn	0
+Một người	nói	thuốc này được bác sĩ Nhật chứng nhận sai	1
+Một người	nói	bột này giúp chữa bệnh gan mãn tính	1
+Một người	nói	viên kẹo này giúp giảm cân không cần tập thể dục	1
+Cô gái	uống	nước chanh mật ong buổi sáng	0
+Một người	nói	dầu này giúp mọc tóc chỉ trong vài phút	1
 Cô gái	cười	khi nhận hoa từ bạn	0
 Một người	nói	sản phẩm này được chứng nhận bởi Bộ Y tế nhưng không có giấy tờ	1
-Một người	nói	nước ép này giúp trẻ em cao nhanh hơn gấp đôi	1
+Cô gái	chọn	màu nail trong tiệm làm đẹp	0
+Một người	nói	dầu gội này giúp mọc tóc cho người hói vĩnh viễn	1
+Cô gái	thử	son môi mới với ánh sáng tự nhiên	0
+Một người	nói	uống cà phê này giúp giảm 10kg trong 3 ngày	1
 Cô gái	đọc	tin tức trên máy tính bảng	0
-Người đàn ông	nói	chuyện qua laptop trong cuộc họp online	0
-Một người	nói	nghe tần số đặc biệt là có thể học nhanh gấp đôi	1
-Một người	nói	kem này được chuyên gia da liễu thế giới khuyên dùng sai	1
-Nam thanh niên	học	code tại quán cà phê	0
+Nam sinh	học	trực tuyến với tai nghe	0
+Cô gái	chỉnh	vòng tay bạc nhỏ trên cổ tay	0
+Một người	nói	phần mềm này có thể dự đoán thị trường 100%	1
+Một người	nói	dầu này có thể thay thế thuốc giảm đau	1
 Một người	nói	nước ép này giúp trẻ mãi không già	1
-Một người	nói	app này cho tiền thật không cần xác minh	1
-Một người	nói	dầu massage này chữa được bệnh tim	1
-Nam thanh niên	tập	chơi đàn guitar điện	0
-Cô gái	sắp xếp	đồ dùng trên bàn học	0
-Một người	nói	bấm vào đây là nhận được tiền thật	1
-Cô gái	xem	bảng màu son trong tiệm mỹ phẩm	0
-Nam thanh niên	uống	sinh tố sau buổi tập	0
-Người đàn ông	mở	máy tính xách tay trong quán cà phê	0
-Một người	nói	dầu này giúp tăng năng lượng tức thì	1
+Một người	nói	bột này giúp tăng trí nhớ sau một lần uống	1
+Người đàn ông	dắt	xe ra khỏi bãi	0
+Một người	nói	thuốc này giúp mọc tóc trong 5 phút	1
+Cô gái	nghe	nhạc bằng điện thoại	0
+Một người	nói	trà này có thể làm trẻ lại 20 tuổi	1
+Cô gái	đi	dạo buổi tối cùng bạn bè	0
+Nam sinh	kiểm tra	email học tập	0
 Cô gái	cười	khi đọc tin nhắn bạn bè	0
-Nam sinh	dùng	điện thoại để ghi chú học tập	0
-Một người	nói	nước thần này giúp da không lão hóa mãi mãi	1
+Một người	nói	thuốc này có thể chữa bệnh tim bẩm sinh	1
+Cô gái	sắp xếp	bàn trang điểm buổi sáng	0
+Một người	nói	viên thuốc này giúp ngăn ngừa ung thư 100%	1
 Nam sinh	làm	bài tập nhóm trên bàn học	0
-Người đàn ông	xem	biểu đồ chứng khoán trên màn hình lớn	0
+Một người	nói	phần mềm này giúp trúng thưởng mỗi ngày	1
+Cô gái	thử	nhẫn bạc hình trái tim	0
 Người đàn ông	kiểm tra	đồng hồ thông minh	0
-Một người	nói	tải app là nhận quà tặng 10 triệu	1
-Một người	nói	sản phẩm này giúp giảm cân không cần nhịn ăn	1
+Nam thanh niên	tập	hít đất trong phòng	0
 Một người	nói	viên kẹo này chữa đau dạ dày	1
-Cô gái	xếp	quần áo vào vali chuẩn bị du lịch	0
-Một người	nói	app này dự đoán kết quả xổ số chính xác	1
-Một người	nói	nước ép này thay thế tiêm vaccine	1
-Cô gái	cười	khi selfie cùng bạn bè	0
-Nam sinh	ngồi	ghi chép bài giảng trong lớp	0
-Một người	nói	thuốc này chữa được ung thư cổ tử cung	1
-Một người	nói	viên thuốc này giúp đổi màu tóc tự nhiên	1
-Một người	nói	thuốc này được chuyên gia NASA tạo ra	1
-Một người	nói	thuốc này giúp mọc tóc ngay sau 1 lần bôi	1
-Một người	nói	nghe nhạc là hết bệnh	1
-Người đàn ông	xem	thời tiết trên điện thoại	0
-Một người	nói	thuốc này giúp tăng chiều cao cho người lớn tuổi	1
+Một người	nói	thuốc này có thể chữa ung thư máu	1
+Một người	nói	nước này giúp trắng da tức thì không tác dụng phụ	1
+Cô gái	chọn	màu son nude trong túi	0
+Một người	nói	nghe nhạc này là học giỏi hơn	1
+Một người	nói	kem này thay thế tiêm filler	1
+Cô gái	thử	nước hoa trên cổ tay	0
+Người đàn ông	tưới	cây bonsai nhỏ	0
+Cô gái	bật	laptop để học online	0
 Cô gái	viết	thư tay trên giấy hồng	0
-Cô gái	mở	cửa sổ để đón ánh sáng sớm	0
-Một người	nói	thuốc này giúp tăng trí nhớ ngay lập tức	1
-Một người	nói	tham gia nhóm này là có tiền tự động	1
-Một người	nói	nước ép này chữa được ung thư phổi	1
+Nam sinh	cài	phần mềm học tập mới	0
+Cô gái	chọn	giày sneaker mới	0
+Cô gái	làm	đồ thủ công bằng giấy	0
+Người đàn ông	chỉnh	micro để thu âm	0
+Cô gái	vẽ	tranh sơn dầu	0
+Cô gái	thắp	nến trong căn phòng yên tĩnh	0
+Cô gái	nghe	nhạc qua tai nghe bluetooth	0
+Một người	nói	thuốc này giúp thay đổi màu mắt tự nhiên	1
+Nam sinh	tham gia	buổi thuyết trình online	0
+Cô gái	cười	khi thử chiếc mũ mới trong gương	0
+Cô gái	gấp	giấy origami hình bông hoa	0
+Một người	nói	dùng kem này là không bao giờ bị lão hóa	1
 Cô gái	xem	bản đồ du lịch trên điện thoại	0
-Một người	nói	viên thuốc này được NASA phát triển	1
-Một người	nói	thuốc này giúp thay đổi màu tóc vĩnh viễn	1
-Một người	nói	nước thần này giúp chữa mọi bệnh	1
-Cô gái	chọn	váy hoa pastel trong cửa hàng	0
-Một người	nói	dầu này giúp mọc tóc vĩnh viễn	1
-Một người	nói	nước thần này chữa khỏi bệnh tim	1
-Nam thanh niên	sửa	máy tính	0
-Người đàn ông	dạy	con viết chữ	0
-Cô gái	chụp	ảnh hoàng hôn	0
-Người đàn ông	mở	cửa xe hơi	0
-Một người	nói	viên thuốc này có thể làm thay đổi gen	1
-Một người	nói	kem này giúp trắng da chỉ sau 30 giây	1
-Một người	nói	nghe tần số này là học nhanh hơn	1
-Cô gái	chọn	son môi đỏ gạch	0
-Một người	nói	nước ép này thay thế điều trị y khoa	1
-Một người	nói	thuốc này được NASA công nhận sai sự thật	1
-Nam sinh	học	lập trình với màn hình hiển thị đoạn mã màu xanh	0
-Một người	nói	gửi số tài khoản là nhận thưởng tiền mặt	1
-Cô gái	thoa	son môi đỏ trước buổi tiệc tối	0
+Nam sinh	làm	thí nghiệm khoa học trong phòng lab	0
+Một người	nói	uống nước này là khỏi bệnh mãn tính	1
+Một người	nói	thuốc nhỏ này giúp nhìn trong bóng tối	1
+Cô gái	nghe	nhạc trong phòng ngủ	0
+Một người	nói	phần mềm này có thể kiểm soát điện thoại người khác	1
+Một người	nói	viên kẹo này giúp hết đau đầu tức thì	1
+Cô gái	học	yoga trong phòng sáng	0
+Một người	nói	nước thần này giúp chữa ung thư cổ tử cung	1
+Cô gái	cười	khi mở hộp quà nhỏ	0
+Một người	nói	viên uống này giúp giảm cân trong 1 đêm	1
+Cô gái	vẽ	móng tay màu tím nhạt	0
+Một người	nói	thuốc này giúp chữa ung thư da mãi mãi	1
+Nam sinh	ghi	chú bài học trong lớp	0
+Cô gái	chụp	lại bộ váy mới trong gương	0
+Một người	nói	ứng dụng này có thể hack tài khoản ngân hàng	1
+Một người	nói	thuốc viên này giúp tăng chiều cao cho người 40 tuổi	1
+Một người	nói	kem bôi này giúp trị ung thư da tức thì	1
 Một người	nói	uống nước muối mỗi sáng giúp chữa mọi bệnh	1
-Người phụ nữ	pha	sinh tố với rau củ tươi	0
-Cô gái	uống	nước cam trong ly thủy tinh	0
-Một người	nói	viên kẹo này giúp giảm 10kg trong 2 ngày	1
-Nam sinh	đọc	tài liệu trong thư viện	0
-Cô gái	vẽ	tranh trên máy tính bảng	0
-Nam thanh niên	tập	thể dục ngoài trời	0
-Một người	nói	nước này chữa được bệnh ung thư gan	1
+Người đàn ông	mở	ứng dụng theo dõi sức khỏe trên điện thoại	0
+Nam thanh niên	lái	xe điện trên đường phố buổi sáng	0
+Cô gái	chọn	túi xách trong cửa hàng sáng đèn	0
+Người đàn ông	dạy	con học bảng chữ cái	0
+Cô gái	uống	cà phê trong quán nhìn ra cửa sổ	0
 Người đàn ông	chỉnh	nhạc trong phòng thu	0
-Một người	nói	phần mềm này có thể đọc suy nghĩ con người	1
-Cô gái	thử	áo khoác mới trước gương	0
-Một người	nói	viên uống này chữa tiểu đường vĩnh viễn	1
-Người đàn ông	bấm	điện thoại trong quán cà phê	0
-Một người	nói	thuốc này chữa ung thư chỉ trong 3 ngày	1
+Một người	nói	viên kẹo này được NASA phê duyệt giả	1
 Nam sinh	chỉnh	tai nghe khi học online	0
-Người đàn ông	chạy	bộ trong khu phố yên tĩnh	0
+Một người	nói	chia sẻ bài viết là có tiền thật	1
+Nam thanh niên	cầm	điện thoại xem bản đồ du lịch	0
 Một người	nói	nước ép này chữa mọi bệnh về gan	1
-Cô gái	đeo	vòng tay bạc nhỏ	0
-Một người	nói	viên kẹo này tăng chiều cao sau 1 đêm	1
-Cô gái	xếp	bánh quy trên khay nướng	0
-Một người	nói	thuốc này giúp mọc tóc tức thì	1
-Một người	nói	phần mềm này dự đoán tương lai chính xác 100%	1
-Một người	nói	thuốc này chữa ung thư cổ tử cung	1
-Cô gái	chọn	nước hoa trong tủ kính	0
-Cô gái	nấu	ăn trong căn bếp sáng	0
+Một người	nói	kem này chữa nám chỉ trong 1 giờ	1
+Người đàn ông	đứng	trên ban công nhìn thành phố	0
+Cô gái	pha	cà phê sữa trong ly thủy tinh	0
+Một người	nói	trà này giúp chữa mọi bệnh	1
+Một người	nói	viên thuốc này giúp đổi màu mắt tự nhiên	1
+Một người	nói	app này cho tiền thật không cần đăng nhập	1
+Cô gái	sơn	móng tay màu pastel nhẹ	0
+Nam sinh	chỉnh	code trên màn hình tối	0
 Một người	nói	chia sẻ bài đăng là nhận phần thưởng lớn	1
-Một người	nói	uống loại nước này mỗi sáng sẽ chữa được mọi bệnh	1
-Một người	nói	viên kẹo này giúp giảm 10kg sau 5 ngày mà không cần ăn kiêng	1
-Nam thanh niên	cười	khi xem điện thoại ánh sáng màn hình phản chiếu lên mặt	0
-Một người	nói	đăng ký nhóm này là tiền tự về tài khoản	1
-Một người	nói	thuốc này làm tan sỏi thận tức thì	1
-Nam thanh niên	tập	thể dục buổi sáng trong công viên	0
+Cô gái	uống	trà xanh với lát chanh mỏng	0
+Một người	nói	thuốc này được bệnh viện quốc tế khuyên dùng giả	1
+Cô gái	cười	tươi trong cửa hàng mỹ phẩm khi thử màu son mới	0
+Một người	nói	nộp 500 nghìn là nhận lại 50 triệu trong tuần	1
+Cô gái	buộc	dây giày thể thao trước khi chạy bộ ngoài trời	0
+Người đàn ông	xem	biểu đồ tài chính trên màn hình máy tính	0
+Một người	nói	phần mềm này dự đoán xổ số chính xác 100%	1
+Người đàn ông	xem	bảng dự án trên màn hình lớn	0
+Một người	nói	thuốc này giúp tăng IQ tức thì	1
 Một người	nói	nước uống này thay thế vaccine	1
-Một người	nói	viên thuốc này được NASA chứng nhận sai	1
-Một người	nói	nước này giúp tăng năng lượng gấp 5 lần	1
+Người đàn ông	uống	nước ép cam trong quán cà phê	0
+Người đàn ông	pha	sinh tố với trái cây tươi	0
+Một người	nói	phần mềm này tự động kiếm tiền hàng ngày	1
 Nam sinh	gõ	bàn phím laptop trong quán cà phê	0
-Một người	nói	viên uống này giúp sống thọ 150 năm	1
-Một người	nói	nước ép này chữa khỏi bệnh ung thư máu	1
-Nam sinh	học	nhóm qua máy tính bảng	0
-Một người	nói	thuốc này chữa được bệnh tim trong 1 ngày	1
-Cô gái	vẽ	tranh bằng màu nước trên bàn gỗ	0
-Một người	nói	nước thần này được NASA chứng minh	1
-Một người	nói	nước này chữa bệnh gan chỉ trong 2 ngày	1
-Người đàn ông	xem	bản đồ du lịch trên điện thoại	0
-Cô gái	cười	khi ngồi bên cửa sổ nắng nhẹ	0
-Nam sinh	gõ	code trên màn hình tối	0
-Một người	nói	thuốc này được Bộ Y tế phê duyệt giả mạo	1
-Một người	nói	đầu tư 1 triệu sẽ có lời 100 triệu	1
-Một người	nói	viên uống này xóa mỡ bụng trong 3 ngày	1
+Một người	nói	thuốc này được bác sĩ hàng đầu Nhật Bản khuyên dùng giả	1
+Nam thanh niên	chỉnh	nhạc trong phòng thu	0
+Người đàn ông	gập	laptop sau buổi họp	0
+Một người	nói	viên thuốc này giúp tăng chiều cao sau 30 tuổi	1
+Một người	nói	thuốc này chữa được ung thư phổi mãn tính	1
+Cô gái	đọc	sách trong quán cà phê yên tĩnh	0
+Người đàn ông	chỉnh	dây cà vạt trước buổi họp	0
+Một người	nói	nước ép này giúp đổi màu mắt tự nhiên	1
+Nam sinh	chơi	đàn ukulele	0
+Cô gái	chọn	nước hoa có mùi nhẹ nhàng	0
+Người đàn ông	xem	bảng dữ liệu tài chính trên màn hình	0
+Cô gái	uống	trà xanh buổi sáng bên cửa sổ	0
+Người đàn ông	cầm	tách cà phê trong phòng làm việc	0
 Một người	nói	nước này chữa được bệnh ung thư xương	1
-Nam sinh	đọc	sách trong thư viện sáng ánh đèn	0
-Người đàn ông	chỉnh	micro trước buổi phát biểu	0
-Cô gái	dán	poster nghệ thuật lên tường	0
-Một người	nói	nước ép này giúp trẻ hóa toàn bộ cơ thể	1
-Nam sinh	mở	sách ôn thi trên bàn học	0
-Cô gái	thử	giày thể thao trong trung tâm thương mại	0
-Nam thanh niên	đứng	bên cửa sổ nhìn mưa rơi	0
-Cô gái	tập	yoga với thảm màu tím	0
-Một người	nói	thuốc này giúp chữa bệnh trầm cảm	1
-Người đàn ông	ăn	sáng với yến mạch và trái cây	0
-Một người	nói	viên uống này thay thế vaccine COVID	1
-Một người	nói	thuốc này làm tan mỡ trong vòng 5 phút	1
-Một người	nói	phần mềm này có thể dự đoán tương lai	1
-Nam sinh	học	bằng máy tính bảng trong lớp	0
-Một người	nói	tải app là trúng tiền thật	1
-Một người	nói	viên uống này giúp xóa nếp nhăn mãi mãi	1
-Nam sinh	uống	cà phê khi học khuya	0
-Một người	nói	nước ép này giúp chữa tiểu đường ngay lập tức	1
-Một người	nói	viên thuốc này giúp thay đổi màu tóc tự nhiên	1
-Nam sinh	làm	bài kiểm tra	0
-Nam sinh	chỉnh	máy ảnh kỹ thuật số	0
+Một người	nói	tải app này là nhận ngay 5 triệu	1
+Người đàn ông	lau	kính bàn làm việc bằng khăn	0
+Một người	nói	nước này chữa mọi bệnh về gan	1
+Một người	nói	viên thuốc này được NASA phát minh sai sự thật	1
+Người đàn ông	dắt	xe đạp ra khỏi sân	0
+Một người	nói	chia sẻ bài viết này là nhận tiền	1
+Cô gái	ngồi	bên cửa sổ đọc tạp chí thời trang	0
+Một người	nói	nước uống này làm da trắng vĩnh viễn	1
+Một người	nói	viên thuốc này có thể thay thế insulin	1
+Cô gái	học	may vá trong lớp thủ công	0
+Một người	nói	nước uống này giúp trẻ lại 25 tuổi	1
+Một người	nói	viên kẹo này giúp chữa ung thư máu	1
+Cô gái	ngồi	viết thư bằng bút mực	0
+Một người	nói	thuốc này chữa được bệnh viêm gan C	1
 Một người	nói	nghe nhạc là tăng IQ	1
-Một người	nói	thuốc này giúp giảm cân thần tốc	1
-Cô gái	đeo	kính đọc sách dưới ánh đèn bàn	0
-Một người	nói	thuốc này giúp tăng chiều cao chỉ trong 3 ngày	1
-Một người	nói	viên thuốc này chữa khỏi ung thư chỉ sau 1 tuần	1
-Nam sinh	mở	sách học toán trong lớp học buổi chiều	0
-Một người	nói	nước uống này giúp tăng chiều cao dù đã trưởng thành	1
-Cô gái	chọn	túi xách màu kem trong trung tâm thương mại	0
-Nam thanh niên	tập	chơi trống trong phòng nhạc	0
-Cô gái	vẽ	eyeliner trước gương tròn	0
-Một người	nói	viên kẹo này giúp tăng trí nhớ chỉ trong 5 phút	1
-Một người	nói	thuốc này chữa được mọi bệnh hiếm gặp	1
-Nam sinh	viết	ghi chú bằng bút chì	0
-Một người	nói	nước này chữa được ung thư phổi	1
+Một người	nói	nước này chữa được bệnh tim mạch mãn tính	1
+Một người	nói	viên thuốc này được phát triển bởi NASA	1
+Người đàn ông	ăn	sáng cùng đồng nghiệp	0
+Một người	nói	nước này giúp mọc tóc ngay sau khi thoa	1
+Cô gái	đi	dạo trong khu phố buổi tối	0
+Một người	nói	viên thuốc này được Bộ Y tế chứng nhận giả	1
+Cô gái	pha	cà phê sữa đá trên quầy bếp	0
+Một người	nói	thuốc này có thể chữa bệnh tiểu đường mãi mãi	1
+Cô gái	đeo	khuyên tai vàng và mỉm cười	0
 Người đàn ông	gõ	bàn phím trong văn phòng sáng đèn	0
-Một người	nói	nước này được NASA xác nhận sai sự thật	1
-Một người	nói	thuốc này được Bộ Y tế phê duyệt giả	1
-Một người	nói	viên thuốc này thay thế phẫu thuật thẩm mỹ	1
-Một người	nói	nước này giúp giảm 10kg trong 1 ngày	1
-Một người	nói	nước này có thể thay đổi gen di truyền	1
-Nam thanh niên	kiểm	tra đồng hồ thể thao	0
-Một người	nói	thuốc này được Bộ Y tế toàn cầu công nhận giả	1
-Một người	nói	viên thuốc này chữa được bệnh tim vĩnh viễn	1
-Nam thanh niên	xem	tin tức công nghệ trên điện thoại	0
-Một người	nói	viên thuốc này giúp người lớn cao thêm 20cm	1
-Một người	nói	nước này có thể thay thế thuốc giảm đau	1
-Một người	nói	nước ép này chữa bệnh tim bẩm sinh	1
-Người đàn ông	ngồi	đọc tài liệu trong phòng họp	0
+Nam sinh	xem	tài liệu lập trình	0
+Người đàn ông	chỉnh	cà vạt trước buổi họp	0
+Người đàn ông	ngồi	trong phòng họp với tài liệu trên bàn	0
+Người đàn ông	xem	biểu đồ chứng khoán buổi sáng	0
+Cô gái	thổi	nến trên bánh sinh nhật	0
+Cô gái	uống	sinh tố chuối và sữa	0
+Người đàn ông	đứng	nhìn thành phố qua cửa kính	0
+Một người	nói	thuốc này giúp da không lão hóa suốt đời	1
+Một người	nói	viên thuốc này giúp da sáng mịn ngay sau một lần uống	1
+Nam sinh	gõ	bàn phím laptop trong quán cà phê yên tĩnh	0
+Một người	nói	viên kẹo này giúp kéo dài tuổi thọ lên 150 năm	1
 Cô gái	cười	tươi khi nhận đơn hàng online	0
-Một người	nói	nước này có thể thay đổi màu mắt tự nhiên	1
 Một người	nói	nước ép này chữa được mọi bệnh trong cơ thể	1
-Một người	nói	thuốc này được NASA chứng thực giả	1
-Cô gái	cắm	hoa hướng dương vào bình	0
-Nam sinh	làm	bài tập nhóm trên máy tính bảng	0
-Cô gái	gấp	giấy tạo hình origami	0
-Nam sinh	đứng	bên bảng trắng trình bày bài học	0
-Một người	nói	thuốc này được FDA cấp phép giả	1
-Một người	nói	nước này giúp kéo dài tuổi thọ vĩnh viễn	1
-Một người	nói	thuốc này giúp giảm mỡ máu chỉ trong 1 giờ	1
+Một người	nói	thuốc này giúp chống lão hóa tuyệt đối	1
+Cô gái	buộc	dây giày trước buổi chạy sáng	0
+Nam sinh	ghi	chú trong sổ tay	0
+Người đàn ông	uống	trà buổi sáng đọc báo	0
 Cô gái	uống	sinh tố dâu trên bàn bếp	0
-Người đàn ông	họp	trực tuyến qua máy tính	0
-Một người	nói	thuốc này được WHO kiểm nghiệm giả	1
-Một người	nói	nước này chữa được bệnh trầm cảm	1
-Một người	nói	viên kẹo này giúp giảm cân mãi mãi	1
-Một người	nói	nước này chữa được bệnh tim vĩnh viễn	1
+Một người	nói	thuốc này giúp tăng trí nhớ tức thì	1
+Nam sinh	đi	dạo cùng bạn trong khuôn viên trường	0
+Nam sinh	nghe	học ngữ pháp qua tai nghe	0
+Một người	nói	viên thuốc này giúp mọc tóc chỉ sau 1 giờ	1
+Một người	nói	thuốc này giúp da không lão hóa trọn đời	1
 Một người	nói	thuốc này giúp đổi màu da tự nhiên	1
-Một người	nói	thuốc này giúp trẻ lại 25 tuổi	1
+Một người	nói	viên kẹo này giúp tăng chiều cao sau 30 tuổi	1
 Cô gái	thử	giày cao gót trong cửa hàng sáng đèn	0
-Một người	nói	thuốc này giúp giảm 20kg trong 3 ngày	1
+Cô gái	đeo	vòng tay vàng mảnh	0
+Một người	nói	nước này giúp trẻ hóa toàn bộ cơ thể	1
+Cô gái	chọn	son môi màu nude trong quầy mỹ phẩm	0
 Một người	nói	viên thuốc này giúp kéo dài tuổi thọ 200 năm	1
-Nam sinh	ghi	chép công thức toán trong vở	0
+Cô gái	tập	yoga trong phòng sáng nhẹ	0
+Nam thanh niên	chỉnh	dây đàn guitar	0
 Một người	nói	thuốc này được Bộ Y tế toàn cầu xác nhận giả	1
-Một người	nói	thuốc này được chuyên gia Nhật chứng nhận giả	1
-Nam sinh	nghe	học tiếng Pháp	0
-Một người	nói	nước này giúp tăng chiều cao không giới hạn	1
-Một người	nói	viên thuốc này giúp thay đổi DNA	1
-Một người	nói	thuốc này giúp sống thọ 300 năm	1
-Người đàn ông	rót	cà phê ra ly sứ trắng	0
-Cô gái	thử	son đỏ đậm trong phòng trang điểm	0
-Một người	nói	nước ép này giúp học giỏi hơn mà không cần học	1
+Người đàn ông	đọc	tài liệu kế toán	0
+Cô gái	buộc	dây giày trước cửa nhà	0
+Một người	nói	nước này giúp đổi màu da tự nhiên	1
+Một người	nói	nước ép này chữa được bệnh tim bẩm sinh	1
+Cô gái	mở	tủ quần áo chọn váy công sở	0
+Nam sinh	làm	bài kiểm tra trên laptop	0
+Một người	nói	nước ép này chữa được bệnh gan nặng	1
+Một người	nói	viên thuốc này giúp trẻ lại 30 tuổi	1
+Nam sinh	tập	thể dục tại nhà	0
+Một người	nói	nước này giúp thay đổi màu da tự nhiên	1
+Cô gái	gấp	quần áo sau khi giặt	0
 Người đàn ông	mở	điện thoại xem tin tức	0
-Một người	nói	viên thuốc này được chuyên gia Mỹ phê duyệt giả	1
-Cô gái	ngồi	viết thư cảm ơn	0
-Một người	nói	thuốc này được NASA cấp bằng sáng chế giả	1
-Một người	nói	thuốc này được Bộ Y tế Việt Nam chứng nhận giả	1
-Nam sinh	học	online với màn hình sáng	0
-Cô gái	lau	bàn bếp bằng khăn sạch	0
-Một người	nói	thuốc này được Bộ Y tế toàn cầu chứng nhận sai	1
-Cô gái	ngắm	giày sneaker mới đặt trên kệ	0
-Cô gái	cười	với điện thoại khi xem tin nhắn	0
-Một người	nói	phần mềm này tự động kiếm tiền không cần làm gì	1
-Một người	nói	nước ép này có thể chữa khỏi bệnh ung thư phổi	1
-Một người	nói	thuốc này được NASA công bố sai dữ liệu	1
-Một người	nói	thuốc này chữa được ung thư da chỉ sau 1 ngày	1
-Một người	nói	viên thuốc này giúp giảm mỡ bụng trong 2 ngày	1
-Một người	nói	nước thần này được Bộ Y tế xác nhận giả	1
-Người đàn ông	rót	nước trà vào ly gốm	0
-Một người	nói	viên thuốc này giúp trẻ hóa cơ thể tức thì	1
-Cô gái	ăn	sáng với bơ và bánh mì	0
-Một người	nói	thuốc này chữa được bệnh gan chỉ sau 2 ngày	1
+Nam sinh	vẽ	đồ họa bằng máy tính bảng	0
+Một người	nói	viên kẹo này giúp tăng năng lượng suốt ngày	1
+Người đàn ông	pha	trà xanh trên bàn gỗ sáng	0
+Nam sinh	đọc	tài liệu học nhóm trên máy tính bảng	0
+Nam sinh	uống	nước lọc trong lớp học	0
+Nam sinh	mở	slide thuyết trình trong lớp	0
+Một người	nói	nước này giúp tăng năng lượng và giảm cân tức thì	1
+Một người	nói	thuốc này chữa được bệnh tim mãn tính	1
+Một người	nói	viên thuốc này giúp làm trắng răng ngay sau khi uống	1
+Cô gái	thử	vòng tay đá phong thủy màu xanh	0
+Một người	nói	nước này giúp mọc tóc ngay khi uống	1
+Cô gái	đọc	tạp chí trong quán cà phê	0
 Một người	nói	nước này giúp chữa mọi loại bệnh tim	1
-Một người	nói	nước ép này giúp học nhanh hơn mà không cần học	1
-Một người	nói	thuốc này giúp da trắng sáng chỉ sau 30 giây	1
-Một người	nói	nước này giúp miễn dịch tuyệt đối	1
-Một người	nói	viên thuốc này được WHO công nhận giả	1
-Cô gái	dọn	bàn học với đèn bàn sáng nhẹ	0
+Nam sinh	làm	mô hình trong phòng lab	0
+Cô gái	chọn	túi xách nhỏ màu be	0
+Một người	nói	viên thuốc này giúp giảm 20kg chỉ trong 48 giờ	1
 Một người	nói	viên kẹo này giúp sống thọ 300 năm	1
+Cô gái	đọc	sách phát triển bản thân bên tách trà	0
 Người đàn ông	tưới	cây cảnh nhỏ ngoài hiên	0
-Cô gái	cắm	hoa hồng đỏ vào lọ thủy tinh	0
-Cô gái	uống	nước lọc sau khi chạy bộ	0
-Một người	nói	nước ép này giúp giảm 15kg mà không cần tập luyện	1
+Một người	nói	nước ép này giúp tăng IQ và thay đổi trí nhớ	1
+Người đàn ông	chỉnh	dây đồng hồ trên tay	0
+Người đàn ông	ngồi	trong văn phòng đọc tài liệu	0
+Một người	nói	viên kẹo này giúp giảm mỡ bụng ngay tức thì	1
+Cô gái	sắp	xếp lại bàn trang điểm	0
+Nam sinh	ăn	trưa cùng bạn trong căn tin trường	0
+Người đàn ông	mở	laptop xem biểu đồ đầu tư	0
+Nam sinh	vẽ	mô hình 3D trên máy tính	0
+Cô gái	chọn	váy hoa trong tiệm quần áo	0
+Một người	nói	viên thuốc này chữa được bệnh gan mãn tính	1
+Nam sinh	ghi	công thức toán vào sổ	0
 Một người	nói	nước này được Bộ Y tế chứng nhận sai	1
-Một người	nói	viên thuốc này giúp đổi màu da tự nhiên	1
-Người đàn ông	mở	cửa sổ đón ánh nắng	0
-Một người	nói	nước này giúp miễn dịch với mọi loại virus	1
-Cô gái	thử	mũ nồi đỏ trên đầu	0
-Cô gái	trang	trí góc học tập với hoa khô	0
-Một người	nói	thuốc này được Bộ Y tế công nhận sai sự thật	1
+Một người	nói	nước này được NASA dùng cho người bất tử	1
+Một người	nói	thuốc này giúp chữa ung thư cổ tử cung	1
+Một người	nói	viên thuốc này giúp trắng da vĩnh viễn	1
+Người đàn ông	ngồi	cạnh bàn ăn với ly sinh tố	0
 Cô gái	chọn	son môi tại gian hàng lớn	0
-Một người	nói	viên kẹo này giúp tăng năng lượng trọn ngày	1
-Nam sinh	kiểm	tra bảng điểm trên điện thoại	0
-Cô gái	thử	áo khoác màu beige trong gương lớn	0
-Cô gái	cười	khi cầm ly trà sữa	0
-Nam sinh	nghe	học trực tuyến trong phòng trọ	0
+Một người	nói	thuốc này được NASA phát minh để chữa ung thư	1
+Cô gái	mở	hộp quà nhỏ màu hồng trên bàn	0
 Một người	nói	viên thuốc này được Bộ Y tế công nhận giả	1
-Một người	nói	thuốc này giúp chữa bệnh trầm cảm mà không cần trị liệu	1
-Một người	nói	nước này giúp miễn nhiễm với mọi bệnh tật	1
-Nam sinh	làm	bài toán trên laptop	0
-Người đàn ông	pha	trà trong cốc gốm	0
-Một người	nói	nước này giúp làm trắng da tức thì	1
+Một người	nói	thuốc này chữa được mọi loại ung thư máu	1
+Cô gái	buộc	tóc gọn bằng kẹp nơ trắng	0
+Một người	nói	thuốc này giúp giảm cân khi đang ngủ	1
+Nam sinh	học	bằng máy tính bảng	0
 Người đàn ông	rửa	tay trong nhà vệ sinh sáng	0
-Người đàn ông	đọc	báo tài chính	0
+Cô gái	dán	ảnh lên sổ kỷ niệm	0
+Nam sinh	nghe	nhạc qua tai nghe	0
 Một người	nói	nước này giúp tăng chiều cao dù đã 40 tuổi	1
-Nam sinh	viết	ghi chú trong sổ nhỏ	0
-Cô gái	vẽ	móng tay bằng sơn màu pastel	0
-Nam sinh	chơi	đàn guitar bên cửa sổ	0
-Một người	nói	thuốc này được NASA kiểm nghiệm sai	1
-Một người	nói	thuốc này giúp đổi màu tóc mãi mãi	1
-Người đàn ông	ăn	sáng trong bếp sáng ánh nắng	0
-Cô gái	thử	mũ nồi màu nâu nhạt	0
-Một người	nói	viên thuốc này được NASA cấp bằng sáng chế giả	1
-Một người	nói	thuốc này giúp chữa bệnh trầm cảm chỉ sau 1 lần	1
-Một người	nói	viên thuốc này giúp giảm 10kg trong một đêm	1
-Cô gái	chỉnh	lại váy trước gương	0
-Một người	nói	viên thuốc này giúp chữa khỏi ung thư phổi chỉ trong 24 giờ	1
-Một người	nói	nước ép này có thể làm tan sỏi thận ngay lập tức	1
-Cô gái	chọn	hoa tươi tại chợ sáng	0
-Một người	nói	nước này giúp da trắng sáng ngay sau khi uống	1
-Nam sinh	đọc	tài liệu nhóm học tập trong quán cà phê	0
-Cô gái	đeo	vòng cổ ngọc trai nhỏ	0
+Nam sinh	dọn	bàn học	0
+Cô gái	chọn	giày thể thao màu trắng	0
+Cô gái	cắm	hoa hướng dương trên bàn làm việc	0
+Cô gái	thử	áo khoác kaki sáng màu	0
+Một người	nói	thuốc này được Bộ Y tế công nhận sai	1
+Một người	nói	nước ép này được WHO chứng nhận sai sự thật	1
 Cô gái	buộc	dây giày thể thao	0
-Một người	nói	nước ép này giúp tăng năng lượng suốt ngày	1
-Cô gái	chụp	ảnh đồ ăn cho blog cá nhân	0
-Một người	nói	nước này chữa được bệnh tim bẩm sinh	1
-Cô gái	đeo	khuyên tai vàng nhỏ	0
-Một người	nói	nước này giúp trẻ hóa tế bào toàn thân	1
-Nam sinh	vẽ	đồ họa trên tablet	0
-Nam sinh	ngồi	đọc sách trong thư viện	0
-Nam sinh	tập	thể dục trong sân ký túc xá	0
-Một người	nói	nước này giúp da trắng sáng vĩnh viễn	1
-Cô gái	thử	áo len màu xám nhạt	0
-Cô gái	chọn	vòng tay bạc nhỏ trên quầy trang sức	0
-Người đàn ông	đứng	trước cửa kính nhìn ra thành phố	0
+Một người	nói	nước này được WHO công bố sai dữ liệu	1
+Một người	nói	thuốc này giúp sống thọ 500 năm	1
+Một người	nói	thuốc này được Bộ Y tế toàn cầu xác nhận sai	1
+Người đàn ông	mở	cửa xe màu bạc	0
+Cô gái	buộc	khăn quàng cổ họa tiết caro	0
+Một người	nói	thuốc này giúp giảm cân tức thì	1
+Cô gái	chọn	hoa lavender trong tiệm nhỏ	0
+Người đàn ông	kiểm	tra điện thoại có tin nhắn mới	0
+Cô gái	sơn	móng tay màu xanh pastel	0
+Một người	nói	thuốc này giúp đổi gen di truyền con người	1
+Cô gái	uống	nước lọc trong nhà bếp	0
+Một người	nói	nước này có thể chữa mọi loại bệnh ung thư	1
+Một người	nói	nước ép này giúp giảm cân 15kg trong 5 ngày	1
+Một người	nói	nước này giúp học nhanh hơn mà không cần nỗ lực	1
+Một người	nói	thuốc này giúp chữa bệnh gan mãn tính vĩnh viễn	1
+Cô gái	chọn	son môi tông đỏ lạnh trong quầy trưng bày	0
 Một người	nói	viên thuốc này giúp trẻ hóa tế bào mãi mãi	1
-Một người	nói	thuốc này giúp thay đổi gen di truyền con người	1
+Cô gái	chỉnh	lại mái tóc xoăn nhẹ	0
+Một người	nói	nước này chữa được mọi bệnh hiếm gặp	1
 Một người	nói	thuốc này giúp trắng da mãi mãi	1
-Một người	nói	viên thuốc này giúp sống thọ 500 năm	1
-Nam sinh	đọc	bài giảng khoa học trên laptop	0
-Một người	nói	thuốc này được WHO chứng nhận sai	1
-Một người	nói	thuốc này giúp chữa bệnh gan mãn tính	1
-Người đàn ông	pha	trà và nhìn đồng hồ	0
-Cô gái	vẽ	móng tay màu pastel xanh	0
+Nam sinh	viết	kế hoạch học tập trong sổ	0
+Người đàn ông	cười	trong buổi họp trực tuyến	0
+Người đàn ông	ăn	sáng cùng đồng nghiệp	0
+Một người	nói	nước này giúp đổi gen di truyền vĩnh viễn	1
+Nam sinh	làm	đồ án nhóm với laptop mở	0
+Cô gái	đeo	tai nghe nghe nhạc nhẹ	0
+Cô gái	ăn	sáng với bánh mì và trái cây	0
 Cô gái	thử	vòng cổ ánh bạc trước gương	0
-Một người	nói	thuốc này giúp tăng trí nhớ gấp 10 lần	1
-Một người	nói	viên thuốc này được Bộ Y tế cấp phép giả mạo	1
+Cô gái	trang	điểm nhẹ trước khi ra ngoài	0
+Một người	nói	viên thuốc này giúp miễn dịch suốt đời	1
 Một người	nói	thuốc này giúp mọc tóc trong vòng 30 phút	1
-Người đàn ông	bật	máy tính kiểm tra email sáng sớm	0
-Cô gái	đi	bộ thể dục trong công viên buổi sáng	0
-Nam sinh	viết	ghi chú bằng bút bi màu xanh	0
-Một người	nói	nước ép này được Bộ Y tế công bố sai	1
-Một người	nói	thuốc này chữa khỏi mọi bệnh mãn tính	1
+Người đàn ông	rót	trà nóng vào ly gốm	0
+Cô gái	chọn	nhẫn bạc mảnh trong quầy trưng bày	0
+Một người	nói	viên kẹo này giúp học nhanh gấp 20 lần	1
+Cô gái	chỉnh	tóc trước gương trong phòng ngủ	0
+Một người	nói	viên thuốc này giúp kéo dài tuổi sinh học mãi mãi	1
+Người đàn ông	nhìn	biểu đồ chứng khoán trên laptop	0
+Nam sinh	học	trong thư viện trường	0
 Một người	nói	viên kẹo này giúp giảm căng thẳng và tăng thu nhập	1
-Nam sinh	vẽ	đồ họa kỹ thuật trên giấy trắng	0
-Một người	nói	viên thuốc này giúp chữa bệnh gan vĩnh viễn	1
-Người đàn ông	ăn	trưa cùng đồng nghiệp	0
-Cô gái	chọn	son môi đỏ đậm tại quầy	0
-Cô gái	buộc	tóc cao gọn gàng	0
-Một người	nói	viên thuốc này giúp tăng chiều cao ngay cả ở người 60 tuổi	1
-Một người	nói	thuốc này giúp trắng da vĩnh viễn chỉ bằng một liều	1
-Nam sinh	viết	phương trình toán học lên bảng	0
-Một người	nói	viên thuốc này giúp trẻ mãi không già	1
-Nam sinh	đọc	sách triết học trên ghế gỗ	0
-Một người	nói	viên kẹo này giúp mọc tóc trong 10 phút	1
-Cô gái	chụp	ảnh cùng bạn bè tại quán ăn nhỏ	0
-Một người	nói	nước ép này giúp đổi màu da vĩnh viễn	1
-Một người	nói	viên thuốc này giúp tăng trí nhớ vĩnh viễn	1
-Nam sinh	bật	màn hình để học trực tuyến	0
-Một người	nói	nước này giúp chữa bệnh trầm cảm ngay lập tức	1
-Nam sinh	tra	từ điển tiếng Anh trên điện thoại	0
+Cô gái	uống	cà phê bên khung cửa sổ	0
+Một người	nói	thuốc này giúp tăng năng lượng gấp 10 lần	1
+Nam sinh	kiểm	tra bảng điểm học kỳ	0
+Một người	nói	viên thuốc này chữa được ung thư xương	1
+Cô gái	đội	mũ rộng vành khi đi dạo phố ánh sáng phản chiếu nhẹ	0
+Một người	nói	thuốc này được NASA nghiên cứu để giúp con người không cần ngủ	1
+Một người	nói	viên thuốc này giúp chữa mọi bệnh ung thư	1
+Cô gái	thử	áo sơ mi trắng và cười nhẹ	0
+Nam sinh	ngồi	học với chồng sách trước mặt	0
+Một người	nói	nước này giúp da sáng gấp 10 lần	1
 Một người	nói	viên thuốc này giúp chữa bệnh tim mà không cần thuốc	1
 Nam sinh	học	nhóm trong phòng học	0
-Cô gái	mở	túi lấy son dưỡng môi	0
-Người đàn ông	xem	bản tin kinh tế	0
-Cô gái	tô	móng tay màu hồng nhạt	0
-Một người	nói	nước này giúp thay đổi giọng nói con người	1
-Người đàn ông	tập	thể dục ngoài trời	0
-Một người	nói	viên kẹo này giúp cải thiện thị lực vĩnh viễn	1
-Nam sinh	bật	quạt trong phòng học	0
-Nam sinh	vẽ	sơ đồ trong sổ tay	0
-Người đàn ông	ăn	salad rau củ	0
+Cô gái	cười	khi nghe nhạc bằng tai nghe	0
+Người đàn ông	đi	bộ cùng bạn trong công viên	0
+Một người	nói	thuốc này được Bộ Y tế công nhận sai lệch	1
 Nam sinh	làm	việc nhóm gõ code trong phòng	0
-Một người	nói	viên thuốc này giúp đổi màu da vĩnh viễn	1
+Cô gái	chọn	nước hoa trong quầy mỹ phẩm sáng rực	0
+Nam sinh	xem	bài giảng online qua laptop	0
+Một người	nói	nước này chữa được ung thư gan trong 48 giờ	1
 Cô gái	thử	chiếc váy dài màu kem	0
-Một người	nói	thuốc này giúp trắng da vĩnh viễn không cần kem	1
-Một người	nói	viên thuốc này giúp chữa bệnh gan mãn tính	1
-Nam sinh	bật	đèn học bài buổi tối	0
-Cô gái	chạy	bộ sau khi buộc dây giày	0
-Một người	nói	nước này chữa được bệnh ung thư da	1
-Một người	nói	thuốc này được NASA xác nhận sai thông tin	1
-Một người	nói	viên thuốc này giúp chữa bệnh ung thư gan	1
-Người đàn ông	đi	bộ trong công viên cùng bạn bè	0
-Người đàn ông	xem	thời tiết trên điện thoại	0
-Một người	nói	viên thuốc này giúp giảm cân 10kg sau hai ngày	1
-Cô gái	chọn	áo khoác len cho mùa đông	0
-Một người	nói	thuốc này chữa được bệnh tim trong 1 giờ	1
-Cô gái	thử	áo len dài tay màu be trước gương lớn	0
-Một người	nói	nước này giúp đổi màu da vĩnh viễn chỉ sau hai ngày	1
-Cô gái	cắm	hoa cúc trắng trên bàn	0
-Người đàn ông	chỉnh	cà vạt trước khi rời nhà	0
-Một người	nói	nước ép này giúp giảm 10kg trong 1 đêm	1
-Cô gái	buộc	tóc bằng dây ruy băng trắng	0
-Một người	nói	viên thuốc này giúp miễn nhiễm với mọi loại virus	1
-Một người	nói	viên kẹo này giúp đổi màu mắt vĩnh viễn	1
-Một người	nói	nước này giúp chữa bệnh trầm cảm mãn tính	1
-Cô gái	chọn	áo khoác da nâu trong cửa hàng	0
-Cô gái	thử	váy hoa nhỏ màu xanh pastel	0
-Một người	nói	thuốc này giúp trẻ hóa toàn thân	1
-Người đàn ông	đi	bộ ra khỏi văn phòng	0
-Một người	nói	viên thuốc này giúp giảm mỡ trong 3 tiếng	1
-Một người	nói	viên thuốc này chữa được ung thư phổi chỉ trong một đêm	1
+Người đàn ông	kiểm	tra biểu đồ đầu tư trên màn hình	0
+Cô gái	ngồi	đọc sách trên ghế sofa màu xám	0
+Nam sinh	viết	công thức hoá học vào vở	0
+Nam sinh	chỉnh	tai nghe không dây	0
+Một người	nói	nước này giúp tăng năng lượng 200%	1
+Cô gái	thử	son môi nude sáng	0
+Cô gái	chọn	vòng cổ bạc trong quầy trưng bày	0
+Cô gái	tập	yoga trong phòng sáng ánh nắng	0
+Một người	nói	viên thuốc này giúp kéo dài tuổi thọ 500 năm	1
+Nam sinh	ngồi	học trong phòng yên tĩnh	0
+Một người	nói	thuốc này được NASA công nhận có thể kéo dài tuổi thọ vô hạn	1
+Một người	nói	thuốc này giúp chữa khỏi bệnh tim mạch mãn tính	1
+Một người	nói	nước này được NASA phát minh để chống lão hóa	1
+Một người	nói	nước này giúp chữa được ung thư cổ tử cung	1
+Một người	nói	thuốc này giúp kéo dài tuổi thọ 300 năm	1
+Người đàn ông	ăn	sáng với ly sinh tố bơ	0
+Nam sinh	kiểm	tra bài tập trong điện thoại	0
+Một người	nói	thuốc này được NASA phát triển sai thông tin	1
+Nam sinh	gõ	máy tính trong giờ thực hành	0
+Cô gái	tô	phấn má nhẹ nhàng	0
+Nam sinh	nhìn	qua cửa sổ lớp học	0
+Cô gái	sắp	xếp lại giá sách trong phòng ngủ	0
+Một người	nói	thuốc này giúp miễn dịch trọn đời	1
+Một người	nói	nước này giúp da trắng sáng trong 1 giờ	1
+Cô gái	đeo	mũ beret đen	0
 Cô gái	chọn	khuyên tai nhỏ trong hộp gỗ	0
-Một người	nói	thuốc này giúp chữa bệnh tim không cần phẫu thuật	1
-Cô gái	uống	sinh tố dâu tây tại bàn ăn	0
+Nam sinh	đọc	tài liệu nhóm học tập cùng bạn	0
+Một người	nói	thuốc này giúp tăng IQ 300 điểm	1
+Một người	nói	viên kẹo này giúp giảm mỡ bụng ngay khi ăn	1
+Một người	nói	viên thuốc này được NASA công nhận sai	1
+Một người	nói	nước này giúp chữa khỏi bệnh tiểu đường	1
+Một người	nói	nước này giúp chữa bệnh gan mãn tính vĩnh viễn	1
 Nam sinh	học	tiếng Anh bằng tai nghe	0
-Một người	nói	nước này giúp thay đổi màu tóc tự nhiên	1
-Người đàn ông	cười	nói chuyện với đồng nghiệp	0
-Một người	nói	thuốc này giúp đổi màu da vĩnh viễn	1
+Cô gái	thử	son môi hồng phấn	0
+Một người	nói	thuốc này giúp giảm 20kg mà vẫn ăn bình thường	1
 Một người	nói	viên kẹo này giúp tăng IQ và EQ cùng lúc	1
+Một người	nói	nước này giúp chữa được bệnh gan nặng	1
 Cô gái	đeo	tai nghe nghe nhạc thư giãn	0
-Một người	nói	viên kẹo này giúp miễn dịch trọn đời	1
-Một người	nói	nước này được WHO cấp phép sai	1
-Nam sinh	vẽ	biểu đồ toán học trong sổ	0
+Một người	nói	thuốc này giúp tăng chiều cao vĩnh viễn	1
 Người đàn ông	uống	cà phê ngoài sân vườn	0
-Một người	nói	nước này giúp chữa ung thư gan	1
-Một người	nói	viên thuốc này giúp giảm 20kg chỉ sau 3 ngày mà không cần tập luyện	1
-Một người	nói	nước này giúp chữa khỏi ung thư phổi giai đoạn cuối	1
-Một người	nói	nước này được NASA chứng nhận có khả năng chữa bệnh ung thư	1
-Người đàn ông	ăn	sáng với cháo và tờ báo mở sẵn	0
-Nam sinh	học	tiếng Nhật bằng điện thoại di động	0
-Một người	nói	viên kẹo này giúp giảm mỡ ngay khi ăn	1
+Một người	nói	viên kẹo này giúp đổi màu tóc tự nhiên	1
+Nam sinh	chỉnh	tai nghe trong lớp	0
+Một người	nói	thuốc này giúp tăng năng lượng vĩnh viễn	1
+Cô gái	chọn	son môi tông cam đất tại quầy mỹ phẩm	0
+Một người	nói	viên kẹo này giúp tăng IQ 300 điểm sau một tuần	1
+Một người	nói	nước này chữa được mọi bệnh nan y mà không cần bác sĩ	1
+Một người	nói	thuốc này được WHO công nhận là phép màu y học	1
+Một người	nói	viên thuốc này giúp đổi màu da tự nhiên mãi mãi	1
+Người đàn ông	xem	bảng biểu tài chính trên laptop trong quán cà phê	0
+Một người	nói	thuốc này được Bộ Y tế xác nhận sai sự thật	1
+Nam sinh	đọc	giáo trình với tai nghe trong tai	0
+Cô gái	tô	son môi bằng tay ánh sáng hắt nhẹ từ cửa sổ	0
+Cô gái	chụp	ảnh món ăn tại bàn ăn gỗ	0
+Một người	nói	viên thuốc này giúp học nhanh gấp 30 lần	1
+Cô gái	đeo	khuyên tai nhỏ hình trăng lưỡi liềm	0
+Người đàn ông	uống	trà cùng đồng nghiệp trong phòng họp	0
 Cô gái	tập	yoga buổi sáng với thảm tím	0
-Cô gái	trang	điểm nhẹ bằng phấn má hồng	0
-Cô gái	uống	sinh tố cam tươi	0
-Cô gái	thử	áo khoác jean màu xanh nhạt	0
+Một người	nói	viên kẹo này giúp học mà không cần ngủ	1
+Một người	nói	nước này giúp da trắng sáng chỉ trong 3 phút	1
+Một người	nói	thuốc này giúp miễn dịch tuyệt đối suốt đời	1
+Người đàn ông	nghe	nhạc qua tai nghe và mỉm cười	0
+Nam sinh	tra	cứu dữ liệu trong thư viện	0
+Nam sinh	bật	đèn bàn học bài buổi tối	0
+Cô gái	chỉnh	tóc trước khi ra khỏi nhà	0
+Một người	nói	thuốc này giúp tăng trí nhớ mãi mãi	1
+Một người	nói	nước này giúp chữa bệnh tiểu đường mãi mãi	1
 Người đàn ông	xem	điện thoại và cười	0
 Một người	nói	viên thuốc này giúp da sáng hơn 10 tông sau 1 ngày	1
-Người đàn ông	rót	cà phê đen ra cốc thủy tinh	0
-Nam sinh	học	online bằng laptop	0
-Một người	nói	nước này giúp đổi màu mắt mãi mãi	1
-Người đàn ông	kiểm	tra biểu đồ đầu tư trên máy tính	0
-Một người	nói	nước này giúp đổi màu da vĩnh viễn chỉ trong 3 phút	1
-Nam sinh	học	nhóm trong lớp với bạn cùng bàn	0
-Một người	nói	nước này giúp chữa khỏi bệnh trầm cảm	1
-Một người	nói	viên thuốc này giúp da sáng bật tông chỉ trong 10 phút	1
-Cô gái	chọn	áo khoác denim xanh trong cửa hàng	0
-Một người	nói	viên thuốc này giúp chữa bệnh tim vĩnh viễn	1
-Cô gái	chọn	hoa lavender khô trong cửa hàng	0
-Cô gái	chọn	áo sơ mi trắng trong cửa hàng sáng đèn	0
-Một người	nói	nước này giúp thay đổi gen di truyền con người	1
-Một người	nói	viên thuốc này giúp chữa bệnh ung thư máu	1
-Một người	nói	nước này giúp đổi màu tóc mãi mãi	1
-Một người	nói	nước này giúp giảm 10kg khi đang ngủ	1
-Cô gái	uống	nước ép táo với lát chanh	0
-Cô gái	thử	váy hoa nhí màu tím pastel	0
+Một người	nói	nước này giúp chữa bệnh ung thư gan	1
+Một người	nói	thuốc này giúp giảm cân 15kg chỉ trong hai đêm	1
+Nam sinh	xem	video học tiếng Anh bằng tai nghe	0
+Một người	nói	nước này giúp giảm 15kg trong hai ngày mà không cần tập luyện	1
+Một người	nói	thuốc này được NASA phát minh để thay đổi DNA con người	1
+Cô gái	thử	giày cao gót màu đen	0
+Một người	nói	nước này giúp chữa mọi loại bệnh nan y	1
+Một người	nói	nước này giúp chữa bệnh ung thư cổ tử cung	1
+Một người	nói	thuốc này giúp đổi màu da mãi mãi	1
+Cô gái	chọn	túi xách da nâu	0
+Người đàn ông	gấp	áo sơ mi trắng	0
+Một người	nói	viên thuốc này giúp giảm cân ngay lập tức	1
+Nam sinh	học	nhóm tại quán cà phê	0
+Nam sinh	ngồi	đọc sách bên cửa sổ với ly cà phê nóng	0
+Một người	nói	nước này giúp kéo dài tuổi thọ 500 năm	1
 Cô gái	cười	chụp ảnh với bạn ở công viên	0
-Một người	nói	nước này giúp trắng da vĩnh viễn không cần dưỡng	1
+Một người	nói	thuốc này giúp chữa khỏi bệnh tim trong 6 giờ	1
 Nam sinh	đọc	bài học trên màn hình laptop	0
-Cô gái	chọn	son môi đỏ cam trong quầy trang điểm	0
-Cô gái	ăn	bánh ngọt cùng bạn ở quán cà phê	0
-Cô gái	vẽ	móng tay màu hồng pastel	0
-Một người	nói	nước này giúp tăng IQ và EQ cùng lúc	1
-Một người	nói	viên thuốc này giúp miễn dịch tuyệt đối trọn đời	1
+Một người	nói	viên thuốc này giúp học giỏi gấp 10 lần	1
+Nam sinh	cười	nghe bạn kể chuyện	0
 Cô gái	chọn	vòng cổ ánh vàng nhỏ	0
-Cô gái	ngồi	viết nhật ký bên bàn gỗ	0
-Cô gái	chọn	giày thể thao mới trong tiệm	0
-Cô gái	trang	trí bánh kem tại nhà	0
-Nam sinh	đọc	tài liệu học tiếng Anh	0
-Cô gái	ăn	sáng với ngũ cốc và sữa	0
-Nam sinh	kiểm	tra kết quả bài thi trên laptop	0
-Một người	nói	viên thuốc này được WHO cấp phép sai	1
+Người đàn ông	nói	chuyện điện thoại trong văn phòng	0
+Một người	nói	viên thuốc này được NASA công nhận sai lệch	1
+Một người	nói	viên thuốc này giúp miễn nhiễm với mọi bệnh	1
+Một người	nói	thuốc này được WHO công bố sai	1
 Người đàn ông	đọc	tài liệu trong văn phòng yên tĩnh	0
-Cô gái	chọn	son môi hồng đào	0
-Cô gái	thử	khuyên tai nhỏ hình bông hoa	0
-Một người	nói	thuốc này giúp tăng IQ lên 400 điểm	1
-Một người	nói	nước này giúp tăng năng lượng trong 7 ngày	1
-Cô gái	thử	son môi hồng đất ánh sáng nhẹ phản chiếu	0
-Một người	nói	viên thuốc này được NASA phát minh để thay đổi gen người	1
-Một người	nói	viên thuốc này giúp trẻ hóa tế bào toàn thân	1
+Một người	nói	viên thuốc này giúp học nhanh gấp 50 lần	1
+Một người	nói	nước này giúp chữa được mọi bệnh ung thư giai đoạn cuối	1
+Cô gái	đeo	vòng cổ bạc nhỏ	0
+Cô gái	cười	nói chuyện với bạn qua điện thoại	0
 Nam sinh	tra	cứu dữ liệu trong phòng học	0
-Một người	nói	nước này giúp tăng năng lượng 300%	1
-Cô gái	chọn	vòng tay ngọc lam	0
+Người đàn ông	rửa	tay dưới vòi nước	0
+Nam sinh	cười	nói chuyện trong lớp	0
+Cô gái	trang	trí sổ tay bằng sticker	0
 Một người	nói	nước này được Bộ Y tế toàn cầu xác nhận sai	1
-Cô gái	uống	nước ép dâu tươi	0
-Người đàn ông	mở	cửa xe hơi màu bạc	0
-Nam sinh	uống	cà phê trong quán ánh sáng buổi sáng chiếu vào bàn	0
+Một người	nói	nước này giúp tăng IQ 500 điểm	1
+Một người	nói	viên thuốc này giúp trẻ hóa tế bào não	1
+Cô gái	ăn	bánh kem dâu và cười nhẹ nhàng	0
+Một người	nói	nước này giúp đổi màu da vĩnh viễn chỉ sau 3 phút	1
 Cô gái	buộc	tóc cao trước khi ra ngoài	0
-Người đàn ông	pha	cà phê với ấm lọc giấy	0
+Cô gái	chọn	áo khoác jean trong cửa hàng	0
+Cô gái	cười	nhìn ảnh trên điện thoại	0
 Một người	nói	viên thuốc này giúp giảm 10kg trong khi ngủ	1
-Một người	nói	nước này giúp chữa được bệnh trầm cảm	1
-Một người	nói	nước này giúp chữa ung thư gan vĩnh viễn	1
-Cô gái	buộc	khăn quàng cổ caro	0
+Cô gái	thử	son đỏ tươi trong quầy mỹ phẩm	0
+Cô gái	chọn	túi xách màu nâu da bò	0
+Một người	nói	viên thuốc này được NASA xác nhận sai dữ liệu	1
+Nam sinh	cười	đọc bình luận của bạn trên laptop	0
+Cô gái	đeo	vòng tay ngọc lam nhỏ	0
+Cô gái	chọn	vòng cổ bạc trong hộp nhung	0
 Cô gái	trang	điểm nhẹ bằng cọ phấn	0
-Người đàn ông	mở	cửa xe hơi màu trắng	0
-Nam sinh	đọc	ghi chú bài học bằng bút highlight	0
+Một người	nói	viên thuốc này được NASA công bố sai dữ liệu	1
 Cô gái	uống	trà chanh trong cốc thủy tinh	0
-Người đàn ông	uống	trà nóng trong phòng họp	0
+Một người	nói	nước này giúp giảm cân mà không cần tập luyện	1
+Cô gái	chọn	khuyên tai tròn nhỏ	0
+Cô gái	buộc	tóc gọn bằng kẹp nhỏ	0
+Cô gái	uống	nước lọc ánh sáng chiếu qua cốc	0
+Anh thanh niên	mở	lon bia khi ngồi bên hồ	0
+Một nhóm đàn ông	quảng cáo	rượu bourbon trên sân khấu	1
+Nhóm bạn	ăn	khoai tây chiên và uống nước ngọt	0
+Một người đàn ông	uống	whisky trong lúc lái xe máy	1
+Bạn nữ	ăn	kèm nước lọc trong buổi sáng	0
+Nhóm bạn trẻ	đứng	uống bia trong buổi cắm trại	0
+Thanh niên	uống	rum trong lúc đứng trên mái nhà	1
+Cặp đôi	uống	nước táo trong buổi hẹn hò	0
+Người phụ nữ	uống	rượu vang trắng với bảng hiệu thương hiệu	1
+Một thanh niên	uống	tequila trực tiếp trong video quảng cáo	1
+Đôi bạn	uống	trà sữa trước rạp chiếu phim	0
+Thanh niên	uống	rượu mạnh khi đứng cạnh xe máy đang nổ máy	1
+Người đàn ông	uống	rượu vang đỏ trước poster thương hiệu	1
+Một người đàn ông	mở	chưa rượu mạnh trên livestream	1
+Nhóm bạn trẻ	uống	nước ngọt trong công viên	0

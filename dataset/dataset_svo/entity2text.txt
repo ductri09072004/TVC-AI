@@ -2,7 +2,11 @@
 'đàn ông không uống là không vui'	'đàn ông không uống là không vui'
 4K lớn	4K lớn
 7 giờ sáng	7 giờ sáng
+Anh chàng	Anh chàng
+Anh nhân viên	Anh nhân viên
+Anh thanh niên	Anh thanh niên
 Ba người	Ba người
+Ba người bạn	Ba người bạn
 Ba người đàn ông	Ba người đàn ông
 Bia	Bia
 Bà mẹ	Bà mẹ
@@ -19,6 +23,7 @@ Bé gái	Bé gái
 Bé trai	Bé trai
 Bình đựng nước	Bình đựng nước
 Bạn bè	Bạn bè
+Bạn nữ	Bạn nữ
 Bầu trời hoàng hôn	Bầu trời hoàng hôn
 Bầu trời trong xanh	Bầu trời trong xanh
 Bức tranh phong cảnh	Bức tranh phong cảnh
@@ -72,6 +77,7 @@ Cô gái ăn kem	Cô gái ăn kem
 Cô lễ tân	Cô lễ tân
 Cô nhân viên	Cô nhân viên
 Cô nhân viên lễ tân	Cô nhân viên lễ tân
+Cô nhân viên pha chế	Cô nhân viên pha chế
 Công tắc thông minh	Công tắc thông minh
 Cảnh	Cảnh
 Cảnh chiếu	Cảnh chiếu
@@ -117,6 +123,7 @@ Giọt dầu massage	Giọt dầu massage
 Giọt dầu xả tóc	Giọt dầu xả tóc
 Gương chiếu hậu xe đạp	Gương chiếu hậu xe đạp
 Gương mặt	Gương mặt
+Hai bạn trẻ	Hai bạn trẻ
 Hai chàng trai	Hai chàng trai
 Hai cô gái	Hai cô gái
 Hai người	Hai người
@@ -182,6 +189,7 @@ Máy đếm tiền	Máy đếm tiền
 Máy ảnh	Máy ảnh
 Mô phỏng	Mô phỏng
 Mọi người	Mọi người
+Một anh chàng	Một anh chàng
 Một biểu đồ	Một biểu đồ
 Một bàn tay	Một bàn tay
 Một bình hoa	Một bình hoa
@@ -240,6 +248,7 @@ Một dòng chữ cảnh báo nhỏ	Một dòng chữ cảnh báo nhỏ
 Một dòng chữ nhỏ	Một dòng chữ nhỏ
 Một dòng chữ thắng lớn mỗi ngày	Một dòng chữ thắng lớn mỗi ngày
 Một dòng chữ “làm giàu nhanh”	Một dòng chữ “làm giàu nhanh”
+Một gia đình	Một gia đình
 Một gương mặt mờ nhòe	Một gương mặt mờ nhòe
 Một khuôn mặt	Một khuôn mặt
 Một ly nước	Một ly nước
@@ -256,7 +265,10 @@ Một người trẻ	Một người trẻ
 Một người đàn ông	Một người đàn ông
 Một người đàn ông mặc vest	Một người đàn ông mặc vest
 Một ngọn nến	Một ngọn nến
+Một nhóm bạn	Một nhóm bạn
+Một nhóm người	Một nhóm người
 Một nhóm thanh niên	Một nhóm thanh niên
+Một nhóm đàn ông	Một nhóm đàn ông
 Một nụ cười	Một nụ cười
 Một phong bì	Một phong bì
 Một phong bì dày	Một phong bì dày
@@ -265,6 +277,7 @@ Một phong bì trắng dày	Một phong bì trắng dày
 Một quyển sách	Một quyển sách
 Một quyển sổ	Một quyển sổ
 Một quyển sổ ghi chú	Một quyển sổ ghi chú
+Một thanh niên	Một thanh niên
 Một tách cà phê	Một tách cà phê
 Một tách trà	Một tách trà
 Một tách trà bốc hơi	Một tách trà bốc hơi
@@ -389,6 +402,7 @@ Nhân viên giao hàng	Nhân viên giao hàng
 Nhân viên kỹ thuật	Nhân viên kỹ thuật
 Nhân viên lễ tân	Nhân viên lễ tân
 Nhân viên ngân hàng	Nhân viên ngân hàng
+Nhân viên pha chế	Nhân viên pha chế
 Nhân viên siêu thị	Nhân viên siêu thị
 Nhân viên trẻ	Nhân viên trẻ
 Nhân viên văn phòng	Nhân viên văn phòng
@@ -522,6 +536,7 @@ bi-a pool 8 bóng trận đấu chính thức	bi-a pool 8 bóng trận đấu ch
 bia cho bạn trong lúc livestream	bia cho bạn trong lúc livestream
 bia cho trẻ vị thành niên trong clip	bia cho trẻ vị thành niên trong clip
 bia giữa đường phố đông người	bia giữa đường phố đông người
+bia hơi cho khách trong quán ăn	bia hơi cho khách trong quán ăn
 bia khi lái mô tô ngoài phố	bia khi lái mô tô ngoài phố
 bia khi lái ô tô	bia khi lái ô tô
 bia khi xem bóng đá	bia khi xem bóng đá
@@ -531,13 +546,17 @@ bia khi đang lái xe máy	bia khi đang lái xe máy
 bia khi đang lái xe tải	bia khi đang lái xe tải
 bia khi đang quảng cáo sản phẩm	bia khi đang quảng cáo sản phẩm
 bia khi đứng trên sân khấu	bia khi đứng trên sân khấu
+bia không cồn trong phòng khách	bia không cồn trong phòng khách
+bia lon khi ngồi quanh bếp lửa	bia lon khi ngồi quanh bếp lửa
 bia lên đầu trong tiếng reo hò	bia lên đầu trong tiếng reo hò
 bia rồi hét tên thương hiệu trên sân khấu	bia rồi hét tên thương hiệu trên sân khấu
 bia sau buổi biểu diễn	bia sau buổi biểu diễn
 bia trong buổi livestream bán hàng	bia trong buổi livestream bán hàng
 bia trong buổi phát trực tiếp	bia trong buổi phát trực tiếp
+bia trong buổi xem bóng đá	bia trong buổi xem bóng đá
 bia trong khi lái ô tô	bia trong khi lái ô tô
 bia trong lúc chơi game trực tiếp	bia trong lúc chơi game trực tiếp
+bia trong tiệc cuối tuần	bia trong tiệc cuối tuần
 bia trên sân thượng giữa đêm	bia trên sân thượng giữa đêm
 bia trên xe tải đang chạy	bia trên xe tải đang chạy
 bia tại quán bar đông người	bia tại quán bar đông người
@@ -917,6 +936,7 @@ bóng sinh nhật cùng bạn bè	bóng sinh nhật cùng bạn bè
 bóng tối che phủ một nửa	bóng tối che phủ một nửa
 bóng vào đầu	bóng vào đầu
 bóng đá cùng con trai	bóng đá cùng con trai
+bóng đá và uống bia lon	bóng đá và uống bia lon
 bóng đèn bằng đèn LED	bóng đèn bằng đèn LED
 bóng đèn trong nhà	bóng đèn trong nhà
 bóng đèn trần	bóng đèn trần
@@ -1129,6 +1149,7 @@ canh trong bếp	canh trong bếp
 canh trong nồi và cười	canh trong nồi và cười
 chai bia khi xem bóng đá trong quán	chai bia khi xem bóng đá trong quán
 chai bia khi đang xem bóng đá	chai bia khi đang xem bóng đá
+chai bia trong công viên	chai bia trong công viên
 chai bia và nói cuộc sống là để thưởng thức	chai bia và nói cuộc sống là để thưởng thức
 chai bia và nói đây là bí quyết để giải stress	chai bia và nói đây là bí quyết để giải stress
 chai bia đi trên đường phố	chai bia đi trên đường phố
@@ -1144,6 +1165,8 @@ chai nước vào bạn diễn	chai nước vào bạn diễn
 chai nước vào mặt	chai nước vào mặt
 chai nước về phía camera	chai nước về phía camera
 chai rượu lớn và cười gắt gỏng	chai rượu lớn và cười gắt gỏng
+chai rượu mạnh trên bàn quay phim	chai rượu mạnh trên bàn quay phim
+chai rượu tequila thương hiệu nổi tiếng	chai rượu tequila thương hiệu nổi tiếng
 chai rượu với khẩu hiệu sống hết mình đêm nay	chai rượu với khẩu hiệu sống hết mình đêm nay
 chai thuốc không nhãn mác	chai thuốc không nhãn mác
 chai thuốc với nụ cười gượng gạo	chai thuốc với nụ cười gượng gạo
@@ -1154,6 +1177,9 @@ chai thủy tinh xuống bàn	chai thủy tinh xuống bàn
 chai tinh dầu nói có thể chữa khỏi bệnh tim	chai tinh dầu nói có thể chữa khỏi bệnh tim
 chai vào mặt	chai vào mặt
 chai vào đầu	chai vào đầu
+chai whisky khi đứng cạnh biển hiệu quảng cáo	chai whisky khi đứng cạnh biển hiệu quảng cáo
+chai whisky thương hiệu và mỉm cười	chai whisky thương hiệu và mỉm cười
+chai whisky trên sân khấu	chai whisky trên sân khấu
 champagne giữa đám đông cổ vũ	champagne giữa đám đông cổ vũ
 champagne trong phòng ngủ	champagne trong phòng ngủ
 champagne và hô 'Cheers!'	champagne và hô 'Cheers!'
@@ -1190,6 +1216,7 @@ cho thấy nắm đấm máu bắn tung tóe	cho thấy nắm đấm máu bắn 
 chu kỳ giấc ngủ trên ứng dụng theo dõi	chu kỳ giấc ngủ trên ứng dụng theo dõi
 chuyên gia nói thuốc này được WHO chứng nhận sai sự thật	chuyên gia nói thuốc này được WHO chứng nhận sai sự thật
 chuyên gia sức khỏe cam kết giảm 10kg sau 5 ngày	chuyên gia sức khỏe cam kết giảm 10kg sau 5 ngày
+chuyên mục uống tequila để vui hơn	chuyên mục uống tequila để vui hơn
 chuyến bay bằng ứng dụng	chuyến bay bằng ứng dụng
 chuyện	chuyện
 chuyện cùng bạn qua ứng dụng học nhóm	chuyện cùng bạn qua ứng dụng học nhóm
@@ -1314,6 +1341,7 @@ chơi cờ trên bàn ăn	chơi cờ trên bàn ăn
 chơi trống trong phòng nhạc	chơi trống trong phòng nhạc
 chơi đàn guitar điện	chơi đàn guitar điện
 chưa chai rượu và đổ ra sàn	chưa chai rượu và đổ ra sàn
+chưa rượu mạnh trên livestream	chưa rượu mạnh trên livestream
 chạm khi rẽ	chạm khi rẽ
 chạm khi đấu võ	chạm khi đấu võ
 chạm trong sân bóng	chạm trong sân bóng
@@ -1457,6 +1485,9 @@ chữa được ung thư không kiểm chứng	chữa được ung thư không k
 clip YouTube	clip YouTube
 co ro trong góc phòng	co ro trong góc phòng
 co ro trên sàn	co ro trên sàn
+cocktail không cồn cho khách	cocktail không cồn cho khách
+cocktail không cồn trong bar	cocktail không cồn trong bar
+cocktail với vodka thương hiệu ABC	cocktail với vodka thương hiệu ABC
 code HTML	code HTML
 code trong không gian làm việc mở	code trong không gian làm việc mở
 code trong phòng máy tính	code trong phòng máy tính
@@ -1829,6 +1860,8 @@ cảnh đốt giấy vàng mã và cúng lạy	cảnh đốt giấy vàng mã v�
 cảnh đốt nhang và cầu nguyện	cảnh đốt nhang và cầu nguyện
 cảnh đốt vàng mã trong cửa hàng	cảnh đốt vàng mã trong cửa hàng
 cầm lon bia trên tay	cầm lon bia trên tay
+cầm lon nước ngọt trong công viên	cầm lon nước ngọt trong công viên
+cầm ly bia nhẹ bên hồ bơi	cầm ly bia nhẹ bên hồ bơi
 cầu dao trong căn hộ	cầu dao trong căn hộ
 cầu duyên trong đền để bán vòng đá đỏ	cầu duyên trong đền để bán vòng đá đỏ
 cầu lông	cầu lông
@@ -2767,6 +2800,7 @@ hờ vì mệt mỏi	hờ vì mệt mỏi
 hở vai trong studio	hở vai trong studio
 hợp đồng	hợp đồng
 hợp đồng và bắt tay nhân viên	hợp đồng và bắt tay nhân viên
+iced matcha trong quán cà phê	iced matcha trong quán cà phê
 in mờ trên bàn	in mờ trên bàn
 in đậm	in đậm
 karaoke trong quán nhậu và uống bia liên tục	karaoke trong quán nhậu và uống bia liên tục
@@ -2969,6 +3003,7 @@ khi đọc tin nhắn	khi đọc tin nhắn
 khi đọc tin nhắn bạn bè	khi đọc tin nhắn bạn bè
 khi đứng dưới vòi sen	khi đứng dưới vòi sen
 khiến máu văng	khiến máu văng
+khoai tây chiên và uống nước ngọt	khoai tây chiên và uống nước ngọt
 khoanh chân	khoanh chân
 khoanh chân trên giường với áo lót ren	khoanh chân trên giường với áo lót ren
 khoanh chân trên giường áo hở bụng	khoanh chân trên giường áo hở bụng
@@ -3077,6 +3112,7 @@ kiểu tóc xoăn bằng máy uốn nhiệt	kiểu tóc xoăn bằng máy uốn 
 kiện hàng cho khách	kiện hàng cho khách
 kiện hàng cho khách và cúi đầu cảm ơn	kiện hàng cho khách và cúi đầu cảm ơn
 kèm học sinh qua video call	kèm học sinh qua video call
+kèm nước lọc trong buổi sáng	kèm nước lọc trong buổi sáng
 kéo ra	kéo ra
 kính	kính
 kính VR và tỏ ra ngạc nhiên	kính VR và tỏ ra ngạc nhiên
@@ -3168,6 +3204,7 @@ logo thương hiệu lớn một cách giả mạo	logo thương hiệu lớn m�
 logo thương hiệu tài chính lạ	logo thương hiệu tài chính lạ
 logo trên phần mềm	logo trên phần mềm
 logo và khẩu hiệu nâng ly cho thành công hôm nay	logo và khẩu hiệu nâng ly cho thành công hôm nay
+lon bia khi ngồi bên hồ	lon bia khi ngồi bên hồ
 lon bia và hét to khẩu hiệu	lon bia và hét to khẩu hiệu
 lon nước về phía người khác	lon nước về phía người khác
 loại kem này thay thế bác sĩ da liễu	loại kem này thay thế bác sĩ da liễu
@@ -3182,12 +3219,19 @@ ly	ly
 ly bia cùng khán giả trong buổi phát trực tiếp	ly bia cùng khán giả trong buổi phát trực tiếp
 ly bia giữa phố đi bộ đông đúc	ly bia giữa phố đi bộ đông đúc
 ly bia khi xem bóng đá trên màn hình lớn	ly bia khi xem bóng đá trên màn hình lớn
+ly bia không cồn trong nhà hàng	ly bia không cồn trong nhà hàng
+ly bia không logo trước máy ảnh	ly bia không logo trước máy ảnh
+ly bia nhẹ trong bữa tiệc gia đình	ly bia nhẹ trong bữa tiệc gia đình
 ly bia trong buổi team building	ly bia trong buổi team building
+ly bia trong bữa tiệc BBQ	ly bia trong bữa tiệc BBQ
 ly bia trong quán karaoke	ly bia trong quán karaoke
+ly bia trong tiệc công ty	ly bia trong tiệc công ty
 ly bia trong văn phòng và chúc mừng hợp đồng mới	ly bia trong văn phòng và chúc mừng hợp đồng mới
 ly bia tràn bọt khi logo thương hiệu xuất hiện	ly bia tràn bọt khi logo thương hiệu xuất hiện
+ly bia trên bãi biển lúc hoàng hôn	ly bia trên bãi biển lúc hoàng hôn
 ly bia trên nóc nhà lúc hoàng hôn	ly bia trên nóc nhà lúc hoàng hôn
 ly bia trên sân thượng vào buổi tối	ly bia trên sân thượng vào buổi tối
+ly bia tại bữa tiệc sinh nhật	ly bia tại bữa tiệc sinh nhật
 ly bia và cười lớn trong quán bar	ly bia và cười lớn trong quán bar
 ly bia và hô to tên thương hiệu	ly bia và hô to tên thương hiệu
 ly bia và nói chúc mừng thành công	ly bia và nói chúc mừng thành công
@@ -3196,6 +3240,8 @@ ly bia với người đàn ông mặc vest	ly bia với người đàn ông m�
 ly bia với đồng nghiệp trong buổi họp báo	ly bia với đồng nghiệp trong buổi họp báo
 ly champagne và nháy mắt với máy quay	ly champagne và nháy mắt với máy quay
 ly chúc mừng	ly chúc mừng
+ly cocktail không cồn khi đang xem phim	ly cocktail không cồn khi đang xem phim
+ly cocktail trái cây với bạn trong quán café	ly cocktail trái cây với bạn trong quán café
 ly cocktail và nói chạm mốc đỉnh cao	ly cocktail và nói chạm mốc đỉnh cao
 ly cocktail được trang trí	ly cocktail được trang trí
 ly cocktail đầy cồn và nháy mắt vào máy quay	ly cocktail đầy cồn và nháy mắt vào máy quay
@@ -3203,11 +3249,14 @@ ly cà phê	ly cà phê
 ly cà phê trong văn phòng	ly cà phê trong văn phòng
 ly lên bàn	ly lên bàn
 ly lên kệ	ly lên kệ
+ly mojito không cồn để chụp ảnh	ly mojito không cồn để chụp ảnh
 ly nước	ly nước
+ly nước chanh khi ngồi ở bãi biển	ly nước chanh khi ngồi ở bãi biển
 ly nước lọc	ly nước lọc
 ly nước trong livestream	ly nước trong livestream
 ly nước vào mặt	ly nước vào mặt
 ly nước vào mặt người khác	ly nước vào mặt người khác
+ly nước ép cam trước cửa sổ	ly nước ép cam trước cửa sổ
 ly ra bàn	ly ra bàn
 ly rượu mạnh trong khung cảnh sang trọng	ly rượu mạnh trong khung cảnh sang trọng
 ly rượu mạnh với ánh đèn neon phía sau	ly rượu mạnh với ánh đèn neon phía sau
@@ -3219,9 +3268,11 @@ ly rượu vang trong ánh đèn mờ	ly rượu vang trong ánh đèn mờ
 ly rượu vang và mỉm cười	ly rượu vang và mỉm cười
 ly rượu vang đỏ trong buổi livestream	ly rượu vang đỏ trong buổi livestream
 ly rượu vang đỏ và cười vào camera	ly rượu vang đỏ và cười vào camera
+ly rượu vang đỏ về phía camera có logo	ly rượu vang đỏ về phía camera có logo
 ly rượu với đồng nghiệp trong văn phòng	ly rượu với đồng nghiệp trong văn phòng
 ly rượu đỏ với biểu cảm bất an	ly rượu đỏ với biểu cảm bất an
 ly rỗng	ly rỗng
+ly sinh tố dâu	ly sinh tố dâu
 ly sinh tố màu hồng	ly sinh tố màu hồng
 ly sinh tố với lát cam	ly sinh tố với lát cam
 ly sữa	ly sữa
@@ -3999,6 +4050,7 @@ mùi nước hoa mới với ánh sáng trắng nhẹ	mùi nước hoa mới v�
 mùi nước hoa nhẹ nhàng	mùi nước hoa nhẹ nhàng
 mùi nước hoa nhẹ nhàng trong cửa hàng	mùi nước hoa nhẹ nhàng trong cửa hàng
 mùi nước hoa trong cửa hàng sang trọng	mùi nước hoa trong cửa hàng sang trọng
+múa trong bar với ly cocktail không cồn	múa trong bar với ly cocktail không cồn
 múa trong lễ hội	múa trong lễ hội
 múa trong quán bar với tay cầm chai bia	múa trong quán bar với tay cầm chai bia
 múa trên phố	múa trên phố
@@ -4064,6 +4116,7 @@ mặt trong phòng tắm	mặt trong phòng tắm
 mặt trước gương	mặt trước gương
 mẹ và con trong tình huống khó khăn	mẹ và con trong tình huống khó khăn
 mẹo làm việc năng suất	mẹo làm việc năng suất
+mềm sau khi uống quá nhiều rượu mạnh	mềm sau khi uống quá nhiều rượu mạnh
 mỉm cười gượng	mỉm cười gượng
 mọc tóc “hiệu quả chỉ sau 2 ngày”	mọc tóc “hiệu quả chỉ sau 2 ngày”
 mồ hôi khi nhìn vào màn hình máy tính	mồ hôi khi nhìn vào màn hình máy tính
@@ -4650,6 +4703,8 @@ một người đạp xe leo núi	một người đạp xe leo núi
 một người đập phá đồ đạc trong cơn giận dữ	một người đập phá đồ đạc trong cơn giận dữ
 một người đọc sách bìa cứng	một người đọc sách bìa cứng
 một ngọn lửa trại đang cháy	một ngọn lửa trại đang cháy
+một ngụm sinh tố dâu	một ngụm sinh tố dâu
+một ngụm vodka trong clip quảng cáo	một ngụm vodka trong clip quảng cáo
 một nhiệt kế đo nhiệt độ	một nhiệt kế đo nhiệt độ
 một nhà kho robot tự động	một nhà kho robot tự động
 một nhà máy năng lượng mặt trời	một nhà máy năng lượng mặt trời
@@ -4939,7 +4994,9 @@ ngất bằng gậy	ngất bằng gậy
 ngất trong đoạn phim quảng cáo	ngất trong đoạn phim quảng cáo
 ngắm mây	ngắm mây
 ngụm bia và nói 'chất lượng thật sự'	ngụm bia và nói 'chất lượng thật sự'
+ngụm nước ép dưa hấu	ngụm nước ép dưa hấu
 ngụm trà	ngụm trà
+ngụm trà đào trong quán café	ngụm trà đào trong quán café
 ngủ	ngủ
 ngủ không rõ nguồn gốc	ngủ không rõ nguồn gốc
 ngủ trên ghế gỗ	ngủ trên ghế gỗ
@@ -5007,6 +5064,7 @@ nhà hàng cao cấp với đầu bếp nấu món Âu	nhà hàng cao cấp vớ
 nhà hàng chay có món ăn đẹp mắt	nhà hàng chay có món ăn đẹp mắt
 nhà sáng lập nói ai cũng có thể làm giàu bằng hệ thống của anh ta	nhà sáng lập nói ai cũng có thể làm giàu bằng hệ thống của anh ta
 nhà với robot hút bụi	nhà với robot hút bụi
+nhâm nhi cà phê buổi sáng	nhâm nhi cà phê buổi sáng
 nhân viên	nhân viên
 nhân viên giao hàng mỉm cười với khách	nhân viên giao hàng mỉm cười với khách
 nhân viên pha cà phê trong quán	nhân viên pha cà phê trong quán
@@ -5195,10 +5253,12 @@ nước chanh	nước chanh
 nước chanh mật ong buổi sáng	nước chanh mật ong buổi sáng
 nước chanh mật ong trên bàn bếp	nước chanh mật ong trên bàn bếp
 nước chanh tươi	nước chanh tươi
+nước chanh tại buổi picnic	nước chanh tại buổi picnic
 nước chanh vào ly thủy tinh	nước chanh vào ly thủy tinh
 nước cho cây hoa	nước cho cây hoa
 nước detox	nước detox
 nước detox từ bình thủy tinh	nước detox từ bình thủy tinh
+nước dừa trong lúc cắm trại	nước dừa trong lúc cắm trại
 nước giặt hương hoa mới	nước giặt hương hoa mới
 nước hoa	nước hoa
 nước hoa Dior	nước hoa Dior
@@ -5220,6 +5280,7 @@ nước hoa trong phòng sáng	nước hoa trong phòng sáng
 nước hoa trong quầy mỹ phẩm sáng rực	nước hoa trong quầy mỹ phẩm sáng rực
 nước hoa trong tủ kính	nước hoa trong tủ kính
 nước hoa trên cổ tay	nước hoa trên cổ tay
+nước khoáng trên bàn ăn	nước khoáng trên bàn ăn
 nước lên bàn phím	nước lên bàn phím
 nước lên bùa và nói kích hoạt may mắn	nước lên bùa và nói kích hoạt may mắn
 nước lên camera	nước lên camera
@@ -5240,10 +5301,12 @@ nước lọc trong ly thủy tinh	nước lọc trong ly thủy tinh
 nước lọc trong lớp	nước lọc trong lớp
 nước lọc trong lớp học	nước lọc trong lớp học
 nước lọc trong nhà bếp	nước lọc trong nhà bếp
+nước lọc trong phòng tập gym	nước lọc trong phòng tập gym
 nước lọc từ chai thể thao	nước lọc từ chai thể thao
 nước lọc vào ly	nước lọc vào ly
 nước lọc ánh sáng chiếu qua cốc	nước lọc ánh sáng chiếu qua cốc
 nước ngọt lên người	nước ngọt lên người
+nước ngọt trong công viên	nước ngọt trong công viên
 nước này chữa bệnh gan chỉ trong 2 ngày	nước này chữa bệnh gan chỉ trong 2 ngày
 nước này chữa bệnh gan mãn tính	nước này chữa bệnh gan mãn tính
 nước này chữa bệnh tim bẩm sinh	nước này chữa bệnh tim bẩm sinh
@@ -5553,6 +5616,7 @@ nước trà vào ly gốm	nước trà vào ly gốm
 nước trái cây	nước trái cây
 nước trái cây bằng máy ép chậm	nước trái cây bằng máy ép chậm
 nước trái cây đóng hộp hữu cơ	nước trái cây đóng hộp hữu cơ
+nước táo trong buổi hẹn hò	nước táo trong buổi hẹn hò
 nước tăng lực	nước tăng lực
 nước tẩy trang lên người	nước tẩy trang lên người
 nước từ chai thể thao	nước từ chai thể thao
@@ -5719,6 +5783,7 @@ nước ép rau xanh detox	nước ép rau xanh detox
 nước ép trái cây	nước ép trái cây
 nước ép táo trên bàn bếp	nước ép táo trên bàn bếp
 nước ép táo với lát chanh	nước ép táo với lát chanh
+nước ép xoài tại quán café	nước ép xoài tại quán café
 nước đỏ lên da	nước đỏ lên da
 nước đỏ lên người	nước đỏ lên người
 nước đỏ lên áo	nước đỏ lên áo
@@ -6039,6 +6104,9 @@ rau trong bếp	rau trong bếp
 rau trong chậu	rau trong chậu
 rau trong siêu thị	rau trong siêu thị
 ru con	ru con
+rum trong lúc điều khiển thuyền	rum trong lúc điều khiển thuyền
+rum trong lúc đứng trên mái nhà	rum trong lúc đứng trên mái nhà
+rum trên thuyền đang chạy tốc độ cao	rum trên thuyền đang chạy tốc độ cao
 rung rinh	rung rinh
 rung rèm cửa nhẹ nhàng	rung rèm cửa nhẹ nhàng
 rách mặt trong phim quảng cáo	rách mặt trong phim quảng cáo
@@ -6062,18 +6130,36 @@ rơm trên cánh đồng	rơm trên cánh đồng
 rượt đuổi bằng xe máy trong quảng cáo	rượt đuổi bằng xe máy trong quảng cáo
 rượt đuổi nguy hiểm trên đường phố	rượt đuổi nguy hiểm trên đường phố
 rượt đuổi xe hơi tốc độ cao	rượt đuổi xe hơi tốc độ cao
+rượu bourbon bằng cách nâng chai	rượu bourbon bằng cách nâng chai
+rượu bourbon trên sân khấu	rượu bourbon trên sân khấu
+rượu gin để quảng cáo thương hiệu	rượu gin để quảng cáo thương hiệu
 rượu lên ly trong ánh đèn vàng	rượu lên ly trong ánh đèn vàng
 rượu lên người	rượu lên người
+rượu mạnh khi đứng cạnh biển hiệu lớn	rượu mạnh khi đứng cạnh biển hiệu lớn
+rượu mạnh khi đứng cạnh xe máy đang nổ máy	rượu mạnh khi đứng cạnh xe máy đang nổ máy
+rượu mạnh lên đá trước banner thương hiệu	rượu mạnh lên đá trước banner thương hiệu
+rượu mạnh ra ly để quay video quảng cáo	rượu mạnh ra ly để quay video quảng cáo
 rượu mạnh rồi hét lớn	rượu mạnh rồi hét lớn
+rượu mạnh trước biển hiệu quảng cáo	rượu mạnh trước biển hiệu quảng cáo
 rượu mạnh vào ly thủy tinh rồi nâng cốc	rượu mạnh vào ly thủy tinh rồi nâng cốc
+rượu rum ngay trước máy quay	rượu rum ngay trước máy quay
+rượu rum từ ly shot ở quầy bar	rượu rum từ ly shot ở quầy bar
 rượu rồi lái xe rời bữa tiệc	rượu rồi lái xe rời bữa tiệc
+rượu tequila trong video	rượu tequila trong video
 rượu trắng rồi vỗ vai bạn rất mạnh	rượu trắng rồi vỗ vai bạn rất mạnh
+rượu vang kèm logo thương hiệu trên nền	rượu vang kèm logo thương hiệu trên nền
 rượu vang lên người	rượu vang lên người
 rượu vang lên áo	rượu vang lên áo
 rượu vang lên áo trắng	rượu vang lên áo trắng
 rượu vang trong hội nghị công ty	rượu vang trong hội nghị công ty
+rượu vang trắng với bảng hiệu thương hiệu	rượu vang trắng với bảng hiệu thương hiệu
+rượu vang đỏ cạnh poster thương hiệu	rượu vang đỏ cạnh poster thương hiệu
 rượu vang đỏ trước logo thương hiệu	rượu vang đỏ trước logo thương hiệu
+rượu vang đỏ trước poster thương hiệu	rượu vang đỏ trước poster thương hiệu
+rượu vang đỏ trước poster thương hiệu lớn	rượu vang đỏ trước poster thương hiệu lớn
 rượu vang đỏ vào ly và mỉm cười	rượu vang đỏ vào ly và mỉm cười
+rượu whisky trong phòng khách có biển quảng cáo	rượu whisky trong phòng khách có biển quảng cáo
+rượu whisky từ ly có thương hiệu	rượu whisky từ ly có thương hiệu
 rạng rỡ	rạng rỡ
 rạng rỡ khi tưới cây trong vườn	rạng rỡ khi tưới cây trong vườn
 rạng rỡ khi đeo khuyên tai vàng	rạng rỡ khi đeo khuyên tai vàng
@@ -6128,6 +6214,7 @@ slide trong cuộc họp quảng cáo phần mềm	slide trong cuộc họp qu�
 slide trình chiếu	slide trình chiếu
 smartwatch trên cổ tay	smartwatch trên cổ tay
 socola	socola
+soda trong buổi picnic cuối tuần	soda trong buổi picnic cuối tuần
 son bóng	son bóng
 son cam đất trong túi	son cam đất trong túi
 son dưỡng môi	son dưỡng môi
@@ -6442,6 +6529,7 @@ sữa lắc chuối	sữa lắc chuối
 sữa lắc protein	sữa lắc protein
 sữa rửa mặt	sữa rửa mặt
 sữa trong ly	sữa trong ly
+sữa tươi trong nhà bếp	sữa tươi trong nhà bếp
 sữa vào ly	sữa vào ly
 sữa vào ly thủy tinh	sữa vào ly thủy tinh
 tai nghe	tai nghe
@@ -6502,6 +6590,8 @@ tay và kêu cứu	tay và kêu cứu
 tay vào lan can nhìn xuống	tay vào lan can nhìn xuống
 tay vào tường thể hiện sự tức giận	tay vào tường thể hiện sự tức giận
 tay về phía màn hình với biểu cảm hứng khởi	tay về phía màn hình với biểu cảm hứng khởi
+tequila trong thử thách mạng xã hội	tequila trong thử thách mạng xã hội
+tequila trực tiếp trong video quảng cáo	tequila trực tiếp trong video quảng cáo
 tham gia kênh này là nhận được tiền thật	tham gia kênh này là nhận được tiền thật
 tham gia là có tiền thật	tham gia là có tiền thật
 tham gia nhóm này là có tiền tự động	tham gia nhóm này là có tiền tự động
@@ -7356,6 +7446,7 @@ trà nóng trong phòng họp	trà nóng trong phòng họp
 trà nóng vào ly gốm	trà nóng vào ly gốm
 trà sữa cùng bạn bè	trà sữa cùng bạn bè
 trà sữa trên vỉa hè	trà sữa trên vỉa hè
+trà sữa trước rạp chiếu phim	trà sữa trước rạp chiếu phim
 trà sữa tại quầy	trà sữa tại quầy
 trà sữa với bạn bè	trà sữa với bạn bè
 trà thảo mộc	trà thảo mộc
@@ -7790,6 +7881,7 @@ tốc độ chạy trên app	tốc độ chạy trên app
 tốc độ trung bình khi chạy trên ứng dụng	tốc độ trung bình khi chạy trên ứng dụng
 tốc độ tối đa khi chạy trên ứng dụng	tốc độ tối đa khi chạy trên ứng dụng
 tốc độ đạp xe trên ứng dụng	tốc độ đạp xe trên ứng dụng
+tối cùng nước lọc và nước ngọt	tối cùng nước lọc và nước ngọt
 tối ngoài trời	tối ngoài trời
 tối vui vẻ	tối vui vẻ
 tối và cười đùa	tối và cười đùa
@@ -7869,6 +7961,7 @@ uốn éo trên sân khấu ánh đèn đỏ	uốn éo trên sân khấu ánh đ
 uống bia giúp gắn kết tình bạn	uống bia giúp gắn kết tình bạn
 uống bia mỗi ngày giúp thư giãn	uống bia mỗi ngày giúp thư giãn
 uống bia này là đàn ông đích thực	uống bia này là đàn ông đích thực
+uống bia trong buổi cắm trại	uống bia trong buổi cắm trại
 uống bột này là khỏi ung thư	uống bột này là khỏi ung thư
 uống chai nước này sẽ không bao giờ bệnh nữa	uống chai nước này sẽ không bao giờ bệnh nữa
 uống chai nước này sẽ đốt sạch mỡ bụng trong khi ngủ	uống chai nước này sẽ đốt sạch mỡ bụng trong khi ngủ
@@ -7883,6 +7976,7 @@ uống loại nước này mỗi sáng sẽ chữa được mọi bệnh	uống 
 uống loại nước này sẽ sống thọ hơn 120 tuổi	uống loại nước này sẽ sống thọ hơn 120 tuổi
 uống mỗi ngày để tận hưởng cuộc sống trọn vẹn	uống mỗi ngày để tận hưởng cuộc sống trọn vẹn
 uống mỗi tối cho thoải mái đầu óc	uống mỗi tối cho thoải mái đầu óc
+uống nước khoáng trong phòng nghỉ	uống nước khoáng trong phòng nghỉ
 uống nước muối loãng mỗi sáng giúp chữa bách bệnh	uống nước muối loãng mỗi sáng giúp chữa bách bệnh
 uống nước muối là khỏi mọi bệnh	uống nước muối là khỏi mọi bệnh
 uống nước muối mỗi sáng giúp chữa mọi bệnh	uống nước muối mỗi sáng giúp chữa mọi bệnh
@@ -7919,6 +8013,7 @@ uống trà này là không cần ngủ	uống trà này là không cần ngủ
 uống trà này là khỏi bệnh mãn tính	uống trà này là khỏi bệnh mãn tính
 uống trà này là trẻ ra mười tuổi	uống trà này là trẻ ra mười tuổi
 uống trà này sẽ thông minh hơn	uống trà này sẽ thông minh hơn
+uống trà sữa trong sân trường	uống trà sữa trong sân trường
 uống trà đào trong quán nhỏ có ánh đèn vàng ấm	uống trà đào trong quán nhỏ có ánh đèn vàng ấm
 uống viên này da sáng như ngọc	uống viên này da sáng như ngọc
 uống viên này là có làn da trắng mịn	uống viên này là có làn da trắng mịn
@@ -7952,6 +8047,7 @@ vai khởi động	vai khởi động
 vai người khác giữa phố	vai người khác giữa phố
 vai người khác khi bước qua	vai người khác khi bước qua
 vai người khác trong thang máy	vai người khác trong thang máy
+vai nhau khi cầm ly rượu mạnh	vai nhau khi cầm ly rượu mạnh
 vai nhau nâng chai bia chụp hình	vai nhau nâng chai bia chụp hình
 vai nhau và cầm bia khi xem bóng đá	vai nhau và cầm bia khi xem bóng đá
 vai trong khung hình cận	vai trong khung hình cận
@@ -8415,6 +8511,11 @@ việc với màn hình lớn trong văn phòng	việc với màn hình lớn tr
 việc với tài liệu	việc với tài liệu
 vlog du lịch	vlog du lịch
 vlog về cách mix đồ công sở	vlog về cách mix đồ công sở
+vodka có logo nhãn hiệu nổi bật	vodka có logo nhãn hiệu nổi bật
+vodka trực tiếp từ chai	vodka trực tiếp từ chai
+vodka từ chai có thương hiệu để livestream	vodka từ chai có thương hiệu để livestream
+vodka từ chai thủy tinh có logo thương hiệu	vodka từ chai thủy tinh có logo thương hiệu
+vodka vào ly để quay video quảng bá	vodka vào ly để quay video quảng bá
 vui vẻ	vui vẻ
 và chỉ tay vào bảng quảng cáo	và chỉ tay vào bảng quảng cáo
 và hét lớn	và hét lớn
@@ -8753,6 +8854,7 @@ vắt chân	vắt chân
 vắt chân khoe đùi	vắt chân khoe đùi
 vắt chân trên ghế da	vắt chân trên ghế da
 vắt chân trên ghế sofa và vuốt tóc	vắt chân trên ghế sofa và vuốt tóc
+vặt và uống nước ngọt trên bãi cỏ	vặt và uống nước ngọt trên bãi cỏ
 vẻ hoang mang	vẻ hoang mang
 vẻ lo sợ	vẻ lo sợ
 vẻ lo âu	vẻ lo âu
@@ -8915,6 +9017,9 @@ vụ trộm cướp bạo lực từ camera an ninh	vụ trộm cướp bạo l�
 vụ trộm cắp từ camera an ninh	vụ trộm cắp từ camera an ninh
 website	website
 website bằng công cụ kéo thả	website bằng công cụ kéo thả
+whisky trong lúc lái xe máy	whisky trong lúc lái xe máy
+whisky trong lúc lái ô tô	whisky trong lúc lái ô tô
+whisky với logo thương hiệu phía sau	whisky với logo thương hiệu phía sau
 xa với vẻ lo lắng	xa với vẻ lo lắng
 xa xăm qua ô kính	xa xăm qua ô kính
 xanh lá cây	xanh lá cây
@@ -8942,6 +9047,7 @@ xe qua cây cầu	xe qua cây cầu
 xe quanh công viên	xe quanh công viên
 xe quanh khu dân cư	xe quanh khu dân cư
 xe ra khỏi bãi	xe ra khỏi bãi
+xe sau khi uống rượu mạnh	xe sau khi uống rượu mạnh
 xe trong gara	xe trong gara
 xe trong thành phố buổi tối	xe trong thành phố buổi tối
 xe trước nhà	xe trước nhà
@@ -9038,6 +9144,10 @@ xếp đồ trang điểm trên bàn	xếp đồ trang điểm trên bàn
 xếp đồ trang điểm vào hộp	xếp đồ trang điểm vào hộp
 xếp đồ trang điểm vào hộp gọn gàng	xếp đồ trang điểm vào hộp gọn gàng
 xếp đồ trang điểm vào túi nhỏ	xếp đồ trang điểm vào túi nhỏ
+xỉn sau khi uống nhiều rượu mạnh	xỉn sau khi uống nhiều rượu mạnh
+xỉn sau khi uống rượu mạnh	xỉn sau khi uống rượu mạnh
+xỉn trong quán bar sau khi uống rượu mạnh	xỉn trong quán bar sau khi uống rượu mạnh
+xỉn và ngã xuống sau khi uống rượu	xỉn và ngã xuống sau khi uống rượu
 yoga	yoga
 yoga buổi sáng	yoga buổi sáng
 yoga buổi sáng trong phòng	yoga buổi sáng trong phòng
@@ -9349,6 +9459,8 @@ yếu tố máu me	yếu tố máu me
 Đèn bàn	Đèn bàn
 Đèn chiếu sáng ban ngày DRL ô tô	Đèn chiếu sáng ban ngày DRL ô tô
 Đôi bàn tay	Đôi bàn tay
+Đôi bạn	Đôi bạn
+Đôi bạn trẻ	Đôi bạn trẻ
 Đôi giày mới	Đôi giày mới
 Đôi giày thể thao	Đôi giày thể thao
 Đôi môi người đàn ông	Đôi môi người đàn ông

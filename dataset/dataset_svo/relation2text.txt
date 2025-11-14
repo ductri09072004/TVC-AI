@@ -85,6 +85,7 @@ cho	cho
 cho biết	cho biết
 cho phép	cho phép
 cho thấy	cho thấy
+choàng	choàng
 chuyển	chuyển
 chuẩn	chuẩn
 chuẩn bị	chuẩn bị
@@ -364,6 +365,7 @@ rượt đuổi	rượt đuổi
 rải	rải
 rọi	rọi
 rửa	rửa
+say	say
 siết	siết
 so sánh	so sánh
 sofa	sofa

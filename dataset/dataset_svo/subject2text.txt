@@ -1,4 +1,8 @@
+Anh chàng	Anh chàng
+Anh nhân viên	Anh nhân viên
+Anh thanh niên	Anh thanh niên
 Ba người	Ba người
+Ba người bạn	Ba người bạn
 Ba người đàn ông	Ba người đàn ông
 Bia	Bia
 Bà mẹ	Bà mẹ
@@ -15,6 +19,7 @@ Bé gái	Bé gái
 Bé trai	Bé trai
 Bình đựng nước	Bình đựng nước
 Bạn bè	Bạn bè
+Bạn nữ	Bạn nữ
 Bầu trời hoàng hôn	Bầu trời hoàng hôn
 Bầu trời trong xanh	Bầu trời trong xanh
 Bức tranh phong cảnh	Bức tranh phong cảnh
@@ -67,6 +72,7 @@ Cô gái ăn kem	Cô gái ăn kem
 Cô lễ tân	Cô lễ tân
 Cô nhân viên	Cô nhân viên
 Cô nhân viên lễ tân	Cô nhân viên lễ tân
+Cô nhân viên pha chế	Cô nhân viên pha chế
 Công tắc thông minh	Công tắc thông minh
 Cảnh	Cảnh
 Cảnh chiếu	Cảnh chiếu
@@ -110,6 +116,7 @@ Giọt dầu massage	Giọt dầu massage
 Giọt dầu xả tóc	Giọt dầu xả tóc
 Gương chiếu hậu xe đạp	Gương chiếu hậu xe đạp
 Gương mặt	Gương mặt
+Hai bạn trẻ	Hai bạn trẻ
 Hai chàng trai	Hai chàng trai
 Hai cô gái	Hai cô gái
 Hai người	Hai người
@@ -175,6 +182,7 @@ Máy đếm tiền	Máy đếm tiền
 Máy ảnh	Máy ảnh
 Mô phỏng	Mô phỏng
 Mọi người	Mọi người
+Một anh chàng	Một anh chàng
 Một biểu đồ	Một biểu đồ
 Một bàn tay	Một bàn tay
 Một bình hoa	Một bình hoa
@@ -233,6 +241,7 @@ Một dòng chữ cảnh báo nhỏ	Một dòng chữ cảnh báo nhỏ
 Một dòng chữ nhỏ	Một dòng chữ nhỏ
 Một dòng chữ thắng lớn mỗi ngày	Một dòng chữ thắng lớn mỗi ngày
 Một dòng chữ “làm giàu nhanh”	Một dòng chữ “làm giàu nhanh”
+Một gia đình	Một gia đình
 Một gương mặt mờ nhòe	Một gương mặt mờ nhòe
 Một khuôn mặt	Một khuôn mặt
 Một ly nước	Một ly nước
@@ -249,7 +258,10 @@ Một người trẻ	Một người trẻ
 Một người đàn ông	Một người đàn ông
 Một người đàn ông mặc vest	Một người đàn ông mặc vest
 Một ngọn nến	Một ngọn nến
+Một nhóm bạn	Một nhóm bạn
+Một nhóm người	Một nhóm người
 Một nhóm thanh niên	Một nhóm thanh niên
+Một nhóm đàn ông	Một nhóm đàn ông
 Một nụ cười	Một nụ cười
 Một phong bì	Một phong bì
 Một phong bì dày	Một phong bì dày
@@ -258,6 +270,7 @@ Một phong bì trắng dày	Một phong bì trắng dày
 Một quyển sách	Một quyển sách
 Một quyển sổ	Một quyển sổ
 Một quyển sổ ghi chú	Một quyển sổ ghi chú
+Một thanh niên	Một thanh niên
 Một tách cà phê	Một tách cà phê
 Một tách trà	Một tách trà
 Một tách trà bốc hơi	Một tách trà bốc hơi
@@ -382,6 +395,7 @@ Nhân viên giao hàng	Nhân viên giao hàng
 Nhân viên kỹ thuật	Nhân viên kỹ thuật
 Nhân viên lễ tân	Nhân viên lễ tân
 Nhân viên ngân hàng	Nhân viên ngân hàng
+Nhân viên pha chế	Nhân viên pha chế
 Nhân viên siêu thị	Nhân viên siêu thị
 Nhân viên trẻ	Nhân viên trẻ
 Nhân viên văn phòng	Nhân viên văn phòng
@@ -511,6 +525,8 @@ Xác động vật	Xác động vật
 Đèn bàn	Đèn bàn
 Đèn chiếu sáng ban ngày DRL ô tô	Đèn chiếu sáng ban ngày DRL ô tô
 Đôi bàn tay	Đôi bàn tay
+Đôi bạn	Đôi bạn
+Đôi bạn trẻ	Đôi bạn trẻ
 Đôi giày mới	Đôi giày mới
 Đôi giày thể thao	Đôi giày thể thao
 Đôi môi người đàn ông	Đôi môi người đàn ông

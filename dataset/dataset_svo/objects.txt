@@ -46,6 +46,7 @@ bi-a pool 8 bóng trận đấu chính thức
 bia cho bạn trong lúc livestream
 bia cho trẻ vị thành niên trong clip
 bia giữa đường phố đông người
+bia hơi cho khách trong quán ăn
 bia khi lái mô tô ngoài phố
 bia khi lái ô tô
 bia khi xem bóng đá
@@ -55,13 +56,17 @@ bia khi đang lái xe máy
 bia khi đang lái xe tải
 bia khi đang quảng cáo sản phẩm
 bia khi đứng trên sân khấu
+bia không cồn trong phòng khách
+bia lon khi ngồi quanh bếp lửa
 bia lên đầu trong tiếng reo hò
 bia rồi hét tên thương hiệu trên sân khấu
 bia sau buổi biểu diễn
 bia trong buổi livestream bán hàng
 bia trong buổi phát trực tiếp
+bia trong buổi xem bóng đá
 bia trong khi lái ô tô
 bia trong lúc chơi game trực tiếp
+bia trong tiệc cuối tuần
 bia trên sân thượng giữa đêm
 bia trên xe tải đang chạy
 bia tại quán bar đông người
@@ -441,6 +446,7 @@ bóng sinh nhật cùng bạn bè
 bóng tối che phủ một nửa
 bóng vào đầu
 bóng đá cùng con trai
+bóng đá và uống bia lon
 bóng đèn bằng đèn LED
 bóng đèn trong nhà
 bóng đèn trần
@@ -653,6 +659,7 @@ canh trong bếp
 canh trong nồi và cười
 chai bia khi xem bóng đá trong quán
 chai bia khi đang xem bóng đá
+chai bia trong công viên
 chai bia và nói cuộc sống là để thưởng thức
 chai bia và nói đây là bí quyết để giải stress
 chai bia đi trên đường phố
@@ -668,6 +675,8 @@ chai nước vào bạn diễn
 chai nước vào mặt
 chai nước về phía camera
 chai rượu lớn và cười gắt gỏng
+chai rượu mạnh trên bàn quay phim
+chai rượu tequila thương hiệu nổi tiếng
 chai rượu với khẩu hiệu sống hết mình đêm nay
 chai thuốc không nhãn mác
 chai thuốc với nụ cười gượng gạo
@@ -678,6 +687,9 @@ chai thủy tinh xuống bàn
 chai tinh dầu nói có thể chữa khỏi bệnh tim
 chai vào mặt
 chai vào đầu
+chai whisky khi đứng cạnh biển hiệu quảng cáo
+chai whisky thương hiệu và mỉm cười
+chai whisky trên sân khấu
 champagne giữa đám đông cổ vũ
 champagne trong phòng ngủ
 champagne và hô 'Cheers!'
@@ -714,6 +726,7 @@ cho thấy nắm đấm máu bắn tung tóe
 chu kỳ giấc ngủ trên ứng dụng theo dõi
 chuyên gia nói thuốc này được WHO chứng nhận sai sự thật
 chuyên gia sức khỏe cam kết giảm 10kg sau 5 ngày
+chuyên mục uống tequila để vui hơn
 chuyến bay bằng ứng dụng
 chuyện
 chuyện cùng bạn qua ứng dụng học nhóm
@@ -838,6 +851,7 @@ chơi cờ trên bàn ăn
 chơi trống trong phòng nhạc
 chơi đàn guitar điện
 chưa chai rượu và đổ ra sàn
+chưa rượu mạnh trên livestream
 chạm khi rẽ
 chạm khi đấu võ
 chạm trong sân bóng
@@ -981,6 +995,9 @@ chữa được ung thư không kiểm chứng
 clip YouTube
 co ro trong góc phòng
 co ro trên sàn
+cocktail không cồn cho khách
+cocktail không cồn trong bar
+cocktail với vodka thương hiệu ABC
 code HTML
 code trong không gian làm việc mở
 code trong phòng máy tính
@@ -1353,6 +1370,8 @@ cảnh đốt giấy vàng mã và cúng lạy
 cảnh đốt nhang và cầu nguyện
 cảnh đốt vàng mã trong cửa hàng
 cầm lon bia trên tay
+cầm lon nước ngọt trong công viên
+cầm ly bia nhẹ bên hồ bơi
 cầu dao trong căn hộ
 cầu duyên trong đền để bán vòng đá đỏ
 cầu lông
@@ -2291,6 +2310,7 @@ hờ vì mệt mỏi
 hở vai trong studio
 hợp đồng
 hợp đồng và bắt tay nhân viên
+iced matcha trong quán cà phê
 in mờ trên bàn
 in đậm
 karaoke trong quán nhậu và uống bia liên tục
@@ -2493,6 +2513,7 @@ khi đọc tin nhắn
 khi đọc tin nhắn bạn bè
 khi đứng dưới vòi sen
 khiến máu văng
+khoai tây chiên và uống nước ngọt
 khoanh chân
 khoanh chân trên giường với áo lót ren
 khoanh chân trên giường áo hở bụng
@@ -2601,6 +2622,7 @@ kiểu tóc xoăn bằng máy uốn nhiệt
 kiện hàng cho khách
 kiện hàng cho khách và cúi đầu cảm ơn
 kèm học sinh qua video call
+kèm nước lọc trong buổi sáng
 kéo ra
 kính
 kính VR và tỏ ra ngạc nhiên
@@ -2692,6 +2714,7 @@ logo thương hiệu lớn một cách giả mạo
 logo thương hiệu tài chính lạ
 logo trên phần mềm
 logo và khẩu hiệu nâng ly cho thành công hôm nay
+lon bia khi ngồi bên hồ
 lon bia và hét to khẩu hiệu
 lon nước về phía người khác
 loại kem này thay thế bác sĩ da liễu
@@ -2706,12 +2729,19 @@ ly
 ly bia cùng khán giả trong buổi phát trực tiếp
 ly bia giữa phố đi bộ đông đúc
 ly bia khi xem bóng đá trên màn hình lớn
+ly bia không cồn trong nhà hàng
+ly bia không logo trước máy ảnh
+ly bia nhẹ trong bữa tiệc gia đình
 ly bia trong buổi team building
+ly bia trong bữa tiệc BBQ
 ly bia trong quán karaoke
+ly bia trong tiệc công ty
 ly bia trong văn phòng và chúc mừng hợp đồng mới
 ly bia tràn bọt khi logo thương hiệu xuất hiện
+ly bia trên bãi biển lúc hoàng hôn
 ly bia trên nóc nhà lúc hoàng hôn
 ly bia trên sân thượng vào buổi tối
+ly bia tại bữa tiệc sinh nhật
 ly bia và cười lớn trong quán bar
 ly bia và hô to tên thương hiệu
 ly bia và nói chúc mừng thành công
@@ -2720,6 +2750,8 @@ ly bia với người đàn ông mặc vest
 ly bia với đồng nghiệp trong buổi họp báo
 ly champagne và nháy mắt với máy quay
 ly chúc mừng
+ly cocktail không cồn khi đang xem phim
+ly cocktail trái cây với bạn trong quán café
 ly cocktail và nói chạm mốc đỉnh cao
 ly cocktail được trang trí
 ly cocktail đầy cồn và nháy mắt vào máy quay
@@ -2727,11 +2759,14 @@ ly cà phê
 ly cà phê trong văn phòng
 ly lên bàn
 ly lên kệ
+ly mojito không cồn để chụp ảnh
 ly nước
+ly nước chanh khi ngồi ở bãi biển
 ly nước lọc
 ly nước trong livestream
 ly nước vào mặt
 ly nước vào mặt người khác
+ly nước ép cam trước cửa sổ
 ly ra bàn
 ly rượu mạnh trong khung cảnh sang trọng
 ly rượu mạnh với ánh đèn neon phía sau
@@ -2743,9 +2778,11 @@ ly rượu vang trong ánh đèn mờ
 ly rượu vang và mỉm cười
 ly rượu vang đỏ trong buổi livestream
 ly rượu vang đỏ và cười vào camera
+ly rượu vang đỏ về phía camera có logo
 ly rượu với đồng nghiệp trong văn phòng
 ly rượu đỏ với biểu cảm bất an
 ly rỗng
+ly sinh tố dâu
 ly sinh tố màu hồng
 ly sinh tố với lát cam
 ly sữa
@@ -3523,6 +3560,7 @@ mùi nước hoa mới với ánh sáng trắng nhẹ
 mùi nước hoa nhẹ nhàng
 mùi nước hoa nhẹ nhàng trong cửa hàng
 mùi nước hoa trong cửa hàng sang trọng
+múa trong bar với ly cocktail không cồn
 múa trong lễ hội
 múa trong quán bar với tay cầm chai bia
 múa trên phố
@@ -3588,6 +3626,7 @@ mặt trong phòng tắm
 mặt trước gương
 mẹ và con trong tình huống khó khăn
 mẹo làm việc năng suất
+mềm sau khi uống quá nhiều rượu mạnh
 mỉm cười gượng
 mọc tóc “hiệu quả chỉ sau 2 ngày”
 mồ hôi khi nhìn vào màn hình máy tính
@@ -4174,6 +4213,8 @@ một người đạp xe leo núi
 một người đập phá đồ đạc trong cơn giận dữ
 một người đọc sách bìa cứng
 một ngọn lửa trại đang cháy
+một ngụm sinh tố dâu
+một ngụm vodka trong clip quảng cáo
 một nhiệt kế đo nhiệt độ
 một nhà kho robot tự động
 một nhà máy năng lượng mặt trời
@@ -4463,7 +4504,9 @@ ngất bằng gậy
 ngất trong đoạn phim quảng cáo
 ngắm mây
 ngụm bia và nói 'chất lượng thật sự'
+ngụm nước ép dưa hấu
 ngụm trà
+ngụm trà đào trong quán café
 ngủ
 ngủ không rõ nguồn gốc
 ngủ trên ghế gỗ
@@ -4531,6 +4574,7 @@ nhà hàng cao cấp với đầu bếp nấu món Âu
 nhà hàng chay có món ăn đẹp mắt
 nhà sáng lập nói ai cũng có thể làm giàu bằng hệ thống của anh ta
 nhà với robot hút bụi
+nhâm nhi cà phê buổi sáng
 nhân viên
 nhân viên giao hàng mỉm cười với khách
 nhân viên pha cà phê trong quán
@@ -4719,10 +4763,12 @@ nước chanh
 nước chanh mật ong buổi sáng
 nước chanh mật ong trên bàn bếp
 nước chanh tươi
+nước chanh tại buổi picnic
 nước chanh vào ly thủy tinh
 nước cho cây hoa
 nước detox
 nước detox từ bình thủy tinh
+nước dừa trong lúc cắm trại
 nước giặt hương hoa mới
 nước hoa
 nước hoa Dior
@@ -4744,6 +4790,7 @@ nước hoa trong phòng sáng
 nước hoa trong quầy mỹ phẩm sáng rực
 nước hoa trong tủ kính
 nước hoa trên cổ tay
+nước khoáng trên bàn ăn
 nước lên bàn phím
 nước lên bùa và nói kích hoạt may mắn
 nước lên camera
@@ -4764,10 +4811,12 @@ nước lọc trong ly thủy tinh
 nước lọc trong lớp
 nước lọc trong lớp học
 nước lọc trong nhà bếp
+nước lọc trong phòng tập gym
 nước lọc từ chai thể thao
 nước lọc vào ly
 nước lọc ánh sáng chiếu qua cốc
 nước ngọt lên người
+nước ngọt trong công viên
 nước này chữa bệnh gan chỉ trong 2 ngày
 nước này chữa bệnh gan mãn tính
 nước này chữa bệnh tim bẩm sinh
@@ -5077,6 +5126,7 @@ nước trà vào ly gốm
 nước trái cây
 nước trái cây bằng máy ép chậm
 nước trái cây đóng hộp hữu cơ
+nước táo trong buổi hẹn hò
 nước tăng lực
 nước tẩy trang lên người
 nước từ chai thể thao
@@ -5243,6 +5293,7 @@ nước ép rau xanh detox
 nước ép trái cây
 nước ép táo trên bàn bếp
 nước ép táo với lát chanh
+nước ép xoài tại quán café
 nước đỏ lên da
 nước đỏ lên người
 nước đỏ lên áo
@@ -5563,6 +5614,9 @@ rau trong bếp
 rau trong chậu
 rau trong siêu thị
 ru con
+rum trong lúc điều khiển thuyền
+rum trong lúc đứng trên mái nhà
+rum trên thuyền đang chạy tốc độ cao
 rung rinh
 rung rèm cửa nhẹ nhàng
 rách mặt trong phim quảng cáo
@@ -5586,18 +5640,36 @@ rơm trên cánh đồng
 rượt đuổi bằng xe máy trong quảng cáo
 rượt đuổi nguy hiểm trên đường phố
 rượt đuổi xe hơi tốc độ cao
+rượu bourbon bằng cách nâng chai
+rượu bourbon trên sân khấu
+rượu gin để quảng cáo thương hiệu
 rượu lên ly trong ánh đèn vàng
 rượu lên người
+rượu mạnh khi đứng cạnh biển hiệu lớn
+rượu mạnh khi đứng cạnh xe máy đang nổ máy
+rượu mạnh lên đá trước banner thương hiệu
+rượu mạnh ra ly để quay video quảng cáo
 rượu mạnh rồi hét lớn
+rượu mạnh trước biển hiệu quảng cáo
 rượu mạnh vào ly thủy tinh rồi nâng cốc
+rượu rum ngay trước máy quay
+rượu rum từ ly shot ở quầy bar
 rượu rồi lái xe rời bữa tiệc
+rượu tequila trong video
 rượu trắng rồi vỗ vai bạn rất mạnh
+rượu vang kèm logo thương hiệu trên nền
 rượu vang lên người
 rượu vang lên áo
 rượu vang lên áo trắng
 rượu vang trong hội nghị công ty
+rượu vang trắng với bảng hiệu thương hiệu
+rượu vang đỏ cạnh poster thương hiệu
 rượu vang đỏ trước logo thương hiệu
+rượu vang đỏ trước poster thương hiệu
+rượu vang đỏ trước poster thương hiệu lớn
 rượu vang đỏ vào ly và mỉm cười
+rượu whisky trong phòng khách có biển quảng cáo
+rượu whisky từ ly có thương hiệu
 rạng rỡ
 rạng rỡ khi tưới cây trong vườn
 rạng rỡ khi đeo khuyên tai vàng
@@ -5652,6 +5724,7 @@ slide trong cuộc họp quảng cáo phần mềm
 slide trình chiếu
 smartwatch trên cổ tay
 socola
+soda trong buổi picnic cuối tuần
 son bóng
 son cam đất trong túi
 son dưỡng môi
@@ -5966,6 +6039,7 @@ sữa lắc chuối
 sữa lắc protein
 sữa rửa mặt
 sữa trong ly
+sữa tươi trong nhà bếp
 sữa vào ly
 sữa vào ly thủy tinh
 tai nghe
@@ -6026,6 +6100,8 @@ tay và kêu cứu
 tay vào lan can nhìn xuống
 tay vào tường thể hiện sự tức giận
 tay về phía màn hình với biểu cảm hứng khởi
+tequila trong thử thách mạng xã hội
+tequila trực tiếp trong video quảng cáo
 tham gia kênh này là nhận được tiền thật
 tham gia là có tiền thật
 tham gia nhóm này là có tiền tự động
@@ -6880,6 +6956,7 @@ trà nóng trong phòng họp
 trà nóng vào ly gốm
 trà sữa cùng bạn bè
 trà sữa trên vỉa hè
+trà sữa trước rạp chiếu phim
 trà sữa tại quầy
 trà sữa với bạn bè
 trà thảo mộc
@@ -7314,6 +7391,7 @@ tốc độ chạy trên app
 tốc độ trung bình khi chạy trên ứng dụng
 tốc độ tối đa khi chạy trên ứng dụng
 tốc độ đạp xe trên ứng dụng
+tối cùng nước lọc và nước ngọt
 tối ngoài trời
 tối vui vẻ
 tối và cười đùa
@@ -7393,6 +7471,7 @@ uốn éo trên sân khấu ánh đèn đỏ
 uống bia giúp gắn kết tình bạn
 uống bia mỗi ngày giúp thư giãn
 uống bia này là đàn ông đích thực
+uống bia trong buổi cắm trại
 uống bột này là khỏi ung thư
 uống chai nước này sẽ không bao giờ bệnh nữa
 uống chai nước này sẽ đốt sạch mỡ bụng trong khi ngủ
@@ -7407,6 +7486,7 @@ uống loại nước này mỗi sáng sẽ chữa được mọi bệnh
 uống loại nước này sẽ sống thọ hơn 120 tuổi
 uống mỗi ngày để tận hưởng cuộc sống trọn vẹn
 uống mỗi tối cho thoải mái đầu óc
+uống nước khoáng trong phòng nghỉ
 uống nước muối loãng mỗi sáng giúp chữa bách bệnh
 uống nước muối là khỏi mọi bệnh
 uống nước muối mỗi sáng giúp chữa mọi bệnh
@@ -7443,6 +7523,7 @@ uống trà này là không cần ngủ
 uống trà này là khỏi bệnh mãn tính
 uống trà này là trẻ ra mười tuổi
 uống trà này sẽ thông minh hơn
+uống trà sữa trong sân trường
 uống trà đào trong quán nhỏ có ánh đèn vàng ấm
 uống viên này da sáng như ngọc
 uống viên này là có làn da trắng mịn
@@ -7476,6 +7557,7 @@ vai khởi động
 vai người khác giữa phố
 vai người khác khi bước qua
 vai người khác trong thang máy
+vai nhau khi cầm ly rượu mạnh
 vai nhau nâng chai bia chụp hình
 vai nhau và cầm bia khi xem bóng đá
 vai trong khung hình cận
@@ -7939,6 +8021,11 @@ việc với màn hình lớn trong văn phòng
 việc với tài liệu
 vlog du lịch
 vlog về cách mix đồ công sở
+vodka có logo nhãn hiệu nổi bật
+vodka trực tiếp từ chai
+vodka từ chai có thương hiệu để livestream
+vodka từ chai thủy tinh có logo thương hiệu
+vodka vào ly để quay video quảng bá
 vui vẻ
 và chỉ tay vào bảng quảng cáo
 và hét lớn
@@ -8277,6 +8364,7 @@ vắt chân
 vắt chân khoe đùi
 vắt chân trên ghế da
 vắt chân trên ghế sofa và vuốt tóc
+vặt và uống nước ngọt trên bãi cỏ
 vẻ hoang mang
 vẻ lo sợ
 vẻ lo âu
@@ -8439,6 +8527,9 @@ vụ trộm cướp bạo lực từ camera an ninh
 vụ trộm cắp từ camera an ninh
 website
 website bằng công cụ kéo thả
+whisky trong lúc lái xe máy
+whisky trong lúc lái ô tô
+whisky với logo thương hiệu phía sau
 xa với vẻ lo lắng
 xa xăm qua ô kính
 xanh lá cây
@@ -8466,6 +8557,7 @@ xe qua cây cầu
 xe quanh công viên
 xe quanh khu dân cư
 xe ra khỏi bãi
+xe sau khi uống rượu mạnh
 xe trong gara
 xe trong thành phố buổi tối
 xe trước nhà
@@ -8562,6 +8654,10 @@ xếp đồ trang điểm trên bàn
 xếp đồ trang điểm vào hộp
 xếp đồ trang điểm vào hộp gọn gàng
 xếp đồ trang điểm vào túi nhỏ
+xỉn sau khi uống nhiều rượu mạnh
+xỉn sau khi uống rượu mạnh
+xỉn trong quán bar sau khi uống rượu mạnh
+xỉn và ngã xuống sau khi uống rượu
 yoga
 yoga buổi sáng
 yoga buổi sáng trong phòng

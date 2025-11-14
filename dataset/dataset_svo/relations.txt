@@ -85,6 +85,7 @@ cho
 cho biết
 cho phép
 cho thấy
+choàng
 chuyển
 chuẩn
 chuẩn bị
@@ -364,6 +365,7 @@ rượt đuổi
 rải
 rọi
 rửa
+say
 siết
 so sánh
 sofa
