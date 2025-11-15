@@ -739,7 +739,8 @@ def main():
     
     logger.info(f"Using dropout: {args.dropout} (hidden_dropout_prob, attention_probs_dropout_prob)")
     
-    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, config=config, num_labels=num_labels)
+    # Không truyền num_labels vào from_pretrained vì đã có trong config rồi
+    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, config=config)
 
     if args.fp16:
         model.half()
