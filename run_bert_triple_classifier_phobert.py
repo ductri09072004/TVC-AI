@@ -631,18 +631,22 @@ def main():
     parser.add_argument('--server_port', type=str, default='', help="Can be used for distant debugging.")
     parser.add_argument('--patience',
                         type=int,
-                        default=3,
-                        help="Number of epochs to wait for improvement before early stopping")
+                        default=5,
+                        help="Number of epochs to wait for improvement before early stopping (tăng để model học kỹ hơn)")
     parser.add_argument('--min_delta',
                         type=float,
-                        default=0.001,
-                        help="Minimum change in the monitored quantity to qualify as an improvement")
+                        default=0.0001,
+                        help="Minimum change in the monitored quantity to qualify as an improvement (giảm để nhạy hơn)")
     # New: loss & regularization options
     parser.add_argument('--loss_type', type=str, default='ce', choices=['ce', 'label_smoothing', 'focal'],
                         help='Loại loss: ce (mặc định), label_smoothing, focal')
-    parser.add_argument('--label_smoothing', type=float, default=0.1, help='Hệ số label smoothing cho CE')
+    parser.add_argument('--label_smoothing', type=float, default=0.2, help='Hệ số label smoothing cho CE (tăng để giảm overfitting, default: 0.2)')
     parser.add_argument('--focal_gamma', type=float, default=2.0, help='Gamma cho focal loss')
     parser.add_argument('--class_weights', type=str, default='', help='Trọng số lớp, ví dụ: "1.0,2.0" (cho [0,1])')
+    # Regularization options để giảm overfitting
+    parser.add_argument('--dropout', type=float, default=0.3, help='Dropout rate cho hidden layers và attention (default: 0.3, tăng để giảm overfitting)')
+    parser.add_argument('--weight_decay', type=float, default=0.1, help='Weight decay cho optimizer (default: 0.1, tăng để giảm overfitting)')
+    parser.add_argument('--max_grad_norm', type=float, default=1.0, help='Gradient clipping max norm (default: 1.0)')
     # New: threshold tuning
     parser.add_argument('--tune_threshold', action='store_true', help='Tự động tìm ngưỡng tốt nhất trên Dev và lưu ra threshold.json')
     args = parser.parse_args()
@@ -723,9 +727,19 @@ def main():
         if args.local_rank != -1:
             num_train_optimization_steps = num_train_optimization_steps // torch.distributed.get_world_size()
 
-    # Load tokenizer and model
+    # Load tokenizer and model với dropout tùy chỉnh để giảm overfitting
     tokenizer = AutoTokenizer.from_pretrained(args.bert_model, do_lower_case=args.do_lower_case)
-    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, num_labels=num_labels)
+    
+    # Tạo config với dropout tùy chỉnh
+    config = AutoConfig.from_pretrained(args.bert_model, num_labels=num_labels)
+    config.hidden_dropout_prob = args.dropout
+    config.attention_probs_dropout_prob = args.dropout
+    if hasattr(config, 'classifier_dropout'):
+        config.classifier_dropout = args.dropout
+    
+    logger.info(f"Using dropout: {args.dropout} (hidden_dropout_prob, attention_probs_dropout_prob)")
+    
+    model = AutoModelForSequenceClassification.from_pretrained(args.bert_model, config=config, num_labels=num_labels)
 
     if args.fp16:
         model.half()
@@ -749,11 +763,12 @@ def main():
                             for n, param in model.named_parameters()]
     else:
         param_optimizer = list(model.named_parameters())
-    no_decay = ['bias', 'gamma', 'beta']
+    no_decay = ['bias', 'gamma', 'beta', 'LayerNorm.weight']
     optimizer_grouped_parameters = [
-        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay_rate': 0.01},
-        {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay_rate': 0.0}
+        {'params': [p for n, p in param_optimizer if not any(nd in n for nd in no_decay)], 'weight_decay': args.weight_decay},
+        {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
         ]
+    logger.info(f"Using weight_decay: {args.weight_decay} for parameters with decay")
     t_total = num_train_optimization_steps
     if args.local_rank != -1:
         t_total = t_total // torch.distributed.get_world_size()
@@ -782,6 +797,17 @@ def main():
         else:
             train_sampler = DistributedSampler(train_data)
         train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args.train_batch_size)
+
+        # Tạo eval dataloader để dùng cho early stopping (dựa trên dev loss)
+        eval_examples = processor.get_dev_examples(args.data_dir)
+        eval_features = convert_examples_to_features(
+            eval_examples, label_list, args.max_seq_length, tokenizer, print_info=False)
+        all_eval_input_ids = torch.tensor([f.input_ids for f in eval_features], dtype=torch.long)
+        all_eval_input_mask = torch.tensor([f.input_mask for f in eval_features], dtype=torch.long)
+        all_eval_label_ids = torch.tensor([f.label_id for f in eval_features], dtype=torch.long)
+        eval_data = TensorDataset(all_eval_input_ids, all_eval_input_mask, all_eval_label_ids)
+        eval_sampler = SequentialSampler(eval_data)
+        eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=args.eval_batch_size)
 
         # Initialize early stopping
         early_stopping = EarlyStopping(patience=args.patience, min_delta=args.min_delta, verbose=True)
@@ -836,6 +862,10 @@ def main():
                         lr_this_step = args.learning_rate * scheduler.get_lr(global_step, args.warmup_proportion)
                         for param_group in optimizer.param_groups:
                             param_group['lr'] = lr_this_step
+                    # Gradient clipping để tránh gradient explosion và giúp training ổn định
+                    if args.max_grad_norm > 0:
+                        torch.nn.utils.clip_grad_norm_(model.parameters(), args.max_grad_norm)
+                    
                     optimizer.step()
                     scheduler.step()
                     optimizer.zero_grad()
@@ -844,8 +874,32 @@ def main():
             # Calculate average loss for the epoch
             avg_loss = tr_loss / nb_tr_steps
             
-            # Early stopping check
-            early_stopping(avg_loss, model, best_model_path)
+            # Evaluate on dev set để early stopping dựa trên dev loss thay vì train loss
+            # (giúp tránh overfitting tốt hơn)
+            model.eval()
+            eval_loss_sum = 0
+            eval_steps = 0
+            with torch.no_grad():
+                for eval_batch in tqdm(eval_dataloader, desc="Eval during training"):
+                    eval_batch = tuple(t.to(device) for t in eval_batch)
+                    eval_input_ids, eval_input_mask, eval_label_ids = eval_batch
+                    eval_outputs = model(eval_input_ids, attention_mask=eval_input_mask)
+                    eval_logits = eval_outputs.logits
+                    
+                    if args.loss_type == 'focal':
+                        eval_loss = focal_loss(eval_logits, eval_label_ids, gamma=args.focal_gamma, weights=class_w_tensor)
+                    else:
+                        eval_loss = criterion(eval_logits, eval_label_ids)
+                    eval_loss_sum += eval_loss.mean().item()
+                    eval_steps += 1
+            
+            avg_eval_loss = eval_loss_sum / eval_steps if eval_steps > 0 else avg_loss
+            model.train()
+            
+            logger.info(f"Epoch {epoch+1}: Train Loss = {avg_loss:.4f}, Dev Loss = {avg_eval_loss:.4f}")
+            
+            # Early stopping check dựa trên dev loss (tốt hơn train loss)
+            early_stopping(avg_eval_loss, model, best_model_path)
             if early_stopping.early_stop:
                 logger.info("Early stopping triggered")
                 break
