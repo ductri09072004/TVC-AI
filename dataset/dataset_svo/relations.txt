@@ -112,12 +112,14 @@ chọn
 chớp
 chớp nháy
 chụp
+chụp ảnh
 chứa
 code
 cuộn
 cài
 câu
 cãi
+cãi nhau
 có
 cùng
 cúi
@@ -233,6 +235,7 @@ kêu gọi
 kích hoạt
 ký
 kể
+la hét
 lan
 lan truyền
 lan tỏa
@@ -249,6 +252,7 @@ logo
 làm
 làm giả
 làm sạch
+làm việc
 lái
 lái xe
 lóe
@@ -263,6 +267,7 @@ lồng ghép
 lồng tiếng
 lộ
 mua
+mua sắm
 màn hình cong
 màu
 màu xanh
@@ -324,6 +329,7 @@ nhợt nhạt
 nâng
 ném
 nói
+nói chuyện
 nóng
 nóng hổi
 nước
@@ -364,6 +370,7 @@ rơi
 rượt đuổi
 rải
 rọi
+rủ rê
 rửa
 say
 siết
@@ -382,6 +389,7 @@ sửa
 sữa
 tay
 tham gia
+tham quan
 thanh toán
 thay
 thay đổi
@@ -416,6 +424,7 @@ trang
 trang trí
 trang điểm
 trao
+trao đổi
 treo
 trong
 trong suốt
@@ -430,6 +439,7 @@ trò
 trò chuyện
 trượt
 trả
+trải nghiệm
 trồng
 trộn
 tuyên bố
@@ -444,7 +454,9 @@ tưới
 tạo
 tạo dáng
 tải
+tấn công
 tập
+tập thể dục
 tập trung
 tỉa
 tỏa
@@ -678,6 +690,7 @@ yếu
 đe dọa
 đeo
 đi
+đi dạo
 điền
 điều khiển
 điện nước
@@ -699,11 +712,13 @@ yếu
 đầy
 đẩy
 đập
+đập phá
 đậu
 đặt
 đặt vé
 đếm
 đọc
+đọc sách
 đọc trộm
 đốt
 đổ
