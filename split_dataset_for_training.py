@@ -110,41 +110,101 @@ def _two_stage_stratified_group_split(
         sgk = None
 
     # Helper: lấy fold gần nhất với tỉ lệ mong muốn
-    def split_with_ratio(indices, labels, groups_arr, ratio):
-        # Chọn một fold làm validation với kích thước gần ratio
+    def split_with_ratio(indices, labels, groups_arr, ratio, n_splits=None):
+        # Chọn fold(s) làm validation với kích thước gần ratio nhất
+        # n_splits: số lượng splits để thử (mặc định 5, nhưng có thể tăng để chính xác hơn)
+        if n_splits is None:
+            # Tính n_splits tối ưu: cần đủ splits để có fold gần ratio
+            # Ví dụ: ratio=0.5 cần ít nhất 10 splits để có fold gần 50%
+            # ratio=0.1 cần ít nhất 10 splits để có fold gần 10%
+            min_ratio = min(ratio, 1.0 - ratio)
+            n_splits = max(10, int(1.0 / min_ratio) + 2)  # +2 để có buffer
+        
         if groups_arr is not None and sgk is not None:
-            best = None
-            for train_idx, val_idx in sgk.split(indices, labels, groups_arr):
-                frac = len(val_idx) / len(indices)
-                score = abs(frac - ratio)
-                if best is None or score < best[0]:
-                    best = (score, train_idx, val_idx)
-            assert best is not None
-            return indices[best[1]], indices[best[2]]
+            # Tạo StratifiedGroupKFold mới với n_splits phù hợp
+            from sklearn.model_selection import StratifiedGroupKFold
+            local_sgk = StratifiedGroupKFold(n_splits=n_splits, shuffle=True, random_state=random_state)
+            
+            # Thu thập tất cả các folds
+            all_folds = []
+            for train_idx, val_idx in local_sgk.split(indices, labels, groups_arr):
+                all_folds.append((train_idx, val_idx))
+            
+            # Nếu ratio lớn hơn 1/n_splits, cần chọn nhiều folds
+            # Tính số folds cần chọn
+            num_folds_needed = max(1, round(ratio * n_splits))
+            
+            if num_folds_needed == 1:
+                # Chọn 1 fold gần ratio nhất
+                best = None
+                for train_idx, val_idx in all_folds:
+                    frac = len(val_idx) / len(indices)
+                    score = abs(frac - ratio)
+                    if best is None or score < best[0]:
+                        best = (score, train_idx, val_idx)
+                assert best is not None
+                return indices[best[1]], indices[best[2]]
+            else:
+                # Với ratio lớn (như 0.5), cần chọn một cách chia khác
+                # Sử dụng StratifiedGroupShuffleSplit để chia chính xác hơn và giữ groups
+                try:
+                    from sklearn.model_selection import StratifiedGroupShuffleSplit
+                    sgss = StratifiedGroupShuffleSplit(n_splits=1, test_size=ratio, random_state=random_state)
+                    for tr_idx, val_idx in sgss.split(indices, labels, groups_arr):
+                        return indices[tr_idx], indices[val_idx]
+                except (ImportError, ValueError):
+                    # Fallback: StratifiedShuffleSplit (không group)
+                    from sklearn.model_selection import StratifiedShuffleSplit
+                    sss = StratifiedShuffleSplit(n_splits=1, test_size=ratio, random_state=random_state)
+                    for tr_idx, val_idx in sss.split(indices, labels):
+                        return indices[tr_idx], indices[val_idx]
+                # Fallback nếu không có
+                raise ValueError("Failed to split with ratio")
         else:
             # Fallback: StratifiedKFold (không group)
             from sklearn.model_selection import StratifiedKFold
-            skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=random_state)
-            best = None
+            skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=random_state)
+            
+            all_folds = []
             for tr, va in skf.split(indices, labels):
-                frac = len(va) / len(indices)
-                score = abs(frac - ratio)
-                if best is None or score < best[0]:
-                    best = (score, tr, va)
-            assert best is not None
-            return indices[best[1]], indices[best[2]]
+                all_folds.append((tr, va))
+            
+            num_folds_needed = max(1, round(ratio * n_splits))
+            
+            if num_folds_needed == 1:
+                best = None
+                for tr, va in all_folds:
+                    frac = len(va) / len(indices)
+                    score = abs(frac - ratio)
+                    if best is None or score < best[0]:
+                        best = (score, tr, va)
+                assert best is not None
+                return indices[best[1]], indices[best[2]]
+            else:
+                # Với ratio lớn (như 0.5), sử dụng StratifiedShuffleSplit
+                from sklearn.model_selection import StratifiedShuffleSplit
+                sss = StratifiedShuffleSplit(n_splits=1, test_size=ratio, random_state=random_state)
+                for tr_idx, val_idx in sss.split(indices, labels):
+                    return indices[tr_idx], indices[val_idx]
+                # Fallback nếu không có
+                raise ValueError("Failed to split with ratio")
 
     labels = y.astype(int)
     group_arr = groups if groups is not None else None
     # Bước 1: Train vs Temp
     train_idx, temp_idx = split_with_ratio(idx_all, labels, group_arr, 1.0 - train_ratio)
-    # Bước 2: Temp → Dev/Test (50/50 của temp nếu dev=test)
+    # Bước 2: Temp → Dev/Test
     temp_labels = labels[temp_idx]
     temp_groups = group_arr[temp_idx] if group_arr is not None else None
     # Tránh chia 0
     temp_total = len(temp_idx)
+    # Tính tỉ lệ dev trong temp: dev_ratio / (dev_ratio + test_ratio)
+    # Ví dụ: dev=0.1, test=0.1 → dev trong temp = 0.1/0.2 = 0.5 (50%)
     desired_dev_ratio_in_temp = dev_ratio / (dev_ratio + test_ratio) if (dev_ratio + test_ratio) > 0 else 0.5
-    dev_sub_idx, test_sub_idx = split_with_ratio(np.arange(temp_total), temp_labels, temp_groups, 1.0 - desired_dev_ratio_in_temp)
+    # split_with_ratio trả về (train_idx, val_idx) với val_idx có tỉ lệ gần ratio nhất
+    # Ta muốn dev có tỉ lệ desired_dev_ratio_in_temp, nên gọi với ratio = desired_dev_ratio_in_temp
+    # dev_sub_idx sẽ là val_idx (phần dev), test_sub_idx sẽ là train_idx (phần còn lại = test)
+    test_sub_idx, dev_sub_idx = split_with_ratio(np.arange(temp_total), temp_labels, temp_groups, desired_dev_ratio_in_temp)
     dev_idx = temp_idx[dev_sub_idx]
     test_idx = temp_idx[test_sub_idx]
     return train_idx, dev_idx, test_idx
