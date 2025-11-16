@@ -112,12 +112,14 @@ chọn	chọn
 chớp	chớp
 chớp nháy	chớp nháy
 chụp	chụp
+chụp ảnh	chụp ảnh
 chứa	chứa
 code	code
 cuộn	cuộn
 cài	cài
 câu	câu
 cãi	cãi
+cãi nhau	cãi nhau
 có	có
 cùng	cùng
 cúi	cúi
@@ -233,6 +235,7 @@ kêu gọi	kêu gọi
 kích hoạt	kích hoạt
 ký	ký
 kể	kể
+la hét	la hét
 lan	lan
 lan truyền	lan truyền
 lan tỏa	lan tỏa
@@ -249,6 +252,7 @@ logo	logo
 làm	làm
 làm giả	làm giả
 làm sạch	làm sạch
+làm việc	làm việc
 lái	lái
 lái xe	lái xe
 lóe	lóe
@@ -263,6 +267,7 @@ lồng ghép	lồng ghép
 lồng tiếng	lồng tiếng
 lộ	lộ
 mua	mua
+mua sắm	mua sắm
 màn hình cong	màn hình cong
 màu	màu
 màu xanh	màu xanh
@@ -324,6 +329,7 @@ nhợt nhạt	nhợt nhạt
 nâng	nâng
 ném	ném
 nói	nói
+nói chuyện	nói chuyện
 nóng	nóng
 nóng hổi	nóng hổi
 nước	nước
@@ -364,6 +370,7 @@ rơi	rơi
 rượt đuổi	rượt đuổi
 rải	rải
 rọi	rọi
+rủ rê	rủ rê
 rửa	rửa
 say	say
 siết	siết
@@ -382,6 +389,7 @@ sửa	sửa
 sữa	sữa
 tay	tay
 tham gia	tham gia
+tham quan	tham quan
 thanh toán	thanh toán
 thay	thay
 thay đổi	thay đổi
@@ -416,6 +424,7 @@ trang	trang
 trang trí	trang trí
 trang điểm	trang điểm
 trao	trao
+trao đổi	trao đổi
 treo	treo
 trong	trong
 trong suốt	trong suốt
@@ -430,6 +439,7 @@ trò	trò
 trò chuyện	trò chuyện
 trượt	trượt
 trả	trả
+trải nghiệm	trải nghiệm
 trồng	trồng
 trộn	trộn
 tuyên bố	tuyên bố
@@ -444,7 +454,9 @@ tưới	tưới
 tạo	tạo
 tạo dáng	tạo dáng
 tải	tải
+tấn công	tấn công
 tập	tập
+tập thể dục	tập thể dục
 tập trung	tập trung
 tỉa	tỉa
 tỏa	tỏa
@@ -678,6 +690,7 @@ yếu	yếu
 đe dọa	đe dọa
 đeo	đeo
 đi	đi
+đi dạo	đi dạo
 điền	điền
 điều khiển	điều khiển
 điện nước	điện nước
@@ -699,11 +712,13 @@ yếu	yếu
 đầy	đầy
 đẩy	đẩy
 đập	đập
+đập phá	đập phá
 đậu	đậu
 đặt	đặt
 đặt vé	đặt vé
 đếm	đếm
 đọc	đọc
+đọc sách	đọc sách
 đọc trộm	đọc trộm
 đốt	đốt
 đổ	đổ

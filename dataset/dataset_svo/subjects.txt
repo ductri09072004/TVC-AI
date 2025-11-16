@@ -104,6 +104,7 @@ Gameplay
 Gia sư
 Gia đình
 Gia đình bốn người
+Gia đình trẻ
 Giao diện
 Giáo viên
 Gió
@@ -141,6 +142,7 @@ Học sinh
 Khuôn mặt
 Khuôn mặt cận cảnh
 Khuôn mặt người già
+Khách du lịch
 Khách hàng
 Kiến trúc sư
 Kỹ sư
@@ -257,12 +259,14 @@ Một người
 Một người phụ nữ
 Một người trẻ
 Một người đàn ông
+Một người đàn ông lạ mặt
 Một người đàn ông mặc vest
 Một ngọn nến
 Một nhóm bạn
 Một nhóm người
 Một nhóm thanh niên
 Một nhóm đàn ông
+Một nhóm đối tượng
 Một nụ cười
 Một phong bì
 Một phong bì dày
@@ -517,6 +521,7 @@ Xác động vật
 Ánh đèn xanh
 Ánh đèn đỏ
 Ô tô
+Ông bố
 Ông thầy
 Điện thoại di động
 Đoàn tàu

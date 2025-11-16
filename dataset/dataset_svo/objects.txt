@@ -39,6 +39,16 @@ app theo dõi sức khỏe cá nhân
 app đầu tư “không rủi ro 100%”
 app đặt vé máy bay giá rẻ
 ba lô du lịch
+ba lô ngoài đường
+ba lô trong quán cà phê
+ba lô trong trung tâm thương mại
+ba lô trên bãi biển
+ba lô tại rạp chiếu phim
+ba lô tại siêu thị
+ba lô tại trường học
+ba lô tại văn phòng
+ba lô ở công viên
+ba lô ở cửa hàng tiện lợi
 balo bước ra khỏi lớp học
 balo du lịch và chỉ bảng chỉ đường thành phố
 bao phủ bàn phím
@@ -47,6 +57,7 @@ bia cho bạn trong lúc livestream
 bia cho trẻ vị thành niên trong clip
 bia giữa đường phố đông người
 bia hơi cho khách trong quán ăn
+bia khi leo núi
 bia khi lái mô tô ngoài phố
 bia khi lái ô tô
 bia khi xem bóng đá
@@ -55,6 +66,7 @@ bia khi đang lái xe
 bia khi đang lái xe máy
 bia khi đang lái xe tải
 bia khi đang quảng cáo sản phẩm
+bia khi điều khiển thuyền
 bia khi đứng trên sân khấu
 bia không cồn trong phòng khách
 bia không logo bên bãi biển
@@ -90,13 +102,25 @@ bia rồi hét tên thương hiệu trên sân khấu
 bia sau buổi biểu diễn
 bia trong buổi livestream bán hàng
 bia trong buổi phát trực tiếp
+bia trong buổi picnic
+bia trong buổi tiệc
 bia trong buổi xem bóng đá
 bia trong khi lái ô tô
 bia trong lúc chơi game trực tiếp
+bia trong nhà hàng sang trọng
+bia trong phòng gym
+bia trong quán bar với poster thương hiệu
+bia trong studio quay phim
 bia trong tiệc cuối tuần
+bia trên bãi biển
+bia trên livestream quảng bá
 bia trên sân thượng giữa đêm
 bia trên xe tải đang chạy
+bia trước biển hiệu quảng cáo
+bia tại công viên
+bia tại cửa hàng tiện lợi
 bia tại quán bar đông người
+bia tại siêu thị
 bia từ chai cao cổ với ánh mắt gợi cảm
 bia và giới thiệu sản phẩm
 bia và hét to khẩu hiệu thương hiệu
@@ -109,6 +133,8 @@ bia vào cốc trên bàn
 bia vào ly của người phụ nữ bên cạnh
 bia vào ly giữa đám đông tiệc tùng
 bia vào ly và hô to thương hiệu
+bia ở lễ hội âm nhạc
+bia ở quán cà phê
 bida trong quán rượu và cụng ly vui vẻ
 bikini chụp ảnh bên bể bơi
 bikini chụp ảnh ngoài biển
@@ -191,6 +217,8 @@ biểu đồ “đầu tư ổn định”
 board game
 bong bóng xà phòng
 bong bóng xà phòng cùng trẻ nhỏ
+bourbon khi leo núi
+bourbon khi điều khiển thuyền
 bourbon thương hiệu lớn khi điều khiển thuyền
 bourbon thương hiệu lớn trong clip quảng cáo
 bourbon thương hiệu lớn trong khi leo núi
@@ -198,6 +226,20 @@ bourbon thương hiệu lớn trong lúc lái ô tô
 bourbon thương hiệu lớn trong quán bar với poster thương hiệu
 bourbon thương hiệu lớn trên livestream quảng bá
 bourbon thương hiệu lớn trước biển hiệu quảng cáo
+bourbon trong buổi picnic
+bourbon trong buổi tiệc
+bourbon trong nhà hàng sang trọng
+bourbon trong phòng gym
+bourbon trong quán bar với poster thương hiệu
+bourbon trong studio quay phim
+bourbon trên bãi biển
+bourbon trên livestream quảng bá
+bourbon trước biển hiệu quảng cáo
+bourbon tại công viên
+bourbon tại cửa hàng tiện lợi
+bourbon tại siêu thị
+bourbon ở lễ hội âm nhạc
+bourbon ở quán cà phê
 buổi học lập trình quảng cáo khóa học
 buổi sáng
 buổi thuyết trình online
@@ -338,6 +380,9 @@ bánh mì bơ tỏi
 bánh mì bơ đậu phộng
 bánh mì hoa cúc
 bánh mì hoa cúc (pull-apart bread)
+bánh mì khi leo núi
+bánh mì khi điều khiển thuyền
+bánh mì ngoài đường
 bánh mì ngũ cốc
 bánh mì ngũ cốc nguyên hạt
 bánh mì nướng bơ dừa
@@ -357,15 +402,46 @@ bánh mì nướng nhân trứng và phô mai
 bánh mì nướng phô mai và thịt nguội
 bánh mì nướng trứng
 bánh mì sandwich được cắt đôi
+bánh mì trong buổi picnic
+bánh mì trong buổi tiệc
 bánh mì trong bếp
 bánh mì trong căng tin
+bánh mì trong nhà hàng sang trọng
+bánh mì trong phòng gym
+bánh mì trong quán bar với poster thương hiệu
+bánh mì trong quán cà phê
+bánh mì trong studio quay phim
+bánh mì trong trung tâm thương mại
+bánh mì trên bãi biển
+bánh mì trên livestream quảng bá
+bánh mì trước biển hiệu quảng cáo
+bánh mì tại công viên
+bánh mì tại cửa hàng tiện lợi
+bánh mì tại rạp chiếu phim
+bánh mì tại siêu thị
+bánh mì tại trường học
+bánh mì tại văn phòng
+bánh mì ở công viên
+bánh mì ở cửa hàng tiện lợi
+bánh mì ở lễ hội âm nhạc
+bánh mì ở quán cà phê
 bánh ngọt
 bánh ngọt chia phần
 bánh ngọt cùng bạn bè
 bánh ngọt cùng bạn ở quán cà phê
+bánh ngọt ngoài đường
+bánh ngọt trong quán cà phê
 bánh ngọt trong quán cà phê nhỏ
 bánh ngọt trong tiệm cà phê
+bánh ngọt trong trung tâm thương mại
+bánh ngọt trên bãi biển
+bánh ngọt tại rạp chiếu phim
+bánh ngọt tại siêu thị
+bánh ngọt tại trường học
+bánh ngọt tại văn phòng
 bánh ngọt và cười nhẹ
+bánh ngọt ở công viên
+bánh ngọt ở cửa hàng tiện lợi
 bánh pizza tại nhà
 bánh quy
 bánh quy bơ
@@ -375,6 +451,22 @@ bánh quy trên khay nướng
 bánh quy vào hộp
 bánh quy được nhúng vào sữa
 bánh sinh nhật cho con
+bánh snack khi leo núi
+bánh snack khi điều khiển thuyền
+bánh snack trong buổi picnic
+bánh snack trong buổi tiệc
+bánh snack trong nhà hàng sang trọng
+bánh snack trong phòng gym
+bánh snack trong quán bar với poster thương hiệu
+bánh snack trong studio quay phim
+bánh snack trên bãi biển
+bánh snack trên livestream quảng bá
+bánh snack trước biển hiệu quảng cáo
+bánh snack tại công viên
+bánh snack tại cửa hàng tiện lợi
+bánh snack tại siêu thị
+bánh snack ở lễ hội âm nhạc
+bánh snack ở quán cà phê
 bánh taco chay
 bánh tiramisu
 bánh trong bếp
@@ -522,6 +614,19 @@ bạn trai trong cảnh tranh cãi
 bạn trong cảnh gây cười
 bạo lực cực đoan chém giết
 bạo lực học đường chi tiết
+bạo lực học đường khi lái xe
+bạo lực học đường khi quay video quảng cáo
+bạo lực học đường ngoài đường
+bạo lực học đường trong buổi tụ tập
+bạo lực học đường trong bãi xe
+bạo lực học đường trong căn hộ thuê
+bạo lực học đường trong giờ học
+bạo lực học đường trong quán bar
+bạo lực học đường trên livestream
+bạo lực học đường trên mạng xã hội
+bạo lực học đường tại cửa hàng tiện lợi
+bạo lực học đường tại khu chung cư
+bạo lực học đường ở công viên
 bạo lực để quảng cáo phim
 bản tin kinh tế
 bản tin tài chính buổi sáng
@@ -652,6 +757,22 @@ bộ với bạn
 bộ với đồng hồ thông minh đo nhịp tim
 bộ đồ yoga mới trước gương
 bột giấy và màu đỏ
+bột giặt khi leo núi
+bột giặt khi điều khiển thuyền
+bột giặt trong buổi picnic
+bột giặt trong buổi tiệc
+bột giặt trong nhà hàng sang trọng
+bột giặt trong phòng gym
+bột giặt trong quán bar với poster thương hiệu
+bột giặt trong studio quay phim
+bột giặt trên bãi biển
+bột giặt trên livestream quảng bá
+bột giặt trước biển hiệu quảng cáo
+bột giặt tại công viên
+bột giặt tại cửa hàng tiện lợi
+bột giặt tại siêu thị
+bột giặt ở lễ hội âm nhạc
+bột giặt ở quán cà phê
 bột làm bánh mì nướng
 bột làm bánh pancake
 bột làm bánh vào tô thủy tinh
@@ -660,8 +781,21 @@ bột này giúp chữa bệnh gan mãn tính
 bột này giúp mọc tóc tức thì không cần kiểm chứng
 bột này giúp tăng trí nhớ sau một lần uống
 bột pha uống này giúp da sáng lên chỉ sau một đêm
+bột trắng khi lái xe
+bột trắng khi quay video quảng cáo
+bột trắng ngoài đường
 bột trắng này giúp da bật tông chỉ sau 3 phút
 bột trắng này giúp trắng da tức thì
+bột trắng trong buổi tụ tập
+bột trắng trong bãi xe
+bột trắng trong căn hộ thuê
+bột trắng trong giờ học
+bột trắng trong quán bar
+bột trắng trên livestream
+bột trắng trên mạng xã hội
+bột trắng tại cửa hàng tiện lợi
+bột trắng tại khu chung cư
+bột trắng ở công viên
 bột tắm trắng này được bệnh viện khuyên dùng sai sự thật
 bột uống này giúp giảm 10kg sau 5 ngày
 bột vào mặt
@@ -738,6 +872,19 @@ chia sẻ bài viết sẽ được tặng tiền
 chia sẻ bài đăng là nhận phần thưởng lớn
 chia sẻ link là nhận 5 triệu
 chia sẻ liên kết này là nhận thưởng tiền thật
+chiêu lừa đảo khi lái xe
+chiêu lừa đảo khi quay video quảng cáo
+chiêu lừa đảo ngoài đường
+chiêu lừa đảo trong buổi tụ tập
+chiêu lừa đảo trong bãi xe
+chiêu lừa đảo trong căn hộ thuê
+chiêu lừa đảo trong giờ học
+chiêu lừa đảo trong quán bar
+chiêu lừa đảo trên livestream
+chiêu lừa đảo trên mạng xã hội
+chiêu lừa đảo tại cửa hàng tiện lợi
+chiêu lừa đảo tại khu chung cư
+chiêu lừa đảo ở công viên
 chiếc cốc giữ nhiệt tumbler
 chiếc ghế nhựa ra khỏi khung hình
 chiếc gương trang điểm có đèn LED
@@ -894,6 +1041,19 @@ chảy máu tay
 chảy máu trên cổ
 chất bổ sung tăng hormone không kiểm chứng
 chất bột
+chất kích thích khi lái xe
+chất kích thích khi quay video quảng cáo
+chất kích thích ngoài đường
+chất kích thích trong buổi tụ tập
+chất kích thích trong bãi xe
+chất kích thích trong căn hộ thuê
+chất kích thích trong giờ học
+chất kích thích trong quán bar
+chất kích thích trên livestream
+chất kích thích trên mạng xã hội
+chất kích thích tại cửa hàng tiện lợi
+chất kích thích tại khu chung cư
+chất kích thích ở công viên
 chất lượng giấc ngủ nông trên app theo dõi giấc ngủ
 chất lượng giấc ngủ qua ứng dụng
 chất lượng giấc ngủ sâu trên ứng dụng
@@ -1029,9 +1189,25 @@ chữa được ung thư không kiểm chứng
 clip YouTube
 co ro trong góc phòng
 co ro trên sàn
+cocktail khi leo núi
+cocktail khi điều khiển thuyền
 cocktail không cồn cho khách
 cocktail không cồn trong bar
+cocktail trong buổi picnic
+cocktail trong buổi tiệc
+cocktail trong nhà hàng sang trọng
+cocktail trong phòng gym
+cocktail trong quán bar với poster thương hiệu
+cocktail trong studio quay phim
+cocktail trên bãi biển
+cocktail trên livestream quảng bá
+cocktail trước biển hiệu quảng cáo
+cocktail tại công viên
+cocktail tại cửa hàng tiện lợi
+cocktail tại siêu thị
 cocktail với vodka thương hiệu ABC
+cocktail ở lễ hội âm nhạc
+cocktail ở quán cà phê
 code HTML
 code trong không gian làm việc mở
 code trong phòng máy tính
@@ -1114,8 +1290,10 @@ cà phê bằng ấm thủy tinh
 cà phê cùng bạn bè
 cà phê cạnh cửa sổ lớn
 cà phê khi học khuya
+cà phê khi leo núi
 cà phê khi xem bóng đá
 cà phê khi đi dã ngoại
+cà phê khi điều khiển thuyền
 cà phê latte với kem sữa
 cà phê lên bàn phím
 cà phê lên người
@@ -1134,23 +1312,34 @@ cà phê sữa trong cốc gốm
 cà phê sữa trong ly thủy tinh
 cà phê sữa đá trên quầy bếp
 cà phê trong buổi picnic
+cà phê trong buổi tiệc
 cà phê trong buổi tiệc gia đình
 cà phê trong bếp
 cà phê trong bếp dưới ánh sáng buổi sáng
 cà phê trong công viên
 cà phê trong cốc
 cà phê trong ký túc xá
+cà phê trong nhà hàng sang trọng
 cà phê trong phòng bếp sáng ánh nắng
+cà phê trong phòng gym
 cà phê trong phòng họp buổi sáng
 cà phê trong phòng khách
+cà phê trong quán bar với poster thương hiệu
 cà phê trong quán buổi sáng
 cà phê trong quán nhìn ra cửa sổ
 cà phê trong quán nhỏ
 cà phê trong quán với ánh sáng buổi sáng dịu nhẹ
 cà phê trong quán ánh sáng buổi sáng chiếu vào bàn
+cà phê trong studio quay phim
 cà phê trong văn phòng
+cà phê trên bãi biển
+cà phê trên livestream quảng bá
+cà phê trước biển hiệu quảng cáo
 cà phê trước rạp chiếu phim
+cà phê tại công viên
+cà phê tại cửa hàng tiện lợi
 cà phê tại nhà
+cà phê tại siêu thị
 cà phê và làm việc với laptop
 cà phê và đọc email trên laptop
 cà phê với sữa tươi
@@ -1163,6 +1352,7 @@ cà phê đen đậm
 cà phê đá trong ly thủy tinh
 cà phê đá trong quán ánh sáng buổi sáng phản chiếu lên bàn
 cà phê đọc báo
+cà phê ở lễ hội âm nhạc
 cà phê ở quán cà phê
 cà vạt
 cà vạt trước buổi họp
@@ -1415,6 +1605,19 @@ cảnh đốt vàng mã trong cửa hàng
 cầm lon bia trên tay
 cầm lon nước ngọt trong công viên
 cầm ly bia nhẹ bên hồ bơi
+cần sa khi lái xe
+cần sa khi quay video quảng cáo
+cần sa ngoài đường
+cần sa trong buổi tụ tập
+cần sa trong bãi xe
+cần sa trong căn hộ thuê
+cần sa trong giờ học
+cần sa trong quán bar
+cần sa trên livestream
+cần sa trên mạng xã hội
+cần sa tại cửa hàng tiện lợi
+cần sa tại khu chung cư
+cần sa ở công viên
 cầu dao trong căn hộ
 cầu duyên trong đền để bán vòng đá đỏ
 cầu lông
@@ -1492,6 +1695,19 @@ cổ áo nhau và gào thét để nhấn mạnh drama
 cổ áo đối thủ và gầm lên
 cổ đến ngất
 cổng sạc USB-C
+cờ bạc online khi lái xe
+cờ bạc online khi quay video quảng cáo
+cờ bạc online ngoài đường
+cờ bạc online trong buổi tụ tập
+cờ bạc online trong bãi xe
+cờ bạc online trong căn hộ thuê
+cờ bạc online trong giờ học
+cờ bạc online trong quán bar
+cờ bạc online trên livestream
+cờ bạc online trên mạng xã hội
+cờ bạc online tại cửa hàng tiện lợi
+cờ bạc online tại khu chung cư
+cờ bạc online ở công viên
 cờ caro ngoài ban công
 cờ tướng trong quán cà phê
 cờ vua
@@ -1508,6 +1724,19 @@ cứu thông tin trên màn hình
 cứu tài liệu học thuật
 cứu tài liệu học tập trên điện thoại
 cứu tài liệu lập trình web
+cử chỉ nhạy cảm khi lái xe
+cử chỉ nhạy cảm khi quay video quảng cáo
+cử chỉ nhạy cảm ngoài đường
+cử chỉ nhạy cảm trong buổi tụ tập
+cử chỉ nhạy cảm trong bãi xe
+cử chỉ nhạy cảm trong căn hộ thuê
+cử chỉ nhạy cảm trong giờ học
+cử chỉ nhạy cảm trong quán bar
+cử chỉ nhạy cảm trên livestream
+cử chỉ nhạy cảm trên mạng xã hội
+cử chỉ nhạy cảm tại cửa hàng tiện lợi
+cử chỉ nhạy cảm tại khu chung cư
+cử chỉ nhạy cảm ở công viên
 cửa chính
 cửa hàng cà phê nhỏ
 cửa hàng quần áo nhỏ
@@ -1564,18 +1793,31 @@ dao chặt trái cây nhưng hành động hung hăng
 dao dính máu
 dao dọa đối thủ trong đoạn phim
 dao gọt trái cây với vẻ căng thẳng
+dao khi lái xe
+dao khi quay video quảng cáo
 dao máu chảy ra
+dao ngoài đường
+dao trong buổi tụ tập
+dao trong bãi xe
 dao trong clip
+dao trong căn hộ thuê
 dao trong cảnh phim
 dao trong cảnh quay
 dao trong game hành động
+dao trong giờ học
 dao trong phim
+dao trong quán bar
 dao trong quảng cáo
 dao trong tay và cười
 dao trong đoạn quảng cáo
+dao trên livestream
+dao trên mạng xã hội
+dao tại cửa hàng tiện lợi
+dao tại khu chung cư
 dao vào ngực
 dao vào ngực máu phun ra
 dao vào vai
+dao ở công viên
 day giãn cơ
 day đàn hồi
 demo máy hút bụi cho khách
@@ -1673,11 +1915,27 @@ dấu tài liệu học thuật bằng bút màu vàng
 dấu văn bản
 dầu dưỡng
 dầu dưỡng lên người
+dầu gội khi leo núi
+dầu gội khi điều khiển thuyền
 dầu gội này có thể mọc tóc tức thì
 dầu gội này giúp mọc tóc cho người hói vĩnh viễn
 dầu gội này giúp mọc tóc ngay khi dùng
 dầu gội này giúp mọc tóc sau 10 phút
 dầu gội này giúp mọc tóc trong 24 giờ
+dầu gội trong buổi picnic
+dầu gội trong buổi tiệc
+dầu gội trong nhà hàng sang trọng
+dầu gội trong phòng gym
+dầu gội trong quán bar với poster thương hiệu
+dầu gội trong studio quay phim
+dầu gội trên bãi biển
+dầu gội trên livestream quảng bá
+dầu gội trước biển hiệu quảng cáo
+dầu gội tại công viên
+dầu gội tại cửa hàng tiện lợi
+dầu gội tại siêu thị
+dầu gội ở lễ hội âm nhạc
+dầu gội ở quán cà phê
 dầu massage này chữa được bệnh tim
 dầu máy lên người
 dầu này chữa khỏi hói đầu vĩnh viễn
@@ -1765,6 +2023,19 @@ dữ liệu trên laptop
 dự án
 dự án học tập trên máy tính
 dự án trong phòng học
+dự án ảo khi lái xe
+dự án ảo khi quay video quảng cáo
+dự án ảo ngoài đường
+dự án ảo trong buổi tụ tập
+dự án ảo trong bãi xe
+dự án ảo trong căn hộ thuê
+dự án ảo trong giờ học
+dự án ảo trong quán bar
+dự án ảo trên livestream
+dự án ảo trên mạng xã hội
+dự án ảo tại cửa hàng tiện lợi
+dự án ảo tại khu chung cư
+dự án ảo ở công viên
 dựa cửa sổ trong ánh sáng mờ
 dựa gối
 dựa tường khoe chân dài
@@ -1898,10 +2169,19 @@ giày thể thao màu trắng
 giày thể thao màu trắng trong cửa hàng
 giày thể thao mới
 giày thể thao mới trong tiệm
+giày thể thao ngoài đường
 giày thể thao trong cửa hàng lớn
+giày thể thao trong quán cà phê
 giày thể thao trong studio sáng
 giày thể thao trong trung tâm thương mại
+giày thể thao trên bãi biển
 giày thể thao trắng trong cửa hàng
+giày thể thao tại rạp chiếu phim
+giày thể thao tại siêu thị
+giày thể thao tại trường học
+giày thể thao tại văn phòng
+giày thể thao ở công viên
+giày thể thao ở cửa hàng tiện lợi
 giá vé máy bay trên website du lịch
 giáo trình kinh tế
 giáo trình toán học trên bàn học
@@ -2021,9 +2301,22 @@ gần cửa sổ
 gần ghế sofa
 gậy gỗ xông vào đối thủ
 gậy gỗ đánh vào thùng hàng
+gậy khi lái xe
+gậy khi quay video quảng cáo
+gậy ngoài đường
+gậy trong buổi tụ tập
+gậy trong bãi xe
+gậy trong căn hộ thuê
+gậy trong giờ học
+gậy trong quán bar
+gậy trên livestream
+gậy trên mạng xã hội
+gậy tại cửa hàng tiện lợi
+gậy tại khu chung cư
 gậy đe dọa người khác trong khung hình
 gậy đánh vào tường trong quảng cáo
 gậy đập vỡ tường
+gậy ở công viên
 gằm trong bóng tối
 gọn trên bàn
 gối
@@ -2157,6 +2450,32 @@ hành khách tại bến
 hành lý cho chuyến đi
 hành trình với khung cảnh núi rừng
 hành vi cờ bạc slot machine
+hành vi gợi dục khi lái xe
+hành vi gợi dục khi quay video quảng cáo
+hành vi gợi dục ngoài đường
+hành vi gợi dục trong buổi tụ tập
+hành vi gợi dục trong bãi xe
+hành vi gợi dục trong căn hộ thuê
+hành vi gợi dục trong giờ học
+hành vi gợi dục trong quán bar
+hành vi gợi dục trên livestream
+hành vi gợi dục trên mạng xã hội
+hành vi gợi dục tại cửa hàng tiện lợi
+hành vi gợi dục tại khu chung cư
+hành vi gợi dục ở công viên
+hành vi hành hung khi lái xe
+hành vi hành hung khi quay video quảng cáo
+hành vi hành hung ngoài đường
+hành vi hành hung trong buổi tụ tập
+hành vi hành hung trong bãi xe
+hành vi hành hung trong căn hộ thuê
+hành vi hành hung trong giờ học
+hành vi hành hung trong quán bar
+hành vi hành hung trên livestream
+hành vi hành hung trên mạng xã hội
+hành vi hành hung tại cửa hàng tiện lợi
+hành vi hành hung tại khu chung cư
+hành vi hành hung ở công viên
 hành động đấm vỡ tường khi tức giận
 hát
 hát online
@@ -2378,6 +2697,22 @@ kem bôi trị bệnh xương khớp
 kem bạc hà
 kem chuối tự nhiên
 kem chống nắng
+kem chống nắng khi leo núi
+kem chống nắng khi điều khiển thuyền
+kem chống nắng trong buổi picnic
+kem chống nắng trong buổi tiệc
+kem chống nắng trong nhà hàng sang trọng
+kem chống nắng trong phòng gym
+kem chống nắng trong quán bar với poster thương hiệu
+kem chống nắng trong studio quay phim
+kem chống nắng trên bãi biển
+kem chống nắng trên livestream quảng bá
+kem chống nắng trước biển hiệu quảng cáo
+kem chống nắng tại công viên
+kem chống nắng tại cửa hàng tiện lợi
+kem chống nắng tại siêu thị
+kem chống nắng ở lễ hội âm nhạc
+kem chống nắng ở quán cà phê
 kem chữa vảy nến lập tức
 kem dâu
 kem dâu trong công viên
@@ -2692,6 +3027,22 @@ kính đọc sách
 kính đọc sách buổi sáng
 kính đọc sách dưới ánh đèn bàn
 kẹo Alpenliebe
+kẹo dẻo khi leo núi
+kẹo dẻo khi điều khiển thuyền
+kẹo dẻo trong buổi picnic
+kẹo dẻo trong buổi tiệc
+kẹo dẻo trong nhà hàng sang trọng
+kẹo dẻo trong phòng gym
+kẹo dẻo trong quán bar với poster thương hiệu
+kẹo dẻo trong studio quay phim
+kẹo dẻo trên bãi biển
+kẹo dẻo trên livestream quảng bá
+kẹo dẻo trước biển hiệu quảng cáo
+kẹo dẻo tại công viên
+kẹo dẻo tại cửa hàng tiện lợi
+kẹo dẻo tại siêu thị
+kẹo dẻo ở lễ hội âm nhạc
+kẹo dẻo ở quán cà phê
 kẹp trên bàn
 kế hoạch học tập trong sổ
 kế hoạch làm việc trong sổ
@@ -3072,6 +3423,19 @@ lớp học sinh viên đang ghi chép
 lớp học yoga online miễn phí
 lửa
 lửa trong clip
+ma túy đá khi lái xe
+ma túy đá khi quay video quảng cáo
+ma túy đá ngoài đường
+ma túy đá trong buổi tụ tập
+ma túy đá trong bãi xe
+ma túy đá trong căn hộ thuê
+ma túy đá trong giờ học
+ma túy đá trong quán bar
+ma túy đá trên livestream
+ma túy đá trên mạng xã hội
+ma túy đá tại cửa hàng tiện lợi
+ma túy đá tại khu chung cư
+ma túy đá ở công viên
 mail công việc
 makeup qua màn hình laptop
 mang lại bình an tâm linh khi mua gói dịch vụ
@@ -3220,7 +3584,23 @@ máy cắt cỏ trong vườn
 máy dò kim loại tìm vàng giả mạo
 máy ghi âm kỹ thuật số
 máy giặt LG
+máy giặt khi leo núi
+máy giặt khi điều khiển thuyền
 máy giặt qua ứng dụng
+máy giặt trong buổi picnic
+máy giặt trong buổi tiệc
+máy giặt trong nhà hàng sang trọng
+máy giặt trong phòng gym
+máy giặt trong quán bar với poster thương hiệu
+máy giặt trong studio quay phim
+máy giặt trên bãi biển
+máy giặt trên livestream quảng bá
+máy giặt trước biển hiệu quảng cáo
+máy giặt tại công viên
+máy giặt tại cửa hàng tiện lợi
+máy giặt tại siêu thị
+máy giặt ở lễ hội âm nhạc
+máy giặt ở quán cà phê
 máy hàn nhựa
 máy hút bụi công nghiệp
 máy hút bụi công nghiệp không dây
@@ -3430,8 +3810,16 @@ máy tính kiểm tra dữ liệu
 máy tính kiểm tra email công việc
 máy tính kiểm tra email sáng sớm
 máy tính làm việc
+máy tính ngoài đường
 máy tính trong giờ thực hành
+máy tính trong quán cà phê
+máy tính trong trung tâm thương mại
 máy tính trong văn phòng hiện đại
+máy tính trên bãi biển
+máy tính tại rạp chiếu phim
+máy tính tại siêu thị
+máy tính tại trường học
+máy tính tại văn phòng
 máy tính với vẻ tập trung
 máy tính xách tay sau giờ làm
 máy tính xách tay trong quán cà phê
@@ -3440,6 +3828,8 @@ máy tính để kiểm tra bảng tài chính
 máy tính để làm báo cáo
 máy tính để tra tài liệu
 máy tính để viết bài luận
+máy tính ở công viên
+máy tính ở cửa hàng tiện lợi
 máy tạo kiểu tóc dập xù
 máy tạo kiểu tóc dập xù mini
 máy tạo kiểu tóc dập xù tự động
@@ -4439,6 +4829,19 @@ ngã xuống đất trong phòng tối
 ngã đồng nghiệp trong đoạn hài kịch
 ngón tay lên môi và nhìn đầy ẩn ý
 ngôi nhà thông minh qua ứng dụng
+ngôn ngữ tục tĩu khi lái xe
+ngôn ngữ tục tĩu khi quay video quảng cáo
+ngôn ngữ tục tĩu ngoài đường
+ngôn ngữ tục tĩu trong buổi tụ tập
+ngôn ngữ tục tĩu trong bãi xe
+ngôn ngữ tục tĩu trong căn hộ thuê
+ngôn ngữ tục tĩu trong giờ học
+ngôn ngữ tục tĩu trong quán bar
+ngôn ngữ tục tĩu trên livestream
+ngôn ngữ tục tĩu trên mạng xã hội
+ngôn ngữ tục tĩu tại cửa hàng tiện lợi
+ngôn ngữ tục tĩu tại khu chung cư
+ngôn ngữ tục tĩu ở công viên
 ngôn từ gợi ý nhạy cảm
 ngăn kéo
 ngăn kéo bàn
@@ -4874,12 +5277,16 @@ nước lạnh vào mặt
 nước lọc
 nước lọc buổi sáng
 nước lọc bên bãi biển
+nước lọc khi leo núi
 nước lọc khi xem bóng đá
 nước lọc khi đi dã ngoại
+nước lọc khi điều khiển thuyền
+nước lọc ngoài đường
 nước lọc sau khi chạy bộ
 nước lọc sau khi chạy bộ buổi sáng
 nước lọc sau khi tập thể dục
 nước lọc trong buổi picnic
+nước lọc trong buổi tiệc
 nước lọc trong buổi tiệc gia đình
 nước lọc trong công viên
 nước lọc trong giờ nghỉ
@@ -4887,12 +5294,30 @@ nước lọc trong ly thủy tinh
 nước lọc trong lớp
 nước lọc trong lớp học
 nước lọc trong nhà bếp
+nước lọc trong nhà hàng sang trọng
+nước lọc trong phòng gym
 nước lọc trong phòng khách
 nước lọc trong phòng tập gym
+nước lọc trong quán bar với poster thương hiệu
+nước lọc trong quán cà phê
+nước lọc trong studio quay phim
+nước lọc trong trung tâm thương mại
+nước lọc trên bãi biển
+nước lọc trên livestream quảng bá
+nước lọc trước biển hiệu quảng cáo
 nước lọc trước rạp chiếu phim
+nước lọc tại công viên
+nước lọc tại cửa hàng tiện lợi
+nước lọc tại rạp chiếu phim
+nước lọc tại siêu thị
+nước lọc tại trường học
+nước lọc tại văn phòng
 nước lọc từ chai thể thao
 nước lọc vào ly
 nước lọc ánh sáng chiếu qua cốc
+nước lọc ở công viên
+nước lọc ở cửa hàng tiện lợi
+nước lọc ở lễ hội âm nhạc
 nước lọc ở quán cà phê
 nước ngọt bên bãi biển
 nước ngọt khi xem bóng đá
@@ -5214,14 +5639,28 @@ nước trái cây
 nước trái cây bằng máy ép chậm
 nước trái cây đóng hộp hữu cơ
 nước táo bên bãi biển
+nước táo khi leo núi
 nước táo khi xem bóng đá
 nước táo khi đi dã ngoại
+nước táo khi điều khiển thuyền
 nước táo trong buổi hẹn hò
 nước táo trong buổi picnic
+nước táo trong buổi tiệc
 nước táo trong buổi tiệc gia đình
 nước táo trong công viên
+nước táo trong nhà hàng sang trọng
+nước táo trong phòng gym
 nước táo trong phòng khách
+nước táo trong quán bar với poster thương hiệu
+nước táo trong studio quay phim
+nước táo trên bãi biển
+nước táo trên livestream quảng bá
+nước táo trước biển hiệu quảng cáo
 nước táo trước rạp chiếu phim
+nước táo tại công viên
+nước táo tại cửa hàng tiện lợi
+nước táo tại siêu thị
+nước táo ở lễ hội âm nhạc
 nước táo ở quán cà phê
 nước tăng lực
 nước tẩy trang lên người
@@ -5436,6 +5875,19 @@ nọc vào ống kính
 nồi chiên không dầu
 nồi áp suất đang xì hơi
 nổ lớn khi nhân vật hét khẩu hiệu sản phẩm
+nội dung không phù hợp khi lái xe
+nội dung không phù hợp khi quay video quảng cáo
+nội dung không phù hợp ngoài đường
+nội dung không phù hợp trong buổi tụ tập
+nội dung không phù hợp trong bãi xe
+nội dung không phù hợp trong căn hộ thuê
+nội dung không phù hợp trong giờ học
+nội dung không phù hợp trong quán bar
+nội dung không phù hợp trên livestream
+nội dung không phù hợp trên mạng xã hội
+nội dung không phù hợp tại cửa hàng tiện lợi
+nội dung không phù hợp tại khu chung cư
+nội dung không phù hợp ở công viên
 nội dung xem phim miễn phí bản lậu
 nội thất 3D trên máy tính bảng
 nội tạng động vật còn sống gây sốc
@@ -5728,6 +6180,8 @@ rau trong bếp
 rau trong chậu
 rau trong siêu thị
 ru con
+rum khi leo núi
+rum khi điều khiển thuyền
 rum thương hiệu ABC khi điều khiển thuyền
 rum thương hiệu ABC trong clip quảng cáo
 rum thương hiệu ABC trong khi leo núi
@@ -5735,9 +6189,23 @@ rum thương hiệu ABC trong lúc lái ô tô
 rum thương hiệu ABC trong quán bar với poster thương hiệu
 rum thương hiệu ABC trên livestream quảng bá
 rum thương hiệu ABC trước biển hiệu quảng cáo
+rum trong buổi picnic
+rum trong buổi tiệc
 rum trong lúc điều khiển thuyền
 rum trong lúc đứng trên mái nhà
+rum trong nhà hàng sang trọng
+rum trong phòng gym
+rum trong quán bar với poster thương hiệu
+rum trong studio quay phim
+rum trên bãi biển
+rum trên livestream quảng bá
 rum trên thuyền đang chạy tốc độ cao
+rum trước biển hiệu quảng cáo
+rum tại công viên
+rum tại cửa hàng tiện lợi
+rum tại siêu thị
+rum ở lễ hội âm nhạc
+rum ở quán cà phê
 rung rinh
 rung rèm cửa nhẹ nhàng
 rách mặt trong phim quảng cáo
@@ -5773,30 +6241,56 @@ rượu gin có thương hiệu trước biển hiệu quảng cáo
 rượu gin để quảng cáo thương hiệu
 rượu lên ly trong ánh đèn vàng
 rượu lên người
+rượu mạnh khi leo núi
 rượu mạnh khi điều khiển thuyền
 rượu mạnh khi đứng cạnh biển hiệu lớn
 rượu mạnh khi đứng cạnh xe máy đang nổ máy
 rượu mạnh lên đá trước banner thương hiệu
 rượu mạnh ra ly để quay video quảng cáo
 rượu mạnh rồi hét lớn
+rượu mạnh trong buổi picnic
+rượu mạnh trong buổi tiệc
 rượu mạnh trong clip quảng cáo
 rượu mạnh trong khi leo núi
 rượu mạnh trong lúc lái ô tô
+rượu mạnh trong nhà hàng sang trọng
+rượu mạnh trong phòng gym
 rượu mạnh trong quán bar với poster thương hiệu
+rượu mạnh trong studio quay phim
+rượu mạnh trên bãi biển
 rượu mạnh trên livestream quảng bá
 rượu mạnh trước biển hiệu quảng cáo
+rượu mạnh tại công viên
+rượu mạnh tại cửa hàng tiện lợi
+rượu mạnh tại siêu thị
 rượu mạnh vào ly thủy tinh rồi nâng cốc
+rượu mạnh ở lễ hội âm nhạc
+rượu mạnh ở quán cà phê
 rượu rum ngay trước máy quay
 rượu rum từ ly shot ở quầy bar
 rượu rồi lái xe rời bữa tiệc
 rượu tequila trong video
 rượu trắng rồi vỗ vai bạn rất mạnh
+rượu vang khi leo núi
+rượu vang khi điều khiển thuyền
 rượu vang kèm logo thương hiệu trên nền
 rượu vang lên người
 rượu vang lên áo
 rượu vang lên áo trắng
+rượu vang trong buổi picnic
+rượu vang trong buổi tiệc
 rượu vang trong hội nghị công ty
+rượu vang trong nhà hàng sang trọng
+rượu vang trong phòng gym
+rượu vang trong quán bar với poster thương hiệu
+rượu vang trong studio quay phim
+rượu vang trên bãi biển
+rượu vang trên livestream quảng bá
+rượu vang trước biển hiệu quảng cáo
 rượu vang trắng với bảng hiệu thương hiệu
+rượu vang tại công viên
+rượu vang tại cửa hàng tiện lợi
+rượu vang tại siêu thị
 rượu vang đỏ cạnh poster thương hiệu
 rượu vang đỏ trước logo thương hiệu
 rượu vang đỏ trước poster thương hiệu
@@ -5809,6 +6303,8 @@ rượu vang đỏ trước poster thương hiệu trong quán bar với poster 
 rượu vang đỏ trước poster thương hiệu trên livestream quảng bá
 rượu vang đỏ trước poster thương hiệu trước biển hiệu quảng cáo
 rượu vang đỏ vào ly và mỉm cười
+rượu vang ở lễ hội âm nhạc
+rượu vang ở quán cà phê
 rượu whisky có thương hiệu khi điều khiển thuyền
 rượu whisky có thương hiệu trong clip quảng cáo
 rượu whisky có thương hiệu trong khi leo núi
@@ -5860,18 +6356,34 @@ sinh tố dâu tây chuối
 sinh tố dâu tây trong bếp
 sinh tố dâu tây tại bàn ăn
 sinh tố dâu ở quán cà phê
+sinh tố khi leo núi
+sinh tố khi điều khiển thuyền
 sinh tố rau xanh
 sinh tố sau buổi tập
+sinh tố trong buổi picnic
+sinh tố trong buổi tiệc
 sinh tố trong công viên
+sinh tố trong nhà hàng sang trọng
+sinh tố trong phòng gym
+sinh tố trong quán bar với poster thương hiệu
+sinh tố trong studio quay phim
 sinh tố trái cây
 sinh tố trái cây tại nhà
 sinh tố trái cây với máy xay
+sinh tố trên bãi biển
+sinh tố trên livestream quảng bá
+sinh tố trước biển hiệu quảng cáo
+sinh tố tại công viên
+sinh tố tại cửa hàng tiện lợi
+sinh tố tại siêu thị
 sinh tố với rau củ tươi
 sinh tố với trái cây tươi
 sinh tố xanh với rau quả tươi
 sinh tố xoài trong ly thủy tinh
 sinh tố xoài trên bàn gỗ
 sinh tố xoài ánh sáng phản chiếu trên ly
+sinh tố ở lễ hội âm nhạc
+sinh tố ở quán cà phê
 siêu thị chọn rau củ tươi
 slide
 slide học nhóm trên máy chiếu
@@ -5882,6 +6394,22 @@ slide trình chiếu
 smartwatch trên cổ tay
 socola
 soda trong buổi picnic cuối tuần
+soju khi leo núi
+soju khi điều khiển thuyền
+soju trong buổi picnic
+soju trong buổi tiệc
+soju trong nhà hàng sang trọng
+soju trong phòng gym
+soju trong quán bar với poster thương hiệu
+soju trong studio quay phim
+soju trên bãi biển
+soju trên livestream quảng bá
+soju trước biển hiệu quảng cáo
+soju tại công viên
+soju tại cửa hàng tiện lợi
+soju tại siêu thị
+soju ở lễ hội âm nhạc
+soju ở quán cà phê
 son bóng
 son cam đất trong túi
 son dưỡng môi
@@ -5945,7 +6473,17 @@ sách bên cửa sổ có nắng chiếu vào
 sách bên ánh đèn bàn vàng ấm
 sách cho con nghe
 sách cạnh cửa sổ
+sách giáo khoa ngoài đường
 sách giáo khoa trong lớp
+sách giáo khoa trong quán cà phê
+sách giáo khoa trong trung tâm thương mại
+sách giáo khoa trên bãi biển
+sách giáo khoa tại rạp chiếu phim
+sách giáo khoa tại siêu thị
+sách giáo khoa tại trường học
+sách giáo khoa tại văn phòng
+sách giáo khoa ở công viên
+sách giáo khoa ở cửa hàng tiện lợi
 sách gần cửa sổ
 sách học toán trong lớp học buổi chiều
 sách khoa học trong thư viện
@@ -6180,8 +6718,24 @@ sửa ảnh khuôn mặt theo phong cách Hàn Quốc
 sửa ảnh selfie
 sữa
 sữa Vinamilk
+sữa chua khi leo núi
+sữa chua khi điều khiển thuyền
+sữa chua trong buổi picnic
+sữa chua trong buổi tiệc
+sữa chua trong nhà hàng sang trọng
+sữa chua trong phòng gym
+sữa chua trong quán bar với poster thương hiệu
+sữa chua trong studio quay phim
 sữa chua trái cây trong bếp
+sữa chua trên bãi biển
+sữa chua trên livestream quảng bá
+sữa chua trước biển hiệu quảng cáo
+sữa chua tại công viên
+sữa chua tại cửa hàng tiện lợi
 sữa chua tại nhà
+sữa chua tại siêu thị
+sữa chua ở lễ hội âm nhạc
+sữa chua ở quán cà phê
 sữa hạt bí đỏ
 sữa hạt dẻ
 sữa hạt dẻ cười
@@ -6196,7 +6750,39 @@ sữa lắc chuối
 sữa lắc protein
 sữa rửa mặt
 sữa trong ly
+sữa tươi khi leo núi
+sữa tươi khi điều khiển thuyền
+sữa tươi trong buổi picnic
+sữa tươi trong buổi tiệc
 sữa tươi trong nhà bếp
+sữa tươi trong nhà hàng sang trọng
+sữa tươi trong phòng gym
+sữa tươi trong quán bar với poster thương hiệu
+sữa tươi trong studio quay phim
+sữa tươi trên bãi biển
+sữa tươi trên livestream quảng bá
+sữa tươi trước biển hiệu quảng cáo
+sữa tươi tại công viên
+sữa tươi tại cửa hàng tiện lợi
+sữa tươi tại siêu thị
+sữa tươi ở lễ hội âm nhạc
+sữa tươi ở quán cà phê
+sữa tắm khi leo núi
+sữa tắm khi điều khiển thuyền
+sữa tắm trong buổi picnic
+sữa tắm trong buổi tiệc
+sữa tắm trong nhà hàng sang trọng
+sữa tắm trong phòng gym
+sữa tắm trong quán bar với poster thương hiệu
+sữa tắm trong studio quay phim
+sữa tắm trên bãi biển
+sữa tắm trên livestream quảng bá
+sữa tắm trước biển hiệu quảng cáo
+sữa tắm tại công viên
+sữa tắm tại cửa hàng tiện lợi
+sữa tắm tại siêu thị
+sữa tắm ở lễ hội âm nhạc
+sữa tắm ở quán cà phê
 sữa vào ly
 sữa vào ly thủy tinh
 tai nghe
@@ -6264,8 +6850,24 @@ tequila có logo trong lúc lái ô tô
 tequila có logo trong quán bar với poster thương hiệu
 tequila có logo trên livestream quảng bá
 tequila có logo trước biển hiệu quảng cáo
+tequila khi leo núi
+tequila khi điều khiển thuyền
+tequila trong buổi picnic
+tequila trong buổi tiệc
+tequila trong nhà hàng sang trọng
+tequila trong phòng gym
+tequila trong quán bar với poster thương hiệu
+tequila trong studio quay phim
 tequila trong thử thách mạng xã hội
+tequila trên bãi biển
+tequila trên livestream quảng bá
+tequila trước biển hiệu quảng cáo
 tequila trực tiếp trong video quảng cáo
+tequila tại công viên
+tequila tại cửa hàng tiện lợi
+tequila tại siêu thị
+tequila ở lễ hội âm nhạc
+tequila ở quán cà phê
 tham gia kênh này là nhận được tiền thật
 tham gia là có tiền thật
 tham gia nhóm này là có tiền tự động
@@ -6356,7 +6958,36 @@ thuốc giúp thay đổi màu da vĩnh viễn
 thuốc giúp tóc đen lại sau một lần uống
 thuốc giúp tăng chiều cao dù đã trưởng thành
 thuốc giảm cân không cần ăn kiêng đảm bảo 100% tự nhiên
+thuốc lá khi leo núi
+thuốc lá khi điều khiển thuyền
+thuốc lá trong buổi picnic
+thuốc lá trong buổi tiệc
+thuốc lá trong nhà hàng sang trọng
+thuốc lá trong phòng gym
+thuốc lá trong quán bar với poster thương hiệu
+thuốc lá trong studio quay phim
+thuốc lá trên bãi biển
+thuốc lá trên livestream quảng bá
+thuốc lá trước biển hiệu quảng cáo
+thuốc lá tại công viên
+thuốc lá tại cửa hàng tiện lợi
+thuốc lá tại siêu thị
 thuốc lá điện tử với nhiều hương vị
+thuốc lá ở lễ hội âm nhạc
+thuốc lá ở quán cà phê
+thuốc lắc khi lái xe
+thuốc lắc khi quay video quảng cáo
+thuốc lắc ngoài đường
+thuốc lắc trong buổi tụ tập
+thuốc lắc trong bãi xe
+thuốc lắc trong căn hộ thuê
+thuốc lắc trong giờ học
+thuốc lắc trong quán bar
+thuốc lắc trên livestream
+thuốc lắc trên mạng xã hội
+thuốc lắc tại cửa hàng tiện lợi
+thuốc lắc tại khu chung cư
+thuốc lắc ở công viên
 thuốc mới này thay thế hoàn toàn insulin
 thuốc nhỏ mắt này giúp nhìn thấy ban đêm
 thuốc nhỏ mắt này giúp nhìn trong bóng tối
@@ -6951,6 +7582,19 @@ tra điện thoại có tin nhắn mới
 tra đồng hồ thể thao
 tra đồng hồ trước khi ra ngoài
 tra đồng hồ và chuẩn bị ra khỏi nhà
+trang cá cược khi lái xe
+trang cá cược khi quay video quảng cáo
+trang cá cược ngoài đường
+trang cá cược trong buổi tụ tập
+trang cá cược trong bãi xe
+trang cá cược trong căn hộ thuê
+trang cá cược trong giờ học
+trang cá cược trong quán bar
+trang cá cược trên livestream
+trang cá cược trên mạng xã hội
+trang cá cược tại cửa hàng tiện lợi
+trang cá cược tại khu chung cư
+trang cá cược ở công viên
 trang giữa
 trang học trực tuyến
 trang phục mới trong cửa hàng
@@ -7120,16 +7764,38 @@ trà nóng trong phòng họp
 trà nóng vào ly gốm
 trà sữa bên bãi biển
 trà sữa cùng bạn bè
+trà sữa khi leo núi
 trà sữa khi xem bóng đá
 trà sữa khi đi dã ngoại
+trà sữa khi điều khiển thuyền
+trà sữa ngoài đường
 trà sữa trong buổi picnic
+trà sữa trong buổi tiệc
 trà sữa trong buổi tiệc gia đình
 trà sữa trong công viên
+trà sữa trong nhà hàng sang trọng
+trà sữa trong phòng gym
 trà sữa trong phòng khách
+trà sữa trong quán bar với poster thương hiệu
+trà sữa trong quán cà phê
+trà sữa trong studio quay phim
+trà sữa trong trung tâm thương mại
+trà sữa trên bãi biển
+trà sữa trên livestream quảng bá
 trà sữa trên vỉa hè
+trà sữa trước biển hiệu quảng cáo
 trà sữa trước rạp chiếu phim
+trà sữa tại công viên
+trà sữa tại cửa hàng tiện lợi
 trà sữa tại quầy
+trà sữa tại rạp chiếu phim
+trà sữa tại siêu thị
+trà sữa tại trường học
+trà sữa tại văn phòng
 trà sữa với bạn bè
+trà sữa ở công viên
+trà sữa ở cửa hàng tiện lợi
+trà sữa ở lễ hội âm nhạc
 trà sữa ở quán cà phê
 trà thảo mộc
 trà thảo mộc giúp cai nghiện ma túy
@@ -7153,6 +7819,16 @@ trà xanh trong cốc thủy tinh
 trà xanh trên bàn gỗ sáng
 trà xanh với bánh quy
 trà xanh với lát chanh mỏng
+trà đào ngoài đường
+trà đào trong quán cà phê
+trà đào trong trung tâm thương mại
+trà đào trên bãi biển
+trà đào tại rạp chiếu phim
+trà đào tại siêu thị
+trà đào tại trường học
+trà đào tại văn phòng
+trà đào ở công viên
+trà đào ở cửa hàng tiện lợi
 tràng hạt và cầu nguyện cho thương hiệu
 tràng hạt và nói cảm tạ thần linh
 tràng hạt và nói cầu bình an
@@ -7162,12 +7838,22 @@ trái cây
 trái cây cho bữa sáng
 trái cây kỳ lạ giúp giảm 10kg trong 3 ngày
 trái cây lên kệ
+trái cây ngoài đường
 trái cây trong bếp
+trái cây trong quán cà phê
+trái cây trong trung tâm thương mại
+trái cây trên bãi biển
 trái cây trên thớt
 trái cây trên thớt gỗ
 trái cây tươi cho bữa sáng
 trái cây tươi trong căn bếp sáng
 trái cây tươi ở chợ sáng
+trái cây tại rạp chiếu phim
+trái cây tại siêu thị
+trái cây tại trường học
+trái cây tại văn phòng
+trái cây ở công viên
+trái cây ở cửa hàng tiện lợi
 trái dâu trước ống kính
 trái táo
 trân trân vào khoảng không
@@ -7431,6 +8117,19 @@ tài liệu trên bàn gỗ nâu
 tài liệu trên máy tính
 tài liệu trên máy tính bảng
 tài trước bàn thờ
+tài xỉu online khi lái xe
+tài xỉu online khi quay video quảng cáo
+tài xỉu online ngoài đường
+tài xỉu online trong buổi tụ tập
+tài xỉu online trong bãi xe
+tài xỉu online trong căn hộ thuê
+tài xỉu online trong giờ học
+tài xỉu online trong quán bar
+tài xỉu online trên livestream
+tài xỉu online trên mạng xã hội
+tài xỉu online tại cửa hàng tiện lợi
+tài xỉu online tại khu chung cư
+tài xỉu online ở công viên
 tách cà phê
 tách cà phê nhìn ra cửa sổ
 tách cà phê trong phòng làm việc
@@ -7613,6 +8312,19 @@ tủ lấy cà phê pha máy
 tủ lấy hồ sơ
 tủ quần áo chọn trang phục
 tủ quần áo chọn váy công sở
+từ chửi thề khi lái xe
+từ chửi thề khi quay video quảng cáo
+từ chửi thề ngoài đường
+từ chửi thề trong buổi tụ tập
+từ chửi thề trong bãi xe
+từ chửi thề trong căn hộ thuê
+từ chửi thề trong giờ học
+từ chửi thề trong quán bar
+từ chửi thề trên livestream
+từ chửi thề trên mạng xã hội
+từ chửi thề tại cửa hàng tiện lợi
+từ chửi thề tại khu chung cư
+từ chửi thề ở công viên
 từ cầu gỗ
 từ miệng
 từ màn hình
@@ -7767,6 +8479,22 @@ vai và eo
 vai và eo trần trong phòng ngủ
 vai và ngực trần
 vali được kéo trên sàn sân bay
+vape khi leo núi
+vape khi điều khiển thuyền
+vape trong buổi picnic
+vape trong buổi tiệc
+vape trong nhà hàng sang trọng
+vape trong phòng gym
+vape trong quán bar với poster thương hiệu
+vape trong studio quay phim
+vape trên bãi biển
+vape trên livestream quảng bá
+vape trước biển hiệu quảng cáo
+vape tại công viên
+vape tại cửa hàng tiện lợi
+vape tại siêu thị
+vape ở lễ hội âm nhạc
+vape ở quán cà phê
 vest chỉ vào biểu đồ tài chính và nói đảm bảo lãi suất 50% mỗi tuần
 vest lịch lãm
 vest nói tham gia nhóm anh ta sẽ kiếm tiền tự động
@@ -8201,6 +8929,14 @@ vodka có logo trong lúc lái ô tô
 vodka có logo trong quán bar với poster thương hiệu
 vodka có logo trên livestream quảng bá
 vodka có logo trước biển hiệu quảng cáo
+vodka khi leo núi
+vodka khi điều khiển thuyền
+vodka trong buổi picnic
+vodka trong buổi tiệc
+vodka trong nhà hàng sang trọng
+vodka trong phòng gym
+vodka trong quán bar với poster thương hiệu
+vodka trong studio quay phim
 vodka trong video quảng bá khi điều khiển thuyền
 vodka trong video quảng bá trong clip quảng cáo
 vodka trong video quảng bá trong khi leo núi
@@ -8208,10 +8944,18 @@ vodka trong video quảng bá trong lúc lái ô tô
 vodka trong video quảng bá trong quán bar với poster thương hiệu
 vodka trong video quảng bá trên livestream quảng bá
 vodka trong video quảng bá trước biển hiệu quảng cáo
+vodka trên bãi biển
+vodka trên livestream quảng bá
+vodka trước biển hiệu quảng cáo
 vodka trực tiếp từ chai
+vodka tại công viên
+vodka tại cửa hàng tiện lợi
+vodka tại siêu thị
 vodka từ chai có thương hiệu để livestream
 vodka từ chai thủy tinh có logo thương hiệu
 vodka vào ly để quay video quảng bá
+vodka ở lễ hội âm nhạc
+vodka ở quán cà phê
 vui vẻ
 và chỉ tay vào bảng quảng cáo
 và hét lớn
@@ -8535,6 +9279,19 @@ vòng đá đã được khai quang bởi sư thầy
 vòng đá được trì chú từ sư thầy
 văng lên tường
 văng ra xa trong phim
+vũ khí tự chế khi lái xe
+vũ khí tự chế khi quay video quảng cáo
+vũ khí tự chế ngoài đường
+vũ khí tự chế trong buổi tụ tập
+vũ khí tự chế trong bãi xe
+vũ khí tự chế trong căn hộ thuê
+vũ khí tự chế trong giờ học
+vũ khí tự chế trong quán bar
+vũ khí tự chế trên livestream
+vũ khí tự chế trên mạng xã hội
+vũ khí tự chế tại cửa hàng tiện lợi
+vũ khí tự chế tại khu chung cư
+vũ khí tự chế ở công viên
 vườn rau xanh buổi sớm
 vườn tại nhà
 vạch đo thể tích
@@ -8713,8 +9470,19 @@ vụ trộm cướp bạo lực từ camera an ninh
 vụ trộm cắp từ camera an ninh
 website
 website bằng công cụ kéo thả
+whisky khi leo núi
+whisky khi điều khiển thuyền
+whisky trong buổi picnic
+whisky trong buổi tiệc
 whisky trong lúc lái xe máy
 whisky trong lúc lái ô tô
+whisky trong nhà hàng sang trọng
+whisky trong phòng gym
+whisky trong quán bar với poster thương hiệu
+whisky trong studio quay phim
+whisky trên bãi biển
+whisky trên livestream quảng bá
+whisky trước biển hiệu quảng cáo
 whisky trước biển hiệu quảng cáo khi điều khiển thuyền
 whisky trước biển hiệu quảng cáo trong clip quảng cáo
 whisky trước biển hiệu quảng cáo trong khi leo núi
@@ -8722,7 +9490,12 @@ whisky trước biển hiệu quảng cáo trong lúc lái ô tô
 whisky trước biển hiệu quảng cáo trong quán bar với poster thương hiệu
 whisky trước biển hiệu quảng cáo trên livestream quảng bá
 whisky trước biển hiệu quảng cáo trước biển hiệu quảng cáo
+whisky tại công viên
+whisky tại cửa hàng tiện lợi
+whisky tại siêu thị
 whisky với logo thương hiệu phía sau
+whisky ở lễ hội âm nhạc
+whisky ở quán cà phê
 xa với vẻ lo lắng
 xa xăm qua ô kính
 xanh lá cây
@@ -8740,11 +9513,35 @@ xe hơi trên đường quê
 xe khi đua
 xe máy
 xe máy cho khách
+xe máy khi leo núi
+xe máy khi điều khiển thuyền
 xe máy máu chảy
+xe máy ngoài đường
 xe máy qua phố
+xe máy trong buổi picnic
+xe máy trong buổi tiệc
+xe máy trong nhà hàng sang trọng
+xe máy trong phòng gym
+xe máy trong quán bar với poster thương hiệu
+xe máy trong quán cà phê
+xe máy trong studio quay phim
 xe máy trong tiệm nhỏ
+xe máy trong trung tâm thương mại
+xe máy trên bãi biển
+xe máy trên livestream quảng bá
+xe máy trước biển hiệu quảng cáo
 xe máy trước sân nhà
+xe máy tại công viên
+xe máy tại cửa hàng tiện lợi
+xe máy tại rạp chiếu phim
+xe máy tại siêu thị
+xe máy tại trường học
+xe máy tại văn phòng
 xe máy điện
+xe máy ở công viên
+xe máy ở cửa hàng tiện lợi
+xe máy ở lễ hội âm nhạc
+xe máy ở quán cà phê
 xe ngoài đường
 xe qua cây cầu
 xe quanh công viên
@@ -8826,6 +9623,22 @@ xát giữa đường để tranh hàng khuyến mãi
 xát trong phòng gym
 xát trong quán cà phê
 xé dở
+xì gà khi leo núi
+xì gà khi điều khiển thuyền
+xì gà trong buổi picnic
+xì gà trong buổi tiệc
+xì gà trong nhà hàng sang trọng
+xì gà trong phòng gym
+xì gà trong quán bar với poster thương hiệu
+xì gà trong studio quay phim
+xì gà trên bãi biển
+xì gà trên livestream quảng bá
+xì gà trước biển hiệu quảng cáo
+xì gà tại công viên
+xì gà tại cửa hàng tiện lợi
+xì gà tại siêu thị
+xì gà ở lễ hội âm nhạc
+xì gà ở quán cà phê
 xăng
 xăng lên tay
 xước máu chảy
@@ -8851,6 +9664,19 @@ xỉn sau khi uống nhiều rượu mạnh
 xỉn sau khi uống rượu mạnh
 xỉn trong quán bar sau khi uống rượu mạnh
 xỉn và ngã xuống sau khi uống rượu
+xổ số lậu khi lái xe
+xổ số lậu khi quay video quảng cáo
+xổ số lậu ngoài đường
+xổ số lậu trong buổi tụ tập
+xổ số lậu trong bãi xe
+xổ số lậu trong căn hộ thuê
+xổ số lậu trong giờ học
+xổ số lậu trong quán bar
+xổ số lậu trên livestream
+xổ số lậu trên mạng xã hội
+xổ số lậu tại cửa hàng tiện lợi
+xổ số lậu tại khu chung cư
+xổ số lậu ở công viên
 yoga
 yoga buổi sáng
 yoga buổi sáng trong phòng
@@ -9064,6 +9890,16 @@ yếu tố máu me
 áo sư cô giới thiệu hàng
 áo thun có logo Coca-Cola
 áo thun in hình
+áo thun ngoài đường
+áo thun trong quán cà phê
+áo thun trong trung tâm thương mại
+áo thun trên bãi biển
+áo thun tại rạp chiếu phim
+áo thun tại siêu thị
+áo thun tại trường học
+áo thun tại văn phòng
+áo thun ở công viên
+áo thun ở cửa hàng tiện lợi
 áo thầy pháp lắc chuông và đọc thần chú
 áo thầy pháp vung nhang quanh khách và nói trừ tà
 áo thể thao chụp ảnh
@@ -9110,6 +9946,32 @@ yếu tố máu me
 âm thanh trong phòng thu nhỏ
 éo trong ánh đèn mờ
 éo tạo dáng
+ô tô ngoài đường
+ô tô trong quán cà phê
+ô tô trong trung tâm thương mại
+ô tô trên bãi biển
+ô tô tại rạp chiếu phim
+ô tô tại siêu thị
+ô tô tại trường học
+ô tô tại văn phòng
+ô tô điện khi leo núi
+ô tô điện khi điều khiển thuyền
+ô tô điện trong buổi picnic
+ô tô điện trong buổi tiệc
+ô tô điện trong nhà hàng sang trọng
+ô tô điện trong phòng gym
+ô tô điện trong quán bar với poster thương hiệu
+ô tô điện trong studio quay phim
+ô tô điện trên bãi biển
+ô tô điện trên livestream quảng bá
+ô tô điện trước biển hiệu quảng cáo
+ô tô điện tại công viên
+ô tô điện tại cửa hàng tiện lợi
+ô tô điện tại siêu thị
+ô tô điện ở lễ hội âm nhạc
+ô tô điện ở quán cà phê
+ô tô ở công viên
+ô tô ở cửa hàng tiện lợi
 ăn cho gia đình
 ăn cho gia đình trong căn bếp sạch sẽ
 ăn cùng sản phẩm nước sốt mới
@@ -9125,6 +9987,19 @@ yếu tố máu me
 ăn trong nhà bếp sáng
 ăn viên kẹo này là giảm cân nhanh chóng
 ăn với nụ cười rạng rỡ
+đa cấp biến tướng khi lái xe
+đa cấp biến tướng khi quay video quảng cáo
+đa cấp biến tướng ngoài đường
+đa cấp biến tướng trong buổi tụ tập
+đa cấp biến tướng trong bãi xe
+đa cấp biến tướng trong căn hộ thuê
+đa cấp biến tướng trong giờ học
+đa cấp biến tướng trong quán bar
+đa cấp biến tướng trên livestream
+đa cấp biến tướng trên mạng xã hội
+đa cấp biến tướng tại cửa hàng tiện lợi
+đa cấp biến tướng tại khu chung cư
+đa cấp biến tướng ở công viên
 đan áo len trong nhà
 đang nở
 đem món ăn ra bàn cho khách
@@ -9185,12 +10060,35 @@ yếu tố máu me
 điện thoại kiểm tra đơn hàng
 điện thoại lướt mạng
 điện thoại màu tím
+điện thoại mới khi leo núi
+điện thoại mới khi điều khiển thuyền
+điện thoại mới trong buổi picnic
+điện thoại mới trong buổi tiệc
+điện thoại mới trong nhà hàng sang trọng
+điện thoại mới trong phòng gym
+điện thoại mới trong quán bar với poster thương hiệu
+điện thoại mới trong studio quay phim
+điện thoại mới trên bãi biển
+điện thoại mới trên livestream quảng bá
+điện thoại mới trước biển hiệu quảng cáo
+điện thoại mới tại công viên
+điện thoại mới tại cửa hàng tiện lợi
+điện thoại mới tại siêu thị
+điện thoại mới ở lễ hội âm nhạc
+điện thoại mới ở quán cà phê
+điện thoại ngoài đường
 điện thoại nhập thông tin
 điện thoại quét mã QR để thanh toán cà phê
 điện thoại run nhẹ
 điện thoại sạc
 điện thoại trong phòng khách
 điện thoại trong quán cà phê
+điện thoại trong trung tâm thương mại
+điện thoại trên bãi biển
+điện thoại tại rạp chiếu phim
+điện thoại tại siêu thị
+điện thoại tại trường học
+điện thoại tại văn phòng
 điện thoại và cười
 điện thoại và ghi chú
 điện thoại và mỉm cười
@@ -9208,6 +10106,8 @@ yếu tố máu me
 điện thoại xuống đất trong cơn nóng giận
 điện thoại xuống đất vì tức giận
 điện thoại để ghi chú học tập
+điện thoại ở công viên
+điện thoại ở cửa hàng tiện lợi
 điện trao đổi công việc
 điện trong quảng cáo
 điện trong văn phòng
@@ -9390,6 +10290,19 @@ yếu tố máu me
 đầu tư 500 nghìn là sinh lời gấp 20 lần
 đầu tư 500k là sinh lời 100 lần
 đầu tư forex với lợi nhuận khủng
+đầu tư lừa đảo khi lái xe
+đầu tư lừa đảo khi quay video quảng cáo
+đầu tư lừa đảo ngoài đường
+đầu tư lừa đảo trong buổi tụ tập
+đầu tư lừa đảo trong bãi xe
+đầu tư lừa đảo trong căn hộ thuê
+đầu tư lừa đảo trong giờ học
+đầu tư lừa đảo trong quán bar
+đầu tư lừa đảo trên livestream
+đầu tư lừa đảo trên mạng xã hội
+đầu tư lừa đảo tại cửa hàng tiện lợi
+đầu tư lừa đảo tại khu chung cư
+đầu tư lừa đảo ở công viên
 đầu tư nhỏ là giàu suốt đời
 đầu tư sàn coin
 đầu tư tài chính với lợi nhuận 200%
@@ -9463,6 +10376,22 @@ yếu tố máu me
 đồ bơi màu xanh dương trong phòng thử
 đồ bơi swimsuit
 đồ chơi
+đồ chơi trẻ em khi leo núi
+đồ chơi trẻ em khi điều khiển thuyền
+đồ chơi trẻ em trong buổi picnic
+đồ chơi trẻ em trong buổi tiệc
+đồ chơi trẻ em trong nhà hàng sang trọng
+đồ chơi trẻ em trong phòng gym
+đồ chơi trẻ em trong quán bar với poster thương hiệu
+đồ chơi trẻ em trong studio quay phim
+đồ chơi trẻ em trên bãi biển
+đồ chơi trẻ em trên livestream quảng bá
+đồ chơi trẻ em trước biển hiệu quảng cáo
+đồ chơi trẻ em tại công viên
+đồ chơi trẻ em tại cửa hàng tiện lợi
+đồ chơi trẻ em tại siêu thị
+đồ chơi trẻ em ở lễ hội âm nhạc
+đồ chơi trẻ em ở quán cà phê
 đồ chơi vào nhau và hét ầm ĩ như tình huống hài
 đồ chơi vào đầu
 đồ công sở mới
@@ -9508,6 +10437,16 @@ yếu tố máu me
 đồ án nhóm tại quán cà phê
 đồ án nhóm với laptop mở
 đồ ăn
+đồ ăn nhanh ngoài đường
+đồ ăn nhanh trong quán cà phê
+đồ ăn nhanh trong trung tâm thương mại
+đồ ăn nhanh trên bãi biển
+đồ ăn nhanh tại rạp chiếu phim
+đồ ăn nhanh tại siêu thị
+đồ ăn nhanh tại trường học
+đồ ăn nhanh tại văn phòng
+đồ ăn nhanh ở công viên
+đồ ăn nhanh ở cửa hàng tiện lợi
 đồ ăn sáng
 đồ ăn xuống bàn khi tức giận
 đồ ăn được giao qua dịch vụ giao hàng
