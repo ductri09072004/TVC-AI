@@ -1,0 +1,752 @@
+Trang trí	Trang trí
+app	app
+ban	ban
+bao gồm	bao gồm
+bao quanh	bao quanh
+buổi sáng	buổi sáng
+buộc	buộc
+bàn tay	bàn tay
+bàn tay gõ	bàn tay gõ
+bàn tay mở	bàn tay mở
+bành	bành
+bày	bày
+bày biện	bày biện
+bán	bán
+bón	bón
+bóp	bóp
+bơi	bơi
+bảo	bảo
+bảo đảm	bảo đảm
+bấm	bấm
+bật	bật
+bắn	bắn
+bắt tay	bắt tay
+bế	bế
+bị	bị
+bị bóp	bị bóp
+bị bạo lực	bị bạo lực
+bị bắn	bị bắn
+bị chiến đấu	bị chiến đấu
+bị cháy	bị cháy
+bị chém	bị chém
+bị chạm	bị chạm
+bị chảy	bị chảy
+bị chập	bị chập
+bị chửi	bị chửi
+bị cào	bị cào
+bị dao	bị dao
+bị dìm	bị dìm
+bị dội	bị dội
+bị giật	bị giật
+bị gãy	bị gãy
+bị hắt	bị hắt
+bị kéo	bị kéo
+bị kẹt	bị kẹt
+bị máu	bị máu
+bị ngã	bị ngã
+bị ném	bị ném
+bị nổ	bị nổ
+bị nổ tung	bị nổ tung
+bị phun	bị phun
+bị rơi	bị rơi
+bị rượt đuổi	bị rượt đuổi
+bị thương	bị thương
+bị trói	bị trói
+bị trượt	bị trượt
+bị tát	bị tát
+bị té	bị té
+bị tấn công	bị tấn công
+bị va	bị va
+bị văng	bị văng
+bị vấp	bị vấp
+bị vỡ	bị vỡ
+bị xích	bị xích
+bị xô	bị xô
+bị điện	bị điện
+bị đánh	bị đánh
+bị đâm	bị đâm
+bị đè	bị đè
+bị đạp	bị đạp
+bị đấm	bị đấm
+bị đẩy	bị đẩy
+bị đập	bị đập
+bị đốt	bị đốt
+bị đổ	bị đổ
+bốc	bốc
+bốn người	bốn người
+cam kết	cam kết
+camera	camera
+catwalk	catwalk
+che	che
+che mặt	che mặt
+chia sẻ	chia sẻ
+chiếu	chiếu
+cho	cho
+cho biết	cho biết
+cho phép	cho phép
+cho thấy	cho thấy
+choàng	choàng
+chuyển	chuyển
+chuẩn	chuẩn
+chuẩn bị	chuẩn bị
+chào	chào
+cháy	cháy
+chèo	chèo
+chăm chú	chăm chú
+chăm sóc	chăm sóc
+chĩa	chĩa
+chơi	chơi
+chơi game	chơi game
+chạm	chạm
+chạy	chạy
+chải	chải
+chảy	chảy
+chậm	chậm
+chắp	chắp
+chế giễu	chế giễu
+chỉ	chỉ
+chỉ tay	chỉ tay
+chỉ trích	chỉ trích
+chỉnh	chỉnh
+chọn	chọn
+chớp	chớp
+chớp nháy	chớp nháy
+chụp	chụp
+chụp ảnh	chụp ảnh
+chứa	chứa
+code	code
+cuộn	cuộn
+cài	cài
+câu	câu
+cãi	cãi
+cãi nhau	cãi nhau
+có	có
+cùng	cùng
+cúi	cúi
+cúi đầu	cúi đầu
+căng thẳng	căng thẳng
+cười	cười
+cạo	cạo
+cảnh	cảnh
+cất	cất
+cầm	cầm
+cầu	cầu
+cận	cận
+cận mặt	cận mặt
+cắm	cắm
+cắn	cắn
+cắt	cắt
+cởi	cởi
+cởi áo khoác khoe	cởi áo khoác khoe
+cụng	cụng
+của	của
+di chuyển	di chuyển
+du lịch	du lịch
+dài	dài
+dán	dán
+dính	dính
+dùng	dùng
+dùng để	dùng để
+dưỡng	dưỡng
+dạy	dạy
+dầu gội	dầu gội
+dắt	dắt
+dịch vụ	dịch vụ
+dịu	dịu
+dọn	dọn
+dọn dẹp	dọn dẹp
+dừng	dừng
+dự đoán	dự đoán
+dựa	dựa
+film	film
+ghi	ghi
+ghi hình	ghi hình
+ghi lại	ghi lại
+gia đình	gia đình
+giao	giao
+gieo	gieo
+giúp	giúp
+giơ	giơ
+giơ cao	giơ cao
+giả lập	giả lập
+giả mạo	giả mạo
+giảng	giảng
+giật	giật
+giằng co	giằng co
+giới thiệu	giới thiệu
+giữ	giữ
+gánh	gánh
+gói	gói
+gõ	gõ
+gượng cười	gượng cười
+gấp	gấp
+gập	gập
+gật	gật
+gắn	gắn
+gặt	gặt
+gọi	gọi
+gọt	gọt
+gội	gội
+gỡ	gỡ
+gục	gục
+hiển thị	hiển thị
+hiện	hiện
+hiện lên	hiện lên
+hoạt động	hoạt động
+hàn	hàn
+hành động	hành động
+hát	hát
+hét	hét
+hình ảnh rùng rợn để quảng cáo	hình ảnh rùng rợn để quảng cáo
+hò	hò
+hóa	hóa
+hóa thân	hóa thân
+hô	hô
+hô hào	hô hào
+hôn	hôn
+húc	húc
+hướng dẫn	hướng dẫn
+hạ	hạ
+hất	hất
+hắt	hắt
+học	học
+họp	họp
+hứa	hứa
+in	in
+in mờ	in mờ
+khoe	khoe
+khoác	khoác
+khui	khui
+khuyên	khuyên
+khuyến khích	khuyến khích
+khép	khép
+khóc	khóc
+khói	khói
+khấn	khấn
+khẳng định	khẳng định
+khỏa thân	khỏa thân
+kiếm	kiếm
+kiểm	kiểm
+kiểm soát	kiểm soát
+kiểm tra	kiểm tra
+kéo	kéo
+kênh	kênh
+kêu gọi	kêu gọi
+kích hoạt	kích hoạt
+ký	ký
+kể	kể
+la hét	la hét
+lan	lan
+lan truyền	lan truyền
+lan tỏa	lan tỏa
+lau	lau
+lia	lia
+livestream	livestream
+liên quan	liên quan
+liếc	liếc
+liếm	liếm
+lo lắng	lo lắng
+lo âu	lo âu
+loang	loang
+logo	logo
+làm	làm
+làm giả	làm giả
+làm sạch	làm sạch
+làm việc	làm việc
+lái	lái
+lái xe	lái xe
+lóe	lóe
+lúa	lúa
+lướt	lướt
+lập trình viên	lập trình viên
+lật	lật
+lắp	lắp
+lắp ráp	lắp ráp
+lắp đặt	lắp đặt
+lồng ghép	lồng ghép
+lồng tiếng	lồng tiếng
+lộ	lộ
+mua	mua
+mua sắm	mua sắm
+màn hình cong	màn hình cong
+màu	màu
+màu xanh	màu xanh
+màu đỏ	màu đỏ
+máy tính	máy tính
+máy ảnh	máy ảnh
+mô phỏng	mô phỏng
+mô tả	mô tả
+mạnh	mạnh
+mặc	mặc
+mẹo	mẹo
+mệt mỏi	mệt mỏi
+mỉm	mỉm
+mỉm cười	mỉm cười
+mờ	mờ
+mờ dần	mờ dần
+mờ nhạt	mờ nhạt
+mờ nước	mờ nước
+mờ đi	mờ đi
+mời	mời
+mở	mở
+mở rộng	mở rộng
+nghe	nghe
+nghi ngút	nghi ngút
+nghiên cứu	nghiên cứu
+nghiêng	nghiêng
+ngáp	ngáp
+ngân hàng	ngân hàng
+ngã	ngã
+người bị tai nạn xe để bán	người bị tai nạn xe để bán
+người cười nói	người cười nói
+người mẫu thử	người mẫu thử
+người mẫu đi	người mẫu đi
+người trẻ	người trẻ
+người đàn ông	người đàn ông
+ngả	ngả
+ngắm	ngắm
+ngồi	ngồi
+ngụy trang	ngụy trang
+ngủ	ngủ
+ngửi	ngửi
+nhiều lần	nhiều lần
+nhào bột	nhào bột
+nhân viên tư vấn cười nói	nhân viên tư vấn cười nói
+nhét tai	nhét tai
+nhìn	nhìn
+nhăn nhó	nhăn nhó
+nhảy	nhảy
+nhấn	nhấn
+nhấp	nhấp
+nhấp nháy	nhấp nháy
+nhận	nhận
+nhập	nhập
+nhắm	nhắm
+nhặt	nhặt
+nhẹ nhàng	nhẹ nhàng
+nhỏ	nhỏ
+nhợt nhạt	nhợt nhạt
+nâng	nâng
+ném	ném
+nói	nói
+nói chuyện	nói chuyện
+nóng	nóng
+nóng hổi	nóng hổi
+nước	nước
+nước lọc	nước lọc
+nước uống	nước uống
+nướng	nướng
+nấu	nấu
+nắm	nắm
+nằm	nằm
+nằm gục	nằm gục
+nếm thử	nếm thử
+nổ	nổ
+nở	nở
+pha	pha
+phong cảnh	phong cảnh
+phun	phun
+phác thảo	phác thảo
+phát	phát
+phát ra	phát ra
+phát sáng	phát sáng
+phát tán	phát tán
+phản chiếu	phản chiếu
+phần mềm	phần mềm
+phục vụ	phục vụ
+phủ	phủ
+quay	quay
+quét	quét
+quăng	quăng
+quản lý	quản lý
+quảng bá	quảng bá
+quảng cáo	quảng cáo
+quấn	quấn
+quỳ	quỳ
+ru	ru
+run	run
+rót	rót
+rơi	rơi
+rượt đuổi	rượt đuổi
+rải	rải
+rọi	rọi
+rủ rê	rủ rê
+rửa	rửa
+say	say
+siết	siết
+so sánh	so sánh
+sofa	sofa
+soi	soi
+stream	stream
+sáng màu	sáng màu
+sơn	sơn
+sải	sải
+sản phẩm	sản phẩm
+sắp	sắp
+sắp xếp	sắp xếp
+sử dụng	sử dụng
+sửa	sửa
+sữa	sữa
+tay	tay
+tham gia	tham gia
+tham quan	tham quan
+thanh toán	thanh toán
+thay	thay
+thay đổi	thay đổi
+theo dõi	theo dõi
+thiết kế	thiết kế
+thiết lập	thiết lập
+thiền	thiền
+thoa	thoa
+thu	thu
+thu hoạch	thu hoạch
+thuyết	thuyết
+thuốc	thuốc
+thân mật	thân mật
+thò	thò
+thông tin	thông tin
+thảo	thảo
+thảo luận	thảo luận
+thất thần	thất thần
+thắp	thắp
+thắt	thắt
+thể hiện	thể hiện
+thổi	thổi
+thủy tinh	thủy tinh
+thử	thử
+thực	thực
+tiêm	tiêm
+tra	tra
+tra cứu	tra cứu
+tra tấn	tra tấn
+trag điểm	trag điểm
+trang	trang
+trang trí	trang trí
+trang điểm	trang điểm
+trao	trao
+trao đổi	trao đổi
+treo	treo
+trong	trong
+trong suốt	trong suốt
+trong trẻo	trong trẻo
+trong vắt	trong vắt
+truyền bá	truyền bá
+tràn	tràn
+trên	trên
+trình bày	trình bày
+trình diễn	trình diễn
+trò	trò
+trò chuyện	trò chuyện
+trượt	trượt
+trả	trả
+trải nghiệm	trải nghiệm
+trồng	trồng
+trộn	trộn
+tuyên bố	tuyên bố
+tái xanh	tái xanh
+tát	tát
+tóc	tóc
+tô	tô
+tông	tông
+túm	túm
+tư vấn	tư vấn
+tưới	tưới
+tạo	tạo
+tạo dáng	tạo dáng
+tải	tải
+tấn công	tấn công
+tập	tập
+tập thể dục	tập thể dục
+tập trung	tập trung
+tỉa	tỉa
+tỏa	tỏa
+tụ tập	tụ tập
+từ cửa sổ	từ cửa sổ
+từ màn hình	từ màn hình
+từ đèn	từ đèn
+tự xưng	tự xưng
+tự động	tự động
+tựa	tựa
+tựa lưng	tựa lưng
+uốn	uốn
+uốn người	uốn người
+uốn éo	uốn éo
+uống	uống
+viết	viết
+vuốt	vuốt
+vòng	vòng
+vươn	vươn
+vương	vương
+vẩy	vẩy
+vẫy	vẫy
+vật	vật
+vật lộn	vật lộn
+vắng	vắng
+vẽ	vẽ
+với	với
+vừa hát vừa nâng	vừa hát vừa nâng
+xanh	xanh
+xanh nhỏ	xanh nhỏ
+xay	xay
+xem	xem
+xuyên	xuyên
+xuất hiện	xuất hiện
+xây	xây
+xé	xé
+xô	xô
+xông vào	xông vào
+xếp	xếp
+xịt	xịt
+xỏ	xỏ
+yếu	yếu
+ánh	ánh
+ép	ép
+ôm	ôm
+ôm hôn	ôm hôn
+ôm đầu	ôm đầu
+ăn	ăn
+đan	đan
+đang	đang
+đang biểu diễn	đang biểu diễn
+đang buộc	đang buộc
+đang bày	đang bày
+đang báo cáo	đang báo cáo
+đang bôi	đang bôi
+đang bưng	đang bưng
+đang bấm	đang bấm
+đang bật	đang bật
+đang bế	đang bế
+đang chia sẻ	đang chia sẻ
+đang chiên	đang chiên
+đang cho	đang cho
+đang chuẩn bị	đang chuẩn bị
+đang chào	đang chào
+đang cháy	đang cháy
+đang chăm	đang chăm
+đang chơi	đang chơi
+đang chạy	đang chạy
+đang chải	đang chải
+đang chấm	đang chấm
+đang chỉ	đang chỉ
+đang chỉ dẫn	đang chỉ dẫn
+đang chỉnh	đang chỉnh
+đang chọn	đang chọn
+đang chờ	đang chờ
+đang chụp	đang chụp
+đang cài	đang cài
+đang cười	đang cười
+đang cầm	đang cầm
+đang cắm	đang cắm
+đang cắt	đang cắt
+đang duỗi	đang duỗi
+đang dán	đang dán
+đang dùng	đang dùng
+đang dạy	đang dạy
+đang dắt	đang dắt
+đang dọn	đang dọn
+đang dừng	đang dừng
+đang dựng	đang dựng
+đang ghi	đang ghi
+đang giao	đang giao
+đang giãn	đang giãn
+đang giúp	đang giúp
+đang giơ	đang giơ
+đang giải	đang giải
+đang giải thích	đang giải thích
+đang giảng	đang giảng
+đang giặt	đang giặt
+đang giới thiệu	đang giới thiệu
+đang gói	đang gói
+đang gõ	đang gõ
+đang gấp	đang gấp
+đang gắn	đang gắn
+đang gọi	đang gọi
+đang gọt	đang gọt
+đang gội	đang gội
+đang gỡ	đang gỡ
+đang gục	đang gục
+đang gửi	đang gửi
+đang hoàn thiện	đang hoàn thiện
+đang hái	đang hái
+đang hát	đang hát
+đang hít	đang hít
+đang hướng	đang hướng
+đang hướng dẫn	đang hướng dẫn
+đang học	đang học
+đang họp	đang họp
+đang hỏi	đang hỏi
+đang in	đang in
+đang khoe	đang khoe
+đang khuấy	đang khuấy
+đang khởi động	đang khởi động
+đang kiểm tra	đang kiểm tra
+đang kéo	đang kéo
+đang kể	đang kể
+đang lau	đang lau
+đang leo	đang leo
+đang làm	đang làm
+đang lái	đang lái
+đang lướt	đang lướt
+đang lật	đang lật
+đang lắng nghe	đang lắng nghe
+đang lắp	đang lắp
+đang massage	đang massage
+đang mua	đang mua
+đang mở	đang mở
+đang nghe	đang nghe
+đang nghiên cứu	đang nghiên cứu
+đang ngắm	đang ngắm
+đang ngồi	đang ngồi
+đang nhìn	đang nhìn
+đang nhóm	đang nhóm
+đang nhảy	đang nhảy
+đang nhập	đang nhập
+đang nhắn	đang nhắn
+đang nhặt	đang nhặt
+đang nâng	đang nâng
+đang ném	đang ném
+đang nêm	đang nêm
+đang nói	đang nói
+đang nướng	đang nướng
+đang nấu	đang nấu
+đang nắm	đang nắm
+đang nằm	đang nằm
+đang pha	đang pha
+đang photo	đang photo
+đang phân tích	đang phân tích
+đang phối	đang phối
+đang qua	đang qua
+đang quan sát	đang quan sát
+đang quay	đang quay
+đang quét	đang quét
+đang ru	đang ru
+đang rót	đang rót
+đang rửa	đang rửa
+đang soi	đang soi
+đang soạn	đang soạn
+đang sơn	đang sơn
+đang sấy	đang sấy
+đang sắp	đang sắp
+đang sắp xếp	đang sắp xếp
+đang sử dụng	đang sử dụng
+đang sửa	đang sửa
+đang tham dự	đang tham dự
+đang tham gia	đang tham gia
+đang thao tác	đang thao tác
+đang thay	đang thay
+đang thiền	đang thiền
+đang thoa	đang thoa
+đang thuyết	đang thuyết
+đang thuyết trình	đang thuyết trình
+đang thái	đang thái
+đang thảo luận	đang thảo luận
+đang thổi	đang thổi
+đang thử	đang thử
+đang tra	đang tra
+đang trang	đang trang
+đang trang trí	đang trang trí
+đang trang điểm	đang trang điểm
+đang treo	đang treo
+đang trình bày	đang trình bày
+đang trả	đang trả
+đang trả lời	đang trả lời
+đang tìm	đang tìm
+đang tư vấn	đang tư vấn
+đang tưới	đang tưới
+đang tập	đang tập
+đang tập thể dục	đang tập thể dục
+đang tắm	đang tắm
+đang tổng hợp	đang tổng hợp
+đang uốn	đang uốn
+đang uống	đang uống
+đang viết	đang viết
+đang vươn	đang vươn
+đang vẫy	đang vẫy
+đang vận hành	đang vận hành
+đang vẽ	đang vẽ
+đang vỗ	đang vỗ
+đang xem	đang xem
+đang xoay	đang xoay
+đang xếp	đang xếp
+đang xịt	đang xịt
+đang ăn	đang ăn
+đang đeo	đang đeo
+đang đi	đang đi
+đang điều chỉnh	đang điều chỉnh
+đang điều khiển	đang điều khiển
+đang đo	đang đo
+đang đá	đang đá
+đang đánh	đang đánh
+đang đóng	đang đóng
+đang đăng	đang đăng
+đang đạp	đang đạp
+đang đắp	đang đắp
+đang đặt	đang đặt
+đang đọc	đang đọc
+đang đổ	đang đổ
+đang đội	đang đội
+đang đợi	đang đợi
+đang đứng	đang đứng
+đe dọa	đe dọa
+đeo	đeo
+đi	đi
+đi dạo	đi dạo
+điền	điền
+điều khiển	điều khiển
+điện nước	điện nước
+đo	đo
+đuổi	đuổi
+đá	đá
+đánh	đánh
+đánh giá	đánh giá
+đón	đón
+đóng	đóng
+đóng gói	đóng gói
+đùa	đùa
+đưa	đưa
+được	được
+đạp	đạp
+đảm bảo	đảm bảo
+đấm	đấm
+đầu tư	đầu tư
+đầy	đầy
+đẩy	đẩy
+đập	đập
+đập phá	đập phá
+đậu	đậu
+đặt	đặt
+đặt vé	đặt vé
+đếm	đếm
+đọc	đọc
+đọc sách	đọc sách
+đọc trộm	đọc trộm
+đốt	đốt
+đổ	đổ
+đỗ	đỗ
+đội	đội
+đứng	đứng
+ướt nhòe	ướt nhòe
+ẩu đả	ẩu đả
+ứng dụng	ứng dụng
+“100% lợi nhuận”	“100% lợi nhuận”
+“chỉ cần nhấn	“chỉ cần nhấn
+“chữa viêm xoang vĩnh viễn”	“chữa viêm xoang vĩnh viễn”
+“cơ hội chỉ đến một lần”	“cơ hội chỉ đến một lần”
+“cơ hội làm giàu dễ dàng”	“cơ hội làm giàu dễ dàng”
+“cảnh báo tín dụng thấp”	“cảnh báo tín dụng thấp”
+“giảm 15kg trong 10 ngày”	“giảm 15kg trong 10 ngày”
+“giảm béo nhanh chóng”	“giảm béo nhanh chóng”
+“hiệu quả sau 5 ngày”	“hiệu quả sau 5 ngày”
+“hiệu quả đã được chứng minh”	“hiệu quả đã được chứng minh”
+“không chịu trách nhiệm với rủi ro”	“không chịu trách nhiệm với rủi ro”
+“kiếm tiền dễ như chơi”	“kiếm tiền dễ như chơi”
+“nhận thưởng ngay hôm nay”	“nhận thưởng ngay hôm nay”
+“nước thần dưỡng da”	“nước thần dưỡng da”
+“rút tiền không giới hạn”	“rút tiền không giới hạn”
+“thu nhập mỗi ngày”	“thu nhập mỗi ngày”
+“thuốc chữa khỏi tiểu đường vĩnh viễn”	“thuốc chữa khỏi tiểu đường vĩnh viễn”
+“trị ung thư bằng lá cây”	“trị ung thư bằng lá cây”
+“tăng lượt xem TikTok”	“tăng lượt xem TikTok”
+“tỉ lệ thắng 100%”	“tỉ lệ thắng 100%”
+“đăng ký để nhận quà”	“đăng ký để nhận quà”
+“được hàng triệu người tin dùng”	“được hàng triệu người tin dùng”

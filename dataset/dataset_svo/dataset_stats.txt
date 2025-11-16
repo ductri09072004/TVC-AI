@@ -1,0 +1,21 @@
+=== Dataset Statistics ===
+Total rows: 74795
+Train: 59836 rows
+Dev: 7480 rows
+Test: 7479 rows
+
+=== Train Set ===
+Total: 59836 rows
+Label 0: 35472 rows (59.3%)
+Label 1: 24364 rows (40.7%)
+
+=== Dev Set ===
+Total: 7480 rows
+Label 0: 4434 rows (59.3%)
+Label 1: 3046 rows (40.7%)
+
+=== Test Set ===
+Total: 7479 rows
+Label 0: 4434 rows (59.3%)
+Label 1: 3045 rows (40.7%)
+
