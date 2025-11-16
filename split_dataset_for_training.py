@@ -13,7 +13,7 @@ import argparse
 import json
 
 # Cấu hình mặc định (có thể override qua CLI)
-INPUT_FILE = "data/dataset_real.csv"
+INPUT_FILE = "data/dataset_real_2.csv"
 OUTPUT_DIR = "dataset/dataset_svo"
 TRAIN_RATIO = 0.8
 DEV_RATIO = 0.1

@@ -2,27 +2,27 @@
   "splits": [
     {
       "name": "train",
-      "num_rows": 8251,
-      "label_0": 4459,
-      "label_1": 3792,
-      "pct_label_0": 54.04,
-      "pct_label_1": 45.96
+      "num_rows": 44778,
+      "label_0": 27967,
+      "label_1": 16811,
+      "pct_label_0": 62.46,
+      "pct_label_1": 37.54
     },
     {
       "name": "dev",
-      "num_rows": 1650,
-      "label_0": 892,
-      "label_1": 758,
-      "pct_label_0": 54.06,
-      "pct_label_1": 45.94
+      "num_rows": 8955,
+      "label_0": 5593,
+      "label_1": 3362,
+      "pct_label_0": 62.46,
+      "pct_label_1": 37.54
     },
     {
       "name": "test",
-      "num_rows": 413,
-      "label_0": 223,
-      "label_1": 190,
-      "pct_label_0": 54.0,
-      "pct_label_1": 46.0
+      "num_rows": 2239,
+      "label_0": 1399,
+      "label_1": 840,
+      "pct_label_0": 62.48,
+      "pct_label_1": 37.52
     }
   ],
   "group_leakage": {

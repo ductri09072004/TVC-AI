@@ -57,8 +57,35 @@ bia khi đang lái xe tải
 bia khi đang quảng cáo sản phẩm
 bia khi đứng trên sân khấu
 bia không cồn trong phòng khách
+bia không logo bên bãi biển
+bia không logo khi xem bóng đá
+bia không logo khi đi dã ngoại
+bia không logo trong buổi picnic
+bia không logo trong buổi tiệc gia đình
+bia không logo trong công viên
+bia không logo trong phòng khách
+bia không logo trước rạp chiếu phim
+bia không logo ở quán cà phê
+bia lon bên bãi biển
 bia lon khi ngồi quanh bếp lửa
+bia lon khi xem bóng đá
+bia lon khi đi dã ngoại
+bia lon trong buổi picnic
+bia lon trong buổi tiệc gia đình
+bia lon trong công viên
+bia lon trong phòng khách
+bia lon trước rạp chiếu phim
+bia lon ở quán cà phê
 bia lên đầu trong tiếng reo hò
+bia nhẹ bên bãi biển
+bia nhẹ khi xem bóng đá
+bia nhẹ khi đi dã ngoại
+bia nhẹ trong buổi picnic
+bia nhẹ trong buổi tiệc gia đình
+bia nhẹ trong công viên
+bia nhẹ trong phòng khách
+bia nhẹ trước rạp chiếu phim
+bia nhẹ ở quán cà phê
 bia rồi hét tên thương hiệu trên sân khấu
 bia sau buổi biểu diễn
 bia trong buổi livestream bán hàng
@@ -164,6 +191,13 @@ biểu đồ “đầu tư ổn định”
 board game
 bong bóng xà phòng
 bong bóng xà phòng cùng trẻ nhỏ
+bourbon thương hiệu lớn khi điều khiển thuyền
+bourbon thương hiệu lớn trong clip quảng cáo
+bourbon thương hiệu lớn trong khi leo núi
+bourbon thương hiệu lớn trong lúc lái ô tô
+bourbon thương hiệu lớn trong quán bar với poster thương hiệu
+bourbon thương hiệu lớn trên livestream quảng bá
+bourbon thương hiệu lớn trước biển hiệu quảng cáo
 buổi học lập trình quảng cáo khóa học
 buổi sáng
 buổi thuyết trình online
@@ -1063,6 +1097,7 @@ cà phê buổi sáng hơi nước bốc lên
 cà phê buổi sáng trong bếp
 cà phê buổi sáng với ánh nắng nhẹ
 cà phê buổi sáng với ánh sáng vàng
+cà phê bên bãi biển
 cà phê bên cửa sổ
 cà phê bên khung cửa sổ
 cà phê bằng máy
@@ -1079,6 +1114,8 @@ cà phê bằng ấm thủy tinh
 cà phê cùng bạn bè
 cà phê cạnh cửa sổ lớn
 cà phê khi học khuya
+cà phê khi xem bóng đá
+cà phê khi đi dã ngoại
 cà phê latte với kem sữa
 cà phê lên bàn phím
 cà phê lên người
@@ -1096,18 +1133,23 @@ cà phê sữa
 cà phê sữa trong cốc gốm
 cà phê sữa trong ly thủy tinh
 cà phê sữa đá trên quầy bếp
+cà phê trong buổi picnic
+cà phê trong buổi tiệc gia đình
 cà phê trong bếp
 cà phê trong bếp dưới ánh sáng buổi sáng
+cà phê trong công viên
 cà phê trong cốc
 cà phê trong ký túc xá
 cà phê trong phòng bếp sáng ánh nắng
 cà phê trong phòng họp buổi sáng
+cà phê trong phòng khách
 cà phê trong quán buổi sáng
 cà phê trong quán nhìn ra cửa sổ
 cà phê trong quán nhỏ
 cà phê trong quán với ánh sáng buổi sáng dịu nhẹ
 cà phê trong quán ánh sáng buổi sáng chiếu vào bàn
 cà phê trong văn phòng
+cà phê trước rạp chiếu phim
 cà phê tại nhà
 cà phê và làm việc với laptop
 cà phê và đọc email trên laptop
@@ -1121,6 +1163,7 @@ cà phê đen đậm
 cà phê đá trong ly thủy tinh
 cà phê đá trong quán ánh sáng buổi sáng phản chiếu lên bàn
 cà phê đọc báo
+cà phê ở quán cà phê
 cà vạt
 cà vạt trước buổi họp
 cà vạt trước gương
@@ -3050,6 +3093,15 @@ micro xuống đất khi tức giận
 micro để thu âm
 miếng sô cô la bị bẻ đôi
 miếng sô cô la nóng chảy được khuấy
+mojito không cồn bên bãi biển
+mojito không cồn khi xem bóng đá
+mojito không cồn khi đi dã ngoại
+mojito không cồn trong buổi picnic
+mojito không cồn trong buổi tiệc gia đình
+mojito không cồn trong công viên
+mojito không cồn trong phòng khách
+mojito không cồn trước rạp chiếu phim
+mojito không cồn ở quán cà phê
 mua 1 gói là khỏi bệnh mãn tính
 mua 1 tặng 5 và đảm bảo sinh lời tức thì
 mua bùa hộ mệnh để chắc chắn phát tài
@@ -4760,11 +4812,20 @@ nước cam tươi trong ly thủy tinh
 nước cam ép với ống hút tre
 nước canh lên áo
 nước chanh
+nước chanh bên bãi biển
+nước chanh khi xem bóng đá
+nước chanh khi đi dã ngoại
 nước chanh mật ong buổi sáng
 nước chanh mật ong trên bàn bếp
+nước chanh trong buổi picnic
+nước chanh trong buổi tiệc gia đình
+nước chanh trong công viên
+nước chanh trong phòng khách
+nước chanh trước rạp chiếu phim
 nước chanh tươi
 nước chanh tại buổi picnic
 nước chanh vào ly thủy tinh
+nước chanh ở quán cà phê
 nước cho cây hoa
 nước detox
 nước detox từ bình thủy tinh
@@ -4790,7 +4851,16 @@ nước hoa trong phòng sáng
 nước hoa trong quầy mỹ phẩm sáng rực
 nước hoa trong tủ kính
 nước hoa trên cổ tay
+nước khoáng bên bãi biển
+nước khoáng khi xem bóng đá
+nước khoáng khi đi dã ngoại
+nước khoáng trong buổi picnic
+nước khoáng trong buổi tiệc gia đình
+nước khoáng trong công viên
+nước khoáng trong phòng khách
 nước khoáng trên bàn ăn
+nước khoáng trước rạp chiếu phim
+nước khoáng ở quán cà phê
 nước lên bàn phím
 nước lên bùa và nói kích hoạt may mắn
 nước lên camera
@@ -4803,20 +4873,37 @@ nước lên vở
 nước lạnh vào mặt
 nước lọc
 nước lọc buổi sáng
+nước lọc bên bãi biển
+nước lọc khi xem bóng đá
+nước lọc khi đi dã ngoại
 nước lọc sau khi chạy bộ
 nước lọc sau khi chạy bộ buổi sáng
 nước lọc sau khi tập thể dục
+nước lọc trong buổi picnic
+nước lọc trong buổi tiệc gia đình
+nước lọc trong công viên
 nước lọc trong giờ nghỉ
 nước lọc trong ly thủy tinh
 nước lọc trong lớp
 nước lọc trong lớp học
 nước lọc trong nhà bếp
+nước lọc trong phòng khách
 nước lọc trong phòng tập gym
+nước lọc trước rạp chiếu phim
 nước lọc từ chai thể thao
 nước lọc vào ly
 nước lọc ánh sáng chiếu qua cốc
+nước lọc ở quán cà phê
+nước ngọt bên bãi biển
+nước ngọt khi xem bóng đá
+nước ngọt khi đi dã ngoại
 nước ngọt lên người
+nước ngọt trong buổi picnic
+nước ngọt trong buổi tiệc gia đình
 nước ngọt trong công viên
+nước ngọt trong phòng khách
+nước ngọt trước rạp chiếu phim
+nước ngọt ở quán cà phê
 nước này chữa bệnh gan chỉ trong 2 ngày
 nước này chữa bệnh gan mãn tính
 nước này chữa bệnh tim bẩm sinh
@@ -5126,7 +5213,16 @@ nước trà vào ly gốm
 nước trái cây
 nước trái cây bằng máy ép chậm
 nước trái cây đóng hộp hữu cơ
+nước táo bên bãi biển
+nước táo khi xem bóng đá
+nước táo khi đi dã ngoại
 nước táo trong buổi hẹn hò
+nước táo trong buổi picnic
+nước táo trong buổi tiệc gia đình
+nước táo trong công viên
+nước táo trong phòng khách
+nước táo trước rạp chiếu phim
+nước táo ở quán cà phê
 nước tăng lực
 nước tẩy trang lên người
 nước từ chai thể thao
@@ -5174,10 +5270,19 @@ nước vào mặt
 nước vào ấm
 nước xịt này giúp mọc tóc tức thì
 nước ép bưởi
+nước ép cam bên bãi biển
+nước ép cam khi xem bóng đá
+nước ép cam khi đi dã ngoại
+nước ép cam trong buổi picnic
 nước ép cam trong buổi sáng
+nước ép cam trong buổi tiệc gia đình
+nước ép cam trong công viên
 nước ép cam trong ly thủy tinh ánh sáng chiếu qua cửa sổ
+nước ép cam trong phòng khách
 nước ép cam trong quán cà phê
+nước ép cam trước rạp chiếu phim
 nước ép cam tươi trong bếp
+nước ép cam ở quán cà phê
 nước ép cà chua
 nước ép cà chua dưa chuột
 nước ép cà chua và ớt chuông
@@ -5187,6 +5292,15 @@ nước ép cà rốt và táo
 nước ép củ dền
 nước ép dâu tươi
 nước ép dưa hấu
+nước ép dưa hấu bên bãi biển
+nước ép dưa hấu khi xem bóng đá
+nước ép dưa hấu khi đi dã ngoại
+nước ép dưa hấu trong buổi picnic
+nước ép dưa hấu trong buổi tiệc gia đình
+nước ép dưa hấu trong công viên
+nước ép dưa hấu trong phòng khách
+nước ép dưa hấu trước rạp chiếu phim
+nước ép dưa hấu ở quán cà phê
 nước ép dứa
 nước ép này chữa bệnh tim bẩm sinh
 nước ép này chữa bệnh tiểu đường hoàn toàn
@@ -5614,6 +5728,13 @@ rau trong bếp
 rau trong chậu
 rau trong siêu thị
 ru con
+rum thương hiệu ABC khi điều khiển thuyền
+rum thương hiệu ABC trong clip quảng cáo
+rum thương hiệu ABC trong khi leo núi
+rum thương hiệu ABC trong lúc lái ô tô
+rum thương hiệu ABC trong quán bar với poster thương hiệu
+rum thương hiệu ABC trên livestream quảng bá
+rum thương hiệu ABC trước biển hiệu quảng cáo
 rum trong lúc điều khiển thuyền
 rum trong lúc đứng trên mái nhà
 rum trên thuyền đang chạy tốc độ cao
@@ -5642,14 +5763,27 @@ rượt đuổi nguy hiểm trên đường phố
 rượt đuổi xe hơi tốc độ cao
 rượu bourbon bằng cách nâng chai
 rượu bourbon trên sân khấu
+rượu gin có thương hiệu khi điều khiển thuyền
+rượu gin có thương hiệu trong clip quảng cáo
+rượu gin có thương hiệu trong khi leo núi
+rượu gin có thương hiệu trong lúc lái ô tô
+rượu gin có thương hiệu trong quán bar với poster thương hiệu
+rượu gin có thương hiệu trên livestream quảng bá
+rượu gin có thương hiệu trước biển hiệu quảng cáo
 rượu gin để quảng cáo thương hiệu
 rượu lên ly trong ánh đèn vàng
 rượu lên người
+rượu mạnh khi điều khiển thuyền
 rượu mạnh khi đứng cạnh biển hiệu lớn
 rượu mạnh khi đứng cạnh xe máy đang nổ máy
 rượu mạnh lên đá trước banner thương hiệu
 rượu mạnh ra ly để quay video quảng cáo
 rượu mạnh rồi hét lớn
+rượu mạnh trong clip quảng cáo
+rượu mạnh trong khi leo núi
+rượu mạnh trong lúc lái ô tô
+rượu mạnh trong quán bar với poster thương hiệu
+rượu mạnh trên livestream quảng bá
 rượu mạnh trước biển hiệu quảng cáo
 rượu mạnh vào ly thủy tinh rồi nâng cốc
 rượu rum ngay trước máy quay
@@ -5666,8 +5800,22 @@ rượu vang trắng với bảng hiệu thương hiệu
 rượu vang đỏ cạnh poster thương hiệu
 rượu vang đỏ trước logo thương hiệu
 rượu vang đỏ trước poster thương hiệu
+rượu vang đỏ trước poster thương hiệu khi điều khiển thuyền
 rượu vang đỏ trước poster thương hiệu lớn
+rượu vang đỏ trước poster thương hiệu trong clip quảng cáo
+rượu vang đỏ trước poster thương hiệu trong khi leo núi
+rượu vang đỏ trước poster thương hiệu trong lúc lái ô tô
+rượu vang đỏ trước poster thương hiệu trong quán bar với poster thương hiệu
+rượu vang đỏ trước poster thương hiệu trên livestream quảng bá
+rượu vang đỏ trước poster thương hiệu trước biển hiệu quảng cáo
 rượu vang đỏ vào ly và mỉm cười
+rượu whisky có thương hiệu khi điều khiển thuyền
+rượu whisky có thương hiệu trong clip quảng cáo
+rượu whisky có thương hiệu trong khi leo núi
+rượu whisky có thương hiệu trong lúc lái ô tô
+rượu whisky có thương hiệu trong quán bar với poster thương hiệu
+rượu whisky có thương hiệu trên livestream quảng bá
+rượu whisky có thương hiệu trước biển hiệu quảng cáo
 rượu whisky trong phòng khách có biển quảng cáo
 rượu whisky từ ly có thương hiệu
 rạng rỡ
@@ -5699,10 +5847,19 @@ sinh tố bơ trên bàn gỗ
 sinh tố cam tươi
 sinh tố chuối
 sinh tố chuối và sữa
+sinh tố dâu bên bãi biển
+sinh tố dâu khi xem bóng đá
+sinh tố dâu khi đi dã ngoại
+sinh tố dâu trong buổi picnic
+sinh tố dâu trong buổi tiệc gia đình
+sinh tố dâu trong công viên
+sinh tố dâu trong phòng khách
 sinh tố dâu trên bàn bếp
+sinh tố dâu trước rạp chiếu phim
 sinh tố dâu tây chuối
 sinh tố dâu tây trong bếp
 sinh tố dâu tây tại bàn ăn
+sinh tố dâu ở quán cà phê
 sinh tố rau xanh
 sinh tố sau buổi tập
 sinh tố trong công viên
@@ -6100,6 +6257,13 @@ tay và kêu cứu
 tay vào lan can nhìn xuống
 tay vào tường thể hiện sự tức giận
 tay về phía màn hình với biểu cảm hứng khởi
+tequila có logo khi điều khiển thuyền
+tequila có logo trong clip quảng cáo
+tequila có logo trong khi leo núi
+tequila có logo trong lúc lái ô tô
+tequila có logo trong quán bar với poster thương hiệu
+tequila có logo trên livestream quảng bá
+tequila có logo trước biển hiệu quảng cáo
 tequila trong thử thách mạng xã hội
 tequila trực tiếp trong video quảng cáo
 tham gia kênh này là nhận được tiền thật
@@ -6954,11 +7118,19 @@ trà này giúp khỏi bệnh gan vĩnh viễn
 trà này giúp ngủ ngon chỉ sau 1 phút
 trà nóng trong phòng họp
 trà nóng vào ly gốm
+trà sữa bên bãi biển
 trà sữa cùng bạn bè
+trà sữa khi xem bóng đá
+trà sữa khi đi dã ngoại
+trà sữa trong buổi picnic
+trà sữa trong buổi tiệc gia đình
+trà sữa trong công viên
+trà sữa trong phòng khách
 trà sữa trên vỉa hè
 trà sữa trước rạp chiếu phim
 trà sữa tại quầy
 trà sữa với bạn bè
+trà sữa ở quán cà phê
 trà thảo mộc
 trà thảo mộc giúp cai nghiện ma túy
 trà thảo mộc này chữa được bệnh ung thư
@@ -8021,7 +8193,21 @@ việc với màn hình lớn trong văn phòng
 việc với tài liệu
 vlog du lịch
 vlog về cách mix đồ công sở
+vodka có logo khi điều khiển thuyền
 vodka có logo nhãn hiệu nổi bật
+vodka có logo trong clip quảng cáo
+vodka có logo trong khi leo núi
+vodka có logo trong lúc lái ô tô
+vodka có logo trong quán bar với poster thương hiệu
+vodka có logo trên livestream quảng bá
+vodka có logo trước biển hiệu quảng cáo
+vodka trong video quảng bá khi điều khiển thuyền
+vodka trong video quảng bá trong clip quảng cáo
+vodka trong video quảng bá trong khi leo núi
+vodka trong video quảng bá trong lúc lái ô tô
+vodka trong video quảng bá trong quán bar với poster thương hiệu
+vodka trong video quảng bá trên livestream quảng bá
+vodka trong video quảng bá trước biển hiệu quảng cáo
 vodka trực tiếp từ chai
 vodka từ chai có thương hiệu để livestream
 vodka từ chai thủy tinh có logo thương hiệu
@@ -8529,6 +8715,13 @@ website
 website bằng công cụ kéo thả
 whisky trong lúc lái xe máy
 whisky trong lúc lái ô tô
+whisky trước biển hiệu quảng cáo khi điều khiển thuyền
+whisky trước biển hiệu quảng cáo trong clip quảng cáo
+whisky trước biển hiệu quảng cáo trong khi leo núi
+whisky trước biển hiệu quảng cáo trong lúc lái ô tô
+whisky trước biển hiệu quảng cáo trong quán bar với poster thương hiệu
+whisky trước biển hiệu quảng cáo trên livestream quảng bá
+whisky trước biển hiệu quảng cáo trước biển hiệu quảng cáo
 whisky với logo thương hiệu phía sau
 xa với vẻ lo lắng
 xa xăm qua ô kính
