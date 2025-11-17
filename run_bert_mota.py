@@ -126,24 +126,33 @@ class DataProcessor(object):
 # Hỗ trợ binary classification (0, 1)
 class KGProcessor(DataProcessor):
     """Processor adapted for moderation dataset in CSV format."""
-    def __init__(self):
+
+    def __init__(self, train_file="train.csv", dev_file="dev.csv", test_file="test.csv"):
         self.labels = set([])
         self.data_dir = None
-    
+        self.train_file = train_file
+        self.dev_file = dev_file
+        self.test_file = test_file
+
+    def _load_split(self, data_dir, filename, split_name):
+        path = os.path.join(data_dir, filename)
+        if not os.path.exists(path):
+            raise FileNotFoundError(
+                f"Không tìm thấy file {split_name} tại {path}. Kiểm tra --data_dir và tên file."
+            )
+        return self._read_csv(path)
+
     def get_train_examples(self, data_dir):
         """Load train.csv [caption,label] and create InputExamples."""
-        return self._create_examples(
-            self._read_csv(os.path.join(data_dir, "dataset_mota/train.csv")), "train")
+        return self._create_examples(self._load_split(data_dir, self.train_file, "train"), "train")
 
     def get_dev_examples(self, data_dir):
         """Load dev.csv [caption,label] and create InputExamples."""
-        return self._create_examples(
-            self._read_csv(os.path.join(data_dir, "dataset_mota/dev.csv")), "dev")
+        return self._create_examples(self._load_split(data_dir, self.dev_file, "dev"), "dev")
 
     def get_test_examples(self, data_dir):
         """Load test.csv [caption,label] and create InputExamples."""
-        return self._create_examples(
-            self._read_csv(os.path.join(data_dir, "dataset_mota/test.csv")), "test")
+        return self._create_examples(self._load_split(data_dir, self.test_file, "test"), "test")
 
     def get_labels(self):
         """Binary labels for moderation task."""
@@ -355,6 +364,18 @@ def main():
                         type=str,
                         required=True,
                         help="Input directory containing CSV files: train.csv, dev.csv, test.csv with columns [caption,label].")
+    parser.add_argument("--train_file",
+                        default="train.csv",
+                        type=str,
+                        help="Tên file train (mặc định: %(default)s).")
+    parser.add_argument("--dev_file",
+                        default="dev.csv",
+                        type=str,
+                        help="Tên file dev/validation (mặc định: %(default)s).")
+    parser.add_argument("--test_file",
+                        default="test.csv",
+                        type=str,
+                        help="Tên file test (mặc định: %(default)s).")
     parser.add_argument("--bert_model", default=None, type=str, required=True,
                         help="Bert pre-trained model selected in the list: bert-base-uncased, "
                         "bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, "
@@ -536,7 +557,11 @@ def main():
     if task_name not in processors:
         raise ValueError("Task not found: %s" % (task_name))
 
-    processor = processors[task_name]()
+    processor = processors[task_name](
+        train_file=args.train_file,
+        dev_file=args.dev_file,
+        test_file=args.test_file,
+    )
     processor.data_dir = args.data_dir
     label_list = processor.get_labels()
     num_labels = len(label_list)
