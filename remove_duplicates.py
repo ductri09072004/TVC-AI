@@ -97,7 +97,7 @@ def remove_duplicates(input_file, output_file=None, check_all_columns=True, keep
 
 if __name__ == "__main__":
     # Đường dẫn mặc định
-    default_input = "data/dataset_real_2.csv"
+    default_input = "data/dataset_negative.csv"
     
     # Kiểm tra tham số dòng lệnh
     if len(sys.argv) > 1:
